@@ -1,8 +1,6 @@
 # batch_clean_claude.py
-from anthropic import Anthropic
 from pathlib import Path
 import time
-
 import anthropic
 client = anthropic.Anthropic()
 
@@ -75,4 +73,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
