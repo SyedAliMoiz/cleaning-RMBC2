@@ -2,7 +2,7 @@
 from pathlib import Path
 import time
 import anthropic
-client = anthropic.Anthropic()
+client = anthropic.Client()
 
 SRC_DIR = Path("txt-files")
 OUT_DIR = Path("cleaned")
@@ -73,5 +73,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
