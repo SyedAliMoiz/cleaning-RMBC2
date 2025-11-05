@@ -1,0 +1,771 @@
+Hey again, welcome back to Product Pages Part
+
+2. Originally I just did that previous video you watched and I felt
+
+like, you know, pretty good about it and everything.
+
+But, then I was thinking about today and I was shooting,
+
+um, say on checkout, so I'm going to do upsells as well,
+
+uh, with some of these brands.
+
+And I thought, you know, I really should actually take a little more time.
+
+To talk about some of the interesting page elements and so forth.
+
+So I'm going to do that. I'm going to use this Dr. Clean page
+
+because I really like it. Um,
+
+it's a really clean lander. And it's honestly like a
+
+really classic template. Like, this template is, it's really sexy and a really nice
+
+one. Especially for,
+
+you could use it for Nutra, but especially physical products or things like that.
+
+So, let's let's look at this one and then I'm probably also going to
+
+pull up one for, um,
+
+like a webinar, free training registration page because I,
+
+I sort of was, I think it was a little too fast and flippant.
+
+I'm going to take a little more time, okay? So this is like a
+
+really classic template, but it's really nice. I'm going to do it on desktop
+
+and then we'll look on mobile view after.
+
+So very top, you've got this sort of scarcity thing going limited time offer,
+
+65% off Dr. Clean. Okay.
+
+So right away up here you can see some
+
+urgency. You're going to save money. Okay. Fast shipping,
+
+30 day money back guarantee. One immediate thing to think about is,
+
+okay, well, I'm kind of surprised they don't have a phone number.
+
+One point their phone number here up here, like help increase conversion rate.
+
+And I wonder, I'm going to know, I don't know,
+
+happy, uh, yeah. Happy math didn't have either. I think a comment on that.
+
+So, but the answer is yeah, basically it would be worth considering putting a
+
+phone number up here. The reason they're not doing it is because this page,
+
+I think I saved it this way, but we originally got to this from
+
+native, right? We had like a native ad to have her total to here.
+
+If I did the actual link from the name native ad,
+
+it is, um, an affiliate who's running traffic to this.
+
+I mentioned this as a checkout module. You'll watch after these,
+
+the product page section, but your affiliate doesn't want you to have a phone
+
+number. Why didn't that want you to have a phone number? Because
+
+somebody gets the page, calls the customer service team,
+
+sells the person. The affiliate doesn't get any money,
+
+right? Like, I paid to send you this customer,
+
+you're not paying me in return. If you're not running affiliate traffic,
+
+often having a phone number up here could be helpful and worth testing,
+
+okay? You've got your sort of classic header,
+
+features, how it works, reviews, FAQ, contact,
+
+right? And add to cart.
+
+But when you click features, it's not going to take you to a new
+
+page, it's going to take you down to that page. This is a very
+
+common element for nice e-com-ish product pages.
+
+The reason I love this page is it's a really nice hybrid of e-com,
+
+right? It's clean, it looks e-com-y,
+
+but it has all these direct response elements. It can appear at 4.7 stars,
+
+1,000 plus verified reviews. Dr.
+
+Clean, the all-in-one solution for every situation. Stain,
+
+so this is like your, sort of, your main headline.
+
+There you go,
+
+self-headed, Dr. Clean, advanced surfactant technology makes breaking down stains from any
+
+material incredibly easy, okay? So it's like,
+
+it's an all-in-one solution for every stain. It's got advanced technology that breaks down
+
+stains from any material. Breaks down the toughest stains,
+
+works on every surface, cost-effective solution,
+
+effortless quick cleaning. More social proof here,
+
+right? 8,000 happy customers in stock and ready to ship.
+
+And the call to action is also really worthwhile,
+
+noting this. Get 65% discount,
+
+okay? It doesn't say buy now or
+
+add to cart. It says get 65% discount,
+
+which is congruent with this up here. Then you've got your,
+
+sort of, hero image. Which is gonna educate you,
+
+it's gonna show you different things, like, okay,
+
+figure out scrubbing all in one clean solution,
+
+5 reasons why, it's an advanced formula,
+
+got natural ingredients, before and after to see it really working,
+
+another before and after, another Impact,
+
+reduce plastic waste with concentrated tablets and reusable bottles,
+
+ready to use in seconds, one small tablet is enough to clean your entire
+
+home. A chemist and cleaning product tester,
+
+so it's got some kind of credibility, right,
+
+social proof, always really important on product pages.
+
+Another, a testimonial,
+
+I mean these are both testimonials, kind of, but these are, like,
+
+hey, look, 5 stars, people are have bought it and like it,
+
+this is, like, a longer testimonial, and now we're back to here.
+
+Discount,
+
+these little icons, right, instant stain removal,
+
+works on all surfaces, 30 money back guarantee,
+
+100% removes all stains. So it might be,
+
+like, a little bit repetitive, right, works on all surfaces,
+
+works on all surfaces, instant stain removal,
+
+um,
+
+instant results, right, so, but that's, okay, there's sort of some key value propositions
+
+that are gonna be repeated consistently. You've got these little trust badges,
+
+like, oh, wow, it's been featured in these places.
+
+Now, did they write articles about them? Were there ads that showed up on
+
+them through native advertising? Not completely clear.
+
+But,
+
+this is all for credibility, right? Now we have,
+
+sort of, our product, I guess you'd call them,
+
+like, features,
+
+benefits, I guess this would be, like, kind of, like, benefits,
+
+right? The future of cleaning with Dr. Clean, all in one clean revolution for
+
+your home. Eco-friendly packaging, pleasant fragrance,
+
+deep cleaning power, effortless results, concentrated cleaning tablets,
+
+cost-effective refills, works on multiple surfaces,
+
+non-toxic formula. Dr.
+
+Clean solves all your cleaning problems instantly.
+
+Stop washing, wasting hours scrubbing your home clean.
+
+Targets all cleaning challenges. Dr.
+
+Clean is designed to tackle all cleaning needs, so, okay,
+
+sorry, I'm just reading without pausing.
+
+By the way, this is a sticky banner, social proof, people love it,
+
+get it now, especially on mobile if you're skimming.
+
+Like, so you have your call to action, people can read,
+
+this is, honestly, this is very common, like, almost every e-com page would have
+
+it, and, like, it's both common and it's useful,
+
+because, okay, I can keep reading, it's not very intrusive,
+
+when I'm ready to buy, it's always here, rather than trying to put a
+
+button here, and then, like, another button,
+
+you know, here and here, like, yes, there are buttons throughout,
+
+but having this is actually pretty helpful, uh,
+
+you know, for there, okay? Uhm,
+
+so now it's going to, like, kind of give you advanced
+
+features and benefits, right? Targets
+
+all cleaning challenges, right,
+
+I can do everything, quickly and easily removes soft stains.
+
+Spend less money on cleaning products. This is interesting,
+
+you'll see this, I'm kind of doing this out of order,
+
+because I went to the checkout, and I came back, and Here's
+
+one thing with these guys, it's kind of interesting,
+
+right, if I I've been looking this
+
+far The tablet thing to me,
+
+like, even though it's here, I've looked at this page at lunch And I
+
+didn't realize that it's like a refillable thing, see the tablets are so tight
+
+here So the way it works is like, you put these tablets in the
+
+bottle Dissolve, so it's reusable,
+
+right, put water and tablets in, and you get the spray bottle Right,
+
+so it's refillable Eco-friendly,
+
+all that, right, so, cool Um,
+
+they're showing it here, but honestly, even just skimming,
+
+like, I didn't notice that, and it's kind of funny,
+
+because You know,
+
+like, you would I don't
+
+know, I just didn't even realize it until Kind of,
+
+coming back to this page to do this module, so when you see me
+
+do the checkout You'll see me make some comments,
+
+so they're actually still valid, but,
+
+but Kind of different, I'm not gonna redo this checkout analysis,
+
+but But, like, I'll explain it to you here,
+
+okay, like, so basically Okay,
+
+what's another benefit? You can spend less money on cleaning products,
+
+right? It's a money-saving solution,
+
+all-in-one cleaning solution, saves a lot of money, reusable packaging Even here,
+
+it's actually, I do think the copy has opportunities,
+
+because Alright, spend less money on cleaning products,
+
+effective cost-saving solution for all your cleaning needs This makes the cleaning spray both
+
+budget-friendly and environmentally-friendly So basically,
+
+Purchasing multiple cleaners for different surfaces, Dr. Clean is a comprehensive,
+
+all-in-one cleaning solution that can save you a lot of money That's,
+
+like, not a good copy Why is it not a good copy?
+
+Because ultimately, and I talked about this in the checkout video,
+
+but I'm gonna bring it back up here now, because it's important Like,
+
+I was looking at Instacart, and I showed you guys,
+
+like, all-purpose cleaners I imagine,
+
+if it was smarter, it would show me all-purpose cleaners again But it's not,
+
+I'll be fast, because you'll see this again in the,
+
+Like, most all-purpose cleaners, like Meijer's is a good one,
+
+it's $4.99, I think Target sells it for $5.99,
+
+okay? So,
+
+spoiler alert, this is, I think,
+
+$19.99 for a single bottle, and they have shipping,
+
+so it's, like, $25 And so,
+
+I'm like, well, this is an option Outrageously expensive cleaner,
+
+and you hear me talk about that in the checkout module But,
+
+it's actually not, and this is what I missed, okay?
+
+Because, I think the single bottle comes with,
+
+like Six tablets So,
+
+technically, it's actually, like, six bottles for $19.99,
+
+so it's actually cheaper than a cleaner, but they don't make that clear,
+
+and, like, it should.
+
+So, let me, I'm going to scroll for a minute
+
+This is, like, the biggest thing I think they're sort of screwing up How
+
+are you not comparing the price? Like, that's actually a really big opportunity for
+
+them It's, like, you say it's a money-saving solution,
+
+but this is, like, show and don't tell, right? So, okay,
+
+money-saving solution, uhm,
+
+but you don't really, why is it going to save me lots of money?
+
+We'll serve you for a long time, so you'll only need to repurchase concentrated
+
+tablets Okay, but, like, you know,
+
+they need something on here that explicitly shows me,
+
+you know, or on the checkout page One bottle replaces six bottles
+
+Like, single bottles, and you're going to save money.
+
+Three bottles replaces fifteen bottles,
+
+and you're going to save money, right? They should do that on this page,
+
+because it makes it way easier for me to justify the cost. One of
+
+the reasons they have Get 65% off is because, like,
+
+the price is high, I think. When you get there, and you see it's
+
+1995, there's like a sticker shock,
+
+because I'm like, I can buy a cleaner at Target or Publix for five
+
+dollars So, I think that's a big opportunity,
+
+okay? Uhm,
+
+combat all stains, instant results, with cleaning spray,
+
+no more buying hundreds of cleaning supplies and wasting time scrubbing your home,
+
+you know, powerful cleaner, petri-asleep surfaces,
+
+concentrated tablets, maximum surface spray,
+
+toxic-free solution, remove any stain in three easy steps.
+
+Okay, so how do you use it, right? How do you use the product?
+
+Uhm,
+
+prepare a cleaning spray and use it on any surface. Dissolve the tablet,
+
+spray the surface, wipe clean. Right?
+
+Is what they claim. This is sort of like,
+
+just, Keeps your eye,
+
+it's like, attention for your eye, I mean, it's not like, It's repetitive,
+
+but I don't hate it. Let the results speak for themselves,
+
+okay? Some social proof, reviews, before-afters.
+
+Uh, one clean spray to get rid of all stains.
+
+Kind of reminding you of all the benefits again.
+
+The gold standard. Then they have a comparison thing here,
+
+which is very common.
+
+But again, I think they're missing the pricing comparison to show that it actually
+
+saves you a lot of money. Social proof.
+
+You can load more of them. More from Trustpilot.
+
+What's best?
+
+It's
+
+like a random ass affiliate page, right?
+
+So, who's actually going to check that out? Hardly anybody.
+
+It's totally bullshit, but it looks good.
+
+This is, uh,
+
+Jessica Reynolds, right? Who they say on the other page is like
+
+their formulator, tester lady, whatever.
+
+Probably not real.
+
+FAQs,
+
+buyer of confidence, up to 65%
+
+off, right, so let's call it actions.
+
+Even here, like, this little thing in the footer is kind of nice.
+
+It's just, basically it's repetitive,
+
+but it's It's a really nice e-com page. The template overall,
+
+there are some opportunities, like, as of everything.
+
+And then, you'll get to see the checkout,
+
+but again, note that it's 65% off. The reason why is because
+
+you get here and it's $19.95 for a single bottle.
+
+But what they,
+
+the one thing they really don't do a good job at, like I said,
+
+is, like, explaining I mean, this,
+
+right? So it's $19.95,
+
+but basically I'm getting 6 bottles of cleaner for $20.
+
+So it's less than Meyers, right? Here I'm getting,
+
+basically, 12 cleaners for $34.
+
+So it's, like, less than $3 a cleaner.
+
+I just broke $36, but whatever. It's, like, $3 a cleaner.
+
+Even more of a discount, right? But again,
+
+that's one opportunity for them. I do the checkout on the next page.
+
+And what I said before, it still holds, though. One of the reasons why
+
+they're- and I'll go to mobile in a minute, but, like, their checkout doesn't
+
+show the form first, right? And
+
+the reason they've got 65% off is because there is a sticker shock.
+
+But really,
+
+it shouldn't be. It's actually a great value. The problem is,
+
+they don't explain it very well on this landing page.
+
+So that's where there's always copy opportunities, you know?
+
+And they do have a phone number in the footer. So,
+
+affiliates probably don't even like that. But they're probably like, look, we have customer
+
+care. But, again,
+
+if you didn't have affiliates running into this, I might put that in the
+
+phone number up here as well, right? And the contact is sneaky because it
+
+does come down here, so. Yeah.
+
+Um.
+
+Alright, so, oh yeah. And then, for
+
+the quad project thing, or quad thing,
+
+right, we did templates. I wanted to show you one thing here.
+
+I put, you know, hey, for the page, here's the link.
+
+Make a template, right?
+
+We saw that yesterday. They,
+
+however, have something on there where they basically, some pages will have this, where
+
+due to robot.txt restrictions,
+
+I can't access that page, but I could just sort of create a template.
+
+And I'm like, alright, here's the copy attach, so I copy pasted the copy,
+
+ctrl, command shift V,
+
+so just plain text version of it.
+
+Right? But then, so that cloud kind of knows what's going on,
+
+I also give it an image of the above the fold. So,
+
+okay, here's the copy attached, here's a screenshot above the fold.
+
+Perfect. Based on that, here's the template. And then it created the template,
+
+right? Because it kind of knew what the copy was and knew everything else.
+
+And so now you have a template that you could use and follow for
+
+other similar products. So that's how you can create yourself a template if you
+
+like this and wanted to test it for your product or brand.
+
+Right? So I just want to share that as well.
+
+Basically, what to do if you got this robot.txt thing,
+
+you can copy the copy,
+
+screenshot, even a couple of screenshots if you wanted, and then cloud will have
+
+what it needs to create a nice template.
+
+And then you can use this in the future too, right? Okay,
+
+cool. So I just want to add this video because I want to kind
+
+of do a more in-depth breakdown. Oh,
+
+you know what the heck, let me do that. I'm do a webinar registration
+
+one too. Why not? Calvin
+
+Tran, we'll use him again, see what we did earlier.
+
+Ah, that's not the right one. This one.
+
+landing page and not a product page, but let me kind of just go
+
+through examples real quick, okay? I mean,
+
+it's pretty basic, a live masterclass of eight figure Airbnb investor Calvin Tran.
+
+Okay,
+
+so. I'm sorry,
+
+this is going to be ADD, but it's going to bother me if I
+
+don't do it. One It's on mobile before I get to Calvin Tran,
+
+okay? So,
+
+one thing that's weird, I would have to look at my actual phone is
+
+that there's no call to action above the fold.
+
+By above the fold, we mean visible.
+
+It may be that on most actual phones,
+
+because when you go inspect in Chrome,
+
+you're getting a,
+
+you know, you're seeing what it would look like on mobile, but it's not
+
+perfect. So, it could be that this is visible on mobile,
+
+could also be that the sticky CTA shows up,
+
+see how it's here. Like, on mobile, it's especially helpful,
+
+because you're scrolling, you're reading, you're here. At any point,
+
+you might decide, hey, I want to buy, you can click the button.
+
+It's all the same stuff as what you saw,
+
+not on mobile. You
+
+know, there's sliders, things like that, you know, it's pretty more responsive. But,
+
+it's, you know, we don't need to take a ton of time, I just
+
+wanted you to see on mobile, because again, probably, these days,
+
+most sales come from mobile.
+
+Like, I mean, overwhelmingly. Like,
+
+80%, 70 to, 70 to 90% come from mobile.
+
+Some cases, 100%, right, or 99%.
+
+So, I just wanted to look at that real quick, too. Okay.
+
+Alright, back to our boy, Calvin.
+
+I guarantee you,
+
+almost every single person who buys from him also buys on mobile.
+
+It's worth noting, look, because sometimes you'll go see something on desktop,
+
+oh, this is kind of ugly. It's like, yeah, because nobody looks at this.
+
+Like, nobody's ever seen this page besides me. And it looks much better here,
+
+right? It's way cleaner and better. Live virtual workshop,
+
+July 2nd, 7pm. Exclusive workshop of 7-figure every day.
+
+Airbnb investor Calvin Chan reveals new loophole.
+
+It's interesting how, like, the other one said 8-figure, this is 7-figure.
+
+So they have it set up so that, basically,
+
+it shows something a little bit different. But on mobile,
+
+buttons right here, I built my 7-figure Airbnb portfolio
+
+without owning any property or using my own money.
+
+Avoid risking your own capital, increase your earnings potential using this alternative real estate
+
+investment opportunity. Click below to learn more.
+
+Learn the 7-figure secrets,
+
+spots, and ways to act fast. Calvin Chan,
+
+former medical professional turned 7-figure Airbnb investor,
+
+now empowering hundreds of other professionals and students to do the same.
+
+On the slide of the interactive workshop, you'll discover how to find high-profit deals
+
+in any market using my 75-55 rule to guarantee profitability.
+
+Secure funding at 0% interest to control these units using none of your own
+
+money. Bye. Automate your entire portfolio and achieve passive rental income every month.
+
+Effortlessly scale your portfolio using other people's money and replace your full-time income with
+
+just 1-3 units. Attendees get real results.
+
+People showing, like, what they've made. Bunch
+
+of social proof. And that's it. Right?
+
+Mobile is different. This is important.
+
+This is very different. On desktop. You've got all this copy,
+
+but if you're trying to emulate what Calvin does,
+
+and you look on a desktop computer, you're probably going to miss out
+
+because probably nobody,
+
+or again, like 85% of people,
+
+they'll never see this page. They'll probably all see this page.
+
+So, this is what I'd be looking at. So this is a really good
+
+example, real quick. And why is it short?
+
+Because again, all you're trying to do is go watch this live virtual workshop,
+
+right? Just clear your spot,
+
+IFast, it's free. And
+
+you sign up basically like, you know,
+
+first name, last name, email, phone number.
+
+He's during the lead, they're gonna text each of you,
+
+email you, hey, make sure you show up, or you're gonna show up,
+
+try to get your show up rate as high as possible, and close people
+
+on the webinar, right? You'll see in the high-tech webinar thing we do with
+
+Dylan Bandness, it's one of the bonuses where he talks about some of the
+
+process here and the best practices for that. So,
+
+I just wanted to kind of show this example as well, so we're not
+
+like, only,
+
+uh,
+
+well, you know, like, we'll do this kind of stuff, which is a lot
+
+of people. So again,
+
+the reason I'm not gonna spend much time on this page,
+
+like, this version, is because I don't think anyone sees it,
+
+really. People already know it. Alright,
+
+cool, thank you.

@@ -1,0 +1,4431 @@
+You use a handheld?
+
+Yeah, why not? Okay,
+
+Cool.
+
+All right, sweet. So one second.
+
+Lemme pull this up real quick. Alright,
+
+we have, uh, for our next presenter, Mr.
+
+Ethan Bens, he's the, uh, co-founder, partner of
+
+40 80 Marketing,
+
+as he mentioned when he was introducing himself.
+
+They do, uh, that's blinding me.
+
+Um, they do like CRO uh, work.
+
+Like, so, you know, conceiving of running, executing
+
+on split tests, you know,
+
+the data analysis that goes into it.
+
+They also end up doing a lot of like, the, actually,
+
+one thing I really appreciate is
+
+like the technical work as well.
+
+So it's not just like, Hey, um,
+
+you know, like you should do this test.
+
+And you're like, well, s**t. Like, right?
+
+They're like, and we, they're like, and we set it up for you
+
+and, you know, here's everything
+
+where you can see it and track it.
+
+And then honestly, they've gone above
+
+and beyond for us where we'll ask them for, you know, a lot
+
+of things that aren't zero related.
+
+We're like, Hey, can you just duplicate
+
+this landing page for us?
+
+Can you do this?
+
+Can you, I mean, literally we're like,
+
+can you duplicate our whole website on another domain?
+
+And they're like, okay. Um, you know, can you help us solve,
+
+like stuff on, you know, Google analytics that, uh,
+
+so they've been awesome to work with.
+
+Like I said it in the WhatsApp yesterday.
+
+But the only reason I don't talk about them more like
+
+publicly is 'cause I don't want a
+
+thousand people to try to hire you guys.
+
+And then, uh, you know, like you, you get too busy for us.
+
+But, um, I've seriously been extremely, IM impressed and,
+
+and they've got us a bunch of cool winners
+
+and they work with multiple clients, not just with us.
+
+Um, and so I'm really excited for this.
+
+Ethan's gonna share a bunch of, uh, kind of split test wins
+
+and things on optimizations
+
+and um, yeah,
+
+I'm take it from here, but give it up for Ethan.
+
+Alright, what's up guys? Um, if you guys, there you go.
+
+All right, there you go. Um, if you guys in the back want
+
+to slide up, I would probably recommend it.
+
+'cause I have a lot of before and afters on this
+
+and it might be difficult to read.
+
+I can also narrate it to you guys, that's fine as well.
+
+But if you guys want to, you can.
+
+Um, yeah, so basically the idea for today is
+
+to give you guys a framework
+
+and some real life split testing wins from
+
+tests that we've actually run.
+
+And I try to put together a bunch of different, uh,
+
+industries, niches.
+
+So we got supplement stuff, we have info product stuff,
+
+we have call funnel stuff.
+
+There's a bunch of different stuff in here.
+
+So we're gonna go through a bunch of these.
+
+And unfortunately, I apologize guys,
+
+but I didn't bring out as many of the spreadsheets
+
+as I normally bring out for, for this type of talk.
+
+So I won't bore you that too, or I won't bore you too much.
+
+So first we're gonna play a little game
+
+called which version one.
+
+All right? And again, if you can't
+
+read it, feel free to come up.
+
+It's cool. Um, so I'm gonna show you guys a before and
+
+after of a couple of these
+
+and you guys can guess which one won.
+
+In fact, I'm gonna split test the presentation so half
+
+of you guys can leave and then come back 30 minutes after.
+
+I'm joking. Um, okay,
+
+so first up we have one of the get fin tests.
+
+So this is a headline test.
+
+There are three versions of this.
+
+Alright? So the original is just what the control was.
+
+And then I have three slides here.
+
+One is gonna show each individual headline.
+
+So the first one is literally just lose weight
+
+and stop over reading with a prescription.
+
+Uh, and the second one is, take control
+
+of your weight loss journey, reduce cravings
+
+and achieve lasting results with semaglutide.
+
+Okay, that's the first version.
+
+V two, say goodbye to overeating
+
+and stubborn weight safely, reduce appetite and lose weight.
+
+And then V three is lose 15% of your weight
+
+on average in the first year.
+
+Any guesses? V one or so? Not the control, but V one.
+
+Who thinks V one won? Nobody thinks V one one.
+
+Some of them do know I wouldn't. Oh, okay. Okay.
+
+Alright, cool. So if you know, then just refrain. Um, V two.
+
+Anybody think V 2 1, 1, 2, 3.
+
+All right, it looks like everybody
+
+thought V three one then, huh?
+
+All so you're all wrong. V one is the one that won.
+
+So version one won by 6.3%. Alright.
+
+And this is, uh, creating about 75
+
+to 80 incremental customers per month on this,
+
+which is a pretty meaningful result,
+
+obviously at get thin scale.
+
+All right, next round you might honestly miss this update.
+
+So the first one of this, uh, is again, just the control.
+
+And the second version of this
+
+is highlighting two different things.
+
+So right here we have onetime purchase,
+
+no subscription required.
+
+And then we have this line here again,
+
+which version you guys think won
+
+control update.
+
+Everything's update one.
+
+All right, you guys are right there.
+
+10.5%. Again, very meaningful lift.
+
+Funny enough, more than the headline test. Next one.
+
+This is what Stephan calls the Sydney Sweeney test.
+
+Um, this is literally just an avatar demo test.
+
+So which one do you guys think won control
+
+or updated control?
+
+Updated. All right, updated one by 34%.
+
+Alright, we're gonna go over why these won
+
+and uh, some more analysis as we kinda go through things.
+
+But, uh, oh, I got one more actually here for you.
+
+So another headline. Test control. Variant control.
+
+Control. Anybody think variant?
+
+No winner. Flat test.
+
+Alright, so technically I guess the control won.
+
+Um, alright, well let's, we'll go through
+
+'cause we, we can quit playing the game.
+
+Uh, so this is why we perform CRO and split tests
+
+because we don't know what's going to win
+
+as much experience as we have.
+
+Uh, and we, meaning all of us collectively,
+
+as much experience as we have,
+
+we're really bad at guessing what's going to win.
+
+We are not the market,
+
+we are not the consumer, we're not the customer.
+
+Alright? So real quick about us. Um, I'm Ethan Benson.
+
+I'm the founder of 40 80 Marketing.
+
+I'm from Pittsburgh, PA originally.
+
+Um, and we basically work with e-commerce brands,
+
+info product brands, call
+
+funnels, uh, here and there as well.
+
+I started with Facebook ads back in 2015.
+
+Um, ran a bunch of ads, ran ads in like,
+
+literally every industry I got started in, uh, kind
+
+of courses and, and things like that.
+
+Um, I have a business
+
+and statistics degree from Carnegie Mellon.
+
+So I'm a little bit of a math nerd, hence me.
+
+My excitement at the spreadsheets,
+
+which I'm not gonna bore you guys with today.
+
+Um, and we either work with
+
+or have worked with brands like Zumba Fitness,
+
+get Thin metal labs, creo brew mastering.com, bunch
+
+of others that I would love to say,
+
+but I can't say, uh, due to an NDA.
+
+Um, and we help generate over 10 million a year in
+
+incremental revenue from split testing.
+
+And the one thing with this that I really want to kind of
+
+impart upon you guys is that we're business owners first,
+
+marketers second, and CRO practitioners third.
+
+And so what I mean by that is CRO is really just a tool
+
+to improve your overall business metrics.
+
+It's not just in a vacuum of like, oh,
+
+this headline performs better than this headline by 4.7%.
+
+It's like, well what does that mean for
+
+bottom line profitability?
+
+What does that mean for our scale?
+
+All right, so we're gonna get into
+
+that as we kinda go through.
+
+So again, I wanna give you guys an overall framework.
+
+I'm gonna give you guys some tests.
+
+Um, and I wanna show you guys hopefully some surprising
+
+tests where you might think twice before testing something.
+
+So we're gonna go through introduction
+
+to conversion rate optimization
+
+and why conversion revenue optimization is better.
+
+Uh, we're gonna talk about split testing,
+
+why it's a requirement, the ins and outs
+
+and how to do it, how to come up with
+
+and decide what tests to run
+
+because there are a million different
+
+options that you could run.
+
+Um, and then again, we're gonna kinda go over some more
+
+examples of real life winning tests, why they worked,
+
+and then we can go into q and a.
+
+Um, and any questions that you guys have.
+
+Alright, so what effects does your business feel if you
+
+increase your overall conversion rate
+
+by 15%, feel free to shout it out.
+
+Anything you can think of?
+
+Good effects. Yes, that is good.
+
+Anybody wanna like go one level
+
+more specific than Stefan's there?
+
+25% increase in profit. Okay, 45. Anybody else?
+
+More sleep? Sure.
+
+So that could buy you guys some time back who wanted
+
+to buy their time back higher roas.
+
+Yeah, so I like
+
+to think about this in orders of effect, right?
+
+So first off, the immediate thing is, well, yeah,
+
+if you increase your conversion rate
+
+by 15% holding all LZ equal,
+
+you're gonna increase your revenue by 15%.
+
+You're going to increase the amount of customers by 15%,
+
+which means you have 15% more
+
+people to sell backend stuff to.
+
+If you have subscription
+
+or monthly recurring revenue, you might be able to increase
+
+that by 15%.
+
+You might be able to hire more people, do more product r
+
+and d, you might be able to scale your ad spend higher
+
+'cause you've just supplied upward pressure
+
+where scale typically supplies downward pressure
+
+to conversion rate, more profitability, more ability
+
+to scale, probably a higher multiple if
+
+you wanna exit, right?
+
+So these are all the
+
+effects I want you to be thinking about.
+
+Again, don't just think about it as like, oh, cool,
+
+you know, roas 15% higher.
+
+Yes, but what does that mean?
+
+What does that actually mean for us?
+
+You know, again, as business owners and,
+
+and um, marketers and everything else.
+
+All right, so again, why is CRO important?
+
+There's more competition in most niches.
+
+I'm sure you guys have seen this obviously.
+
+Um, ad costs obviously are high.
+
+Probably will just continue to get higher.
+
+More importance on profitability
+
+and spend efficiency, again,
+
+capital's a little bit harder to come by today.
+
+Um, and people that are looking
+
+to acquire businesses would rather see a profitable
+
+and efficient business and again, makes you resistant
+
+to scale and seasonality.
+
+So like I said, as you increase spend, generally speaking,
+
+your conversion rate tends
+
+to go down if you don't change anything else.
+
+But that's what we're here to do. So
+
+whenever I say CRO conversion rate optimization,
+
+what do you guys think that that entails?
+
+Again, throw it out if you want to.
+
+Anything that you have misconception wise
+
+or correct concept wise is okay, split tests.
+
+Split tests, yep. Optimizing titles.
+
+Okay, increasing actions. Cool.
+
+So that's all good stuff. Again, makes sense.
+
+You guys are more sophisticated. So a lot
+
+of people will say things like changing button colors,
+
+split testing, call to action, text changing fonts,
+
+changing the slight look of a design, alright?
+
+These are not necessarily the best way to run tests.
+
+They take a lot of sessions
+
+to attain statistically significant results.
+
+And typically the conversion rate, uh, increase
+
+that they provide is not really, um, interesting to us.
+
+It's like again, oh, a 3.3% increase in conversion rate.
+
+You're like, okay, cool. Um, so in our opinion,
+
+and in my opinion, that's the wrong way to handle CRO.
+
+Most brands don't even do CRO at all.
+
+And again, CRO does not mean just randomly change a headline
+
+and see what happens over the next couple of weeks.
+
+That's not what CRO is. It can, like,
+
+it can be I guess in its most strictest sense,
+
+but it's not the way you want do it.
+
+So number one, increasing conversion rate without factoring
+
+in average order value is pointless.
+
+'cause I can literally increase all
+
+of your guys' conversion rate right now
+
+offering 99% off sale.
+
+Who wants to do that, right? I don't, you know what I mean?
+
+So conversion rate without AOV is meaningless.
+
+Um, so there needs to be, you know,
+
+there must be a better way to convert more people
+
+and at the same time increase the,
+
+uh, the amount that they buy.
+
+So this is what we call conversion revenue optimization.
+
+So we want to improve the conversion rate
+
+and the revenue that it drives.
+
+So we want to drive large increases
+
+to our golden metric, which is earnings per session.
+
+We'll talk about that in a second. Um,
+
+and we wanna do that through a direct response marketing
+
+approach combined with user experience improvements,
+
+so design, ux, et cetera.
+
+So we wanna do this by creating irresistible offers,
+
+using direct response copywriting
+
+to speak about the customer, not the brand.
+
+Looking for hidden market segments
+
+and avatars to buy
+
+that are already buying from us without us actively trying
+
+to market, uh, to them.
+
+And kind of one of the core tenets
+
+of conversion revenue optimization is we're more concerned
+
+with driving increases faster to this metric than we are
+
+with knowing exactly why it happened.
+
+Alright? We're gonna talk
+
+more about this in a second as well.
+
+But basically like, do you really want to know
+
+for a hundred percent certain, like, oh,
+
+the red button doesn't convert better than the green button.
+
+Great. You're like, okay,
+
+I would rather change the headline, change the image,
+
+change the sub headlines
+
+and be like, well I got a
+
+20% increase in earnings per session.
+
+I don't know exactly why, but I got 20% right?
+
+So I'm, I'll figure it out why while I'm getting the extra
+
+20% every single session that comes.
+
+Okay, so earnings per session, let's talk about this metric.
+
+This is our golden metric for most businesses.
+
+This is what you're gonna wanna optimize
+
+for whenever you're performing split tests.
+
+Um, in certain cases you don't want to.
+
+So again, if you have a big kind
+
+of like disparate difference between your front end pricing
+
+and your backend lifetime value,
+
+you probably are gonna be more
+
+concerned with conversion rate.
+
+So in it gets, in uh, example,
+
+we care more about
+
+conversion rate than earnings per session.
+
+That day one cash is not as important as lifetime value.
+
+So conversion rate times average
+
+order value is earnings per session.
+
+Again, just from a strict definitional standpoint,
+
+it's literally just how much revenue do we produce divided
+
+by how many sessions we got.
+
+But the other way to get to it is
+
+conversion rate times average order value.
+
+So as we can see here, if you increase your conversion rate
+
+but keep a OV the same,
+
+you've increased earnings procession.
+
+If you increase a OV
+
+but keep conversion rate the same,
+
+you've increased earnings procession.
+
+And if you increase either one
+
+of these more than the other one decreases,
+
+you've increased earnings procession.
+
+Alright? Again, some people call this revenue per visitor.
+
+Some people call it earnings per click.
+
+They're slightly different metrics.
+
+Um, you'll probably hear me say revenue per visitor
+
+and earnings per session interchangeably.
+
+It means that, you know, I'm
+
+trying to get at the same thing.
+
+So quick example, if you have a 3.5% conversion rate times a
+
+$49 a OV,
+
+you have a dollar 71 cent earnings per session, right?
+
+That's it. Anybody notice anything interesting pattern wise
+
+between earnings per session and maybe another metric like
+
+ROAS earnings per session divided
+
+by your cost per click is your roas, right?
+
+So again, earnings per session in a vacuum just site wide is
+
+not necessarily the same thing.
+
+So you might be like, oh man, my site only has a $2 earnings
+
+per session, but I'm paying three 50 for a click.
+
+Yeah, but your, your meta traffic
+
+or your Google traffic is probably converting
+
+higher than just a general session.
+
+So, but it's a quick way to kind of think about things.
+
+Alright, next, what is split testing?
+
+Again, don't roll your eyes, uh,
+
+because I'm sure a lot of you aren't doing it,
+
+but we send a percentage of traffic to our current control
+
+and we send a percentage of traffic to a version
+
+with improvements that we think will convert better.
+
+We track the conversions of the revenue from each
+
+and then we compare them conceptually.
+
+It is that simple. Alright? It really is.
+
+So here's an example. We send 50% of traffic
+
+to the first one, which is the control 50% of traffic
+
+to the second one, which is the variant.
+
+Lemme see which one converted better, right?
+
+Which one has higher earnings procession? That's it.
+
+Now here's what a split test looks like.
+
+I, I'm really, really software agnostic. I don't care.
+
+We use convert.com in a lot of cases.
+
+We use VW in a lot of cases.
+
+Um, you know, optimize the chameleon,
+
+there are a million of 'em, doesn't really matter.
+
+They all do basically the same thing.
+
+What we have here is we have
+
+the original, which is the control.
+
+We have variation one and we have variation two.
+
+So this would be an A BC test, alright?
+
+As you can see, it tracks the visitors, the revenue,
+
+the revenue per visitor and the chance to win, right?
+
+Very, very simple. You can see variation one had a 34%
+
+improvement to revenue per visitor with a 99% chance to win.
+
+There you go, right? That's really easy.
+
+So all you gotta do is whatever you think is going
+
+to perform better make that there's your first variant,
+
+you're off and running and your running split test, okay?
+
+Now what are we looking to do with earnings per session?
+
+'cause again, earnings per session is a little bit nebulous.
+
+It's like, okay cool, I can't deposit 15, you know,
+
+earnings per sessions into my bank account.
+
+So the one thing that we're looking to do
+
+whenever we are split testing is we're looking
+
+to generate incremental revenue.
+
+This is basically for all of us who are running any type
+
+of split testing, um, our main metric for success.
+
+So it's one of the few things that we can actually point
+
+to in business and say, Hey look, we improved this thing
+
+by this much and it's a
+
+guarantee that we improved by this much.
+
+'cause it's literally just tracking the data.
+
+Uh, so again, it's the additional revenue
+
+that we get by having a better experience.
+
+We track everything with what we
+
+call an incremental revenue sheet.
+
+I'll just go over this real quickly. One of the, one
+
+of the last spreadsheets on here again guys, so don't worry.
+
+Um, so control earnings per session
+
+and variant earnings per session.
+
+Each one of the rows is a different test
+
+and each one of the, uh,
+
+columns is just a different metric that we're tracking.
+
+So let's just look here at this one, which is a winner.
+
+So this bottom one, so the control
+
+had a $6 earnings per session.
+
+The variant had a $6 51 earnings per session.
+
+These are the sessions that happened, uh,
+
+during the actual test.
+
+And this is the incremental revenue
+
+that was generated during the test.
+
+Do I really care about this test? Incremental revenue?
+
+Not really, right? What I'm more interested in is
+
+that monthly incremental revenue that is the amount
+
+of revenue that the variant is producing
+
+additionally every single month by converting better
+
+and have a high, having a higher earnings procession.
+
+So whenever you're looking to evaluate the success
+
+of your split testing, um,
+
+and your CRO efforts, you're looking at
+
+that monthly incremental revenue.
+
+We're talking about the importance of losers.
+
+'cause you see each one of those reds, uh,
+
+is basically a loser.
+
+I like to see a lot
+
+of losers while split testing and we're gonna explain why.
+
+'cause there's a big, there's basically a big
+
+disproportionate opportunity between winners
+
+and losers, okay?
+
+So again, 90% of brands don't split test properly.
+
+That's okay. I'm talking about even like the biggest,
+
+biggest brands, uh, at least in our space.
+
+Not, you know, I'm not talking about like, uh,
+
+Amazon necessarily, but think like, you know, 150 million
+
+a year brands are not split testing properly.
+
+It's okay, but like Stephan kind
+
+of said accept reality, you know what I mean?
+
+And then, uh, kind of move on, uh, move on with that, with
+
+that reality and try to change it.
+
+So running two access to one page
+
+and two to another page is not a split test.
+
+Um, it might be the correct thing to do,
+
+but it's not a split test.
+
+And running one landing page in October and another one Jan
+
+and another version of it in January,
+
+is also not a split test.
+
+Alright? We want to control variables as much as we can.
+
+We need to control four variables like traffic quality,
+
+seasonality, time of week.
+
+You gotta imagine you run one variation
+
+during Black Friday and one during July.
+
+Obviously the black, the Black Friday variation is going
+
+to have a higher conversion rate, but
+
+was it actually the better page?
+
+Well, no, like the Olympics just happened.
+
+There's a reason why they all
+
+run the race in the same location.
+
+If it's raining, everybody's running in the rain.
+
+If it's sunny and super hot,
+
+everybody's running in the heat, right?
+
+So we wanna control for those factors.
+
+And lastly again, what we want
+
+to avoid is making a change to a page.
+
+And the next week, for whatever reason, met ads crap out
+
+and we say, oh man, the change that we made,
+
+it just tanked our conversion rate.
+
+Let's go back to the control, our conversion rate
+
+dropped as soon as we change the site.
+
+I'm sure all of you guys have either said
+
+that or heard people say that.
+
+I've heard people say it and I've said it myself too before.
+
+And then when you run split tests,
+
+where you do is you literally just take
+
+that away from yourself.
+
+You don't have to worry about that, it's not a concern.
+
+So split testing solves that in my mind.
+
+Like split testing is like the coolest thing in the world
+
+because it's like, it's the only time
+
+that we can actually get a 50 50 version of this.
+
+Like I made the the dumb joke at the beginning, like, okay,
+
+I'm gonna split test the presentation, half of you leave.
+
+You know what I mean? But it's the truth.
+
+Um, like I wish I could split test arguments
+
+with my girlfriend Now that'd be awesome.
+
+Like, all right, is this is gonna p**s her off?
+
+Is this not gonna p**s her off? You know what I mean?
+
+But um, you know,
+
+now I just gotta, I gotta fight my way through it.
+
+The control wins on that one.
+
+So, um, yeah, it's basically a do-over button for you.
+
+So if you don't like the outcome of test,
+
+just go back and go back to the original.
+
+All right? So for from an infrastructure
+
+perspective, what do you need?
+
+You need some form of split testing software convert.com VW
+
+intelligences, Optimizely.
+
+Again, don't really care.
+
+Figure out which one works best with your tech stack.
+
+Um, and kinda go from there. Next is heat mapping.
+
+Again, you don't necessarily, uh, need this per se.
+
+You do need split testing software, heat mapping.
+
+Again, you probably already have something
+
+that's doing this, whether it's Hotjar, lucky orange,
+
+gmap.com, you know, whatever you wanna use there.
+
+Um, and then this third part is kind of something
+
+that we've really been focusing in on this year especially,
+
+which is tagging for lifetime value
+
+and tagging for basically cohort analysis.
+
+So you can use that with Hiro, your CRM if it has
+
+that capability and you can basically tag different variants
+
+to figure out, alright,
+
+well this one might have had an increase, you know,
+
+the control might have had an increase in earnings per
+
+session, but the variant actually has a higher lifetime
+
+value whenever we look at it three,
+
+six or nine months later.
+
+So again, these are kinda like a little bit more advanced
+
+techniques, but, um, useful to, to note.
+
+Alright, so CRO is a double-edged sword.
+
+Unfortunately, there are endless options
+
+that you could test, but again, at the same time,
+
+there are endless options you, you could test.
+
+So where do we start? There
+
+are multiple frameworks that you can use.
+
+You might have seen like ICE, um, all that good stuff.
+
+Literally, again, I'm pretty agnostic from a,
+
+from a framework perspective, whatever gets you testing
+
+faster is the framework that you should use.
+
+We like to use what we call inside out CRO.
+
+Um, and basically if you look at the inside of your funnel,
+
+you just put that on the outside.
+
+All right? So basically from bottom
+
+of the funnel all the way up to the top,
+
+it takes the guesswork out of what to test
+
+and when is it, you know,
+
+by far a hundred percent the most efficient.
+
+No, but I'm of the mindset that
+
+whatever gets you testing faster is the way to do it
+
+because you could armchair philosophize about
+
+CRO for months and months and months.
+
+Oh, well we should start on the homepage.
+
+No, we should start on the checkout.
+
+No, we should start here. No, we should start there.
+
+Just start anywhere. 'cause again, most,
+
+most brands have not been split testing.
+
+And so there's all
+
+of this kind like latent incremental
+
+gains that you're missing out on.
+
+All right, so here's an e-commerce example.
+
+Again, you can kinda like model this over
+
+whatever funnel that you're running.
+
+Um, in red are your bottlenecks.
+
+These are the places that
+
+every single person needs to go through.
+
+So, uh, and again, this is a funnel,
+
+but up upside down, inside out.
+
+So upsells, checkout cart, sales page, landing page,
+
+product pages, collection pages, homepage announcement,
+
+banner, uh, your navigation on desktop and then your menu.
+
+Alright, if this works for you, great, do it please.
+
+Um, you're gonna get gains by testing your upsells first,
+
+your checkout first and your card first simply
+
+'cause again, everybody has to go through there.
+
+If you're testing post-purchase upsells,
+
+you cannot lose conversion rate.
+
+Somebody's already converted so you can't lose there,
+
+especially if you don't have them in place already
+
+when you're testing checkout, checkout is a place
+
+that every single person has to go through, right?
+
+And most people, generally speaking with checkout,
+
+set something live for the first time,
+
+whether it's like stock Shopify
+
+or, or whatever else you're using.
+
+Or checkout champ, you know, checkout champ guys.
+
+Um, and then they don't test it after that. Test it, right?
+
+It's like I'll show, we'll go over some examples,
+
+but again, you'd be amazed at the amount
+
+of conversion rate increases that you can get 10, 15,
+
+20% just by including social proof on your checkout
+
+where it's not been there before.
+
+Alright? Um, okay, also real quick,
+
+I have an hour-ish for this.
+
+I'm trying to, trying to run through this
+
+to make sure we have time for questions.
+
+If you guys have questions as I'm going through this,
+
+just like throw your hand up
+
+or interrupt me and tell me to shut up.
+
+Also, if I'm going too fast 'cause I get excited
+
+and then I start talking really fast
+
+whenever I get excited, just also tell me.
+
+Um, so yeah, these questions come
+
+through, feel free to just throw your hand up.
+
+Um, okay, so bottleneck analysis,
+
+we wanna optimize the points that everyone must go through.
+
+Like I said, this is like airport security.
+
+So you could have the best check-in process in the world.
+
+You could have the best lounges in the
+
+world, uh, past security.
+
+If your security process is slow,
+
+it doesn't matter if you improve check-in
+
+or you improve the lounges, it doesn't matter.
+
+The entire system is not going to get better, right?
+
+Again, this is the same process for other funnel structures.
+
+So if you have a call funnel webinar funnel, quiz funnel,
+
+VSL funnel, it's the same thing.
+
+You're just going to replace maybe
+
+your collections page with a quiz.
+
+Alright? And again, the best plan is the one that you follow
+
+testing philosophy.
+
+So again, don't just change the CTA button.
+
+Um, bigger changes generally speaking gives you a better
+
+chance at a significant result, whether good or bad.
+
+Again, I'm really, really trying
+
+to avoid staying in the middle.
+
+The middle is where you get no discernible learnings
+
+and no gains from split testing.
+
+So what we wanna have is whether wanna have a really,
+
+really big win or a big loss.
+
+And again, losers are only losers for a week
+
+and winners are winners for months, maybe years, right?
+
+So again, CRO priority number one,
+
+we're making sure we do not harm conversion rate, alright?
+
+The biggest danger
+
+that people have is they'll see a version like I showed you
+
+guys on, uh, on the very first slide
+
+and they go, well I like version three for better.
+
+I like headline three better. Oof, right?
+
+We all liked headline three better.
+
+That'd be a problem if we implemented that, right?
+
+Because that, that was a loser.
+
+So we would've been harming conversion rate.
+
+The customer's opinion is what we care about the most.
+
+Alright? We don't care about our internal opinion.
+
+Yes, of course we have testing knowledge
+
+and we kind of know what worked for others in certain cases.
+
+But I'm gonna show you guys a couple examples
+
+where I was just talking with Andre, um, earlier,
+
+and we literally have a
+
+complete different result from the same
+
+exact test on two different brands.
+
+He had a 20% increase, we had a 20% decrease. Alright?
+
+So again, this is why best practices are not, you know,
+
+best practices can be general
+
+practices, but it may not be best for you.
+
+So again, the you gonna say go,
+
+So you're thunder, so wait, I want you're good.
+
+Go. And then when you get to the next, the bullet point
+
+about what people say they care about, I want to
+
+Oh yeah, yeah, yeah. Okay.
+
+So basically, um, when asked directly, a lot
+
+of people will say like, oh, well I bought this product
+
+for a BC reason, right?
+
+Let's say that it's get fan
+
+and be like, okay, well I bought,
+
+I bought this product 'cause I wanna be healthier.
+
+But maybe they just wanna feel better about how they look.
+
+Maybe they wanna try, uh, they wanna wear a dress
+
+that they were in high school,
+
+maybe they just wanna feel sexy.
+
+Alright? So if you ask them directly,
+
+whether it's like in a survey, things like that, uh,
+
+they're probably going to say what they think
+
+that they should say, not what they actually mean
+
+or what they actual motivations are. So
+
+Yeah, no, I just, I just think that's so important.
+
+I think most people in this room know that,
+
+but it's like, just like everything from, you know,
+
+nowadays, I, I do think a lot
+
+of VSLs can be quote unquote too long.
+
+If you're running in feed, like you can often get away
+
+with like a, you know, three to 14 minute long VSLs
+
+and in feed ad obviously VSLs can still work on, you know,
+
+uh, landing pages as well.
+
+But, you know, back in the day and everyone like the,
+
+the video is too long, the video is too long.
+
+And you're like, okay, the people in the comments which are
+
+like, but I'm doing like, you know, $5 million a month on
+
+this vsl, so apparently it's not too long.
+
+Um, right? Or like email list, like, oh, you email too much.
+
+Like there's so, and it's usually like a small percentage
+
+of people, right, that are saying those things.
+
+But that's where again, everyone knows it.
+
+It's just like a passion. Like little, it's,
+
+it's like a hop, it gets me all riled up, I guess.
+
+'cause for sure, um, yeah, and,
+
+and yeah, exactly, with like weight loss and,
+
+and yeah, all these things, right?
+
+People, I think it's a really profound point.
+
+So I just wanted to really, yeah,
+
+Chime. Yeah. And so we're gonna talk
+
+about like some customer
+
+feedback stuff and how to talk with your customers,
+
+but this is one thing to kind of, uh,
+
+at least take into account
+
+whatever you're going through that stuff.
+
+Um, and the other thing is, I,
+
+I would rather get paid while I'm learning rather than
+
+learn while not getting paid.
+
+So again, I would rather have something that is working
+
+and not be a hundred percent certain why it's working,
+
+rather than know for sure why something didn't work
+
+and have zero incremental revenue while I'm doing that.
+
+So I'd rather be getting 50 KA month incremental revenue
+
+and then figure out why it worked, right?
+
+So test ideation. Let's talk about
+
+researching and creating tests.
+
+So then we kind of have the, we have our
+
+inside out framework, so we're going from the bottom
+
+of the funnel all the way up to the top.
+
+But now what do we actually test on those pages other than
+
+just like, oh, well again, let's test the button color.
+
+Don't do that. So rule number one, talk to your customers.
+
+And this is like one of the things that I think, um,
+
+just my background of having started in ads
+
+done like well over a thousand sales calls, uh, for, for,
+
+you know, from an agency service provider perspective,
+
+writing emails, like writing sales pages,
+
+doing low ticket offers, all that stuff.
+
+I think this is one of the big things that CRO and
+
+and split testing practitioners, generally speaking miss on,
+
+is they're a lot more technical.
+
+Again, that's great, but at, at the end
+
+of the day, you guys have all seen it.
+
+Terrible, terrible pages that have great copywriting
+
+and sell millions of dollars a month.
+
+So the technicalities matter, um,
+
+the user experience matters,
+
+but the person who knows their customer best is going
+
+to win out over the long term.
+
+99 times out of a hundred people will do everything.
+
+And when I say people, I mean, again, all
+
+of us in this room, business owners, they will do everything
+
+in their power to avoid talking to the customer.
+
+Alright? Think like scraping reviews, uploading the chat,
+
+GPT doing sentiment analysis, blah, blah, blah.
+
+I'll give you an easier way to do it.
+
+Go to your CRM,
+
+pick out 15 phone numbers and call the phone numbers.
+
+All right? Nobody wants to do it,
+
+but I'm telling you right now, it's the best
+
+and fastest way to get insights about
+
+what your customers actually want.
+
+So things like phone calls,
+
+text conversations, customer support emails.
+
+It's a really, really dangerous thing actually too,
+
+when the owner of the business who
+
+probably was primarily responsible for marketing starts
+
+to not talk to customers anymore
+
+and not be as much in the weeds with marketing.
+
+Because what ends up happening is
+
+that owner is still driving a lot of like the thought,
+
+but they're not on the front lines.
+
+So this is why I wanna be talking to salespeople.
+
+I'm always asking for sales calls, recordings,
+
+I'm always asking for customer support emails.
+
+I'm asking, what are people saying?
+
+What questions do people have?
+
+So customer service team members
+
+and salespeople are your best friend if you're trying
+
+to improve, uh, conversion rate.
+
+And if you don't wanna go through
+
+and do, you know, a hundred calls to customers in a day,
+
+that's the second best thing.
+
+Next is your reviews, right
+
+after that is competitor reviews.
+
+So again, you can find different marketing angles where
+
+what your competitor's missing, things like that.
+
+Customer feedback surveys are always great again,
+
+but at the same time, there's like a slight asterisk there
+
+because sometimes they'll give the answer
+
+that they should give, uh,
+
+rather than the one that is actually true.
+
+Um, and this is my opinion, again,
+
+I think manual is better than
+
+automated, especially at first.
+
+There's a lot of kind of like this, um,
+
+subconscious learning that you'll get from it.
+
+Just hearing how people talk, the language
+
+that they're using, phrases that they're saying,
+
+and honestly, even just like tangential stuff.
+
+So during like say phone call conversations, um,
+
+or actually as a matter of fact, like Stephan
+
+and Angela, I were talking, uh,
+
+whenever I first got in Stephan's saying about
+
+back to school, alright?
+
+So even though Stephan very sophisticated large business
+
+owner, it's back to school time.
+
+Anybody who has kids, it's back to school.
+
+So if you're trying to sell stuff right now, whether it's
+
+to business owners or whether it's to again, even just
+
+B2C stuff, it's back to school time.
+
+So you need to understand people are busy,
+
+they're probably getting kids, uh, writing situated,
+
+they're buying binders,
+
+they're buying books, all this stuff.
+
+So you're not going to notice that
+
+unless you're just having a conversation.
+
+Nobody's gonna write in a review.
+
+Oh, this was great, I bought it during back to school.
+
+Like, you know what I mean? It's not gonna happen.
+
+I mean, I guess it could, but
+
+you know, that'd be a weird review.
+
+Um, if you do nothing else
+
+but this, you're gonna get 80% plus of total gains.
+
+And I firmly, firmly believe this.
+
+You can ignore all like the, the technical stuff in terms
+
+of, you know what I mean?
+
+Oh, well this size
+
+of CTA is the absolute perfect one and blah, blah, blah.
+
+I would rather have you just talk
+
+to a hundred different customers over the course
+
+of the next couple of weeks and you're going to get
+
+really good headlines, really good above the fold images,
+
+really good sub headlines
+
+and really good offer ideas from that.
+
+A lot better than you're gonna get just by, um,
+
+looking at whatever your competitors are running.
+
+'cause I, I know the
+
+competitors and they're not doing it either.
+
+All right? So again, phone calls are best.
+
+Um, they don't have a ton of time to
+
+prepare a canned response.
+
+And especially if you're kind of like shooting the s**t
+
+with them, for lack of a better term at the beginning, um,
+
+you're gonna get a lot of, again, like this listening
+
+between the lines that, that is helpful.
+
+So you wanna listen for feelings and emotion.
+
+So again, not just, oh, you know, I signed up with Get Thin
+
+because I wanted to lose weight.
+
+It's like, okay, everybody knows that.
+
+I wanna hear about the feelings around.
+
+I'm like, yeah man, I've been trying for 10 years
+
+and I'm just not able to get the
+
+weight off, blah, blah, blah.
+
+I wanna hear about that. I don't
+
+wanna hear about, I wanna lose weight.
+
+So I'm listening in
+
+between the lines for a lot of this stuff.
+
+So again, topical relevant items back to school.
+
+Um, you know, what are their kids doing?
+
+What's their family doing? Are they talking about Taylor
+
+Swift, new album, whatever, right?
+
+So if you start to see these, these patterns come up, uh,
+
+over and over again, that's when
+
+we can say, Hmm, you know what?
+
+I've heard the same thing from 15 different people.
+
+This might be worth, whether it's a headline test,
+
+a sub headline, test ads, testing, stuff like this.
+
+Again, this helps with not just CRO, this also helps
+
+with ads with email,
+
+with literally everything else in the business, right?
+
+So here's like, here's some examples.
+
+Uh, this is from a Lion Man brand.
+
+These are some examples of reviews
+
+that is kinda selected for us to go through.
+
+Hi. I'm certainly not one to put anything in my body
+
+until carefully researched and thought through.
+
+So number one, with anybody getting from that, is
+
+that directly related to Lion Man
+
+or Brain Fog or thinking better?
+
+No, this is indicating to you that this person is careful
+
+and cautious and
+
+they're probably gonna do a lot of research.
+
+So indicating to them that it's safe
+
+is probably gonna be really helpful.
+
+So now we might wanna think about a safety angle.
+
+So our other lines, main's products, um,
+
+being tested as thoroughly as ours.
+
+Maybe, maybe not, but if they're not,
+
+then that's an angle that we can take.
+
+So at 61 I was noticing memory fog was emotional for me.
+
+Hmm, there you go. So, you know,
+
+they're probably not feeling great about themselves.
+
+Uh, I was quite impressed with the purity again.
+
+There you go. And
+
+after my first order, I was sure it made a
+
+significant difference and I reordered more.
+
+So again, this is not just saying
+
+like, oh, their memory got better.
+
+It did, but there's a lot more to it than just
+
+that Same thing in this next one.
+
+I'm 73 years of age,
+
+my memory's not as sharp as it once was.
+
+I've been taking Lions mane for a few years now.
+
+Ran out just a month ago, and then I, uh,
+
+noticed just how much it actually helped.
+
+So again, what am I taking from this?
+
+I'm taking the fact that, hmm, 73-year-old,
+
+61-year-old, all right, interesting.
+
+So I might have an avatar test
+
+or a demo test coming up from this.
+
+And then finally here,
+
+I'm using Lion's Mane for about two months.
+
+It's easy to use. I can't taste it, just put it into water.
+
+I feel like words come faster. That's a really good one.
+
+Like, I, I dunno about you guys.
+
+I would've never thought of that angle
+
+unless somebody told us to me.
+
+Here's another thing. When you listen to
+
+what your customers are saying, they literally are
+
+the best copywriters in the world.
+
+You can't write better copy than
+
+your customer, you know what I mean?
+
+And this is the other thing too that we can sometimes kind
+
+of like fall into this trap.
+
+Um, as business owners, as we talk to other business owners,
+
+we talk to other marketers, we talk
+
+to other people like doing complex stuff in a lot of cases
+
+and we can kind of miss the general broad market in certain
+
+cases, you know what I mean?
+
+So in this scenario, this is outside of again,
+
+just talking to these people on the phone.
+
+This is where you can get these angles
+
+you're not gonna come up with otherwise.
+
+'cause if you're not the customer,
+
+you don't know this stuff, right?
+
+Alright, next for test ideation.
+
+So I'm gonna quit elaborating about, uh, talking
+
+to your customers, but do it.
+
+Um, next is heat mapping. Alright?
+
+So you can use, like I said, lucky Orange,
+
+Hotjar, this is heatmap.com.
+
+Uh, basically this will attribute revenue to clicks.
+
+So as an example, we saw from those three reviews earlier,
+
+I think the ages were 57, 71, and 63.
+
+Alright? So now we're thinking, hmm.
+
+So if we have an older demographic of people who are buying,
+
+we wanna be really, really careful with the UX of this.
+
+We don't want to make anything not clickable
+
+that looks like it should be clickable.
+
+We wanna make sure everything is clear and easy to read.
+
+So from a font sizing perspective
+
+and from a legibility perspective,
+
+we wanna make sure that that's very clear.
+
+And again, admittedly, if these are people with,
+
+with memory issues, well we probably wanna make things like
+
+not super complex
+
+and very easy to remember very 1, 2, 3 bullet
+
+point list kind of stuff.
+
+Alright, so this is just on an advertorial here.
+
+Um, and again, you can see here
+
+that on the menu there are 342 clicks
+
+and 27 purchases from that menu.
+
+You're like, alright, cool.
+
+So the menu is obviously very, uh, very interacted
+
+with, uh, from that perspective.
+
+And we can see that there are some
+
+kind of other clicks here.
+
+So a couple people using the search function, a lot
+
+of people clicking on the logo, again,
+
+that logo better be clickable to the homepage.
+
+Um, and cart of course.
+
+And again, we have up here the, uh,
+
+some clicks on announcement banner stuff.
+
+Alright, so let's imagine a scenario where, you know,
+
+there was a bunch of activity here.
+
+I feel like a meteorologist right now.
+
+It's like, oh, we have some activity
+
+coming in over the gulf.
+
+Um, so if we have a lot of activity here
+
+and this image is not clickable and it doesn't expand
+
+or anything like that, that's a problem.
+
+That's, those are things that we want to, uh, to look for.
+
+Alright, next scroll depth.
+
+So scroll depth is gonna show you
+
+how far along your landing page
+
+or your sales page that people are actually getting.
+
+When again, the same thing. This is
+
+gonna show your sales coming from this.
+
+This is I think like in a week timeframe maybe.
+
+Um, so we had 94% of people, that's just
+
+where I put my cursor here.
+
+But basically you're above the fold is gonna be seen
+
+by everybody right below the fold.
+
+It's, to be honest with you, it's a little bit humbling
+
+sometimes whenever you look at the below the fold ones.
+
+So this is like maybe halfway
+
+down the page a little bit above.
+
+Halfway down the page you'll see
+
+12% of people got to this point.
+
+So what does this tell us?
+
+Number one, you need
+
+to be focusing a ton on your above the fold.
+
+Everybody sees you're above the fold.
+
+12% of people see below the fold, right?
+
+Or call it halfway on the page in this
+
+funnel, in this landing page.
+
+Now there's one other thing that I want you guys to notice.
+
+Look at the purchase numbers 45
+
+and obviously, uh, 84 here.
+
+Everybody of course who purchased had to see this.
+
+So you'll notice that even though 12%, only 12%
+
+of people got to this point in the funnel
+
+or in this uh, landing page,
+
+well over half the purchases came
+
+from people who got to this point.
+
+So you guys kinda get what I'm saying here? Yeah.
+
+Uh, average order value. So that could literally just be
+
+because people got to this point were more skeptical, right?
+
+So, yep. Okay, so you're above the fold matters.
+
+You can spend literally literal months testing.
+
+You're above the fold. Like there are certain cases where
+
+we will rewrite a headline,
+
+rewrite a sub headline, add a new image in.
+
+So again, we just showed on the get thin stuff.
+
+Stephanie, how many tests have we run on the
+
+above the fold in a couple of months?
+
+Like maybe 10,
+
+12 different versions if you're counting ABCs, right?
+
+This is in a couple months. So once you get a winner,
+
+especially if it's above the fold, um,
+
+immediately retest it.
+
+'cause it's like really what are the odds
+
+that you found the best version above the fold?
+
+So you're above the fold is really again, the, the job
+
+of it is to get people below the fold.
+
+Um, and again, you can also do a lot of pre-selling,
+
+et cetera and that above the fold.
+
+Um, so above the fold gets
+
+attention and gets people reading further.
+
+And then the below the fold is what converts.
+
+So if you're spending a ton, a ton of time on your
+
+below the fold, but only 12% of people are seeing it
+
+and you've paid no attention to your
+
+above the fold, that's where we wanna start.
+
+So again, it's just figuring out
+
+where have you spent the most time?
+
+Where have you deployed resources to, alright, pitfalls.
+
+And then we're gonna get into some more
+
+before and afters and tests.
+
+Do not assume this is the thing that I see constantly
+
+and it drives me nuts.
+
+Don't assume that just because your
+
+competitors are running something that it's working.
+
+This is one of the biggest mistakes that you can make.
+
+Oh man, I really love the look at this competitor's landing
+
+page and I've seen the competitor's landing page.
+
+It's not doing what, what you think
+
+and they're looking at their
+
+competitors to figure out what's working.
+
+You know what I mean? So,
+
+and again, this goes from, this goes from base level
+
+of like people just starting out to the top of the rung.
+
+I see this, you know,
+
+good design does not mean high converting design.
+
+Um, I know so, uh, lytics
+
+and checkout champ, like obviously you guys are in software
+
+and in software you guys know people care about, uh,
+
+design more than anything else.
+
+But you, you guys in here obviously are focused
+
+on like, oh wait, what do customers want?
+
+So software, software is prevalent with this
+
+where people are like, oh, the page looks beautiful
+
+and all it does is talk about the
+
+company, it doesn't talk about the customer.
+
+It's like pointless. Um, again,
+
+don't just implement something because it's surely better.
+
+You are riddled with preconceived biases and notions.
+
+Same with me. Like there are times like I have
+
+to remind myself about this all the time where it's like,
+
+yeah, like this version has to convert better, right?
+
+Like why even test it? Again,
+
+we're gonna see why we should test it in in some
+
+of these uh, examples coming up here.
+
+But you are not the customer. Don't armchair CRO.
+
+Well actually I like this design better
+
+and this one's more on brand and blah blah, blah.
+
+Again, I'm not saying that brand is useless
+
+and that you shouldn't kind of like focus on
+
+brand or take that into account.
+
+But at the same time too, don't,
+
+don't make a judgment whether
+
+it's gonna convert better or not.
+
+If you wanna keep something on brand, that's great,
+
+but sometimes you might wanna test it just
+
+to see how much it's going to hurt you.
+
+Alright, so these are the types of tests.
+
+Basically you can pair each of these types of tests
+
+with each of the different funnel stages for the most part.
+
+So if you guys remember, again,
+
+you have your inside out funnel.
+
+So starting at the bottom now we here, uh,
+
+starting at the bottom and then working
+
+all the way up to the top.
+
+Uh, and then, uh, for each of those you can use copy,
+
+design, offer, avatar, market segment, funnel structure,
+
+tech stack tests, and
+
+what I like to call business level tests.
+
+We're gonna go over, uh, one of each of these
+
+and again, you can kind of pair most of these.
+
+So you could do an upsell, uh, paired with a copy test.
+
+You could test your sales page with an offer test.
+
+You could test your product page with a design test.
+
+Alright, so enough theory. Um, I'll pause for a second here.
+
+Any questions so far? Anything
+
+that you guys want more clarification on?
+
+Anything that was confusing
+
+or that I mumbled through? I remember
+
+Running the mic over.
+
+This is great so far though. I'm
+
+Excited. Ho is this
+
+valuable for you guys? All right, cool.
+
+Um, so when you're running split tests,
+
+especially when you're running multiple split tests at the
+
+same time, would you exclude the traffic
+
+of one split test from a traffic in the other
+
+Split test? Yeah, generally
+
+speaking, um,
+
+you can have cross-contamination.
+
+You need to make sure that you have
+
+enough traffic to do this though.
+
+And then in certain cases, if you have lower traffic,
+
+you might want to, uh, just wait
+
+and run them kind of like, uh,
+
+test one first, test two second.
+
+But if you have enough traffic, you can basically allocate a
+
+percentage of your traffic to that.
+
+So if you get a, you know, a hundred thousand visitors a
+
+day, you don't wanna necessarily test with a,
+
+with a hundred percent of your traffic, you're gonna be able
+
+to get to likely a statistically significant result based
+
+off of 10, 20% of your daily traffic maybe.
+
+And you could run multiple tests at the same time.
+
+Yeah. Uh, can you actually touch on statistical
+
+significance a little bit? I just,
+
+Oh yeah, yeah.
+
+So I just wanna get an idea of like how you find that,
+
+how long you run the test,
+
+what numbers you're looking for, et
+
+Cetera. For sure.
+
+Um, touchy subject again,
+
+you guys said the beginning, I'm,
+
+I was a statistics major in college, so, uh, that half
+
+of me cringes a little bit whenever I,
+
+whenever I talk about statistics for split testing,
+
+but then the business owner, half of me is like,
+
+eh, you know what I mean?
+
+Like, this isn't like a lifesaving a lifesaving thing
+
+that we're, that we're doing here.
+
+We don't have the, uh, you know, the risk
+
+of killing somebody if we get this wrong
+
+with a certain medication or whatever.
+
+Um, so the downside
+
+of this is like, all right, we lost some money.
+
+You know what I mean? That's the downside,
+
+but it's not like, you know, it's not life or death.
+
+Um, so that kind of like leads into the point
+
+of we wanna make sure that we get
+
+through at least one business cycle.
+
+So if you have a high ticket product
+
+and it's a service that you do through a call funnel,
+
+you can't run a split test for three days or you can,
+
+but you need to wait to see all the data that comes
+
+through on the back end of that.
+
+But it's probably not a three day split test.
+
+You wanna make sure that if you have, let's say traffic, uh,
+
+really high traffic that converts super well on Saturdays
+
+and Saturdays are great days for you
+
+don't run a split test from Monday to Friday
+
+'cause you're missing out on a representative sample.
+
+The thing with statistics
+
+and sampling is we're looking
+
+to get a representative sample of our traffic.
+
+It doesn't do us any good to cherry pick. Alright?
+
+So we don't wanna just cherry pick bottom of funnel traffic
+
+and it's like, oh well this converts best for them.
+
+We don't, well we can do that if we're looking to
+
+find a test that wins to bottom of funnel traffic.
+
+So that's kinda the first part.
+
+We wanna get a representative sample.
+
+The quick and dirty of it is let a test run
+
+for at least a week before you call it a loser
+
+and let a test run for at least 14
+
+days before you call it a winner.
+
+Generally speaking, it's pretty safe.
+
+Um, and in terms of percentages of like probability
+
+to win, if your software is using Bayesian analysis,
+
+personally I'm okay with like 85%, 80%.
+
+Sometimes even again, it's like
+
+as a business owner would I rather have something that is,
+
+has an 80% likelihood to win or a 20% likelihood to win?
+
+I'll choose the 80%. You know what I mean?
+
+I may not be able to make as accurate predictions as to
+
+how much of an improvement that that's going to get,
+
+but I'll take the one
+
+that has an 80% chance to win for sure.
+
+Yeah. I got one follow up question.
+
+Um, when you mentioned monthly incremental revenue
+
+Yep.
+
+Is that a forecast after you make the tests?
+
+'cause I'm curious like Yep. You know, it is. Okay.
+
+It is. And what it's doing is you're basically,
+
+let's say you run a test for two weeks.
+
+We can go over this like pretty quickly.
+
+If you run a test for two weeks, uh,
+
+debating whether I go back to this
+
+spreadsheet or not, let's do it.
+
+Um, if you run a test for two weeks
+
+and it gets 10,000 sessions, or let's just use this one.
+
+Alright, so basically here, this test ran
+
+for effectively two weeks, right?
+
+It got 12,000 sessions during those two weeks.
+
+And what that basically implies is
+
+that it's gonna get about 24,000
+
+sessions over the course of a month.
+
+So whatever this differential here, this is 50 cents.
+
+All right? So 50 cent incremental earnings per session times
+
+24,000 sessions gives you this.
+
+So if your traffic increases a lot,
+
+then you're probably gonna get more incremental revenue.
+
+If it decreases a lot,
+
+you're gonna get less incremental revenue.
+
+I don't like we have this 90 day up here, personally,
+
+I don't love 90 day incremental revenue.
+
+And like you'll see people say sometimes like, oh,
+
+this creates a million dollars
+
+annually in incremental revenue.
+
+You're like, uh, a lot can change in a year.
+
+You know what I mean? So I don't like
+
+to project it out that way necessarily.
+
+I like to stick with monthly incremental revenue just
+
+because, um, of course a lot of stuff can change in a month,
+
+but it's a lot less likely to change
+
+in a month than it is in a year.
+
+Mm-hmm. Was that helpful? Oh yeah.
+
+Cool. Any other questions before we continues on?
+
+Yeah, I run over to you Austin,
+
+like being the mic runner here.
+
+Um, so yeah, I was doing everything wrong
+
+with the CRO test.
+
+Um,
+
+Never change. Austin, never change.
+
+Um, but I was wondering like when you start
+
+with the CRO test, like if you have like a new brand
+
+or whatever, and then what's your advice on that?
+
+Yeah. Um, and this is like a, I love that question
+
+because CRO generally speaking in split testing,
+
+people think about it as like, oh, it's for the Amazons,
+
+it's for the eBays of the world who can test button color
+
+and still get a significant result for newer brands
+
+that are just starting, bigger swings are even more
+
+important for you than it is for a more established brand.
+
+So if I were you, I would not even be testing necessarily,
+
+say like, you know, uh, similar headline, one
+
+to similar headline two, just changing things slightly.
+
+I'd be testing like funnel structure one, so VSL versus
+
+an advertorial two of ESL.
+
+Or I'd be testing direct to a low ticket versus,
+
+I don't know, uh, what niche you're in,
+
+but I would be testing like direct
+
+to a low ticket versus again,
+
+like a webinar funnel, stuff like that.
+
+So I'd be thinking about things broader.
+
+Um, again, from a split testing perspective, you need
+
+to get something to work first before you can, or
+
+before it's worth investing time
+
+and energy into actually split testing it again.
+
+If somebody has like a 0.1% conversion rate on a $9 product
+
+split, testing a headline's gonna do nothing for you.
+
+It's like there's something way bigger missing.
+
+So direct answer to your question, I would say, um,
+
+test bigger changes first.
+
+So funnel structures, avatars, markets, even products.
+
+Right. Got it. Cool.
+
+I let you, why don't you keep going for the examples
+
+and stuff and, or do you have a question, David?
+
+You can go just a quick Yeah, that's fine.
+
+And there's one more, uh, questions at the end too. Okay.
+
+Yep. Uh, yeah, just a quick follow up on that.
+
+What would be like, say you have an
+
+established funnel mm-hmm.
+
+What would be some of the highest impact things you'd look
+
+to test on that first,
+
+What's your final structure?
+
+Uh, like one to three minute video ad to VSL on page
+
+And then check out right after that.
+
+Yeah. Okay. Um, I would start at the,
+
+do you have post-purchase upsells?
+
+Yeah. So inside out kind of, uh, principle there,
+
+I started the upsells and split test your copy.
+
+Uh, and potentially even the offer
+
+and the pricing on that as well.
+
+Like for pricing tests, a lot
+
+of people have not done price tests
+
+and they're really, really easy.
+
+'cause usually people just pick a price
+
+and price off of cogs,
+
+but your customer doesn't know your cogs.
+
+Um, so, you know, even if you have a, a $39 product test,
+
+44, if you have a $44 product test, 49,
+
+it's literally free money.
+
+And it's the easiest test you could ever do.
+
+Change one number in Stripe
+
+or whatever payment processor that you're using,
+
+and it's probably gonna be $5 of contribution margin.
+
+So I'd start there. Um, with
+
+The, with the price stuff, do you have a strategy
+
+around choosing price?
+
+I mean, this is where, like, this is
+
+where you're gonna get a lot of it depends from these,
+
+or it depends from me,
+
+but, uh, what, what do you sell again?
+
+Uh, skincare skin.
+
+Okay. Skincare. So I would,
+
+I would honestly think about just testing maybe 10
+
+to 15% lower and 10 to 15% higher.
+
+Yeah. Like, yes, you can go through a bunch
+
+of different pricing strategy stuff.
+
+Of course you wanna make sure that it's working
+
+with your economics of the business.
+
+Yeah. But, um, if you're priced at like 44 bucks, go through
+
+and test 47 or 49, like it's, it's not that big of a leap.
+
+There are general like, price breaks, you know what I mean?
+
+So like zero to 50 is like, people think, oh, it's 50 bucks
+
+above 50 per, like, it's
+
+getting closer to a hundred kind of thing.
+
+Um, yeah, I would say like 10
+
+to 50% is like a very safe thing to do.
+
+Cool. In that range.
+
+Yeah. Thanks. There's a really good book called
+
+Confessions of a Pricing Man by this like, uh,
+
+he's a good German guy and he's like this, um,
+
+like the roads expert on pricing products and things.
+
+And this whole thing is how people
+
+don't think about pricing enough.
+
+Um, it's kind of an obscure book,
+
+but, um, I remember reading
+
+that and then that's when I changed.
+
+I had like $10 to like the cost per bottle
+
+for my first supplement company funnel one.
+
+It was like everything just converted the same.
+
+I just made more money. Yeah. And
+
+like, you know, but it's a good book.
+
+I would recommend people check that out,
+
+Man. And if you guys are in info
+
+and anybody who sell info stuff,
+
+you might find the opposite.
+
+Where if you go from 39 bucks to 49 bucks
+
+or 19 to 29 conversion rate increases.
+
+I've seen this so many times in info, even like 1 99
+
+to 2 99, um, for upsells and stuff like that.
+
+Okay. So I see the, you have like the testing,
+
+split testing in the future in the company.
+
+And I feel like the way we, we structure a company,
+
+it's kind of hard to have a lot of friction to split tests.
+
+So how you, I would suggest for us to reduce the friction
+
+and become something more cultural for the, the company.
+
+Because I see a lot of split tasks in there.
+
+So when I thinking like, uh, uh, how the practical
+
+to do this, I feel like, uh, oh man, there's a lot
+
+of steps to change.
+
+Like, uh, you know, we, I don't feel like we, we we,
+
+the structure as, as far as page goes
+
+and everything is really proper for split testing, like, uh,
+
+with this like velocity, you know?
+
+Yeah. So how you suggest to improve that?
+
+Man, that's a really, really good question.
+
+And this is something I think about a lot
+
+because CRO is a little bit more sophisticated
+
+of a thing in the sense that generally speaking, you need,
+
+uh, somebody who can design
+
+and understand what impactful tests are.
+
+So that might be like a business owner slash CMO type.
+
+You need a designer, a developer,
+
+and a copywriter in addition to that person.
+
+Lemme rephrase. You don't need a, a person for each
+
+of those things, but you, you need at least one person
+
+who has each of those things in order
+
+to have a successful CRO initiative.
+
+Um, so you kinda wanna find that person who can kind
+
+of like own that stuff first.
+
+And then in terms of how to get it
+
+culturally into the organization.
+
+When you say like resistance,
+
+do you mean like people being like, oh,
+
+we don't wanna do this, or?
+
+No, I mean, just like technology, let's say, uh,
+
+the way we build like a pages and everything.
+
+So we are, we have designs
+
+and have like web Zs, like people in house,
+
+but the way we, we built like pages
+
+and the way we approach like, uh,
+
+checkouts, that, that kind of thing.
+
+Mm-hmm. We never thought like, hey, what, what if you have
+
+to change this like 10 times a week, like 10 times a month?
+
+You never thought that before we build it.
+
+So now when you think about changing pages like fold
+
+and everything, it's durable.
+
+We can do that. Mm-hmm. But then becomes like a lot of steps
+
+to do first before getting to this.
+
+So I know you have a lot of softwares
+
+and ways uhhuh, so when you build a page,
+
+the build the page is built to like, uh, expect testing,
+
+change stuff quickly.
+
+So I feel we, we don't have this like, you know, um,
+
+you know, we don't know as quick to change stuff around
+
+and then see the conversion and everything.
+
+Got you. And, and also like, uh, tracking,
+
+if you can like just go a little in depth
+
+with like tracking mm-hmm.
+
+The, the, the results of those, those,
+
+those the tests, that would be great too. Yeah.
+
+From a tech stack perspective, honestly,
+
+like almost all tech stacks can work.
+
+Worst case, you're gonna have to do
+
+what are called redirect tests.
+
+So usually, again, like with a convert, a VWO, any type of
+
+that software, you can just use the,
+
+what you see is what you get editor.
+
+And either you, uh, like me who does not have development
+
+or design skills, um, can go in
+
+and just edit copy, things like that.
+
+And it's very simple. Think of it like a drag
+
+and drop builder of any other type.
+
+Or you can have a designer slash developer do it, um,
+
+that's on your team or a contractor or what have you.
+
+So that's kinda like, part one of
+
+that is the editors themselves
+
+or the, um, the CRO softwares
+
+themselves help a lot with that.
+
+Um, what was the second part of your question?
+
+Sorry, I forgot. Oh, yeah, yeah, yeah.
+
+So the software is gonna basically do that for you
+
+and then use something like the incremental revenue sheet.
+
+Oh, by the way, if you guys want a copy of
+
+that incremental revenue sheet, uh,
+
+I'll happily send you guys a link
+
+to a templated version of that.
+
+Literally use that. Each one
+
+of those rows is a separate split test
+
+and you'll be able to see like what was the test.
+
+You can have a notes column and it'll tell
+
+you exactly what the results of it were.
+
+So that's how you track it. Um,
+
+but the software itself will give, you,
+
+will track all the data, whether it's via webhook,
+
+um, or or anything else.
+
+Yeah.
+
+Sweet. Okay. Maybe go continue on
+
+and then if we have more questions at the end, we'll do
+
+That. How am I on time?
+
+I think
+
+You're good. I dunno, what time is it?
+
+Yeah, you're good.
+
+Lunch is at 1245. So sweet.
+
+Yeah. All right, cool.
+
+I was not expecting to be on time guys. Sorry.
+
+Um, so let's go over this test again.
+
+Alright, so this was our, uh, headline test.
+
+So we have V one, V two, V three, right?
+
+And again, we were all surprised the V one won.
+
+Um, look, the thing with headline with headlines is, again,
+
+remember this was the winning version, take
+
+control of your weight loss journey.
+
+So I could, like, I could lie to you guys
+
+and be like, oh, well the reason why I take control one is
+
+people were feeling very outta control and blah, blah, blah.
+
+The reality with headline tests is, to be honest
+
+with you, I don't know.
+
+And like, the other thing with this too is like, I've run
+
+like more split tests than, than I'm proud to say.
+
+Like, I'm embarrassed to say the amount
+
+and like, I still am 50%, right?
+
+That's it. Like, I'm half right, half wrong. I never know.
+
+You just have to divorce your ego from it
+
+because when you bring your ego to it into it of like, oh,
+
+well, you know, I'm,
+
+I'm really good at direct response stuff, that's
+
+where the biases come in and that's
+
+where you start to make bad decisions.
+
+You start to implement stuff
+
+that is actually harming your conversion rate.
+
+So the kind of key with headline testing and, and Steph,
+
+and this is I think one of the things that, um,
+
+you said initially whenever we were starting this,
+
+and this is what I fully believe too,
+
+is like there's really no good way
+
+around testing headlines other than
+
+just testing a bunch of headlines.
+
+It's like, take what you know,
+
+if you're a decent copywriter, it's like, take
+
+what you know, do your customer research
+
+and test a bunch of them.
+
+You know what I mean? Alright,
+
+so next let's talk about a little bit more of a design test.
+
+So you guys remember on the menu, uh, this is again for kind
+
+of supplement, um, Shopify type of brand.
+
+So you'll see the before and the after here in the before.
+
+We have a lot of stuff kinda wrong with this.
+
+Um, so we have like reviews main site.
+
+We're linking to socials here. We have home up here.
+
+Um, and just like a lot of stuff
+
+that is distracting to the visitor.
+
+Uh, real quick we'll kind of bounce to the,
+
+to the end result of this 32% increase
+
+to revenue per visitor on this updated version, um,
+
+images are worth a thousand words.
+
+So here, it's a lot easier for us
+
+to process images than it is to read the text.
+
+So you can kind of see here it's like, oh, cool,
+
+I have the different, uh, different kind of layout
+
+of different problems that I'm focusing on.
+
+So whether it's um, you know, PCOS
+
+and blood sugar balance, the androgen block
+
+or stuff like that, these are different problems.
+
+So they're very, very specific.
+
+And uh, again, information architecture.
+
+And like the other thing is like,
+
+don't send people back to the battlefield.
+
+Like once you've gotten them off of social,
+
+whether it's Facebook, Instagram, YouTube, whatever,
+
+don't send them back in the menu.
+
+Um, other hacks with menus actually are
+
+that you can introduce social proof.
+
+So one of the things that a lot of people miss between
+
+menus, checkout carts, stuff like that is I love
+
+to hammer social proof in each of those places.
+
+It's kind of subconscious for people where they see, like,
+
+they're seeing reviews all the time.
+
+They're seeing different testimonials, they're seeing
+
+how many customers that there are.
+
+It builds trust all along the way so that by the time
+
+that somebody does get to check out,
+
+they're not freaking out like, oh,
+
+wait a minute, does, is this brand real?
+
+You know what I mean? So again,
+
+eliminating unnecessary choice choices.
+
+This is informed with heat maps in a lot of cases.
+
+Again, you can look at good menus like this, uh,
+
+take the principle from it.
+
+But heat maps will tell you, like, you'll see a lot of,
+
+if you see a hundred clicks here, a hundred clicks here
+
+and a hundred clicks here and no purchases, you're like,
+
+yeah, that's probably a good thing to test eliminating.
+
+All right, another design test.
+
+This one kind of goes counter to, uh, best practices.
+
+That's why I'm gonna show this here.
+
+Generally speaking, two
+
+by two on a collection page converts better.
+
+Generally in this case it didn't.
+
+Um, so in this case,
+
+actually we had a 10% increase in revenue per visitor.
+
+We got another one that's informed by heat mapping.
+
+Um, and we, you're gonna notice here is
+
+you're gonna notice on the right side we have a little bit
+
+clearer in terms of making the images better.
+
+This is for food delivery brand.
+
+It's like obviously people are probably hungry
+
+or they wanna see pictures of the food.
+
+It's like, are you gonna read reviews for a restaurant
+
+or you look at the, or are you gonna
+
+look at the images first?
+
+Probably look at the images and then again, including kind
+
+of the logistical information.
+
+So how many people does it serve?
+
+You don't wanna buy this Italian bundle, not know
+
+how many people that it serves, right?
+
+Um, want
+
+to definitely include when are we getting it before, right?
+
+So you can see here, you get it before August 30th.
+
+So This's gonna tell people like, oh,
+
+am I gonna buy this and get it two weeks from now?
+
+'cause I kind of want it now. Um,
+
+and so these are come kind of some of the changes here.
+
+And, and there are certain aspects as well where, uh,
+
+basically this brand has, um,
+
+different Australian super chefs come up
+
+with their recipes and stuff like that.
+
+So there's a lot of kinda like name
+
+brand recogni recognition there.
+
+So we wanna include who actually came up with this recipe,
+
+um, and dish as well.
+
+So again, two by two generally converts better.
+
+This is why you don't wanna just follow best practices
+
+'cause best practices will get you in trouble.
+
+All right, copy and design test. So this is above the fold.
+
+You guys will hear, like,
+
+if you take nothing else away from this, talk
+
+to your customers test above the fold.
+
+Um, that's gonna get you again, by far the most gains.
+
+So you'll see here we have headlines, sub headline, call
+
+to action, social proof, and product image.
+
+Like it's really tough to go wrong with that user experience
+
+and that design, that formula kind of thing.
+
+What will change from this is what is the headline?
+
+What is the sub headline? What is the image images?
+
+For the most part, showcasing the experience are gonna be
+
+better, but not always.
+
+Like in this scenario, I'd probably like
+
+to see like a happy person holding, holding the bottle.
+
+Um, but you know, that didn't win in this case.
+
+So, um, one of the big things, again,
+
+with above the fold is you wanna kind
+
+of give people almost all the information that they need
+
+to make a purchase generally, aside from price.
+
+So if you can tell them what is it solving, who's it for?
+
+Again, I like to see social proof above the fold.
+
+And I like to see what the experience
+
+of their product is like for any above the fold,
+
+whether it's landing page, sales page,
+
+homepage, stuff like that.
+
+This is a really good format to follow
+
+even for info products.
+
+And I have one coming up that is a little bit more like, uh,
+
+it's a book funnel, but it's more the test was making it
+
+more e-com essentially.
+
+All right, so this one had a 12.3% increase
+
+to revenue per visitor customers care about certified.
+
+Um, so this is different than the one I showed before,
+
+but again, people are really cautious
+
+about what they're putting into their body.
+
+So if you have any safety reviews
+
+or safety testing, stuff like that.
+
+Um, and again, what's funny is the
+
+original actually was a previous winner.
+
+So that one on top was, uh,
+
+an initial iteration on the homepage of about the fold.
+
+So always, always, always iterate on your winners.
+
+What's a winner today may not be a
+
+winner two months from now.
+
+It may not be a winner two weeks from now.
+
+So we kind of have this thing where there's this kind
+
+of like elusive best converting version of this page
+
+and we're never gonna actually get there.
+
+But it's kinda like this asymptotic thing
+
+that we're trying to get to.
+
+We're never gonna get there though. So we can split test
+
+to try to find that thing.
+
+The thing though is that this is often a moving goalpost
+
+because again, black Friday week, that is not going
+
+to be the best converting homepage above the fold.
+
+It just isn't. We're not talking about a
+
+sale, we're not talking about the offer.
+
+We're not talking about Black Friday. Alright?
+
+And then this one is, uh, this is a design test.
+
+And I said sometimes we let our designers have fun
+
+because, um, with designers is the thing
+
+with the designers is that sometimes they'll want
+
+to follow like just pure UX principles
+
+and uh, be like very, very kinda like concerned
+
+with the art aspect of it.
+
+Um, but when you get designers that are conversion minded,
+
+those people are lethal, they're awesome
+
+because they literally just don't care.
+
+They're like, oh, split test. You know what I mean?
+
+Split test the living hell outta my designs.
+
+Um, they love it. So here's a copy test.
+
+This is a book funnel here, uh,
+
+copy and design test, actually.
+
+So remember how I said like pretty
+
+does not always sell well.
+
+Um, this business is awesome.
+
+This is like a six
+
+to $7 million a year monthly
+
+recurring subscription business.
+
+Um, basically teaching piano, uh,
+
+teaching piano to older folks.
+
+So really great business
+
+and all we did, this is just a summer
+
+relevance test time relevance test.
+
+So you see here, um,
+
+literally just include the announcement banner again,
+
+like e-comm esque
+
+and showcase a picture of the book on the beach.
+
+Alright? Again, like I hope that this is not impressive.
+
+I really do because,
+
+because this is what I kind of, again, like what I want
+
+to impart upon you guys is that it does not need
+
+to be a war award-winning design.
+
+I didn't do this one myself, but I think I might have enough
+
+faith in myself to do this one.
+
+And usually I don't have enough faith in myself
+
+to actually like execute from
+
+a design and development level.
+
+Uh, most of the tests that we would suggest,
+
+so this one has 17% increase in conversion rate.
+
+Why do I not quote EPS in this, uh, or revenue per visitor?
+
+Because this is a monthly recurring subscription.
+
+So we don't really care as much about that day one cash.
+
+We care more about what is leading to backend subscriptions.
+
+So again, this is providing, you know, 15
+
+to $20,000 a month in incremental monthly recurring revenue.
+
+That's huge, right?
+
+That's literally just free money, uh, sitting there.
+
+Alright, avatar test.
+
+This is the Sydney Sweeney test, um, as Stephan calls it.
+
+So basically what you'll notice here is the only thing
+
+that changed, uh, was just the image.
+
+Again, ignore the no subscription required.
+
+The before version, uh, was the exact same,
+
+but, uh, the only thing that changed was
+
+just who was actually in the image.
+
+And so this is a scenario where, uh, Stefan and Ben
+
+and I were on a call and we were,
+
+again having having fun like philosophizing about CRO.
+
+Um, and kinda like the key difference between this was,
+
+it was inspirational versus aspirational.
+
+So obviously the updated version is more
+
+aspirational where people wanna get to.
+
+And the before version might be more inspirational
+
+of like, oh, I could do it too.
+
+So, you know, um, Stephan thought aspirational would win,
+
+Ben thought inspirational would win.
+
+And I was like, I don't really know.
+
+'cause I can honestly see arguments for both sides.
+
+So of course the aspirational one did end up winning, um,
+
+by 34%, which is again, like a huge, huge win on this.
+
+Like, that's like insane. Um, but yeah.
+
+Uh, the funny thing about this was step and Ben
+
+and I waxing poetic
+
+about which one was gonna convert better.
+
+Ultimately, at the end of the day, we don't know, like,
+
+you know, there, Stephan does, you know,
+
+there are two smart people and me on that call.
+
+Um, and we're like, yeah, we don't know what's, you know,
+
+we think that this one's gonna
+
+win, but we don't really know.
+
+And like, you know, the other thing is too,
+
+is like copywriters, business owners,
+
+et cetera, were persuasive.
+
+So you can not just convince yourself,
+
+but you can convince other people which one's gonna win.
+
+And you know what, there's a quote, I dunno who said it,
+
+but it's like the easiest person to fool is yourself.
+
+Did everybody have like attribution on that quote?
+
+All right. Okay. There you go.
+
+Alright, next one. So design copy and business test.
+
+We're gonna talk a little bit more about business level
+
+tests in a second here.
+
+Uh, so here's a before and after on this.
+
+This is for a book funnel. Um, again,
+
+you're gonna kind notice the
+
+before here again, this funnel's already converting well the
+
+after on this is making it more e-comm esque
+
+essentially is what I would say.
+
+It's placing more focus on social proof,
+
+it's placing more focus on money back guarantee.
+
+Um, it's looking less just like, oh,
+
+here's an info product funnel kind of thing.
+
+Um, I would run this
+
+and change the, like if it's for a physical product that is,
+
+uh, let's say a supplement
+
+or what, what have you, I would definitely run
+
+that right funnel for it for sure.
+
+Like even for some of those brands that I was showing you
+
+before, I wouldn't probably run the left one.
+
+So here we have increased revenue per visitor by 30%. Okay?
+
+So let's go through some of these changes.
+
+It's making you feel more product focused, including, uh,
+
+social proof and reviews.
+
+We're including relevant information about the product.
+
+So how many pages the industry specific examples you're
+
+getting X amount of free bonuses, the availability in stock.
+
+Oh, by the way, some of this is redacted.
+
+Uh, just to, to, to cover an NDA.
+
+Um, and again, review here.
+
+Um, headline is literally just very simple, how
+
+to achieve insert outcome, more social proof
+
+and kind of hammering that social proof.
+
+So the reason why that, this is kinda like
+
+what I would call, obviously this is design and copy.
+
+This is also a business level test
+
+because the second one is a compliant version of
+
+that page of this first page.
+
+So legal for this business was concerned about getting a
+
+con, a compliant version up.
+
+But the big concern is, well yeah,
+
+but is the compliant version gonna tank conversion rate?
+
+So our initial hypothesis was we want to be able
+
+to put a number to the CFO
+
+and to the COO of
+
+how much this is gonna hurt conversion rate.
+
+'cause that's what we all thought that it was going to do,
+
+but it didn't, right?
+
+It actually improved conversion rate
+
+and like by a non negligible amount of 30%.
+
+So this is a surprise test
+
+where this is a business level test that you can do
+
+to either prove or disprove, um,
+
+certain use cases of things.
+
+All right, next. So some of these that are business level,
+
+I don't really have screenshots for 'em.
+
+They're not really like that relevant.
+
+Um, so funnel test goals is, is
+
+to maximize the amount of members.
+
+This is for the same piano business.
+
+Uh, there was a $49 front end product
+
+and we tested a $17 front end product against it.
+
+Uh, both were breaking even common sense would say
+
+that the $49 front end one-time product would
+
+ascend better to a membership.
+
+But the ascension rate was the exact same.
+
+Alright, so in that scenario,
+
+which products would we like better?
+
+We like the $17 product better.
+
+'cause if we're breaking even on both of them,
+
+by mathematically speaking, that means
+
+that we're necessarily getting more members
+
+for the same amount of ad spend, right?
+
+So if 20% of people are ascending on the $17 product
+
+and 20% of people are ascending from the $49 product,
+
+I'll take the $17 product all day.
+
+If both are breaking even 'cause
+
+for a thousand dollars in ad spend, I'm gonna get what,
+
+almost three times the amount of buyers.
+
+Almost three times the amount of members.
+
+All right, next kind of like business ish level split test.
+
+This is for the lion's main one.
+
+Um, this is kind of like a mix and match style page.
+
+So you get to select, uh, which, which, um,
+
+products that you want in this.
+
+So this is kind of like a non CRO win,
+
+um, but a business win.
+
+And so from a stats perspective,
+
+conversion rate was up by 2.8%.
+
+Revenue per visitor was down by 7%.
+
+Subscriptions increased like four
+
+and a half fold from this.
+
+And again, reasoning on this, honestly, I think a lot
+
+of it was the design perspective
+
+and a lot of it was just, uh,
+
+defaulting to subscribe and save.
+
+But these are scenarios where, again,
+
+this is a business level split test where you might look
+
+as a CRO agency or as a CRO like focus only focus person.
+
+You're like, yeah, this test is actually kind of a loser.
+
+But if you're focusing on
+
+what impacts does this actually have with the business
+
+and you're seeing subscriptions increased by four 67%,
+
+that's huge, right?
+
+That's like very, very meaningful for,
+
+for any business really.
+
+But more so for supplements and and D two C brands.
+
+Alright, next advertorial.
+
+So again, here we have kind of view one of this, um,
+
+this was compared with mix and match.
+
+So this is a CRO loss, but a business
+
+and marketing level win.
+
+Why is this a win? Well now we have
+
+different places to send traffic to.
+
+It's really hard to scale Facebook just via one funnel.
+
+You can do it, but it needs
+
+to be a really, really good funnel.
+
+It needs to be a mass market offer
+
+and you need to be insane at producing
+
+a large volume of creatives.
+
+It's a lot easier to scale multiple funnels.
+
+Facebook can find different pockets of people, right?
+
+Um, and this kinda goes with uh, funnel portfolio theory,
+
+which I'm not gonna go super deep into,
+
+but basically it's like having a stock portfolio.
+
+Like very rarely is somebody a hundred percent in on Bitcoin
+
+in, you know, in 2017 when Stefan's gonna
+
+call, that's gonna drop by five times.
+
+You know what I mean? You want to be slightly diversified
+
+'cause it's easier to get kinda a blended return.
+
+Alright, let's talk about price testing.
+
+So, um, we, you know, we just talked about price testing
+
+and how that can affect or not affect conversion rate.
+
+So this was a 47 versus $97 VIP for a live event.
+
+Obviously 47 converted better than 97, right?
+
+Again, you would say like obviously like I say obviously,
+
+but you know, that's common sense.
+
+But I've seen enough counter examples to where
+
+that may not have always been the case,
+
+but it did convert a lot better.
+
+But of course there's also a 41% decrease in price in a OV.
+
+The thing with this business is VIP purchases are very,
+
+very, very highly correlated with backend high ticket sales.
+
+If you join this free event
+
+and you don't buy the VIP, you're probably like very,
+
+very few percentage of people relative to uh,
+
+all the entrants bought the backend compared
+
+with people who bought VIP.
+
+This is not the case for every business.
+
+So again, don't just go and implement this stuff, okay?
+
+Again, big asterisk with all this stuff.
+
+Don't just go and implement this stuff just
+
+because I said that it's good in a one in this
+
+scenario, you need to test it yourself.
+
+And I hope that I showcase that by show, by showing, uh,
+
+some like, you know, um, tests that won
+
+that shouldn't have won and tests that should
+
+have won but didn't win, right?
+
+Um, so in this scenario, again,
+
+why do we like 47 versus 97 even though we're missing
+
+out on some cash?
+
+Well, higher conversion rate means more
+
+buyers means more backend sales.
+
+So this is a business level test. An offer test.
+
+Alright, let's talk about tech stack.
+
+So we ran a test webinar versus a
+
+webinar jam versus stealth seminar.
+
+Um, stealth had a 19% increase in leads, 30%,
+
+38% increase in calls, and 35% increase in sales.
+
+All statistically significant.
+
+I if you guys are using webinar jam,
+
+I feel like the webinar jam people probably hate me at this
+
+point because like I've said this a couple of times,
+
+I don't know them, but they, they probably don't like me.
+
+Um, but uh, but yeah, this is like just a tech stack test.
+
+You can literally split test your tech stack, all right?
+
+So you don't just have to split test copy
+
+creative, you split test tech stack.
+
+It's one of the tests that we're gonna do.
+
+I'm really excited for it.
+
+So with Get thin, we're doing a tech stack test on the CRM.
+
+Why do we wanna do it? Why do we wanna do that?
+
+Again, the first thing, what's the first rule about CRO?
+
+We don't wanna harm conversion rate in theory, going
+
+to a better tech stack and a better experience should
+
+improve the conversion rate.
+
+It might not though, right? It might not.
+
+We might have to do some work to get it to
+
+that point, but we wanna know that.
+
+And in, and in case it doesn't improve it, we want
+
+to understand what is the impact?
+
+Is it flat? Is it slightly down?
+
+And are we okay with paying that price?
+
+If it is slightly down, the answer's probably gonna be yes,
+
+uh, by the way, but,
+
+so let's talk about another business level.
+
+Test payment processors one, one business wanted
+
+to move different, uh, to a different payment processor
+
+'cause they were getting better terms, but they wanted
+
+to make sure that again, nothing was kind of gonna go wrong
+
+with integrations, um,
+
+or payment failure rates, things like that.
+
+So marketing ops
+
+and finance all have a stake
+
+in the performance of this test.
+
+There's a 0% change on this, alright?
+
+So again, now you can kind of go with confidence
+
+and you can say, hey, guess what?
+
+We can actually implement this payment processor,
+
+this new one that we get better terms with
+
+and we're confident that it's
+
+not gonna harm conversion rate.
+
+So next week, if the conversion rate
+
+drops, it's probably a traffic thing.
+
+It's not the actual payment processor, right?
+
+And again, you can also put a dollar to
+
+how much a change will cost you if you need to make it.
+
+Uh, and last one, this is the one that I was uh,
+
+talking about with Andre before, uh, accepting SMS in terms
+
+and conditions before opt-in.
+
+So again, business, the business wanted to test accepting
+
+SMS terms at opt-in at the recommendation
+
+of legal 22% drop in revenue per visitor.
+
+This implementing this, uh, without testing,
+
+it would've cost this business $260,000 per month
+
+in lost incremental revenue.
+
+Imagine doing that from a checkbox, right?
+
+So hopefully that like does like the dare like don't do
+
+drugs thing and scares the living
+
+daylights outta you guys to not do it.
+
+It's like this is like your, your CRO, uh, CRO on drugs
+
+with like the little egg boiler
+
+or the little egg frying, you know?
+
+Um, so the split testing can be
+
+an insurance policy in that scenario.
+
+All right, last little slide here guys.
+
+So, losing tests are really important.
+
+Why is losing tests, uh, important as a concept?
+
+You'll notice here that when we have a loser, we lose, um,
+
+in certain scenarios and then in other scenarios we kinda
+
+like tie loser really just means didn't win.
+
+Um, so we didn't beat the control.
+
+Doesn't mean that we lost a ton of money necessarily.
+
+We just didn't beat the control. After seven days,
+
+generally speaking, we will turn the loser
+
+off, It never loses again.
+
+It's done with winners.
+
+We can let those run for months
+
+and years based until we beat them again.
+
+So this is a scenario where we have a capped downside
+
+and basically, you know, a relatively unlimited upside.
+
+Anytime you see a discrepancy like that, that's a thing
+
+that you wanna be doing, right?
+
+So that's kinda the importance of losing there.
+
+Um, last, some last thoughts
+
+and ends that I kinda already went over from some
+
+of the questions, but, uh, seven days to call a loser.
+
+Unless something is like very, very wrong.
+
+So if a test is losing by like 75%, it probably means
+
+that something is broken with the test.
+
+Not that the test is bad. So check in, check the tech,
+
+check the integrations, et cetera.
+
+Um, in 14 days to call a winner,
+
+at least one business cycle,
+
+85% chance to win is pretty safe.
+
+Um, and tests will generally FlipFlop day to day
+
+through the first couple of days.
+
+So don't be, uh, don't be scared if you see the variant
+
+or the control winning on the first day
+
+and you're like, oh my God, it's a losing test.
+
+Probably not. You know what I mean? It's a lot it play out.
+
+All right, Q and a and then we can hit some action steps.
+
+You guys have any questions?
+
+Any questions? We got luncheon two or three minutes,
+
+but have we got a question before we go?
+
+Okay. Uh, thanks.
+
+I've got an observation.
+
+You, you said something, can you go back to the slide
+
+with like the woman, like the normal looking woman
+
+and the, the sexier looking one.
+
+So I'm, oh,
+
+that was actually me just standing next
+
+to it. Wasn't, wasn't the sexy woman.
+
+Yeah. Um, I'm looking at this way differently, Uhhuh,
+
+but what I see is somebody who's got like a half smile
+
+and someone who looks like genuinely happy to see me.
+
+Yeah. So as a woman I'm like, oh wow, she's beautiful
+
+and blonde and whatnot.
+
+That ad to me is just Yep.
+
+Instantaneously, subconsciously more inviting.
+
+Exactly. And then if you flip forward to the one
+
+with the lots of text and the purple
+
+and the black, the e-comm versus the Yep.
+
+That one. To me, what I see there is
+
+the right hand version is cleaner and easier to see.
+
+Yeah. So I think nowadays we're finding people are spending
+
+less and less time.
+
+So sometimes it makes no sense,
+
+but if you make things very simple,
+
+they're gonna look at it.
+
+And if they're the right audience, they immediately jump in.
+
+Absolutely. Yeah. So I mean there's,
+
+there's different ways to look at why
+
+these things are working
+
+1000%.
+
+And that's like the, the biggest thing with that is like,
+
+remember at the beginning whenever I said
+
+that I would rather have something working
+
+and not know exactly why?
+
+That's exactly why. 'cause we can have a bunch
+
+of different smart people that can
+
+all be right to varying degrees.
+
+Like you might be completely right in the,
+
+in the avatar test, in that image test, right?
+
+In terms of your reasoning.
+
+We could test that as a separate test to find out why,
+
+but in the meantime, while we're doing that,
+
+we're still getting, you know, 34% higher, uh, customers.
+
+Yeah, it is. And also back to what you said about
+
+how you can, there's endless tests.
+
+'cause like, it's one thing Carolyn, we did, um,
+
+that woman's supposed to be in early, like kind
+
+of early thirties, late twenties.
+
+And we tested a woman in her like forties. Yep.
+
+And we tested one in her like early sixties
+
+and they're all like attractive fit, like smiling.
+
+So the youngest woman did what the,
+
+and it went funnily enough, it went
+
+youngest had the best lift.
+
+Yep. Second youngest had the second best lift,
+
+and then third had the, the third best.
+
+They actually all three had a lift, I think, but Yep.
+
+Um, but then she,
+
+but also it's like asking about that we're looking
+
+and I'm like, because he calls it the Sydney Sweeney test,
+
+but my original ai, everyone knows who Sydney Sweeney is.
+
+She's really, um, I dunno how
+
+to really say this without sounding like not pc.
+
+She's very, you know, she's, uh, she is,
+
+she is looking just like Sydney Sweeney.
+
+So like maybe we make them make her look a
+
+little more ex skinny Sweeney, you know?
+
+And then I'm like, well, you know,
+
+blonde was blonde hair better.
+
+What about brunette? Right?
+
+What about like a dark haired girl? What about a red hat?
+
+Like, you know, so there's so many damn things to test.
+
+Yeah. Um, but that's where,
+
+but you're also like, well, we'll take the 34% we
+
+Out After Yeah. And we'll figure out. But
+
+it is interesting
+
+'cause you do want to, I want to know.
+
+Right. But it's a good observations.
+
+Who else has a question? Okay.
+
+It's like a Schrodinger split test.
+
+You can either, you know what I mean?
+
+Yeah. So we are not currently actually selling
+
+through our website.
+
+Right. We run meta short form VSL meta ads
+
+to Calendly booking, and then Carl's
+
+doing a, a sell on that.
+
+Um, call. However,
+
+people obviously when they're doing due diligence,
+
+they may check out our website to research this, et cetera.
+
+Yep. Um, other than our ads,
+
+we're not really doing any testing.
+
+Obviously we're testing creatives in the ads
+
+and things like that from our current standpoint.
+
+What's the first thing that you would
+
+say we should think about focusing on testing?
+
+Do you, when you send to your Calendly booking,
+
+is it literally to like calendly.com/whatever?
+
+Yeah. Alright. Get that on your own domain
+
+and build out like a calendar booking page for that.
+
+And from there you can start to split
+
+test headlines on that page.
+
+You can split test social proof on
+
+that page, frequently asked questions.
+
+You're just getting people ready for that call.
+
+So host that on your own domain
+
+and build like a, a calendar booking style landing page.
+
+Got it. Yeah. Perfect.
+
+Who's next? Okay. Um, I also wanted to mention that,
+
+uh, when it comes to split testing, the landing,
+
+I guess the headlines and stuff like that mm-hmm.
+
+Um, the reason why you might be seeing different, um,
+
+performance metrics on different times and,
+
+and all that on different brands as well is
+
+because of the different types of ads you're running.
+
+Exactly. So, uh, it's a very important thing
+
+that if you're running a certain angle on the ads
+
+and then you are, you'll have a winning variation
+
+on the landing page.
+
+That'll, that is probably
+
+because it's congruent with the ads you're running.
+
+As soon as you switch the ads in an angle, you probably want
+
+to test that landing page again,
+
+or maybe have a different landing page for that
+
+because it might affect your split test.
+
+And that can be completely wrong. Exactly.
+
+So just keep in mind what kind
+
+of traffic you're bringing in into the funnel. Right.
+
+That's exactly right. And ads
+
+and media buying are like this.
+
+They have to be, they're one and the same, right.
+
+It's just, they're, it's too much work for one person to do,
+
+but generally speaking, if one person could do it,
+
+they should be doing it because
+
+it, it, it is that important.
+
+Todd.
+
+Thank you. Um,
+
+what CRO softwares are you testing between right now
+
+With CRO softwares?
+
+Uh, we use a couple clients use VWO uh, convert.com.
+
+Um, those are the main two. They're both,
+
+Is there one that you would recommend over the other?
+
+Not really, to be honest with you. It,
+
+it does really just depend on, uh, pricing.
+
+Like, I think convert.com might be more expensive
+
+or might be at the same pricing now,
+
+but for a while it was cheaper.
+
+Uh, VWO has like a bigger feature set,
+
+but you may not need that feature set.
+
+So really like I would just see like
+
+what plays best currently with your current tech stack.
+
+Um, if you do have a developer, which one do they like more?
+
+Just give whatever they want.
+
+Anyone else on that side? Back to Austin over here.
+
+Let's see. Austin. And we'll do lunch
+
+and then obviously if you're here
+
+all day today and tomorrow, right? Yeah,
+
+Exactly. Yeah. Oh, that's
+
+another thing. Yeah.
+
+If you guys like have questions or want me
+
+to check anything out on your pages
+
+or whatever, just come up and shove your phone in my face.
+
+I'll be happy to do it.
+
+Uh, just wanted to ask what the heat map thing was
+
+that tracked The purchases was software for that?
+
+Yeah, that's literally just called heatmap.com.
+
+There are other ones that are, uh, called, uh,
+
+there's one called Lucky Orange, one called Hotjar.
+
+Bunch of different ones. Um, heatmap.com is cool
+
+'cause you can trick or you can track, uh,
+
+purchases from given clicks.
+
+Right. Whereas, uh,
+
+in a lot of the other ones you can't do that. Okay,
+
+Good.
+
+Awesome. Even though that was great.
+
+I, I love CRO so much. So yeah.
+
+Awesome. Thank you
+
+Guys. I really appreciate it.
+
+Yeah, thank you for sharing.
+
+All right. Give it up for time man. Of course. Thank you.
+
+Thank you. Yeah, you can set that there. Alright, cool.
+
+We're gonna have do lunch.
+
+Uh, do you guys know, I know lunch is outside.
+
+Do we just bring it back in this room and eat?
+
+Okay, so lunch is outside. We'll eat in here.
+
+Lunch goes until two o'clock.
+
+In that two we'll have Morgan Busby talking about, uh,
+
+some wealth building strategies
+
+and going through an acquisition or being acquired
+
+or merger acquisition.
+
+Which one? Both. Both. Okay. Perfect.
+
+So two o'clock, but socialize chat, well eat some food.

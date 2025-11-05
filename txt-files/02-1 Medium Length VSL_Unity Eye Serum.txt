@@ -1,0 +1,859 @@
+Alright, so now let's look at doing a medium length VSL.
+
+So it's gonna be like between 6 and 16 minutes. We kind of started
+
+looking at this with Unity before. Um,
+
+I uploaded the brief, so let's make an 18 minute VSL.
+
+And I started writing this one, right? This one,
+
+if you remember,
+
+we looked
+
+at this in
+
+the brief, like I said, I had like the three phases of, like, aging
+
+eyes. So it was like phase one was crazy.
+
+Pros feet, dark circles, phase three,
+
+losing elasticity. If
+
+you
+
+look at the structure of this, I know I'm just skimming through it.
+
+I think this is pretty good. If I, honestly, what I want to see
+
+here, I'm gonna save this one, cause frankly it was good.
+
+I mean, you need a better lead, but like,
+
+I don't know that it's worth just reading through the whole thing again.
+
+But I'll just show you what I'm thinking. I feel like I gave you
+
+the keys to the kingdom of how to create these, right? Uhm,
+
+what I want to do,
+
+there's a couple things here. First of all, I'm gonna do, like, UnityIsurum, and
+
+copy and paste this one, right? So,
+
+this was pretty soft, right? Again, like, I actually think it was good.
+
+I know we can't go through all of it.
+
+I actually really like it.
+
+The one thing I want to do, is I want to see one that
+
+comes from an anti-aging expert or doctor,
+
+right? Okay, so.
+
+What I'll do here,
+
+let me save this to, I think it's in
+
+here, right? Nope,
+
+it's the old
+
+Give me a second to save this to the right place. Alright,
+
+so that's good. Right,
+
+so I'm gonna upload a cumbersome brief, write it,
+
+give me an outline. So watch this,
+
+okay? As you recall,
+
+the brief, which by the way, in this version of the brief, if you
+
+watched the long-form one, I did add in those,
+
+um, missing ingredients here, right? So I put those in. So I'm gonna say,
+
+like, uhm, I think I'm gonna write it. One
+
+important note, I want this,
+
+so, version to actually not come from Laura.
+
+Let's instead have it come from Dr.
+
+Blaine Schilling. So we'll want to discuss,
+
+or discuss, we'll want to change the spokesperson.
+
+And the background story.
+
+Let's just have it be that Dr.
+
+Schilling is an expert.
+
+He had woman came
+
+into his practice complaining,
+
+uh,
+
+so. Wait
+
+a second. Let's
+
+say a woman. Medical
+
+practice and said something he'd never heard before.
+
+She said she wasn't there
+
+because she felt tired or old.
+
+She actually felt young and full
+
+of life inside. She was there because her skin,
+
+especially the area around her eyes,
+
+uh,
+
+didn't match up with how she felt.
+
+She looked tired and old,
+
+even though she still felt the prime of her life,
+
+wise, confident, empowered,
+
+uhm, actually confident.
+
+She...feel old.
+
+Dr. Schilling was surprised by this.
+
+A dermatologist. He was a,
+
+anti-aging doctor,
+
+but he wanted to help,
+
+so he promised,
+
+to do some research for the lady.
+
+What he covered changed everything.
+
+Think
+
+you think you know about,
+
+Skincare, uh,
+
+skincare, uh, wrinkles, problems, etc.
+
+Cool angle, I think,
+
+because it can talk about how able
+
+to find the truth. Because he was coming at
+
+the problem from an outsider's perspective.
+
+So I'm kinda, I can modify the actual brief on the brief level,
+
+but I can also just sort of do it here, right? Uhm,
+
+so let's see how this goes if I just do it here. Oh f***,
+
+I didn't upload the brief though, so I probably need to do that.
+
+So, my bad. No you haven't.
+
+Shit. So annoying.
+
+I gotta do this again here. Did I download the medium?
+
+Here it is, okay. Alright,
+
+now let's see the outline. Okay.
+
+It is brilliant. I'm
+
+not a dermatologist and that's exactly why I was able to discover what the
+
+entire skincare industry has been getting wrong about eye aging.
+
+Which has everything you need to know about why eye creams have failed you,
+
+you know, the unusual patient visit.
+
+I think in this case I might give it the classic structure again.
+
+I'm gonna say, really good overall,
+
+uploaded my classic sales
+
+letter outline while we were might not be able to go super
+
+in-depth every aspect of
+
+this. I think it helps. Uh,
+
+can I see another version outline that incorporates
+
+things that you think should be added or changed.
+
+Changed based on this, on the
+
+document Cause I don't
+
+want to follow the, I don't want to be in the exact same structure
+
+as the last one. I really liked,
+
+uhm, what I had before. I'm
+
+not sure why Morocco won and Morocco never get crow's feet,
+
+but we'll see.
+
+Okay, let's see. Let's go
+
+ahead and write it. Okay,
+
+now it's gonna write this. Why am I doing it this way?
+
+I know, I'm like, ah! But I'm like,
+
+you know, I gotta remember to explain while I'm recording, right?
+
+The reason I'm doing it this way is because,
+
+frankly, it probably For
+
+me and my VSL, you could test doing it,
+
+like, from Laura or a spokesperson, you know,
+
+test lots of stuff. But,
+
+we probably want to do more like an expert
+
+bee poncho. Okay,
+
+so, now I'll save this outline,
+
+because I like it. So I'm
+
+going to save it
+
+as,
+
+Maybe, uh, like, maybe iserum.vslv2, outline.
+
+Copy paste it. And why are we going to do that?
+
+Because guess what we can
+
+do.
+
+We can run it again in Gemini if we want. I might not, because
+
+I don't want to get bogged down, frankly,
+
+but might as well have it so you won't do that plus the brief
+
+and explain, hey, it's a little bit different, right?
+
+Let's just start reading. I'm not a dermatologist,
+
+and that's exactly why I was able to discover what the entire skincare industry
+
+has been getting wrong about eye aging for the past 80- past- past 30
+
+years. My name is Dr.
+
+Blaine Schilling, and I'm an anti-aging physician. For three decades,
+
+I've helped thousands of patients slow down the aging process and reclaim their vitality.
+
+Like, do I like reclaim their vitality? Not really,
+
+kind of an AI phrase. But I never expected that a single conversation with
+
+one frustrated patient would lead me to uncover a breakthrough that changes everything we
+
+thought we knew about why your eye turns to fility.
+
+If you're a woman over 35 who feels young and full of life on
+
+the inside, when you look in the mirror, the eye area around your eyes,
+
+or the area around your eyes, tells a completely different story, making you look
+
+tired, aged, and worn out, even when you feel vibrant. The one I'm about
+
+to share with you will change everything. Here's where I discovered that no one
+
+in the beauty industry wants you to know. 97% of eye products on the
+
+market today are targeting the completely wrong causes of eye aging.
+
+That's why they won't work. That's why you've spent hundreds,
+
+maybe even thousands of dollars on eye cream, serums, and treatments that promise the
+
+world, but deliver nothing but disappointment. I'm going to show you the real reason
+
+your eyes have been aging faster than the rest of your face. And more
+
+importantly, I'm going to reveal the breakthrough solution that addresses the actual root cause
+
+for the first time in skincare history. Just a few minutes,
+
+I'll tell you about the patient who said something to me that I'd never
+
+heard in 30 years of medical practice, saying that completely changed how I understood
+
+the aging process around the eyes. I'll reveal what I call collagen architecture breakdown,
+
+the hidden structural damage happening beneath your skin that no eye cream has ever
+
+addressed before. And here's the shocking part, everything the beauty industry has told you
+
+about collagen is backwards. You'll discover why expensive department store eye creams actually make
+
+the problem worse by masking the real issue instead of fixing it.
+
+I'll show you the 30 second test you can do right now to determine
+
+if your skin's foundation can still be saved. And I'll explain why women in
+
+certain parts of Morocco never develop crow's feet and has negative genetics.
+
+Now, I know you're probably thinking, Dr. Shaleen, I've tried everything,
+
+nothing works for me. And that's exactly why this breakthrough is so important.
+
+Thank you. The reason nothing has worked isn't because your skin can't be helped.
+
+It's because every product you've tried has been fighting the wrong battle.
+
+I've seen the clinical studies showing up to 39% wrinkle reduction in just four
+
+weeks. I've witnessed the transformation in my own practice and I've reviewed the pure
+
+and I've reviewed the peer reviewed research that proves this approach works when everything
+
+else fails. Before I reveal exactly what this breakthrough is.
+
+Now you can use it to transform the area around your eyes and you
+
+tell you the story of how I discovered it. Because if it wasn't for
+
+one frustrated patient, I refused to accept that looking tired was just part of
+
+being older. This breakthrough might never have come to light.
+
+As I mentioned, I'm not a dermatologist. I'm an anti-aging physician with over 30
+
+years of experience helping patients slow down the aging process from the inside out.
+
+Focus on hormones, nutrition, cellular health,
+
+the medical foundations of longevity and vitality. So Maria walked into my office six
+
+months ago. I wasn't expecting what she was about to tell me.
+
+Most of my patients come to me because they feel tired, sluggish or older
+
+than their years. They want more energy, better sleep,
+
+sharper mental focus, but Maria was different. She sat down in my office and
+
+said something I'd never heard before. Dr. Schilling,
+
+I don't feel tired or old. I feel full of life. I have more
+
+energy than I've had in years. My mind is sharp. I sleep well.
+
+I exercise regularly. But when I look in the mirror, especially on my eyes,
+
+I don't recognize myself. My face, particularly the eye area,
+
+doesn't match how I feel inside. I look exhausted even when I'm not.
+
+I look older than I feel, and it's affecting everything.
+
+My confidence, my relationships, even my career. I was stunned.
+
+In three days, maybe decades of practice, I never had a patient describe the
+
+problem quite like that. Here is a woman who felt young and vibrant on
+
+the inside, but her outer appearance, specifically around her eyes,
+
+was betraying how she actually felt.
+
+journey through the skincare world. She tried everything. Drugstore eye creams, expensive department store
+
+products, even professional treatments. She spent thousands of dollars and countless hours researching,
+
+trying, and hoping. Nothing worked for more than a few days.
+
+The dermatologist kept telling me it's just part of aging.
+
+The dermatologist kept telling me, she said,
+
+Dr. Schilling, if I feel this good on the inside, why can't my eyesight
+
+match? There's got to be something I'm missing. That's when I made a promise
+
+that it would change both of our lives. I told her I wasn't a
+
+skin expert, And I promised to dive into the medical literature to see if
+
+there was something the skincare industry was missing. What I discovered over the next
+
+several weeks shocked me, and it explains why nothing Maria had tried,
+
+and nothing you've tried, has worked. Here's what I found that no one in
+
+the beauty industry wants you to know. And this is good, however. The real
+
+cause of eye aging isn't what they've been telling you.
+
+It's not simply about collagen loss. It's not about dehydration.
+
+It's not about sun damage or genetics or getting older. The real culprit is
+
+something I call collagen architecture breakdown,
+
+happening at what scientists call the dermal-epidermal junction,
+
+the critical boundary where your skin layers meet. Let me explain this in a
+
+way that will make everything crystal clear. Think of young,
+
+healthy skin like a piece of high-quality fabric with a perfectly tight seam.
+
+Every collagen thread in it is in its proper place,
+
+working together to create smooth, strong, beautiful skin.
+
+The weave is so precise and organized that it can hold its shape,
+
+bounce back when stretched, and maintain its structure year after year.
+
+But here's what really happens as we age, and this is where the skincare
+
+industry has been getting it completely wrong. Those collagen threads don't just disappear.
+
+Something far more devastating occurs. The collagen threads become loose,
+
+tangled, and lose their organized structure. Instead of having that tight,
+
+precise weave, your skin's foundation becomes like fabric that's been stretched and twisted until
+
+the threads are all jumbled together. This breakdown begins at the dermal-epidermal junction and
+
+spreads through what scientists call the collagen matrix. When this organized structure collapses,
+
+it creates gaps and weaknesses in your skin's foundation.
+
+And that's when you start to see the visible signs of what I call
+
+architectural failure. The skin's support network can no longer hold its shape,
+
+causing sagging and wrinkles. Nutrients can't travel efficiently through the disorganized matrix,
+
+so your skin becomes loose, becomes dull and lifeless. Dark circles appear as the
+
+weakened structure allows blood vessels to show through the thin
+
+skin. Fluid accumulates in the gaps where organized structure is once provided natural drainage,
+
+causing puffiness and bags. Most importantly, your skin loses its firm,
+
+useful snap because the underlying architecture can no longer bounce back.
+
+Now here's the shocking part. Every eye cream you've ever tried has been attempting
+
+need to add more threads to broken fabric. The trend.
+
+It's to dump more collagen, more moisturizers, more vitamins onto a foundation that's structurally
+
+compromised. It's like trying to fix a collapsed building by painting the walls.
+
+You're not addressing the structural problem, you're just covering it up temporarily.
+
+This is why 97% of eye products fail, they're fighting the wrong battle entirely.
+
+So once I understood that real problem, that the real problem was architectural breakdown
+
+at the dermal-epidermal junction, the solution became obvious.
+
+We don't need to add more collagen to broken fabric,
+
+we need to restore the organized structure of the weaves itself.
+
+That's why I developed what I call the Structural Renewal System,
+
+a three-step process that addresses collagen architectural breakdown for the first time in skincare
+
+history. Here's how it works. Step one, the Structural Renewal System,
+
+or signal. We use a breakthrough compound called dipalmitoylhydroxypropylene that acts like a master
+
+weaver, sending precise signals to your skin cellular machinery.
+
+It commands your fibroblasts to pull those loose tangled collagen threads taut and reorganize
+
+them back into the proper youthful weave. The clinical studies on this ingredient are
+
+remarkable. In peer-reviewed research, participants saw a 32% reduction in wrinkle depth and
+
+a 14% increase in skin firmness in just 28 days.
+
+But here's what makes it truly revolutionary. It's been modified with palmitic acid,
+
+which allows it to penetrate deep into the dermal-epidermal junction where the architectural damage
+
+exists. Step two, the Targeted Repair Complex.
+
+Once we've signaled the rebuilding process, we provide the exact building blocks your skin
+
+needs to rebuild and reconstruct the organized structure. We use precise amino acids,
+
+proline, glycine, and alanine, which aren't random proteins,
+
+but the specific materials that compromise 23% of collagen structure.
+
+Think of it, think of this as providing the highest quality materials to skilled
+
+craftsmen. Your skin knows exactly what to do with these amino acids.
+
+It uses them to rebuild the organized collagen matrix from the inside out.
+
+Step three, the Integrity Locking System. Finally,
+
+we protect your newly restored structure from future breakdown by using compounds that inhibit
+
+matrix meloproteinase,
+
+the destructive enzymes that destroy collagen architecture.
+
+Clinical research shows this approach can reduce collagen-degrading enzyme activity by up to 33%.
+
+This isn't theory, this is proven science. When you combine these three steps,
+
+you're not just treating the symptoms of eye aging, you're reversing the underlying architectural
+
+breakdown that's causing the problem all along.
+
+For the first time, we have a way to restore the organized, beautiful structure
+
+that makes the skin look firmer, healthier, smooth, and resilient,
+
+and the results speak for themselves. I probably would put maybe some testimonials in
+
+there. Once I understood the science behind architectural renewal,
+
+I had to find a product that actually implemented this breakthrough approach,
+
+so I started searching. I looked at every eye cream,
+
+serum, and treatment on the market, analyzed ingredient lists, reviewed clinical studies,
+
+spoke with formulators, and here's what I discovered.
+
+Not a single product was targeting collagen architecture breakdown at the dermal-epidermal junction.
+
+Every single product was still stuck in the old paradigm, trying to add more
+
+collagen to broken fabric instead of fixing the weave itself.
+
+The high-end department store products, they were just expensive moisturizers with fancy packaging.
+
+The clinical brands, they focused on surface exfoliation or basic hydration.
+
+Even the prescription treatments were missing this mark entirely.
+
+I realized if I was going to help Maria and the thousands of other
+
+women dealing with the same frustration, I was going to have to work with
+
+researchers to create a completely new type of formula. That's why I partnered with
+
+a team of cosmetic chemists who specialize in peptide technology and advanced delivery systems.
+
+Together, we spent months working through the challenges of creating the world's first structural
+
+and mineral system. The first problem was getting therapeutic concentrations of dipalmitol,
+
+hydroxyproline, and a stable formula. Most skincare products contain trace amounts of active ingredients,
+
+just enough to plant the label, but not enough to create real change.
+
+We need clinical strength concentrations. The second challenge was ensuring these powerful ingredients could
+
+actually penetrate to the dermal-epidermal junction, where the architectural damage of the skin Most
+
+skincare ingredients stay on the surface of your skin and never reach the deeper
+
+layers where they're needed. After months of testing and refinement,
+
+we finally achieved the breakthrough. We created the first formula that could deliver therapeutic
+
+concentrations of architectural mineral ingredients directly to the DEJ.
+
+After our testing, it was left to patients by practice, including Maria,
+
+and the results were beyond anything I had expected. Within two weeks,
+
+Maria's skin around her eyes started looking smoother and more refined.
+
+By four weeks, the difference was dramatic. Her crows feet and veins visibly softened,
+
+her under-eye area was brighter and firmer, and for the first time in years,
+
+she said she looked in the mirror and recognized herself again. But Maria wasn't
+
+the only one seeing results. Other patients started asking about her transformation.
+
+Word spread through my practice. Soon,
+
+I had dozens of women asking for access to this breakthrough formula.
+
+That's when I knew we had created something truly revolutionary,
+
+and that's how Unity Eye Revice Serum was born. It was the first eye
+
+treatment designed to reverse collagen architectural breakdown using the structural renewal system.
+
+And that's how you get into this close, right?
+
+I mentioned some of the other ingredients. We've enhanced it.
+
+You know. Department store things suck.
+
+Special laser treatments aren't as bad. Never addressed root cause.
+
+It's different. Only treatment that reverses structural damage.
+
+Here's some testimonials.
+
+A small amount. Here's what you can expect.
+
+Supplies are limited. I mean,
+
+honestly, I'm skimming cause it's.
+
+Frankly, quite good, right? Uhm,
+
+let me see. One little thing.
+
+That. I
+
+might get to the part where it goes, let's see. I'm
+
+saying that for this part. That
+
+sure
+
+is a pedo-artifact, though.
+
+this weird thing, but fine.
+
+So, frankly, besides Vitality,
+
+this is, I think,
+
+really good. I honestly don't really have edits to make to it,
+
+to be honest with you. I would test other little leads in front of
+
+it. But,
+
+let's go.
+
+EMI,
+
+Unity,
+
+Icerum,
+
+VSL number 2.
+
+Okay,
+
+this part.
+
+I gotta see what it wrote, so it's weird that Claude did it that
+
+way, but over here. That
+
+was example 1, let's go to example 1.
+
+That's my partner.
+
+Okay, so I'm just
+
+gonna change this.
+
+So it says,
+
+that's my partner of the team at Opal Beauty.
+
+I mean, again, the patient thing, so I kind of,
+
+see if I can use that with Dr. Schilling, having given it to patients.
+
+We've given it to a lot of people, so I'll have to think about
+
+that part. But overall, really good.
+
+I mean, the only other thing, You
+
+know. And,
+
+you know.
+
+I feel younger. One thing I might like to see in this microlead is,
+
+like, a little promise. So I'm gonna share that feedback,
+
+too. Great.
+
+And then one thing I might like to see at
+
+the end of the microlead is a little promise.
+
+I feel
+
+more confident,
+
+basically, future pace.
+
+I also
+
+have to address some Moroccan thing here, right? I think
+
+you need better than this presentation. I think
+
+this is better. Uhm, you know, like, you know,
+
+the vibrant women usually are. What
+
+I might do, because I like Gemini.
+
+Actually, sorry, I'm doing Poe. Because I might
+
+go here. Here's the start of
+
+another, Another version that comes from
+
+Patrick Schilling, uhm, is there anything you'd change or edit with
+
+Let's just see what they say.
+
+So
+
+some of the audience call out, right?
+
+I
+
+don't think we need to rewrite this opening hook. My
+
+name is Dr. Blaine Schilling. I'm an anti-aging physician. For three decades,
+
+my life's work has been helping my patients reverse the clock in aging.
+
+But I never expected the single emotional conversation with one frustrated patient would
+
+lead me to a breakthrough that changes everything we thought we knew about why
+
+your eye creams are doomed to fail you. So if you're 1 over 35,
+
+who feels young and full of life on the inside,
+
+but when you look in the mirror, you're shocked by the sad appearance of
+
+crow's feet, stubborn dark circles, those crepey loose skin that makes you look tired
+
+and worn down, well, I'm about to show you what will change everything.
+
+Uh, in this brief presentation, I'll give you the key to making your eye
+
+appearance find match how you feel inside. There's a scientific reason why those lines
+
+appear overnight, and the simple method you can use at home to visibly smooth
+
+away years of crow's feet and fine lines, brightening the appearance of dark circles,
+
+restoring your youthful snap. Most importantly, you'll never have,
+
+you'll probably have the power to look in the mirror and see the vibrant,
+
+confident look of a woman you know you are, staring right So I like
+
+that, a little bit. A little bit more, so I'm going to switch the
+
+lead out for this Uhm,
+
+the other quick thing is like,
+
+the Morocco thing wasn't paid off right?
+
+Thank you Have day. More
+
+thing, the fascination,
+
+when in Morocco,
+
+and I misspelled Morocco, sorry if people live in Morocco,
+
+isn't really, is very
+
+different, fascination.
+
+We could use an error
+
+that would create curiosity,
+
+but that does get paid off later in the VSL.
+
+I mean, they're not great. I'll show what I have to do to make
+
+the industry terrified. I mean, this is classic scarcity. It works. It's a little
+
+hype- hype-y, but as much as you might not like it,
+
+it tends to work. So I probably would just do that.
+
+So, with that being done,
+
+it's honestly pretty good. I don't really have a lot I want to change
+
+about it. I can still do the same lead process I've shared in the
+
+long-form VSL. That was the video 4 of the long-form example for the Ice
+
+Rim. Uhm, so not necessarily,
+
+like, yeah, I would come up with different concepts, but you don't need to
+
+see me do this endless times. I think you should just play around with
+
+it, and you'll see it. And,
+
+uh, I think we're good. This is the me and the VSL example for
+
+the Ice Rim. Alright, thanks. Goodbye.

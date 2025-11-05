@@ -1,0 +1,1909 @@
+Hello, hello. All right, so this module will probably not be as long
+
+as the product market awareness
+
+module we did, but what we're looking to do today is we're going to
+
+be going through, well, today in this module,
+
+whatever, this section, I seriously don't know the terminology,
+
+I should probably figure that out as I'm recording,
+
+uh, but we'll be going through competitor research.
+
+And a simple prompt that can help with that,
+
+and then looking at the outputs and figuring out,
+
+understanding what's important. Before we dive in,
+
+I do want to share one thing, which is sort of like,
+
+what are we doing here with research?
+
+And it's kind of what I would refer to as,
+
+like, stacking, like having a sort of research stacking note,
+
+right? This formatting doesn't matter,
+
+but you can deal with it, right?
+
+So we looked at, like, the product and market awareness,
+
+right? Now we're looking at competitor research.
+
+Like, basically, what's the value proposition for competitor products?
+
+And what do consumers like and don't like? Those are the primary things we're
+
+trying to figure out in this module.
+
+And then the last module will be around sales. Psychographic research.
+
+So, that'll be, like, the deeper pain points,
+
+uh, that the market faces, their hopes and dreams.
+
+Things that, if you went through the original RMBC,
+
+you might remember from R. Uh,
+
+we're gonna use deep research for those things as well,
+
+though. But the reason we're doing it,
+
+because I think it helps to understand, like, okay,
+
+you know, I'm showing you this cool stuff, but, like, what is the purpose
+
+or the point? The purpose
+
+or the point, I mean, there's a few, but one of the most immediate
+
+ones is that we're trying to, not trying to,
+
+we're going to be creating a document with all of these
+
+different sort of factors, like a research brief.
+
+And what we're trying to do is create a document that is going to
+
+have, or a brief here,
+
+not brief here. like an RMBC, like a copy brief, but like a document,
+
+let's call it, uhm, that has really
+
+all of the research context that we could give to a large language model,
+
+whether that's a project or a
+
+bot, if you do bots, and, uhm, or just in a single prompt on
+
+LM, whatever it is, it's going to really have key pieces of information
+
+that we can share with the LM
+
+as we are generating copy. As you'll see as we get into the copy
+
+generation components later, I typically use Quad to write copy.
+
+I have done that for a year plus now,
+
+and I can, obviously, you can see I constantly test different LLMs.
+
+I think Quad is still the best. You know,
+
+as you go through the RMBC2, you'll see some people who,
+
+I'm sure some of you will go, well, I like this one, I like
+
+that one. It's like, that's fine, right? I don't, I haven't recorded, at the
+
+time of this video, I've not recorded a video about being
+
+LM agnostic, so to speak, but I'm going to put that in the course
+
+earlier on. And the reason why is because.
+
+It kind of doesn't, it matters, I think some LMs are better than others,
+
+but really, there's no magic one LM,
+
+like you, you know, I don't repeat myself cause I'll probably say it in
+
+this other video, but the idea is, you know,
+
+in case you didn't watch that one, you just need to be willing to
+
+use different LMs and see what gets you the best,
+
+you know, outputs and results. And so,
+
+and for some reason, financially, you can't afford one of the LMs or you
+
+don't want to pay for another subscription, fine, use the one you have,
+
+uhm,
+
+but I like cloud for copy for the most part in cloud projects,
+
+so if I'm creating a cloud project, as you'll see when we get into
+
+those trainings in depth, having this,
+
+if I'm creating a project for a specific brand that I'm writing for consistently,
+
+if I'm consistently writing copy and things like that for that brand,
+
+then having this sort of overview document of research can be
+
+really helpful as it informs the copy that cloud produces,
+
+right? And so again, we did product market awareness,
+
+now we're moving on to competitive research and we're going to go through that
+
+in this video. Alright,
+
+so, I'm not, I don't have a really,
+
+like, the reason I said this would be shorter than the product market awareness
+
+one is because I don't have a really long, you know,
+
+lengthy preamble besides the four and a half minutes I've already spent on
+
+this section. Um,
+
+it should be pretty obvious, right? Like, competitive research is just understanding,
+
+okay, what are other people in your space selling similar products,
+
+the one you're going to be writing copy for, creating copy and funnel assets
+
+for? What are they,
+
+how are How they talking? How are they? speaking to the market?
+
+What are the things they're promising? What is the market like or dislike about
+
+them? Now we'll leave it there,
+
+actually. Let's just go right into the prompt and I'll show you what I
+
+mean, okay? So the prompt is pretty straightforward.
+
+I want your help doing competitive research for a product in your
+
+niche or space. The specific product is product,
+
+and we are focused on competitors in the commerce and geography.
+
+Specifically, we're looking for DTC brands to primarily sell online through e-commerce or direct
+
+response sales funnels. For each competitor you find,
+
+I want to understand, we could really bullet these,
+
+and I'll do that for fun here as I'm going.
+
+Who is the target demo they speak to? What are their main new customer
+
+acquisition funnels? because these ones should be boiling.
+
+What
+
+is their core messaging in their ads,
+
+advertorials, and other advertising assets? What are examples of their advertisements or landing page
+
+assets, if available? Are there any recurring or repetitive hooks,
+
+angles, big ideas you see consistently appearing in their advertising assets?
+
+What is their pricing structure?
+
+What do and what do customers dislike about them? Use reviews,
+
+social signals, social media platforms,
+
+etc. to answer this. If available,
+
+what is their estimated overall business revenue and revenue for their hero products?
+
+Are products that are most similar to the one that I mentioned? If you
+
+want to add any more details about the market, similar to our product market
+
+awareness one, you can do that. Please go ahead and get started now.
+
+Okay, so. This is pretty straightforward.
+
+The biggest thing here is with everything I'm teaching,
+
+you can always experiment, so you'll see it.
+
+I've got three examples to go through. The first one I did was a
+
+eye serum, since I'm actually going to write a new VSL for our skincare
+
+brand for eye serum and probably document a lot of that here in RBC
+
+too. So basically.
+
+I put e-commerce or direct response sales funnels.
+
+You'll see it ended up focusing on pretty broad e-commerce type of things.
+
+Now, why does that matter? I'll show you the example in a moment,
+
+but basically I could have also gone with just hardcore direct response,
+
+right? Maybe I even knew some examples that I could have shared.
+
+You can put this stuff in here, and you'll get potentially kind of different
+
+researcher outputs. I don't know,
+
+you know, like, yeah, like, a different report,
+
+different deep research, you know, output.
+
+Uhm, and if you do that,
+
+you know, that might be more helpful to you. So that's, this is where
+
+I'm never going to give you the perfect thing for exactly what you're doing.
+
+I'm going to give you very damn close sometimes, but it's also going to
+
+be upon, incumbent upon you to modify
+
+and experiment and figure out the exact variation of end anything.
+
+I'm sharing that works best. Okay.
+
+So that being said, then let's go ahead and look at some examples.
+
+I want your help doing competitor research for a product in the skin care
+
+space. The specific product is an ice room and we are focused on competitors
+
+in the U S specifically. We're looking for DTC brands who primarily sell online
+
+through e-commerce or direct response sales funnels for the optional.
+
+Here are more details about the market. Let's focus on skincare for women here.
+
+Okay. Please go ahead and get started. I stuck with Gemini for this.
+
+I may have done one with chat to BT too. I don't think I
+
+even liked it as much, but, um,
+
+you could use chat to me to chat, chat,
+
+CBT perplexity. Cloud has a deep research future now,
+
+which I haven't even played with. Cause I'm frankly so happy with Gemini.
+
+I'm like, I don't think I need anything better than that, but we're,
+
+we're going to see here is similar to in the product market awareness,
+
+there's going to be a lot of information,
+
+right? And so what we want to do is we'll kind of go through
+
+these examples and like,
+
+what are the parts that we can really focus on? Okay.
+
+So similar to as before,
+
+it's It's very in-depth, okay? I'm gonna open it up.
+
+Make it bigger. Let's go 150.
+
+I think that'll be fine. Um,
+
+and as I mentioned previously, it's kind of up to you how much you
+
+want to read. I do think this stuff is valuable and when you're doing
+
+it, you know, you're, you're really just doing research for maybe one product or
+
+whatever. So it's not like you're going to have 20,
+
+30, 50, even 10 reports to read through.
+
+Right? Cause it's going to make sort of like key strategic recommendations for new
+
+entrants right into the market. Like, do I,
+
+um,
+
+is this helpful? Kind of.
+
+It is. I mean, I don't know that I need all of it,
+
+right? Okay. It's a dynamic and fiercely competitive space characterized by sophisticated digital marketing
+
+strategies. Like,
+
+sure. Like, is that really helpful for what we're looking for?
+
+What are we really looking for? Well,
+
+it's kind of what I said, I believe, um, here, right?
+
+What's their value prop, what consumers like and don't like.
+
+Okay. So there's an interesting background stuff.
+
+They talk through top funnel, bottom funnel. This is to me is the stuff
+
+that people get weighed down in though,
+
+honestly, where it's like,
+
+I'd only really look at these things.
+
+If you have, the discipline not to get paralyzed by too much information,
+
+right? Like, I don't think this is fine.
+
+But it's not crucial. Key messaging pillars and brand positioning.
+
+In a crowded DTC skincare market, a clear and compelling brand identity is essential
+
+for differentiation. Competitors generally align with one of three dominant messaging pillars.
+
+Science versus nature. Transparency and affordability.
+
+Community and authenticity. Okay? I think these things are interesting.
+
+They're worth noting, but we'll probably see them again later on.
+
+Apart from dominance, blah blah blah blah blah.
+
+Okay. Comparative analysis table.
+
+I like tables because they're the easiest place to get snapshots of things,
+
+right? The following table offers a high-level comparison.
+
+Okay.
+
+So got Drunk Elephant, The Ordinary,
+
+Tool of Skincare, Goisier, Sunday Riley,
+
+Beauty of Josian, and Strivectin.
+
+Okay? It's gonna do Hero Serum,
+
+The Price, Key Active Ingredient, Primary Target,
+
+Core Messaging, uh, and Estimated Annual Revenue.
+
+So we've got Drunk Elephant, we've got their A.
+
+Shaba Complex Eye Serum, $64,
+
+Retinol, Caffeine, Caliber Peptides, Neurographic Skincare,
+
+Savvy Millennials, uh,
+
+Clean, Clinical, Biocompatible, what their revenue is.
+
+Got The Ordinary,
+
+Price Point, Kinda Star Ingredients,
+
+uhm,
+
+what their sort of focus is.
+
+Focused on, right? So this is cool,
+
+it's good to know the pricing, worth knowing about these products,
+
+worth knowing what the ingredients are, things like that.
+
+To me, still not crazy,
+
+crazy, crazy poor. This is where I do think it gets more interesting,
+
+they start doing competitor profiles, okay? So drunk elephant.
+
+If I'm just continue to skim down What
+
+I'm actually most interested in here is core messaging,
+
+okay? Mark it as a smoothing eye serum with 0.1% vegan retinol,
+
+3% caffeine, and copper peptides that targets fine lines and wrinkles and reduces puffiness.
+
+The key marketing messages are smooth and de-puff.
+
+The brand highlights its ability to improve skin elasticity,
+
+promote collagen production, and defend against free radical damage.
+
+Clinical claims are a major part of the messaging,
+
+with statements like 97% showed improvement in under-eye bags,
+
+crow's feet, and dark circles after 8 weeks of use.
+
+We've got the pricing structure and subscription,
+
+what customers love, positive reviews,
+
+reviews frequently praise the serum's effectiveness, many users report seeing an immediate or rapid
+
+difference in the reduction of fine lines, crow's feet, and puffiness.
+
+The lightweight, non-sticky texture is another highlight,
+
+with customers saying that it absorbs well and creates a smooth base for concealer.
+
+The unique twist-to-open pump dispenser is also seen as a hygienic and convenient packaging
+
+feature. What customers dislike. There is a significant and vocal contingent of users
+
+who experience severe negative reactions to the product.
+
+Reddit threads and product reviews are filled with complaints of burning sensations,
+
+rashes, peeling, swollen eyes, and itchy eyelids,
+
+particularly from those with sensitive skin. Another common complaint is that the product pills
+
+or creates a film on the skin, making it difficult to layer with other
+
+skin care or makeup. For some, the product simply yields no visible results,
+
+making the premium $64 price tag feel unjustified.
+
+Okay, uhm.
+
+So, again, if I go back to what am I actually
+
+valuing in the competitor research, it's really just the core messaging,
+
+price awareness is helpful to understand how we stack up depending on the product
+
+we're selling and the price, and what they love and don't love.
+
+That's really all I actually care about,
+
+right? I don't even care about the philosophy,
+
+I don't really care about their target audience that much for this case.
+
+Uhm, that could be valuable, but really,
+
+there's interesting things in here to be sure,
+
+but really, I'm like core messaging and what they love and don't like.
+
+Why am I interested in the core messaging? Because core messaging is really,
+
+what are the claims that they're making, right? If these people are all doing
+
+well in the space, and they're selling to women,
+
+especially and skincare because you know you can talk about targeting.
+
+Millennials, or Gen Z,
+
+or whoever it is, or baby boomers,
+
+but at the end of the day, like, we can kind of assume,
+
+with something like skincare, a physical product that addresses a physical pain
+
+point, the solutions are going to be overall the same,
+
+right? So multiple peptide technologies to help reduce the appearance of crow's feet
+
+and under eye wrinkles, eye bags, puffiness, and dark circles.
+
+Um, they talk about their pricing,
+
+right? High concentration of actives required to address multiple eye area concerns at
+
+once, what customers like,
+
+the value proposition in this case, right? Um,
+
+again, effectiveness in hydrating the eye area, reducing puffiness,
+
+and even lifting sagging eyelids, described as lightweight and non-irritating for most users.
+
+A notable minority of users report negative reactions,
+
+including sagging eyelids. Stinging, burning, or irritation. Sensitivity is often anecdotally linked to the
+
+presence of niacinamide, niacinamide in the formula.
+
+Some users find the product ineffective for their concerns,
+
+okay? Cool. Tula,
+
+same thing. What's the core messaging? Ponent lightweight formula,
+
+and by the way, you might start to notice, like, there's some commonalities,
+
+right? Thank you. Lightweight, uhm,
+
+for fresh and firm, the look of tired eyes. Do you understand how you're
+
+essentially getting, if you're selling a product, like an eye serum,
+
+for example, that's gonna be very similar, uhm,
+
+you're essentially getting, like, all the claims you can make right here.
+
+I paused it for a minute because my daughter came in,
+
+it's a Saturday morning, and I was helping her with a couple things.
+
+She said, tell the fans I say hi, so.
+
+My daughter says hi. But,
+
+again, going back to, like, what are these promises, okay, we're getting,
+
+like, these core promises, which is great,
+
+right? We can kind of know and use these when we're writing copy for
+
+something similar. Also, if they'll love and dislike,
+
+for those of you who did the original RMBC and know the research and
+
+what a mar- One of the questions is sort of, like,
+
+what does the market like about existing solutions and what do they dislike?
+
+So, that's answering this.
+
+We will look at it more broadly when we get to the psychographic research,
+
+the, like, the R, the traditional R.
+
+But, you know, there's still a lot of,
+
+uhm,
+
+valuable insights here, too, right?
+
+and so it keeps going on here but the whole whole
+
+point is just claims, promises,
+
+things like that, what they like and don't like.
+
+And it gives you this whole sort of, like, acquisition channel,
+
+uhm, stuff here, right? So, there's a bunch of these,
+
+which is great. And it gives you
+
+a bunch of additional stuff you can look at,
+
+but, to me,
+
+Thank you. That's
+
+primarily what I'm looking at. By the way, you can just see how many
+
+citations it pulls from, right? It's kind of crazy.
+
+And you could, the problem is there's, there's the fact finder,
+
+right? The fact finder is going to want to go look at all of
+
+this stuff. My personal feeling is
+
+you don't need to. It depends on how much time you have.
+
+If you have all the time in the world, go for it, I guess.
+
+But I'm generally not trying to do all that.
+
+I'm trying to get the high level stuff, which I can get with AI
+
+and Deep Research, which is why it's incredible and how much time it saves
+
+you, right? Okay,
+
+let's look at example number two. In this case,
+
+product in the Airbnb arbitrage space.
+
+You may remember we kind of talked about that as an In this during
+
+product market awareness, the specific product is a coaching program and community shows people
+
+how they can, um, should say lease a property long-term
+
+and then manage it as a short-term rental with the property
+
+owner's consent. And we focus on competitors. We're focused on competitors in the U.S.,
+
+looking for coaching programs, training platforms, gurus who primarily sell online through direct response
+
+sales funnels. So you see how I changed this as you may recall from
+
+the first example, where it was like DTC brands who sell online through e-commerce
+
+and direct response sales funnels. We changed the part here.
+
+This is all the same. Let's go ahead and do it. Oh, I don't
+
+put my little preview link here. So it's going So I'll pop that in.
+
+Got the same thing here. Got my little table.
+
+all that kind of stuff.
+
+Okay. Go and copy
+
+this link. Alright, so look. Comprehensive analysis of the competitive landscape for Airbnb rental
+
+arbitrage coaching programs in the United States, with specific focus on competitors utilizing
+
+online direct response marketing funnels. The market is characterized by a powerful central
+
+narrative, the promise of achieving financial freedom and generating substantial income through short-term rentals
+
+without the need for property ownership. This message resonates deeply with an audience seeking
+
+alternatives to traditional employment and feeling excluded from capital-intensive real estate investments.
+
+Key players in this space have developed a sophisticated and highly repeatable business model,
+
+referred to herein as the Guru Sales Funnel.
+
+This model begins with extensive free content on platforms like YouTube to build a
+
+large audience and establish authority, and then channels these viewers into lead magnets,
+
+typically free webinars, which serve as a primary sales vehicle for high-ticket poaching programs.
+
+These programs range in price from approximately $2,500 to over $10,000 and are often
+
+sold through high-pressure sales calls. However,
+
+there's controversy and skepticism, okay? So,
+
+one really, I think, important distinction to make as I look at this competitive
+
+research component, is this
+
+specific, specific research part is zoomed in more,
+
+right? So, if the product market awareness were like,
+
+I,
+
+you know, the, the, the whipped tallow,
+
+skincare market for whipped tallow, right? So, sort of like,
+
+people who know about,
+
+I would do the eye ceremony, right?
+
+People who know, who don't think they have wrinkles,
+
+not worried about it. People who are noticing fine lines and stuff like that.
+
+People who are looking for solutions to fine lines and things like that.
+
+People who are looking at, like, specifically,
+
+you know, tallow or eye serum, uh,
+
+as a solution. And the people who are, like, you know,
+
+familiar with, like, your brand, uh,
+
+or brands just like yours, really close to buying all that,
+
+right? Those are the levels of the product market awareness.
+
+because here we are, so it starts really broad.
+
+Like, nobody, just everybody who could buy an eye serum.
+
+Then it goes to, like, people who know they have a problem who would
+
+buy an eye serum. That goes to people who are looking for specific
+
+eye serums. That goes to people who are looking for specific peptide eye serums
+
+that may include yours, right? Here we're just sort of,
+
+like, specifically people who are looking for.
+
+We're really, we're just,
+
+we're not, we don't care about the awareness level, we're really focused on specific
+
+products that are similar to the ones that we sell, right?
+
+So in this case, it's like, with the eye serum,
+
+one of those peptide eye serums, uhm,
+
+in this case it's like Airbnb arbitrage coaching.
+
+It's not people who are looking for unaware, it's not that, right? So we're
+
+zoomed in more, people are really focused on really looking for this stuff,
+
+right? So it's got this sort of sales funnel breakdown,
+
+which is pretty accurate, to be honest with you.
+
+There's some interesting stuff there, their whole value ladder.
+
+Uhm, those are the big ideas here,
+
+it's worth noting this, it didn't really do that as much with,
+
+uhm, the eye serum. So,
+
+financial freedom without property ownership, escape the nine to five dream.
+
+Automative, automation passive income,
+
+stuff like that. Yeah.
+
+What people dislike about these things.
+
+This would be worth, this is, it's so hard because I do feel like,
+
+you know, part of this is skimming, because like, I think this is an
+
+interesting, worthwhile note. The co-host team pivot as a market indicator.
+
+An observable trend among more sophisticated competitors is a strategic pivot in messaging
+
+moving from a singular focus on rental arbitrage to a blended messaging approach.
+
+The model that heavily emphasizes co-hosting or property management.
+
+Programs like 10x B&B and thought leaders like Derek Taylor,
+
+whose model is analyzed in reviews,
+
+are increasingly promoting co-hosting, managing other people's properties for a percentage of the revenue
+
+as the ideal entry point. The shift is not arbitrary,
+
+it is a direct response to evolving market dynamics.
+
+Pure rental arbitrage is capital intensive.
+
+For each unit, the operator must have funds for the first month's rent,
+
+Thank for joining us. Period deposit, furniture, setup costs,
+
+which can easily exceed $10,000 to $15,000 per property.
+
+That's a big barrier of entry. As the market becomes more saturated and long-term
+
+tenant, uh, rents continue to rise,
+
+the potential profit margin for arbitrage is being compressed,
+
+making it harder to find deals that are financially viable.
+
+The co-hosting model elegantly solves this problem.
+
+It requires a load of note from capital from the operator as the property
+
+owner bears the cost of the property the barrier to entry.
+
+Co-hosting also shifts the primary risk. Instead of being liable for a long-term lease,
+
+the co-host risk is primarily reputational.
+
+It's a service business, not a lease-holding business.
+
+Therefore, the pivot towards co-hosting is a strong indicator that the market is maturing.
+
+Okay? So, worthwhile. Now let's do the in-depth competitor profiles,
+
+okay? High ticket arbitrage.
+
+Co-hosting platforms. Sean Radkevich,
+
+million-dollar renter, Airbnb Automated. One of the most visible and polarizing figures in
+
+the space, operating under the million-dollar renter and Airbnb Automated brands.
+
+His business model is centered on rental arbitrage with a heavy emphasis on systematization
+
+automation. His entire business is built upon a massive YouTube presence,
+
+which functions as the core of his sales funnel, attracting hundreds of thousands of
+
+subscribers with the promise of free in-depth training.
+
+Target audience, cool,
+
+core acquisition sales funnel. Let's get to core messaging and hooks,
+
+right? Great news. Even though we just went through all this stuff and you're
+
+like, well, wow, this is kind of different than the ICERM one.
+
+I think it's worth reading through these to kind of make notes that there's
+
+interesting insights to be gleaned here,
+
+but ultimately messaging what they love,
+
+what they dislike, right? So,
+
+his primary hook is a promise of unparalleled value,
+
+stating his free playlist has more free value than any other course in existence.
+
+This is designed to build immense trust and authority before a sale is ever
+
+attempted. He uses simple, direct benefit statements like make money from home,
+
+literally, to make the opportunity feel accessible. A key and highly controversial part of
+
+his messaging is his advice to students to not explicitly disclose their intent to
+
+use a property for Airbnb to landlords. Framing this unparalleled value off execution as
+
+a sales tactic, this has become a defiant feature of his brand,
+
+attracting some while repelling many, uh,
+
+as well. Okay. What customers love,
+
+supporters are drawn in by his killer free content on YouTube,
+
+which they find genuinely insightful and valuable,
+
+promoting basics of the business. They view him as an authentic entrepreneur who has
+
+achieved significant success and is willing to share his knowledge.
+
+Dislikes the negative sentiment.
+
+He is extremely strong and widespread within the experienced host community.
+
+He's frequently labeled a scam, a disgrace,
+
+and a sleazebag for his unethical advice regarding landlords.
+
+Critics point to his own publicly visible Airbnb profile,
+
+which reportedly shows low host ratings,
+
+a 4.41 average, numerous bad reviews, and low occupancy rates,
+
+as evidence that his primary business is selling content, not successfully operating rentals.
+
+10x B&B.
+
+Core
+
+messaging focused on practical application.
+
+Most courses sell you ideas. 10x B&B sells you execution.
+
+This directly counters a major criticism of competing programs.
+
+They heavily market their private Facebook community as a secret weapon,
+
+emphasizing the value of real-time support from coaches and peers.
+
+The co-hosting model is framed as a low-barrier-to-entry strategy.
+
+Making the dream of starting an AirBnB business feel more,
+
+much more attainable and less risky. Uhm,
+
+we have these other tiers. What do people love? What do people not like?
+
+Uhm, it's worth noting that these guys,
+
+Is
+
+that they do have overall pretty positive feedback.
+
+So if I was trying to study some competitors before I dived in,
+
+or dove in, I might look at them,
+
+okay? Preston SEO Core
+
+messaging Builds
+
+himself by branding himself as an eight-figure investor.
+
+His content often uses hooks like nine tax secrets to wealth he used to
+
+create a sense of exclusivity and insider knowledge.
+
+The naming of his bridge method serves to package his teachings as a unique
+
+proprietary system that can't be found elsewhere. What they love,
+
+what they dislike, more about what they dislike here.
+
+Calvin Tran Most powerful
+
+hook is his personal glow-up story from a physician assistant,
+
+student with $900,000 in debt, to an entrepreneur allegedly making over $200k a month.
+
+You know, the one thing that I think is missing here,
+
+that wasn't missing as much from the, uhm, From
+
+the iCerm one is that we're not getting as much of the specific promises.
+
+But that's okay, we'll be able to figure those out more from,
+
+uh, the psychographic things. But what I might try doing,
+
+if I were to be completely honest with you, okay, so we've got,
+
+like, just, you know, all these, a lot of examples, which is cool.
+
+There's
+
+still good stuff here, right? A sneaky, ethical way to make money with properties
+
+you don't own, and to do it without having to get mortgages. Like,
+
+there are still some promises here. Let's go back up to the person before,
+
+Kedra. Yeah,
+
+there's a modest income claim, right? There still are claims here,
+
+but one thing I might do. Let me finish this and I'll tell you
+
+what I would do. Okay,
+
+they've got the little boxes here. Core messaging hook.
+
+More free, uh, value than any course.
+
+We sell execution, not ideas. Bridged method,
+
+tax secrets, they're glitzy. Luxury lifestyle story.
+
+Multipurpose space. Passive income and affordable alternative.
+
+Made simple and focused on staging.
+
+Secret sauce. Endorsed by Grant Cardone. And that's sort
+
+of the end of this
+
+one. Now, one thing I might consider doing if I modified this.
+
+Know this now.
+
+I might also go,
+
+uhm, like, should
+
+we have some core messaging here?
+
+Core promises they make to prospective
+
+customers. Value props.
+
+Language they use in selling their
+
+programs, etc. And we could also honestly
+
+do this with, like, our initial Gemini output.
+
+Okay, so we have this here. I go,
+
+great, thanks. for each of the arbitrary
+
+values. Project businesses featured.
+
+I set the research enabled where I hit that. Okay,
+
+so I did that. So,
+
+of course, there's a breakdown, but I think it's still taking things from the
+
+report all the way, or in a lot of contexts here,
+
+like the more free value thing,
+
+right? There's some more things like make money from home,
+
+literally. They had that before, actually, uhm,
+
+proven techniques and secret knowledge, six proven techniques to pitch landlords on Airbnbs,
+
+and two awards every landlord wants to hear, uhm.
+
+I mentioned the bridge method, I mentioned this, so what I would do, again,
+
+is
+
+be like, okay,
+
+thanks, however,
+
+I'm really looking for this specific phrases,
+
+claims, verbiage,
+
+use. Uhm,
+
+basically if I were selling
+
+an Airbnb arbitrage,
+
+I'd be looking for phrases.
+
+Sentences,
+
+fragments, that we see
+
+these folk, these competitors clearly use.
+
+I'm just to see if this is better or not.
+
+I'll
+
+come back after it loads this. Alright,
+
+so there's gonna be more stuff. But
+
+to be honest with you, I'm not going to. I'm not what I want
+
+on this, and that's okay. That's not really the full point here.
+
+Like, we know the competitors. We kinda know what people like and dislike. We
+
+do have some value props. We'll get more language later on.
+
+But let's also do this.
+
+Going back to being multi-modal. Here's what I,
+
+like, Thank you. I
+
+did. Now, we might get different competitors if we do chat GPT,
+
+but what I want to do is basically run it in chat GPT.
+
+So, I gotta make that, I'm gonna
+
+go back to Othro, O, O3,
+
+bro. Deep Research.
+
+And, for fun,
+
+let's go use Perplexity as well.
+
+I'm gonna use Deep Research here.
+
+The reason why is because I do really want some specific phrases.
+
+And,
+
+well, I'll Gemini is doing great so far. I'm running into a roadblock.
+
+What happens when I run a roadblock? When I hit a roadblock?
+
+Usually I just go try out for a different LLM. So,
+
+this is kind of like a normal thing I do.
+
+It's funny, Anaya is here. Uh, she was my,
+
+uhm, she was like a nanny babysitter for us in Vegas years ago,
+
+but then her and Bryson uh,
+
+started their own Airbnb company,
+
+did really well, and they actually got to join CA Pro, uhm,
+
+my mastermind, which is a crazy full circle thing,
+
+right? Uhm,
+
+one thing I kind of don't like with deep research from ChatterGBT is it's
+
+always asking for follow-up questions,
+
+uhm.
+
+So
+
+it's saying, what price range is your own program, well I don't have a
+
+program but I'll say it's a high-tech mastermind. Do I want to include both
+
+individual influencers, gurus, and structured platform brands?
+
+I'll say both. If I focus exclusively on programs teaching the arbitrage model,
+
+should I include general short-term rental coaching programs as well?
+
+I'm looking for claims and stuff a lot. We could say,
+
+uhm, general short-term coaching
+
+programs are fine for,
+
+so it's super annoying because I'm like in the U.S. and it's like, are
+
+you only interested in U.S.? But I'm like, yeah, I said U.S.,
+
+U.S.-based. I'm just gonna put like,
+
+yeah, anyone who targets U.S.
+
+U.S. customers and the
+
+U.S. market.
+
+Okay, Perplexity is doing all of its stuff here,
+
+which is cool. This
+
+is going here, so let's give it a few minutes and see what these
+
+guys come back with. Okay,
+
+so Perplexity came back with their results. Target Demo,
+
+Acquisition Funnel, Quit 9 to 5,
+
+Achieve Financial Independence to Zero Property Investment,
+
+Learn how to build a 7-figure self-running Airbnb business,
+
+Start with Zero Units, Zero Industry Experience,
+
+and Zero in Revenue. Emphasizes automation and done-with-you approach rather than just information.
+
+But,
+
+see, it's kind of weak on the customer feedback, Perplexity, but the claims are
+
+actually good. Um,
+
+some key value propositions are also good. Blake Roka,
+
+Core Messaging. See,
+
+they just keep going to the people. The problem with the gurus is they
+
+go so much to, like, what the guru's messaging is. That's just kind of
+
+a pain in the butt here. How to build a growth
+
+six and seven figure business through short-term rentals without training time for money.
+
+So I think if you did Perplexity and you kind of,
+
+and I'll make sure to share this as well. Um,
+
+this will help you with, like, getting additional sort of claims,
+
+promises, value props, things like that.
+
+So this alone is probably good enough for us for now.
+
+Um,
+
+and I'm glad I'm doing this live because, again, I wish I could see
+
+the magic. This simple thing works every time and most of the time it
+
+does, but it's good to see what happens if,
+
+like, you're not getting what you want.
+
+Right? In this case, that report from Gemini didn't really give me exactly what
+
+I wanted. Right? So we could try running it.
+
+When you try running it, if you did this example,
+
+you know, I did add this question to this example and
+
+now if I still start with Gemini, but if for some reason Gemini was
+
+not doing well, I might go to Perplexity and we'll see eventually what,
+
+you know, uh,
+
+what ChatsDBT has to say as well. So you can always come back to
+
+that. In the meantime, though,
+
+let's go ahead and move over to our last example.
+
+So our last example we did was for the golfing space.
+
+Cheers. I decided, you know, I was thinking about performance golf and,
+
+uh,
+
+was it top speed or full speed? I don't know. Just the different golf
+
+people, right? But, um,
+
+to compare research for a product in the golfing space,
+
+the specific product is a special new driver that promises to fix a golfer's
+
+slice, give them a draw, add 30 plus yards to their drive in the
+
+U.S. market. This is sort of like the core promise of the vast majority
+
+of golfers. Right. Um,
+
+notice I changed this a little bit. Well,
+
+I guess I'm about to DTC brands who primarily sell online through e-commerce or
+
+direct response sales funnels. I did add more details here,
+
+right? This is the optional more details. Let's focus on amateur golfers.
+
+The market is not for professionals here. Go ahead.
+
+Okay. Okay,
+
+so. Back to Gemini for now has
+
+the whole port. We'll go look at it in the dock versus something else.
+
+I don't mind usually looking at this first overview.
+
+Okay. The market for golf equipment aimed at amateur players is driven by potent
+
+combination of aspiration, frustration, and the pursuit of enjoyment for the vast majority of
+
+golfers. The game is a constant battle against inconsistency with two specific pain points
+
+dominating their experience, a lack of distance off the tee,
+
+and the persistent confidence-destroying slice.
+
+The slice in particular is more than a technical flaw.
+
+It is a source of profound frustration that can ruin a round and undermine
+
+the enjoyment of the game. The psychological vulnerability creates a fertile ground for products
+
+that promise a solution. The amateur golfer is often caught between the high cost
+
+of premium equipment from original equipment manufacturers,
+
+and the desire, the desire for a product that can tangibly improve their performance
+
+and make the game more fun. Within this landscape,
+
+several key consumer personas emerge, each one with distinctive motivations that DTC brands are
+
+strategically targeting. They have the frustrated slicer,
+
+the value-seeking improver, and the casual lifestyle golfer.
+
+So, is this crucial to what we're doing?
+
+Because we already do psychographic research, remember, right?
+
+No, I think it's interesting. It's cool. I would probably look through it,
+
+but let's get to our specific kind of,
+
+uhm, examples, So,
+
+we've got a few here. Performance golf.
+
+What's their core messaging? The world's first slice-fixing driver made for amateurs fixes your
+
+slice without changing your swing. There's bomb-tech golf.
+
+Premium pro quality without the price. We don't pay pros to play our clubs.
+
+Cheers. Premium golf clubs for affordable prices.
+
+Clean, Nordic design. High quality handcrafted clubs at a fair price by cutting
+
+out advertising and retail markups. Sleep minimalistic modern clubs at a good price,
+
+making golf more accessible.
+
+Can I show you something very funny? So,
+
+obviously, I know the performance golf guys really well, Donnie and Brixton and everything,
+
+right? In fact, they really attribute a lot of their success to attending
+
+the very first CA pro, or is the second CA copy starter mastermind,
+
+like live event thing we did, uh,
+
+in Vegas, right before COVID, but that's
+
+actually where they met their media buyer, uh, David O'Connell,
+
+who was doing the Google ads module,
+
+uh, for RMPC2. So it's funny how such a small world,
+
+but think about, I want you to, I want you to notice something when
+
+people shit on dress for some response. Okay.
+
+What's performance golf revenue. So we're a hundred million.
+
+What's their core messaging, super specific,
+
+direct response, promise, bomb tech golf,
+
+eh, quality price. You know, what's their revenue to come with off a premium,
+
+affordable, clean design. Okay.
+
+Right. Sub 70 high quality. We don't know their price.
+
+Six million. It's golf sleep, minimalistic, modern clubs, formulate.
+
+Do you see my direct response wins? I have a 41 minutes into the
+
+video and this is such a good insight.
+
+And so I do wonder like, you know,
+
+I know how people watch all these videos, but I think this is actually
+
+just like the best. It's such a good, powerful insight here.
+
+Um, okay.
+
+So there's that. I've got the,
+
+you know, playbook. They start performance golf here.
+
+Performance golf in the slice fixed playbook. Um,
+
+most direct and formidable competitor to a new product promising to fix the slice.
+
+They have a clear playbook on how to tap into the amateur golfer's deepest
+
+frustrations while their vulnerabilities reveal a significant opportunity.
+
+Uh, oh, Donnie and Brickson.
+
+Our target persona of the frustrated golfers. Slice slicer seeking a magic bullet performance
+
+golf marketing is laser focused on the frustrated slicer persona.
+
+Their entire messaging framework is built to resonate with golfers who feel their slice
+
+is an insurmountable obstacle to enjoying the game. The copy on their sales pages
+
+speaks directly to this despair, promising a simple product based solution that requires no
+
+effort from the user phrases like let the F1 do all the hard work
+
+for you and fix your slice without changing your swing or design to improve
+
+appeal to desire for an instant fix, bypassing the arduous process of lessons and
+
+practice. They explicitly state the driver is made for amateurs,
+
+not the pros, which reinforces the idea that this is a specialized tool for
+
+the common player's most common fault. This target approach has allowed them to capture
+
+a massive segment of the market that feels ignored by OEMs focused on tour
+
+level performance. okay how do they acquire customers blah
+
+blah blah but then we also have here the big idea Verola's
+
+first slice fixing driver made for amateurs,
+
+right, position is brilliant in its simplicity and power,
+
+immediately establishes the product as unique,
+
+specialized, and dedicated to solving the single biggest problem for its target audience.
+
+Core promise, the promise is one of immediate and dramatic transformation.
+
+Language like instantly fix your slice and go from weak slices to hitting flush
+
+straight shots and even baby draws just after one shot is used repeatedly.
+
+Right, mechanism of action that I bought their,
+
+you know, square face technology, uhm,
+
+authority and social proof.
+
+Have their pricing, guarantee,
+
+they bonus stack things, right, what customers love.
+
+Marketing promise is so potent that when the driver delivers,
+
+customers are ecstatic. Positive reviews and testimonials. Testimonials often speak of newfound confidence,
+
+hitting fairways for the first time, and a renewed enjoyment of the game.
+
+These success stories are powerful and fuel the brand's marketing engine.
+
+What customers dislike. A considerable volume of negative feedback exists on third-party platforms like
+
+Reddit and Amazon, highlighting several recurring and serious issues.
+
+Most common complaint is that the driver simply does not work as advertised.
+
+Many users report that they still hit a slice, with some claiming it made
+
+their slice even worse. Poor quality and durability.
+
+There are alarming repeated reports of poor build quality.
+
+Users describe the club as feeling cheap and hollow.
+
+Most concerning are multiple accounts of the driver's face caving in or cracking after
+
+very little use, suggesting a fundamental fault in materials or construction.
+
+Performance deficiencies. Beyond the slice, some users who purchased the driver reported a significant
+
+loss of distance, with one user claiming a 20-yard drop compared to the previous
+
+Callaway Paradigm driver. The Trojan horse perception.
+
+A growing sentiment among dissatisfied customers is that the FS1 driver is not the
+
+company's primary product, but rather a Trojan horse or lead magnet designed to get
+
+customers into their main business. A high-priced recurring subscription for their digital training platform
+
+and app, this perception breeds resentment and damages brand trust.
+
+Despite the negative feedback on product quality, the financial success of Performance Golf is
+
+undeniable and serves as the ultimate validation of the market's desire for slice-fixing solutions.
+
+Whatever. But, this is back to, like,
+
+kind of, like, the serum, and obviously we're not doing beauty products here,
+
+this is a physical product, like, a tool,
+
+uhm,
+
+but we got good stuff, right? We got, sort of, like, big ideas,
+
+core promises, we got what people like and what they dislike,
+
+so things we could shit on, if we were trying to do competitive performance
+
+golf, like, we could talk about, you know,
+
+addressing these things as objections, right?
+
+And so on. Uhm,
+
+now we're on bomb tech golf, right? Target,
+
+demo, cool, core messaging,
+
+premium pro quality about the price. This one's got,
+
+you know, Joe Rogan.
+
+Generally positive customer feedback, whatever.
+
+That was not super in-depth, which is why I kind of skipped through it.
+
+Here's
+
+for another
+
+one,
+
+I mean, overall positive, feels as good, if not better, than I think I've
+
+hit. That's a good phrase, right, you could use. However,
+
+a notable and recurring complaint specific to their driver is the extremely loud and
+
+unpleasant sound at impact, which has been dubbed the cowbell by some YouTube reviewers.
+
+Some reviews mentioned concerns about build quality consistency,
+
+build quality consistency, suggesting some customers may need to have their clubs checked and
+
+adjusted by a professional club builder after purchase,
+
+adding hidden costs. But
+
+it's interesting, these other competitors, how they don't have the pain points and the
+
+specific promises like as aggressively,
+
+right, like affordable price,
+
+high quality materials. Okay, fine.
+
+and there's the legacy brands,
+
+primary anti-slicing technology. Adjustability,
+
+face technology, key materials, core promise.
+
+But here it does have core promises from the other brands that weren't mentioned
+
+above, so this is valuable and why I like tables. Right,
+
+fixed slice, creates draw, adds 30 yards, fixes your slice without changing your swing,
+
+incredibly easy to draw, straight out, wayward drives,
+
+extreme forgiveness, confidence inspiring design,
+
+among the best for keeping the ball on the left side,
+
+high forgiveness. Okay, cool. So, there's our,
+
+There are some more things we can use there, and it's gonna make some
+
+recommendations on strategy and things that we don't really need.
+
+So, personally, I'm probably good with this, but,
+
+as you just saw, you could take the same prompt,
+
+or that follow-on prompt, and run it in Perplexity,
+
+right? What we did is we just took, for the Airbnb one,
+
+the same prompt, but with this sort of additional thing here,
+
+so we could just take something like that, add it to Perplexity.
+
+Golf,
+
+right? Let's try that out, just to see how that goes. Okay? What are
+
+the core Basically,
+
+if I were selling a, uhm,
+
+new golf club that adds distance and
+
+fixes a golfer's slice,
+
+I'd be looking for, uhm,
+
+phrases, sentences, fragments that we see competitors repeatedly using that I can use as
+
+well. Please go ahead now. Right? Let's go ahead. Why not?
+
+Let's run that and perplexity2.
+
+There's a perplexity also. Not that there's a perplexity2 to know about.
+
+Uhm. Alright,
+
+export
+
+that as a document.
+
+Pause it. Okay, so I'll save this as a Google Doc. And
+
+then let's do a new. Deep research here.
+
+Okay, this is for the goth one, just so we can see.
+
+Now while we're waiting for that, hopefully this won't confuse you too much,
+
+but. Let's go to deep research for the.
+
+Airbnb stuff, let's just see what it came up with,
+
+right? It's gonna be a table,
+
+that's awesome. That's always what I'm most curious about at the gate,
+
+because tables are super easy. It's not,
+
+okay? Kind of annoying, but I like what Gemini does,
+
+it's gonna be a table. Uhm, no property needed,
+
+use other people's homes,
+
+quit your 9-5 Airbnb. B,
+
+rental overcharge can generate six-figure income fast.
+
+Learn Airbnb arbitrage,
+
+no experience or property needed. Our founder earned 301k,
+
+his first year at Airbnb, learn how to get started.
+
+Financial freedom from using other people's properties,
+
+make six figures on Airbnb in months, but a business that runs on autopilot,
+
+There's feedback, it'd also be helpful.
+
+But zero down real estate,
+
+control properties you don't own, so this is good,
+
+though. ChatGBT is giving me a lot of additional messaging.
+
+I could probably do the same thing for performance golf and get it, right?
+
+So I'll share this example, too. So in that case for the Airbnb
+
+stuff, we found that Gemini was decent at an overview,
+
+but you could argue there's better stuff in ChatGBT,
+
+and this is why I like to say to test different things. Different LLMs,
+
+and even run the same prompt in different LLMs. I do that constantly,
+
+all the time, right? Perplexity is doing this golf one here,
+
+so let's see what Perplexity does for golf,
+
+and then we'll wrap up this module, which, by the way, is turning out
+
+to be as long as the other one. However, the difference being there's not
+
+a second video. This is the main video.
+
+After this, we'll get into psychographic research, then we'll get into kind of stacking
+
+everything together. Later,
+
+you'll also include specific stuff about it.
+
+Like, ingredient research, and, uhm,
+
+other things like that, too. Uh, you know, as later modules.
+
+Okay, thanks. Okay,
+
+let's look at Perplexity real quick, too, right?
+
+So, we've got bomb check again,
+
+Great cost of fortune, fix for slicing at distance.
+
+Significance,
+
+slice reduction, distance gains, great customer service,
+
+value, PXG,
+
+assigned success, explosive distance,
+
+beyond forgiving, blazing fast ball speed.
+
+So, there's some good phrases here. Sub-70.
+
+Accurate
+
+claims, Encore, strength in longer drives,
+
+9% of golfers who try are surprised by outstanding performance,
+
+performance improvements in distance and accuracy.
+
+So, in this case, perplexity is, like, okay.
+
+Okay, right? So,
+
+let's go ahead and run this prop one more time in Deep Research
+
+of ChatTPT and see what we get.
+
+3.0 Pro,
+
+this, run Deep Research,
+
+go. I'll be back to show you the outputs of this one as well.
+
+All right, real quick, because it did take me a this ChatTPT thing where
+
+I ask clarifying questions. 4.
+
+Do you want competitors that only sell drivers or are any other glove clubs
+
+or swing improvement equipment okay too? Uhm,
+
+yeah I'm gonna do, let's focus on drivers for now,
+
+but, uhm, or swing improving equipment
+
+specifically related to longer drives.
+
+Okay, 2. Are you looking for brands
+
+with similar value props or notable DDC golf club sellers?
+
+Focus on similar value props. 3.
+
+Are there any brands you are already aware of that I should include or
+
+exclude? I said you can include performance golf but also any others.
+
+4. International brand, oh sorry,
+
+do you want only US based brands or international brands selling to the US
+
+are okay too? International brands selling to the US are fine.
+
+Okay, so that's that as it goes to do its thing.
+
+Alright, this, I feel like this took longer than 7 minutes,
+
+but here's the deep research report so we can just sort of see what
+
+they have here. They mentioned performance golf,
+
+uhm,
+
+repeatedly promised that a slice can be eliminated after just one shot on the
+
+range at 20-30 yards of accurate distance,
+
+uhm, Complex swing prompts have simple fixes,
+
+5-minute practice swing sequence is touted. They're talking about the one-shot slice fix,
+
+yeah, which is not a driver, but of course. Uhm,
+
+make, make slicing virtually impossible.
+
+Instantly create a deadly accurate straight shot or perfectly shaped draw that flies an
+
+extra 20-30 yards further. The exact opposite of everything you've been told,
+
+question every claim.
+
+Longer, straighter drives,
+
+talking about the one-shot slice fix again.
+
+Bold claims, shape 8-10 strokes from your scorecard,
+
+testimonials, uh,
+
+I'm going to scroll down a little bit here because I want to get
+
+to other competitors I may have mentioned.
+
+Bunch of Core Promises again here, this Bomb Tap.
+
+Bomb it past
+
+your friends,
+
+dual-cavity head design, producing big hits,
+
+uh, hooks and slices.
+
+So they obviously are less aggressive,
+
+but like, we do get some notes here.
+
+Dangerously accurate in the forgiveness.
+
+So, it's good to know, right, if you aren't getting what you need with
+
+Gemini, I probably would honestly, personally skip Perplexity and go right to Chat GPT,
+
+cause I feel like, uh,
+
+this is sort of like, giving me the best stuff here.
+
+And I'm gonna show you this example as well, I'm not gonna go through
+
+every single piece of output,
+
+but like, you can see,
+
+like, here's, here's next, we're getting these, uh,
+
+kind of claims that we would want and that we could use, so,
+
+in this case, we had to do, like, uhm,
+
+you know, a few different LLMs to get what we needed to,
+
+but we got there, right? Thanks. So I will share this as well,
+
+so we have this, okay? Uhm,
+
+and this is gonna conclude our module, I will,
+
+in, you know, after the psychographic one,
+
+I will go through and we'll basically look after that about how to put
+
+everything together, how to stack the awareness,
+
+these sort of claims that people like and don't like and then
+
+I'll see so the psychographic stuff to have like a full-on
+
+research brief that we can use. I'll show you later too, by the way.
+
+You don't have to do all of this, to be completely honest with you.
+
+Like, I've written a winning copy where I,
+
+I'll show you some, some lazy shortcut secret ways later that just skip
+
+everything here, but this is a good way to do it.
+
+It is good but I it helps
+
+to understand, especially the product. I honestly would not skip the product market awareness
+
+thing unless you really know that you know the answer to that.
+
+I think this is a big mistake I've been making recently that I,
+
+since correcting, I've seen better results with. But there's
+
+other shortcuts, but this is like the really,
+
+the longer but really in-depth most ideal way to do this.
+
+So, anyway, we'll go,
+
+I'll see you in the next module on the psychographic stuff,
+
+and then we'll go to stacking it, and like I said, before or later,
+
+we'll get to, like, you know, I'll get bonus research modules on,
+
+like, research, existing customer data, things like that too,
+
+that you can also utilize, okay? Uhm,
+
+alright, thank you so much. Bye.

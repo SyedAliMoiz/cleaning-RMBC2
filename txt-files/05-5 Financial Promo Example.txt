@@ -1,0 +1,539 @@
+Okay, so one more example on the brief side.
+
+So, I wanted to do a financial one,
+
+and you know,
+
+I thought it would be interesting to see how
+
+this would go. So I took the, uh,
+
+Secret Trust Fund VSL from Agora, which I included the breakdown of with the
+
+long-form VSLs, and basically same thing,
+
+I told Gemini, hey, I'm doing the course, like,
+
+I'm working on a long-form copy, I want to do an example in the
+
+financial space, I'm going to upload the transcript from Winning VSL,
+
+come up with a hypothetical offer for the financial space that's kind of similar
+
+to this one, but different enough to be used for teaching purposes,
+
+can you share some ideas, give me some ideas,
+
+like the Digital Iron Curtain, the AI Energy Paradox,
+
+the Genetic Royalty Revolution, I think that was the last one,
+
+And I. I liked this one the most, which was like,
+
+For decades, Big Pharma has made fortunes from one-size-fits-all drugs that treat symptoms but
+
+rarely cure diseases. That entire model is about to become obsolete thanks to a
+
+technological breakthrough. Gene editing and personalized medicine,
+
+a handful of biotech firms have secured patents on the core genetic platforms that
+
+will allow them to create cures for everything from cancer to Alzheimer's.
+
+Owning these patents is like owning the oil reserves of the 21st century. That
+
+means Big Pharma, with its bloated R&D budget, its focus on profitable chronic treatments
+
+over one-time cures, and its army of lobbyists who have suppressed this new technology
+
+for years. The unique mechanism solution,
+
+you don't need to be a scientist to profit. The key is to invest
+
+in the companies that don't sell the drugs themselves, but own the patents and
+
+collect the genetic royalty on every treatment and cure developed using this platform.
+
+This is a backdoor way to profit from the entire biotech revolution without betting
+
+on the success of a single drug trial.
+
+Why it's good. Taps into the universal desire for health and longevity,
+
+and a common distrust of the pharmaceutical industry.
+
+The royalty concept is a powerful and easily understood investment mechanism.
+
+The spokesperson could be a renegade PhD or former FDA scientist who saw the
+
+potential of this technology and it forced this point back.
+
+I was like, cool, can you come up with an example brief that I
+
+can use for a case study? So I did, right? We've got this doctor,
+
+renegade scientist, you know,
+
+know, his personal motivation,
+
+his credibility, target market. So I kind of did some of the brief stuff
+
+here, to be honest with you. Um, which is kind of amazing, to be
+
+honest with you.
+
+I mean,
+
+it kind of has everything, to be fair, it has a lot of what
+
+you would want. And this is about a brief training. Like, I didn't tell
+
+you about the brief. So I did this already I'm like this is it's
+
+actually I mean, but again, this is where AI is incredible for idea generation.
+
+I mean, you could use a prompt like this,
+
+give it a sales letter, what are some other ideas that would be similar?
+
+Maybe you get some cool stuff. I'm not financial. Financial bros might be like,
+
+no, this won't work. I don't know. My biggest
+
+thing would be on compliance side, because we're talking about Alzheimer's,
+
+cancer, and all these sorts of things. But frankly,
+
+in a long VSL, sort of like this genetic royalty.
+
+I actually think it's probably a really interesting idea that could do
+
+well. So don't be jealous if you're a financial person.
+
+Maybe someone already tested it and Google swiped it.
+
+I don't know if they did. So anyway, starting assets,
+
+I basically have that. Which again, to be fair, is a good amount of
+
+the brief. But by the time you get to this video and you watch
+
+the other ones, you should be able to see how powerful this brief generator
+
+is anyway. So this is just me copying and pasting the stuff that's shared,
+
+right? Download this PDF.
+
+I think I did that already. I'm going to save that on my computer.
+
+I know I've done that on that page.
+
+Alright,
+
+so, starting prompt is pretty similar to
+
+the Airbnb one. Right,
+
+generate a new brief for a financial newsletter VSL. I'm attaching a UMP.
+
+Oh yeah, sorry, I have to save this one.
+
+I'm really just attaching,
+
+uh,
+
+a single document really, right?
+
+And I have a UMP. Well, technically there's one in there,
+
+but I would just do, like, in case you didn't have this in depth
+
+of a thing. Uhm,
+
+so I'm attaching a document with additional relevant information.
+
+Please go and get started now, okay? So,
+
+let's go back to our brief generator. Doop.
+
+There's
+
+that. And let's see as
+
+it writes it. I'm probably going to pause while it's writing it,
+
+just so, uh,
+
+you don't have to see it do it.
+
+Alright, so,
+
+we back. I think it's done now. Yep, cool.
+
+Alright, let's see what it did. Okay. Demographics,
+
+age 45, 70, income 75,000 plus,
+
+net worth 250 to 2 million,
+
+not ultra-wealthy, but substantial assets.
+
+College-educated professionals, small business owners, retirees,
+
+U.S.-based, suburban, and rural areas. Concerned about retirement,
+
+security, and preserving wealth. Frustrated with traditional financial advice that hasn't delivered results.
+
+Skeptical of Wall Street and mainstream financial institutions. Self-directed investors who want to take
+
+control of their financial future. Conservative,
+
+but willing to take calculated risks for significant returns.
+
+Value-independence and material thinking. What are their pain points?
+
+Okay, retirement insecurity, inflation erosion,
+
+market manipulation. Secondary pain points,
+
+low returns from traditional investments. Volatility and unpredictability.
+
+Complex financial jargon. Fear of making costly investment mistakes.
+
+Distrust of financial advice. Advisors who seem to profit more than the clients.
+
+Concerned about economic instability and currency devaluation.
+
+Short-term fears. Missing out on current investment opportunities.
+
+Making wrong decisions. Being taken advantage of long-term.
+
+Running out of money. Leaving family financially vulnerable.
+
+Being dependent on government assistance. Losing financial independence.
+
+Big promises. Discover the secret investment strategy that Wall Street doesn't want you to
+
+know about. I mean, this is a little boring and generic,
+
+but it's fine.
+
+Learn how to generate consistent 15-25% annual returns,
+
+regardless of market conditions. I don't know if these are too strong or not.
+
+Probably. Maybe. Uhm,
+
+uncover the hidden opportunities that can multiply your retirement savings by 5-10x.
+
+Get access to the same investment intelligence that billionaires use to protect and grow
+
+their wealth. Find out how to turn economic chaos into your own.
+
+Greatest wealth building opportunity.
+
+Alright, what does it look like when their pain points are solved? I don't
+
+know, you know, by this point, I may have to go through so
+
+much of this in line-by-line detail. I mean, you'll get,
+
+you know, you have access to all these. Here's
+
+the thing, I'm going to tell you financial. You don't actually really need
+
+a mechanism or a 72-hour.
+
+I'm almost wondering,
+
+did I give it the right document? I almost
+
+feel like it did not, for this one specifically,
+
+I'm gonna ask it. I'm gonna
+
+actually
+
+upload
+
+it again.
+
+You, oh, I view you provided a document. Completed,
+
+complete, created a complete newbie from scratch.
+
+It's, it's some of the
+
+legwork for you.
+
+Now
+
+you
+
+just need to,
+
+put that
+
+into the new brief template,
+
+and also fill out the rest of the new
+
+brief template with this
+
+sort of information. Okay,
+
+this is way better. This is making a lot more sense, okay?
+
+So this is why you gotta be, you stand on top of it. So
+
+now it's doing it kind of correctly, right? Short term,
+
+long term.
+
+This is good. Discover how to collect genetic royalties on every cure created for
+
+cancer, Alzheimer's, and more. Learn why the word cure is becoming a real investable
+
+business model for the first time in history. Find out three tiny companies,
+
+which three companies hold the master patents to the medical revolution.
+
+Uncover the FDA policy shift that's breaking big pharma's stranglehold on cures.
+
+See how to turn the end of diseases into the beginning of your wealth.
+
+Oh my gosh, so good. It's probably not very compliant,
+
+but like, it's so good now. It's crazy because this came from Gemini,
+
+right? Okay, this is what I was looking for. You
+
+know, it has a little bit of focus on the health side, but I
+
+do think that's what could make this promo work. You have to do this,
+
+like, nuance, you know. Bye. But like, there's peace of mind
+
+knowing it's working, but also, uhm,
+
+gets me excited about cures and longevity. I mean,
+
+arguably, this is what would make this promo, like, f***** up because it's like,
+
+curing, or curing, preying on people's, like, you know,
+
+dreams and everything, uhm,
+
+but, I'm
+
+not gonna be judgmental here as I talk about this.
+
+It's so good. Genac
+
+Royalties. I know,
+
+just look
+
+at it,
+
+like,
+
+you can
+
+go through
+
+this one on your own, but this is wild. It's super good.
+
+And then, So let's do,
+
+Okay,
+
+I'm gonna
+
+save it and,
+
+uh, Drive,
+
+but I want to do something a little bit crazy.
+
+Indulge me here.
+
+I should have it. Which
+
+one is it? I
+
+want
+
+to see. Alright. To model
+
+off the structure of the Pagora Secret
+
+Trust Fund. Acknowledge
+
+base to write a new VSL
+
+script for the, uhm, for a new, for the new offer
+
+on the brief. Keep
+
+the structure similar. Need to do it over multiple,
+
+multiple, multiple outputs.
+
+Time just prompt me if you run out of space,
+
+and I'll tell you to continue. Let's just see how that goes.
+
+I'm just curious, right? So we have our brief now.
+
+You watched the breakdown, and you read the transcript of that Secret Trust Fund
+
+thing from Agora. Now we have this new brief.
+
+Let's see what it does. Curious.
+
+Curious. Don't
+
+quit on me, Claude. Okay,
+
+so. It
+
+I'm trying to stop it.
+
+I
+
+really liked the opening.
+
+Let's really swipe the structure.
+
+Secret Trust Fund.
+
+Have it be the same length,
+
+almost. Let's have a person
+
+who is immigrant. Uhm,
+
+you
+
+know
+
+what
+
+I'm
+
+saying?
+
+I'm
+
+a medical
+
+nurse. So this is a really direct swipe now.
+
+But, I mean, honestly, like, you could do something,
+
+like, pretty close to this and tweak it and modify it a little bit.
+
+And, like, potentially have yourself a banger.
+
+Like, we know this structure worked. We know the ideas worked.
+
+Like,
+
+you know, if it via Magora,
+
+like, again, it's so directly swiped,
+
+like, the 100-year thing doesn't make sense, right? There's some ideas that would need
+
+to be tweaked or modified. But, like, why would you not be using Cloud
+
+for this? Uhm,
+
+and, I mean, it's still going. I'll share some of the output on this
+
+one just for fun. I'm
+
+just
+
+reading it. It's still writing it. It's crazy.
+
+Well, I like a lot. This is looking excellent. I can see the structure
+
+really following the Secret Trust Fund format closely.
+
+Their initial interviewer approach is working well.
+
+Dr. Vance, as the expert, is compelling. I love how you've adapted the core
+
+concepts to the JAG royalty theme. We'll maintain that authoritative insider
+
+revelation tone. The progression from the hook through the problem identification to the regulatory
+
+shift is very strong. Should I continue the next section to complete the full
+
+VSL? Yes, please.
+
+Please do, exclamation point. I mean,
+
+this is going to be wild. I'm going I'm going
+
+to share it with you guys. Although, f******, it's crazy.
+
+I mean, I would, Again,
+
+you'd have to modify some things. One
+
+of the knocks that RBC won was that, like, you couldn't use it to
+
+write, like, financial copy. Which is,
+
+like, kind of true. But the crazy thing about AI is,
+
+You definitely can now. It's pretty wild.
+
+It's
+
+crazy. I'm going to end this video.
+
+In the next section, I'm going to go into how to set up quad
+
+projects. Thanks. to generate these different VSLs.
+
+So that should be pretty fast. I mean, you've seen examples of them already.
+
+And then the thing to understand is, again, like, once you have the quad
+
+projects, you're taking your brief, you're putting it in, you're giving it commands and
+
+prompts, it pumps stuff out. So we'll come back to some of these examples,
+
+uh, that we've done, uh,
+
+and some new ones, and we'll kind of just go from there.
+
+And then by the way, just as a spoiler, for advertorials,
+
+product pages, those sorts of things, um,
+
+it's like, basically the
+
+same thing. You're just doing, you're just doing quad projects, giving examples,
+
+having relevant information, information,
+
+information, and stuff like, whether that's inputs or briefs or whatever
+
+it is, we'll talk about the distinctions a bit, same thing for upsells,
+
+honestly, same thing for emails, like, all of it is quad projects.
+
+Part of it's just knowing what you're talking about. And so what we've done
+
+so far is like that market awareness and,
+
+you know, the mechanism and your understanding copy. And it's like,
+
+now it's just become super easy to write incredible VSLs.
+
+So, stay tuned.

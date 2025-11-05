@@ -1,0 +1,2707 @@
+hey what's up everybody it is Stephan
+
+georgei here and I'm going to be doing
+
+this training on funnel economics and
+
+really the levers that can be the
+
+difference
+
+between you know scaling or not scaling
+
+an extremely profitable business or a
+
+business that loses money a business
+
+that gets off the ground or a business
+
+that never gets off the ground um and
+
+I'm going to show you the kind of dirty
+
+math that you need to know and you
+
+should note right out the gate I am not
+
+good at math in fact I really struggled
+
+with all types of math uh you know
+
+besides a little bit of you know
+
+business math I like because it's about
+
+making money but I really hope this
+
+should shift to off my headset I don't
+
+need
+
+it I'm pretty excited about this to be
+
+honest with you I hope I hope you know
+
+this ends up being as exciting to you as
+
+it is to me
+
+right I'm going give a second cuz my
+
+camera froze but I'll be back on sure
+
+okay I you know I really this should be
+
+gamechanging um I don't see a lot of
+
+people talk about this stuff publicly
+
+maybe because it feels overwhelming or
+
+complex or complicated but I really hope
+
+it doesn't for you it's not that bad if
+
+I can do it you can do it uh and again
+
+it's like a superpower and you know I've
+
+talked about it back in 201 18 19 in
+
+copy St Pro so I'm tempted to be like
+
+you know everyone's uh favorite Guru and
+
+say like I invented this and nobody's
+
+talking about this I am the function of
+
+everything but let's not go down that
+
+rabbit hole um it turns out you know
+
+this is the kind of math that really the
+
+the world's best direct response
+
+marketers CMOS and business owners are
+
+aware of uh it just doesn't get talked
+
+about publicly very often and so I'm
+
+excited to talk about it with you here
+
+okay so first and foremost one of the
+
+big questions you're going to ask or you
+
+should ask and be able to answer is for
+
+whatever the the offer the the funnel
+
+the business that you're working on it's
+
+kind of like what's the goal right
+
+is it to maximize your net profit is
+
+then both kind of like a percentage in
+
+the volume so you know you want to just
+
+make uh boatloads of cash and you buy
+
+Lambos and houses and planes right
+
+uh that's generally what it is for most
+
+people of course some people might want
+
+to maximize Revenue they might say top
+
+line revenue is what matters I know that
+
+if I can get a certain amount of Revenue
+
+and I'm not completely hemorrhaging
+
+money then I can get acquired um I can
+
+sell my business business you know
+
+revenue is my goal generally that should
+
+be there should be that should be the
+
+reason otherwise revenue is a vanity
+
+metric so you I know people have done 50
+
+million a year and taken home 500,000 in
+
+profit which is like not bad but for 50
+
+million that's it is bad right uh
+
+maximizing new customers or you know
+
+leads right so lead gen again maybe
+
+acquisition wow we're we're you know a
+
+machine we're acquiring all these
+
+customers this is like a a Le genen or
+
+customer generation machine
+
+uh you know we're going to acquire those
+
+customers are going to you back it out
+
+by selling to them this is like Leen
+
+right and there's lifestyle stuff like
+
+hey high margin low headache like I
+
+don't not trying to buy a Lambo that I
+
+can make a couple $100,000 a year pretty
+
+passively then you a couple million
+
+whatever it is uh like I'm happy I don't
+
+want a lot of headaches I don't want to
+
+spend a lot of time in the business it's
+
+all about that lifestyle okay uh and the
+
+decisions you make as you go around
+
+optimizing offers and funnels and and
+
+the levers pulling the levers really
+
+will depend on what your answer is and
+
+what your goal is right I'm going to
+
+assume for this training that generally
+
+we're going to talk about maximizing net
+
+profit but you know of
+
+course I'm sure I can throw in tidbits
+
+on other stuff too okay so here's some
+
+really vital basic questions we're going
+
+to go
+
+through how much and I I could have done
+
+a PowerPoint but I now even good at it
+
+and I was like I just want to record
+
+this cuz I'm pretty excited so I'm doing
+
+it as a Google doc and you know you'll
+
+bear with
+
+me
+
+uh all right how much does it cost me to
+
+acquire a customer on average that' be
+
+your CPA cost PR acquisition or your CAC
+
+you know cost um to acquire customer or
+
+cost per acquisition you know that type
+
+of thing okay how much money do I gross
+
+on day Zero when I acquire that customer
+
+on average that be your aov right what's
+
+your average order value when somebody
+
+goes to funnel and buys you know maybe
+
+have upsells uh maybe have different
+
+package options what's the average
+
+amount somebody spends that you're kind
+
+of grossing is like your gross revenue
+
+right what's my cost to fulfill a
+
+customer's order on average so okay when
+
+people come in and you know buy
+
+something uh what you know what is the
+
+cost for the cogs so for example
+
+supplement funnel maybe you know we're
+
+about to get to examples but say
+
+$200 and it costs you you know $50
+
+between uh you know the
+
+supplements the uh fulfillment
+
+processing fees some other stuff like
+
+that right generally these are like the
+
+the fixed kind of costs related to
+
+selling the goods versus kind of other
+
+variable costs like staff and payroll
+
+and that's that's why all that leads to
+
+your gross but not net margin right what
+
+is the average gross profit when I
+
+acquire that customer what's my gross
+
+margin
+
+and we're going to talk about the
+
+lifetime value which is LTV a bit later
+
+okay so let's look at some examples
+
+let's say it's a supplement
+
+offer and it costs you
+
+$150 on average to acquire a customer
+
+let's say that your aov is
+
+$220 on average we'll say that your cogs
+
+are about 22.7% and no I'm not a math
+
+genius I just had looked that up earlier
+
+um but that would make it that about $50
+
+um
+
+to uh you know fulfill so basically 150
+
++ 50
+
+$200 that's costing you right it's
+
+costing you
+
+$150 for you know acquiring the customer
+
+whether that was buying media right for
+
+your ads cost $150 to get a customer
+
+from an ad or say you were working with
+
+Affiliates and you're paying Affiliates
+
+$150 CPA so they're risking their money
+
+but ATT to make a sale they get $150
+
+okay and then you know your cogs will St
+
+on average of $50 your grossing you know
+
+through the aov
+
+220 which means your gross profit is $20
+
+now that's not bad of course if you know
+
+we extrapolate out to like a th000 sales
+
+a day type of thing you know I mean and
+
+we're going to get to 1,000 sales a day
+
+let's say it's 100 sales a day right so
+
+100 sales a day * 20 equals right like
+
+basically 2,000 dollar a
+
+day equals uh like what about $60,000 a
+
+month yeah you do that you've got
+
+a you know probably seven figureure
+
+business I mean 100
+
+times 220 aov right so yeah you got you
+
+have
+
+a you know a healthy little business
+
+you're
+
+netting uh close to a million dollars a
+
+year you know what's it 720,000 I think
+
+right um so like you know this is is
+
+probably a good like lifestyle business
+
+if you could figure that out now there's
+
+still a lot of things that you could do
+
+there's a lot of levers you could pull
+
+that I would want to pull if for me but
+
+the point is it's actually right you
+
+know it's kind of about volume typically
+
+for especially for saying like a sell an
+
+offer
+
+okay okay but now let's say you got
+
+something an offer where you know it's
+
+costing you
+
+$300 to acquire each customer whether
+
+that's you know through Affiliates or
+
+more realistically this what happen with
+
+ads right um you know let's say you're
+
+only your aov is only
+
+150 your cogs are still $50 that
+
+22.7% uh so now you're losing $200 of
+
+every customer you require right and
+
+that's
+
+where I typically say you know when
+
+people like I I've gotten in trouble for
+
+being like not everyone should be an
+
+offer owner it's like that's not out of
+
+the question that this is what the
+
+numbers are going to look like when you
+
+first you know go out the gate
+
+especially if like something like a
+
+physical product like a supplement offer
+
+and so and you need data to be able to
+
+optimize right and
+
+so if
+
+[Music]
+
+you you know are losing $200 per
+
+customer how much money can you really
+
+afford to spend right and if You' got
+
+$55,000 saved up it's like okay so
+
+basically you know what you can
+
+run not that many sales before you're
+
+out right um and it's hard to optimize
+
+that period of time
+
+so just keep that in mind but of course
+
+you know if we're being a CMO or an ADV
+
+an advisor and kind of growth engineer
+
+whatever it is for uh you know another
+
+company that has a testing budget that
+
+understands the way things work all of
+
+that uh then or you have the budget for
+
+it right then this it's cool but that's
+
+you know this is not out of the question
+
+that you're going to have something like
+
+this in fact I'll show you an example
+
+momentarily okay just so you can see the
+
+the metrics for a few other kind
+
+of uh types of offers okay like let's
+
+say it's a low ticket info product let's
+
+say your CPA is $40 right you run ads on
+
+average you spend $40 per customer or
+
+Affiliates promote it whatever it
+
+is on day Zero you know youire the
+
+customer say $60 which is great there's
+
+no costs really to fulfill
+
+um you know because it's an info product
+
+it's digital so your gross is $20 so
+
+from that
+
+context if you get $20 of this or
+
+$20 uh running you know
+
+physical you know there's an Allure to
+
+doing info products right and I think
+
+that's what certain gurus kind of talk a
+
+bunch about like offer owners but then
+
+they they go to like info and low ticket
+
+info and it's people spending like a
+
+couple Grand maybe they scale up to like
+
+you know 30 40 Grand and add spend a
+
+month or whatever it is which is again
+
+nothing wrong with that um it really
+
+depends on you and your goals and it's
+
+typically hard to
+
+scale it's harder to scale low ticket
+
+info products and offers compared to
+
+physical products right okay last
+
+example High ticket funnel okay let's
+
+say it cost $1,000 on average because
+
+you know you're going to get a lot more
+
+money
+
+on you know
+
+day uh when you do acquire a customer
+
+right so say it's $1,000 you got acquire
+
+a lot of customers it's like a phone
+
+phone sales thing right you they apply
+
+book a call you know you sell them a
+
+high ticket package so say an average
+
+cost you 1,000 bucks you bring in $3,000
+
+let's say cost you $1,000 for
+
+fulfillment let's say that's because of
+
+um maybe you've got like a high ticket
+
+closer you pay commission to maybe
+
+there's like a coach or somebody who is
+
+uh you know doing the coaching and you
+
+kind of figure out the math on that
+
+whatever it is but even here maybe your
+
+gross profit is like $1,000 or gross
+
+margin gross profit same thing right um
+
+for my purposes it is uh th000 bucks
+
+like all right
+
+great okay so the reason this is so
+
+important and the reason we looked at
+
+these examples is because understanding
+
+these basic numbers right really
+
+determines what action we're going to
+
+take next in our Focus as a CMO or a
+
+marketer or as an offer owner or
+
+whatever it may be so like let's go back
+
+to this example uh of the supplement
+
+offer a here right it's like we're in
+
+pretty good shape we're propably
+
+acquiring customers on Day Zero which is
+
+fantastic right so cool but if you're in
+
+the other example which I didn't put
+
+back here example
+
+two well [ __ ] right that's going to be a
+
+very different direction that you
+
+take
+
+so basically your question is after you
+
+know your numbers what do you do next
+
+and it really depends on
+
+your or the business's goals and
+
+objectives going back to those four main
+
+goals we can bullet
+
+these right okay maximize profits
+
+Revenue new customers lifestyle type of
+
+stuff because if you frankly if it's
+
+going well and you got a good lifestyle
+
+then you're really in preservation mode
+
+you're not you'll test stuff every now
+
+and then you're like how can I increase
+
+my lifetime value a little bit um you
+
+know but you're really like the
+
+lifestyle is typically
+
+like this but instead of maximizing it's
+
+sort of just like maintaining steady
+
+profits growing steadily things of that
+
+nature
+
+right okay but we're going to assume you
+
+want to go maximizing profits because
+
+that's the world I live in and operate
+
+in and love so what can we do okay well
+
+you know and let's actually you know go
+
+back to it doesn't really matter what's
+
+funny right even if you've got your $150
+
+CPA or $300 CPA right these are things
+
+you would still do we could lower the
+
+CPA well how can we do that okay you can
+
+do it at the ad level right you can find
+
+better ads what does that mean ads have
+
+a higher click-through rate and a lower
+
+CPM so you're spending less money uh per
+
+visitor your
+
+website and when you do that uh you know
+
+I I'll show you this in fact Let me let
+
+me go and show you this one real quick
+
+before we go to the next one so let's
+
+say your website converts
+
+at
+
+2% to be just or whatever right on cold
+
+traffic from Facebook okay and let's say
+
+you get 1,000 visitors a
+
+day and if your current
+
+ads it costs let's
+
+say you know I don't know trying to
+
+think I'm trying to think about
+
+realistic math here what it would
+
+cost I mean let's say you're
+
+spending I I'll keep this simple 3,000
+
+uh let's put this add spend
+
+$3,000 with current ads okay all right
+
+cool so th000 visitors a day 2%
+
+conversion rate it means you know 20
+
+customers per day say your aov is
+
+$200
+
+right that means you know you're kind of
+
+grossing
+
+$4,000 but with your cogs which are you
+
+know let's
+
+say you know I don't know like basically
+
+20 20% for simplicity's
+
+sake um you know 20% 4,000 is like 800
+
+right
+
+so 800 so maybe
+
+making $2 a day okay does that all make
+
+sense right th000 visitors A Day ad SP
+
+$3,000 you're gain 20 customers per day
+
+so your aov is $200 your average order
+
+value or that sorry that's not so
+
+basically
+
+um
+
+th000
+
+uh's the sorry there's conversion rate
+
+that's I'm sorry so like th000 a day a
+
+day 2% conversion rate 20 customers per
+
+day add spend
+
+$33,000 um right so like that means
+
+means yeah and then your
+
+CPA is what $
+
+3,000 divid by 20 just going to do easy
+
+3,00
+
+divided by 20 150 duh okay
+
+um all
+
+right so like Neato okay but when I talk
+
+about better ads okay so now let's say
+
+that you you have a really really fire
+
+ad that you know is going to have a
+
+higher more people are going to click on
+
+this ad um
+
+and you know because it's relevant owed
+
+in your cost to run the ads the same so
+
+that instead of you know
+
+having and I'll do this in a new thing
+
+here I make this clear landing page
+
+Landing
+
+okay
+
+so all right let's say now if like
+
+better
+
+ad now for the same ad spend you get
+
+let's just double it for Simplicity sake
+
+again this is just these are just I just
+
+want you understand these
+
+Concepts right now you get 2,000
+
+visitors a day your ad spense still is
+
+$3,000 so now you're getting 40
+
+customers per day and What's happen to
+
+your CPA it's going to be cut in half
+
+right $75 your aov stays the same but
+
+now you're making more money per day
+
+right because now your
+
+gross is you know 200 * 40 is
+
+$8,000 your cogs doubled to $1,600 right
+
+just roughly
+
+here um so if you subtract you know ad
+
+spend of $3,000 cogs of
+
+$1600 so 4600 minus 8,000 you're still
+
+making
+
+$3,400 a day right now that's a big
+
+difference that you're going to go from
+
+1,000 visitors to 2,000 visitors with
+
+the same ad because of ads it's not
+
+impossible but even if you got it you
+
+know 1,200 visitors or500 visitors or
+
+whatever it is uh you know that that's
+
+what we're talking about with why on the
+
+ad level and of course what does that
+
+involve a lot of testing you know could
+
+be targeting strategies Facebook's
+
+algorithm is pretty good if we're doing
+
+Facebook and most of these big platforms
+
+um you know if you're doing email it
+
+could be a new email creative that just
+
+gets you know more clicks and you're
+
+paying for drops right you're pay s
+
+paying
+
+$5,000 or $3,000 per email drop and um
+
+I'm buying out list for $3,000 and now
+
+with a really good creative instead of
+
+getting 1,000 clicks I get 2,000 clicks
+
+that's a very that's actually a very
+
+realistic thing right I mean the $3,000
+
+you might pay more but the idea being
+
+that you could double the amount of uh
+
+clicks you get realistic you have to be
+
+a big email list to get that many clicks
+
+but it's it's realistic enough okay all
+
+right
+
+cool okay so you can also increase
+
+conversion so how do you do that well
+
+you can have you know better landing
+
+pages this is where copy rating comes in
+
+really specifically right if I have a
+
+new sales letter and it doubles
+
+conversions okay great um um you're
+
+running AB tests so things like the
+
+button color or page elements things of
+
+that nature better customer Journey
+
+we're going to talk about that more in a
+
+minute you know for example maybe you've
+
+got a quiz funnel and the you ask people
+
+questions they get to a landing page
+
+they see the product they buy and you
+
+realize that the quiz is screwing things
+
+up and by changing the quiz you can get
+
+way more people to the landing page way
+
+more people buy um you know conversion
+
+rate goes up right just general
+
+conversion rate optimization stuff where
+
+you're you're either through copy design
+
+page
+
+elements
+
+testing you're increasing conversions a
+
+lot of people live in this space as a
+
+CMO or a cro expert and there's nothing
+
+wrong with that it's a great space to be
+
+in um you know one of many things you
+
+could also find alternate traffic
+
+sources remember what our goal here
+
+we're talking about is lowering the CPA
+
+right so what does that mean well maybe
+
+you know your media buyers just kind of
+
+suck and their creatives suck and yada
+
+yada so still the cves but it's like
+
+maybe you know the media buyers are
+
+crappy and you're working with an agency
+
+you should find a new agency maybe you
+
+want to test other AD platforms and you
+
+find that you can get you know better
+
+conversions on YouTube than you did on
+
+Facebook right um if you're working with
+
+Affiliates maybe you're able to find a
+
+way to bring on new Affiliates at a
+
+lower CPA so you're paying Affiliates
+
+150 but you can pay new Affiliates 120
+
+uh and they're happy with it because
+
+you're metrics are good enough well hey
+
+look at that you've lowered your CPA and
+
+there's also some fun stuff like
+
+abandoned card and declines branded
+
+keywords and organic and Amazon which
+
+I'll talk about the abandons and
+
+declines a lot branded keywords would be
+
+for example you could run Google AdWords
+
+so still kind of paid traffic but um say
+
+you're selling
+
+Miracle brush and it's like a hairbrush
+
+right then you should you know run
+
+Google AdWords so people search for
+
+miracle brush um they you know you come
+
+up first cuz there's a lot of buyer
+
+intent there they try to see if you're
+
+legit and you'll usually be able to get
+
+sales for like $20
+
+instead of $150 or $100 or $80 right
+
+like or like the cost will go down a lot
+
+on that so that's one really thing that
+
+everyone should do and actually I need
+
+to do it for my uh pepti company that
+
+I'm CMO and Equity partner and that I'm
+
+going to talk about in a minute and I em
+
+somebody they get back to me I'm going
+
+to Emil somebody else I'm just
+
+remembering that right now um and then
+
+you organic right SEO you're ranking for
+
+SEO um you've got a good web presence so
+
+I'm not just saying that because of SEO
+
+like is then people find you organically
+
+and buy that would lower your CPA
+
+obviously um but also maybe like they go
+
+to search for you and again they see a
+
+good web presence and they buy or they
+
+go to Amazon they see and they buy and
+
+you know your kind of cost uh for those
+
+customers is lower so the effectively
+
+your cost per acquisition goes down okay
+
+that's just lowering the CPA okay I know
+
+this going to be a lot like I said so if
+
+we take a pause we've looked at the
+
+metrics and now we're looking at you
+
+know what can we do to like maximize
+
+profits we looked at the goals as well
+
+and we decided for maximizing profits
+
+what can we do do well we can lower CPA
+
+that's one goal right okay so we can
+
+also lower the
+
+cogs wa so we can see it okay so um you
+
+know if you're doing physical stuff
+
+maybe it's a different fulfillment
+
+partner manufacturer if you go from
+
+paying $5 per bottle to $3 per bottle
+
+for a supplement okay that's
+
+$2 but if the average person's you know
+
+buying five bottles that's $10 if you're
+
+doing you know a th000 sales a day um
+
+right now that's
+
+$10,000 $300,000 a month um so that
+
+would help you maximize profit right
+
+that's $300,000 in found money same
+
+thing fulfillment but you're paying for
+
+shipping all that you know you can also
+
+negotiate lower rates on shipping and
+
+products with your existing provider you
+
+could lower merchant processing fees um
+
+most people don't ever think about that
+
+but you know maybe you pay 5% for every
+
+sale to the bank so for every $100 you
+
+have to give the bank $5 and you can
+
+lower that to 2.5 same thing adds up
+
+right uh save $2.50 per transaction as
+
+an example you're doing 1,000
+
+transactions per day that's $2,500 a day
+
+times 30 right you can kind of see
+
+that's what 80 9,000
+
+right yeah um I think don't again I'm
+
+not Ming I think right right but oh well
+
+yeah you save $90,000 a month you know
+
+over a million dollars a year or even
+
+$80,000 whatever but
+
+um and then you know if you're doing
+
+like info things like that maybe have
+
+different people doing fulfillment if
+
+you got coaches maybe you can find
+
+another coach who's more cost effective
+
+things that nature as well right so all
+
+those things would would help to
+
+maximize profitability also okay next up
+
+is you can increase the aov okay so we
+
+think about our metrics
+
+again in fact let going go pull up my
+
+little supplement offer
+
+example example a was already pretty
+
+good whatever that let just do
+
+it okay so right now if the aov goes
+
+from 220 it's like pretty high aov but
+
+I'm just as an example anyway uh to like
+
+250 okay so extra $30 say you're cost of
+
+Phill goes up by like six bucks or
+
+something like that okay fine but still
+
+so now 150 plus 56 is 206 minus 250 is
+
+now
+
+$44 which is actually pretty significant
+
+right so how do you increase aov well
+
+you know it could be you know the aov
+
+money close right and the copy thing
+
+I've taught I'm sure you can find it
+
+online or people talking about it
+
+essentially you just tell the customers
+
+repeatedly like to buy more oh you know
+
+our biggest package is our
+
+um you know most popular package and you
+
+know that's why it makes so much sense
+
+you'll save the most money when you buy
+
+the big package you know buy that one
+
+right um if you don't have other you
+
+know you honestly I should put this on
+
+here too you could you know
+
+add more packages have to update the
+
+rest of the document with this right
+
+like um so that you can get a bigger so
+
+say if you if you're only selling a one
+
+or a three bottle option then adding a
+
+six bottle option tell people to take
+
+that will almost immediately increase
+
+your average order value significantly
+
+right um You can do an offer bump on the
+
+checkout like hey before you check out
+
+you know get this other supplement for
+
+only $20 today and then someone cost you
+
+$3 and $17 right similarly info like hey
+
+you know $20 info product but hey before
+
+you check out get like my you know a
+
+th000 or I don't know my my 100 best you
+
+know cheat codes for this thing for just
+
+$27 more click that you basically just
+
+made $27 additional net profit every
+
+time somebody does it but you do test
+
+those things because sometimes they can
+
+then mess up your upsell so you really
+
+want to test everything right AB testing
+
+is is king um speaking of upsells right
+
+you have better upsells if you're up
+
+sell one you converts at like 20% and
+
+you get that to 40% that's pretty
+
+massive right so now instead of two of
+
+every 10 people who see that upsell
+
+taking it four of every 10 people take
+
+it could add another $15 to $25 you know
+
+maybe more to your um frankly much more
+
+to your uh bottom line line um you know
+
+and then pricing is another really big
+
+one too right split test pricing and
+
+people always want to go lower but you
+
+also test charging more um I'll keep
+
+using physical products like if you're
+
+selling a bundle of products for n $19
+
+for one product $29 per product for
+
+three $39 per product for soor I'm kind
+
+of doing reverse sorry 39 for one 29 for
+
+per for three or 19 per for you know six
+
+Maybe maybe you increase the one product
+
+price to $49 or $59 maybe you increase
+
+all the prices to make it 49 3929 or
+
+5949 29 or 39 right testing price is a
+
+really big needle mover um you know
+
+something that a lot of people don't
+
+spend enough time thinking about or
+
+playing with and it can really move the
+
+needle I can give you two examples uh
+
+for skare offer I was involved with uh
+
+that
+
+did hundreds and hundreds of FR sales a
+
+day
+
+um you know we took the the single
+
+bottle price from 59 to 79 and kept the
+
+other prices the same and it increased
+
+the aov and conversion to State exactly
+
+the same um flip side of that we helped
+
+a guy run a blood sugar supplement on
+
+Facebook for several years he's still
+
+running it doing you
+
+know healthy I guess I don't know he's
+
+doing think a million a month maybe
+
+something like that um
+
+and it was like we were doing I think
+
+you know 69 59 49 69 for one bottle 59
+
+per bottle for three $49 per bottle for
+
+six and we lowered it significantly to
+
+like I think
+
+39 I want say 39 34
+
+29 um and conversions like doubled or
+
+tripled even and so even though the aov
+
+was lower because we made s so much
+
+higher conversions we were able to uh
+
+you know that's what enabled us to scale
+
+okay so that's where splitting you know
+
+pricing split test is is really
+
+valuable okay and then lastly we can
+
+increase the lifetime value now I'll
+
+talk more about this
+
+um in a minute here actually Sor this a
+
+few places but um you like subscription
+
+right get them on continuity where they
+
+get rebuilt every month make if you have
+
+them uh on subscription you know help
+
+them to stay on it for longer monetizing
+
+your email list uh you know you could
+
+you could rent your email list out to
+
+Affiliates or promote other people's
+
+funnels for a CPA every time you make a
+
+sale you get money uh you can do warm
+
+promotions to your list right we do that
+
+with AI marketers and free copy and my
+
+own list where we'll develop bundles
+
+like the one that you probably found
+
+this through and
+
+um you know that enables us to bring in
+
+really high margin Revenue that funds a
+
+lot of stuff we do right um also phone
+
+sales tax you could have a call center
+
+calling people and selling them other
+
+packages bundles offers
+
+promos things like that
+
+okay now I know that's a lot of options
+
+again we talked
+
+about
+
+increasing
+
+conversions lowering cogs increasing the
+
+aov and increasing the
+
+LTV like I said it's a lot of options so
+
+let's go for a real real example this is
+
+a um for peptide company which is
+
+basically OIC some glutide things like
+
+that that I'm CMO and Equity partner of
+
+um these number I mean basically the
+
+real the real Road on this is the cogs
+
+and also it be gross for you know Day
+
+Zero for customers
+
+right and we've been working to dial in
+
+the CPA and it's still all over the
+
+place we have days where as of the time
+
+I'm recording this uh the CPA is over
+
+300 we have days where the CPA is like
+
+$113 average is probably realistically
+
+closer to 200 but you know let's say
+
+it's
+
+$300 okay so and there higher cogs
+
+because it's like a medication soir
+
+customer is 300
+
+bucks $ 299 is what people get the
+
+medication for in the first month then
+
+it goes up to 399 after but we'll talk
+
+about continuity after the fact
+
+um okay it's expensive to fulfill
+
+$145 so what is my gross
+
+profit when I acire that customer $146
+
+right minus
+
+$146 and we got that gross profit
+
+because again we basically just
+
+took uh the CPA plus cogs 445 -
+
+299
+
+equals or sorry
+
+um yeah like we get this back and so
+
+basically there's a negative difference
+
+of of 146 RS okay and let's get some
+
+more data going back to those things
+
+about conversions things like that right
+
+so on a given
+
+day uh prior to some of the
+
+optimizations that I've been
+
+doing uh you'll see 964 people hit the
+
+any page from Facebook ads we have 10
+
+conversions that's a 1.04% conversion
+
+rate ad spend 3,000 CPA 300 this is sort
+
+of a little bit hypothetical but to make
+
+the math easy but not enough we've had
+
+days like that uh give me one sec okay
+
+so what questions would I ask right away
+
+and in fact did I ask right I want to
+
+know benchmarks so is that conversion
+
+rate good is a CPA high low average
+
+what's the Benchmark and how would I
+
+find that out well I would ask people
+
+who are running traffic to this kind of
+
+offer right to friends who own this kind
+
+of offer or who are media buyers or in a
+
+mastermind one of the big values of
+
+being a mastermind is you can go hey yo
+
+guys I'm running this this is the aov
+
+this is CPA um anyone else running this
+
+type of thing what are you seeing right
+
+if you're in a group a Discord whatever
+
+fine but like that's one of the biggest
+
+values is just having people who are
+
+legit who can answer that right not like
+
+oh my friend's friend but people you
+
+know right so in my case I went to like
+
+some of the best media buyers in the
+
+world who I know and I'm like hey you
+
+know they're running this stuff too like
+
+what metrics are you seeing Oh okay
+
+figuring out benchmarks right so like
+
+you know in this case I kind know the
+
+conversion rate should be higher and
+
+more importantly I mean I know the CPA
+
+should be lower it should be around $100
+
+on average okay now I have a rough
+
+Benchmark of what to optimize for so how
+
+do we go about optimizing like what are
+
+we going to do we want to optimize I
+
+want to get the CPA down and I want to
+
+get the conversion rate
+
+up you how do I do that well if you have
+
+Google analytics which is another one of
+
+those things that people lot you
+
+probably don't look at um but it's
+
+actually very helpful you you can see
+
+maybe where people are dropping off
+
+there's also things like visual uh you
+
+web Optimizer vwo or hot jar and heat
+
+Maps things that can show you where in a
+
+funnel uh somebody is dropping off and
+
+giving you data that way you can
+
+optimize their wow everyone's dropping
+
+off on this page right especially in a
+
+multi-step funnel in our case they click
+
+a page on click a link on the landing
+
+page go into questionnaire they have to
+
+answer bunch of medical intake questions
+
+because it's like a medication hip a
+
+compliant yada yada drop off so right
+
+and that's you know spoiler what I
+
+decided to focus on First and we have
+
+that going live tomorrow and we'll see
+
+I'm optimistic but you never know um
+
+because it's like well you could you
+
+could also just Test new front end copy
+
+lot people do that they sort of throw a
+
+new copy at it hope the conversion rate
+
+goes up and then they go wow it went up
+
+and that's like the extent of their
+
+split testing uh you could do cro stuff
+
+right buttons page elements messaging
+
+move around testimonials page design
+
+you know people do all that stuff too um
+
+you know there's no wrong answer what
+
+you should just remember right what do
+
+we what are we really trying to do like
+
+why they help to increase conversions
+
+but really at a higher conversion rate
+
+can mean a lower CPA which can mean more
+
+scale more profit right keep in mind why
+
+we're doing this so it's not it's like
+
+yes increasing conversions but really
+
+conversion is going up so that CPA goes
+
+down right there's a relationship
+
+there okay so in the peptide funnel look
+
+at my compartive pages is I'm like oh
+
+their their Journey the flow has a lot
+
+less friction than ours friction is a
+
+huge thing for me um so friction is like
+
+points of confusion things that are
+
+difficult roadblocks that will stop our
+
+customer from going you know into our
+
+funnel and out the other side of
+
+customer or say our Prospect from going
+
+in and coming out a customer so right my
+
+thesis has been simply like all right
+
+let me simplify our flow which you can
+
+call like a quiz I can probably double
+
+conversion rates that's a big you know
+
+big thing doubling conversion rates but
+
+especially when a funnel is not very
+
+optimized you know it's doable that's
+
+the good news if you're are actually
+
+decent and the funnel is optimized
+
+you've got a lot of opportunity there
+
+okay so like well if I'm right my new
+
+metrics would look like this instead
+
+right new still the same amount of
+
+visitors to the landing page but instead
+
+of 10 conversions you have 20
+
+conversions the conversion rate would
+
+double the asone would stay the same but
+
+the CPA would be cut in half from $300
+
+to $150 that's a massive difference okay
+
+does that make sense because again now
+
+for 3,000 ad spend you got 20
+
+conversions that's what figures out the
+
+CPA right conversion rate is sort of
+
+just a metric to mark that that has
+
+happened but really what you're I'm
+
+really mostly interested in is the CPA
+
+going down cuz when the CPA is down if
+
+I'm making money I can keep scaling
+
+right or if I'm intentionally okay with
+
+losing money I can also keep scaling but
+
+that's like that's like the goal like I
+
+want to be if I'm profitable right and
+
+it's consistent also by the way right
+
+then for me for this funnel like if it's
+
+consistently at 150 as an example like
+
+all right then I know I can go to
+
+Affiliates and give them $150 CPA and
+
+reasonable chance that it will convert
+
+you know well enough for them that they
+
+are going to be uh happy and keep
+
+sending traffic to it especially if they
+
+have a high volume of traffic right if
+
+we go back to our initial numbers here
+
+um so right now instead of costing me
+
+$300 to acquire a customer cost me 150
+
+the aov doesn't change the cost of
+
+fulfill doesn't change but instead of
+
+losing $146 and making $5 that might not
+
+seem like life changing money but
+
+actually with all the rebuilds and stuff
+
+which I'll talk about in a little bit it
+
+it would still be great um but
+
+regardless it's a huge win uh and you
+
+can you know you can like I mentioned
+
+find Opportunities to double your
+
+conversions through testing although
+
+also if you can't do that then a bunch
+
+of little incremental tests and wins uh
+
+can also add up to a doubling of
+
+conversions too so you know both
+
+strategies Mak sense if there's an
+
+fairly unoptimized funnel and you can
+
+find home runs it's worth doing that
+
+right okay so let's assume this this
+
+test works I actually really do think
+
+it's going to work I'll update in a few
+
+days probably before you ever see this
+
+video I'll know if it worked or not not
+
+and you can ask me and I can be like yay
+
+or nay try to ask me public I really
+
+want to talk about this funnel publicly
+
+I'm talking about in this recording but
+
+I don't want to go too you know so I can
+
+stop there and I could scale because of
+
+the rebuilds which we'll talk about in a
+
+minute but you know there's just so much
+
+more low hanging fruit so let's say that
+
+by testing some different variants of
+
+the landing page but that mean the copy
+
+the design format elements I can
+
+increase the conversion rate up to 2.5%
+
+okay um and that's really not at all
+
+unrealistic it's pretty doable to get
+
+that kind of win all right well now my
+
+numbers basically go from 20 to 24
+
+conversions I go from
+
+a or uh you know my conversion rate is
+
+up to two or sorry yeah conversion rate
+
+is not 2.50% so we had there same ad
+
+spend but the CPA you just another four
+
+sales there goes down to1 125 we knocked
+
+another $25 off right so now my
+
+numbers are CPA here these two didn't
+
+change making now making $20 per profit
+
+now if you say you're doing 1,000 fronts
+
+a day right back to that we kind did the
+
+math earlier on 100 20K gross Prof
+
+profit per day 600k a month gross profit
+
+right and even if you're just doing 100
+
+sales a day 2K per day 60k a month like
+
+for me that wouldn't be exciting um you
+
+know but for lots of people I understand
+
+that
+
+would Okay cool so I think realistically
+
+if other you know optimizations um split
+
+tests of landing pages formats we are
+
+testing some really cool variants you
+
+know we can get to like a 3% conversion
+
+rate but let's let's just keep it at
+
+2.5% also I want percent I want to show
+
+you what else I could be doing one of
+
+the biggest low hanging fruits is going
+
+to be like abandon carts and declines
+
+right um you know in the case of the pep
+
+company like we're getting around 300
+
+abandoned carts daily and it's pretty
+
+standard for a call center if they call
+
+those abandoned cards to convert like
+
+20% of them into call uh customers but
+
+let's just say it's 10% to keep the math
+
+simple and let's say we're paying our
+
+cost that are $125 per conversion on an
+
+abandoned cart which is accurate what
+
+we're paying them right now okay um and
+
+let's say that we also text an email out
+
+like here's a sequence of like you know
+
+they they abandon C right they're
+
+they're in the process they don't check
+
+out we email them hey you didn't check
+
+out come back complete your purchase
+
+text hey you didn't you know complete
+
+your purchase come back check out um so
+
+say we can get you know 5% of those
+
+abandons to complete their purchase so
+
+total 15% of of the people which is I
+
+think realistic and frankly a little
+
+below what the benchmarks would even be
+
+well cool so now on the call center side
+
+30 more sales per day right 300
+
+abandoned
+
+and our CPA is $125 per sale so you know
+
+3,750 and kind of AD spend in this case
+
+it's not ads but it's like spend to the
+
+cost center and we're getting 15 sales
+
+from our abandoned cart texting emails
+
+with no CPA so now what the numbers look
+
+like okay well that's pretty massive we
+
+go from 24 to 69 conversions our
+
+conversion rate kind of our effective
+
+this is all effective because you're
+
+working in the cost where costs are so
+
+valuable right I just sold my call
+
+center but we're now we're using them
+
+and I'm kind of like crap I'm make them
+
+a ton of money after I s them but that's
+
+okay I I'll make a lot too um but your
+
+kind of cost now is like add spend Plus
+
+cost andent commissions but even with
+
+that the CPA is now down to
+
+$978 it started at
+
+$300 as you'll probably recall and this
+
+is really only three things that we've
+
+changed right we look at the real world
+
+real world examples we went from
+
+$146 per customer to positive
+
+$568 that's a lot better if we go back
+
+to the whole sales the day thing now
+
+we're looking at gross profit per day of
+
+56180 and gross profit per month of
+
+1,685 400 or if you want to say 100
+
+sales per day then uh you know
+
+$561 per day and you know
+
+168,00 uh
+
+$540 per month which is still pretty
+
+good especially you know depending on
+
+where you're at in your journey and what
+
+you're looking for or the company is
+
+whatever right
+
+and remember all we really did was like
+
+three things we just improved the
+
+customer Journey which is kind of a cro
+
+type of thing we found about landing
+
+page and we started marketing you know
+
+or remarketing to our abandoned cards
+
+through a call center text right so this
+
+is where there's so much leverage and
+
+Power in these things and um people
+
+should talk about them
+
+more yeah okay and again think about all
+
+the other stuff we could do what we
+
+didn't do we didn't go find better ads
+
+yet so for our pepti thing we I messed
+
+me uh the person running Facebook
+
+traffic for us and was like hey yo like
+
+here's some ideas for ads let's like
+
+test some these new ads out I think we
+
+can lower CPM so we are doing that right
+
+um we're testing a bunch of different
+
+landing pages in the near future really
+
+excited for that um we will expand onto
+
+other AD
+
+platforms uh we will probably you know
+
+we'll work with Affiliates I want the
+
+metrics really good before I go to
+
+Affiliates um you know we like I said we
+
+got to get adwards going and I actually
+
+want do more kind of organic SEO stuff
+
+cogs shortterm can't really lower them
+
+but longer term we could and that could
+
+increase our profit margin as well aov
+
+yeah we could do that we could offer
+
+people who have bought you know an
+
+upsell right away or something or with
+
+through the call center supplements uh
+
+an anti nausea thing that's a side
+
+effect of zic and some glutide things of
+
+that nature we could even split tests we
+
+can we we have price elasticity we could
+
+test going lower or higher um with this
+
+as well and of course there's increasing
+
+the lifetime value so let's talk about
+
+lifetime value right what is lifetime
+
+value of your customer what's the
+
+average uh additional expected lifetime
+
+gross profit of the customer so let's go
+
+back to that peptide company right these
+
+are the metrics you just saw but what I
+
+know is from competitors you know their
+
+LTV is around
+
+$2,000 and I know that the um you know
+
+the margin on that for us it's about 50%
+
+uh you know it's like a little bit back
+
+of napkin for this but it's pretty damn
+
+good so you know basically we can make
+
+extra ,000 every time we acquire a
+
+customer which is pretty wild
+
+right um and you it's good to know so
+
+this was like that LTV was over 6 months
+
+that's how long we have the data so it's
+
+not true LTV but at least I know you
+
+know maybe it's longer right but for 6
+
+months that's kind of what I'm looking
+
+at so what does that mean well th000
+
+divided by 6 means I'm getting an extra
+
+$166 per month for each of those
+
+customers for the next six months so
+
+this is where the math gets wild and
+
+this is where people love rebuilds and
+
+continuing subscriptions right let's say
+
+we're doing a th000 sales a day because
+
+that's my goal my short-term goal
+
+uh 30,000 customers a month you gross
+
+profit gross profit margin right cool
+
+now you get to month two same thing
+
+right hey look at that it's good profit
+
+but it's better than that because of
+
+those rebuilds we do okay 30,000 people
+
+from the first month $166 per month
+
+that's $4,980 th000 in additional gross
+
+profit in month two switch out to 100
+
+sales a day okay
+
+$498,000 additional profit in month two
+
+right switch it to 10 sales a day oh
+
+okay $49,800 additional now again this
+
+has to be something that has a high Rebo
+
+take rate and it's a high average order
+
+value things like that right this is why
+
+sasses are so valuable because you get
+
+people on subscription the margins are
+
+extremely high all that that's why
+
+sasses will pay a lot of money to
+
+acquire a customer um but and we'll talk
+
+about that below as well that's why
+
+Agora would and maybe still does acquire
+
+customers and go negative for like
+
+months at a time right if you're
+
+wondering why is a gross profit so much
+
+higher with rebild is cuz there's no ad
+
+costs in the the additional months and I
+
+can play that out over one more month
+
+right now you've got 60,000 people you
+
+got people uh you know in month three
+
+and in month two uh you know so now your
+
+net profit after 3 months is that which
+
+is pretty insane that's how you know one
+
+way to quickly get to being a nine
+
+figure business that's what I'm trying
+
+to do and I hope I do it frankly you
+
+know I'm you never know I could record
+
+this and things go to [ __ ] doesn't work
+
+out um but I feel pretty optimistic I'm
+
+really working hard on this thing right
+
+now because of the upside and being you
+
+know a significant Equity partner in it
+
+okay and yeah like I said those numbers
+
+are insane but they're not out of the
+
+question and it's like I said if you're
+
+doing 100 sales a day then in you know
+
+month three you're only netting you 1,1
+
+164,000 like oh no right and like I said
+
+this is why people love subscription
+
+business and of course there's other
+
+things we can be doing as well you could
+
+increase the stick rate how many people
+
+uh you know
+
+do uh renew for another month or youand
+
+their medication or you know if you're
+
+doing a newsletter how many people stay
+
+on your newsletter uh the email list of
+
+monetization right we can take all our
+
+buyers and we can sell them supplements
+
+by creating warm traffic offers we could
+
+sell them affiliate stuff right um we
+
+could say you know hey customers go
+
+check out vred and sell them vshreds
+
+programs like you know want to lose
+
+weight and get off of zic you know do
+
+that right um you know we could call
+
+them sell them packages of Fitness
+
+coaching Health coaching all these
+
+things we can do right um and so it's
+
+kind of endless and it's all really fun
+
+so I guess yeah I'll get to final notes
+
+in a second but you know I hope this is
+
+starting to change the way you look at
+
+funnel economics and really running a
+
+business in general and you understand
+
+this sort of dirty but important funnel
+
+math cuz it really is to me it's so
+
+important to know these numbers and
+
+understand how this works I think I
+
+didn't know it until I was running my
+
+own offer or offers and then really even
+
+then it was sort of like money in the
+
+bank more money in the bank at the end
+
+of the month than at the start of the
+
+month like great and I realized like
+
+this is not the way to do it right
+
+there's there's so much there's levers
+
+and there's specific metrics and you
+
+optimize to these metrics and these
+
+numbers and you know it can make you
+
+rich or it can make the business rich
+
+and you promote it and then you go start
+
+your own offer and Company or you become
+
+a partner because you're doing such a
+
+good job in that business or whatever it
+
+is right um or you're just as a
+
+freelancer just be like a consultant who
+
+can come in and know this [ __ ] and like
+
+work with companies and charge them a
+
+lot of money to to to find the levers
+
+and pull them and tweak them it's
+
+extremely valuable right so here's like
+
+just a quick example from like a while
+
+back was like a bad day for the peptide
+
+company right we had six sales um should
+
+said from not form from Facebook for uh
+
+you know $1,970 ad spent so $328 CPA but
+
+the call center started up that day
+
+right and we're paying $125 commission
+
+right so if you add the math up on that
+
+basically between $1,000 to the call
+
+center put that in PR so it's
+
+easier um and the ad spend 29793
+
+but now we have 14 sales that takes the
+
+CPA from 328 down to 212 right we had a
+
+couple sales come in for the abandon and
+
+stuff that we're setting up um yeah we
+
+offer a coupon code but one person came
+
+in that didn't use the coupon code so
+
+okay same ad spend here as here but now
+
+17 sales now our CPA was
+
+17476 we also had five rebuilds come in
+
+again this is like the first month of
+
+doing that or I guess the second month
+
+but you know second rebs come in so we
+
+got about $20 net profit on those
+
+rebuilds on average um the reason I said
+
+166 before is because not everybody's
+
+going to rebuild so I'm averaging that
+
+out it's a high stick rate but not a
+
+100% stick rate so $1,100 net profit on
+
+the rebuilds and so when you look at it
+
+that way right okay
+
+174 our um you know Break Even is
+
+essentially 154 so say we lost $20 per
+
+on 17 sales right so again just lazy CU
+
+my brain's pred so we basically lost 3
+
+$40 acquiring customers but we actually
+
+for the day netted 1100 minus you 340
+
+which again I'm too tired to do
+
+mad $760 we made profit right and now
+
+when those 17 new people rebu next month
+
+right and then 100 people rebu per day
+
+next month this is where that math gets
+
+really exciting and fun and why I'm I'm
+
+really pumped about doing this stuff um
+
+and so it also comes back to that
+
+question right how much are you willing
+
+to spend to acquire a customer um and
+
+it's not can you spend but willing to
+
+spend and they're kind of both but
+
+sometimes you can spend more than you
+
+want to because you are you know
+
+optimizing for profit but you might be
+
+willing to spend more than other people
+
+because you don't care about going
+
+negative right in theory I think I have
+
+it down here
+
+um yeah like it's like in theory knowing
+
+what I know about the rebuilds and LTV
+
+and stuff like that it's like I couldn't
+
+Theory be like I don't give a damn that
+
+my CPA is $300 or $500 let's just go but
+
+you really would want a foundation of
+
+rebuilds coming in first uh to have the
+
+money and then you really have your
+
+numbers out you get CPA or somebody like
+
+CFO type level you can hire a fractional
+
+one you have to go hire a CFO for a
+
+bunch of money to help you understand
+
+what the modeling looks like on that but
+
+if you do that you know then you might
+
+be like damn I don't care I can acquire
+
+I want to actually spend more right and
+
+I put that in here um yeah I mentioned
+
+it here right like in theory we should
+
+be willing to go negative a lot of money
+
+to acquire customers right and I
+
+mentioned AG gor does this famously you
+
+you just need upfront money to play that
+
+game though or enough rebs coming in to
+
+do it but the pro of going negative is
+
+that you know you can acquire more
+
+customers you can dominate your market
+
+so in this case you know you're going to
+
+end up paying a higher CPA instead of
+
+trying to lower your CPA but you're
+
+going to be happy about it but the
+
+difference there is I would still be
+
+trying to optimize for CPA I would still
+
+try to lower it but I would accept you
+
+know especially as I go broader my CPA
+
+is going to go up or if I go from
+
+especially a lot of niches and if it's
+
+it's not a really like you know if it's
+
+not a niche where everybody it's not a
+
+massive Market or Tam right total
+
+dressable Market which we all know now
+
+because of heroi um sorry my family is
+
+about to be is perfect right then just
+
+CPA is going to go up in general I'm
+
+still trying to keep that CPA down I'm
+
+fighting it because I'm trying to manage
+
+for profitability but also LTV um and
+
+this also happens when you go broader
+
+right you go from you know a Facebook ad
+
+to a billboard then you're going to
+
+spend more money acquiring customers but
+
+if you've got enough money coming in
+
+lifetime value all that you can do it so
+
+that's actually it it's perfect cuz uh
+
+Laura and my daughter just got home
+
+perfect timing I hope this was really
+
+valuable and really made a lot of sense
+
+to you I hope it gives you a really good
+
+new way of thinking about funnel
+
+economics obviously you'll have access
+
+to this document as well my dog's
+
+freaking out so I'm going thank you all
+
+and bye

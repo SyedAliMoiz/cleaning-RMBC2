@@ -1,0 +1,543 @@
+Okay, let's go into Winback and reorder campaigns.
+
+So,
+
+pretty self-explanatory. I've got a sample reorder campaign
+
+for a supplement company, and then two sample Winback sequences,
+
+one for a supplement company,
+
+one for kind of a biz-op type thing.
+
+We're gonna open up the, Supplement one,
+
+right? Here, the idea is essentially,
+
+Somebody's a one-time buyer.
+
+We want them to become a multiple-time buyer,
+
+right? And, how are we gonna do that?
+
+Well, we're gonna get them to, hopefully,
+
+order again. And we're gonna tell them,
+
+about,
+
+you know, why,
+
+why they should, right? Essentially, we're gonna tell them,
+
+And there's some commonalities. I'll create a document for this.
+
+You're making progress. You'll
+
+make even more progress if you keep going.
+
+If you don't keep going,
+
+you'll lose progress.
+
+Backtrack. Right? That's really all we're doing in a reorder sequence.
+
+So, it's like a blood sugar, right? Time for you to reorder.
+
+Keep your blood sugar progress going. Okay?
+
+These were written by Claude, based off of some other reorder sequences,
+
+too. You know, you're doing something that most people with blood sugar concerns
+
+never do, first name. You're actually taking consistent action.
+
+And that consistency is exactly why the cellular glucose transport restoration works
+
+so well. This is kind of weird phrasing, because I just gave it the
+
+brief for blood sugar, but it's okay.
+
+Overall, it's alright. Um, here's what's happening inside your body right now.
+
+Those tiny Glut4 transporters. The microscopic doors that let glucose into your cells are
+
+getting stronger and more efficient every day you take the formula.
+
+So, again, hypothetical blood sugar supplement we sort of,
+
+uh, did during RBC2. It's just like,
+
+we're telling them, hey, you know, you're, you're doing something awesome.
+
+You're great. I make them feel good about it.
+
+You're a consistent person, right? Um,
+
+that's smart. here. Here's what's happening, right? Your body's changing,
+
+right? You're on your way to even better results. But here's the thing,
+
+you're probably about a week away from running out of your current supply.
+
+And I want to make sure there's no gap in your cellular transport support.
+
+Again, this is a weird, this is weird verbiage, but that's because of the
+
+weird brief for this, or whatever, the weird mechanism. Um,
+
+and this is coming from the doctor in this case, right? So,
+
+the hypothetical doctor. Because after 18 years of treating diabetic patients,
+
+I've learned that consistency is everything. And when it comes to blood sugar management,
+
+to your next month's supply, do these things.
+
+The patients who see the most dramatic improvements in their A1c levels are the
+
+ones who never let their cellular glucose transport support lapse.
+
+Transport support lapse. Again,
+
+the name is really bothering me, so maybe I'll change it.
+
+Just like Margaret, don't let the gap in your routine undo your progress you've
+
+made to your continued health. Feel free to call us.
+
+So you notice the timing, right? You're sending it.
+
+Like, seven days before you think they're going to run out.
+
+So you can have uninterrupted service. Okay,
+
+three days before you think they're going to run out. Don't let your progress
+
+plateau. Your cellular glucose stores and you continue to support.
+
+You're probably down to your last few days of your glucose transport formula.
+
+Why is it calling it glucose transport formula? I
+
+need to share this thing important with you. The biggest mistake I see patients
+
+make isn't starting wrong, it's stopping too soon.
+
+Here's what happens when you stop supporting your cellular glucose transport system.
+
+The tiny doors have been getting stronger and more efficient,
+
+start to weaken again. The inflammation that was being controlled begins to return.
+
+Your cells slowly go back to struggling. It's like stopping physical therapy just when
+
+your muscles are getting stronger. Good news, you can avoid this completely by simply
+
+maintaining your consistent routine. Most of our patients order when they have about 3
+
+days left, that way their new supply arrives right when they need it.
+
+To reorder now, do this stuff. Remember,
+
+Margaret didn't see her best breakthrough until here, and neither did Robert or Linda.
+
+It works, but with consistency, don't stop just when your body is saying it's
+
+tried. This is actually a really efficient messaging,
+
+or sorry, effective messaging, because it's sort of like,
+
+hey, you were just at the point of turning the corner,
+
+keep going. I mean, hopefully it's true for whatever you're selling, but like,
+
+right? Avoid a blood sugar
+
+setback, don't let your glucose door slam shut.
+
+Okay, you're probably on your last dose, you know,
+
+you understand what happens next if you don't reorder immediately.
+
+The Solar Transport Breakdown begins for 72 hours,
+
+those, you know, doors start to lose their efficiency,
+
+inflammation comes. This guy is a little bit aggressive,
+
+scaring them, right? Seems to pattern a lot.
+
+People are doing great,
+
+they forget it's busy, forget to reorder. Suddenly they're back to where they started,
+
+frustrated, disappointed. Feel like they wasted their progress,
+
+don't let this happen to you. Reorder
+
+now, all that. The day they run out,
+
+here's your last chance, and they're throwing a 20% off,
+
+right? Hey, last chance, you're gonna take your last dose,
+
+you're about to lose the support, you don't need to,
+
+save 20%. You know,
+
+don't let things go back to the way they were, okay?
+
+So,
+
+like I said, pretty, pretty simple,
+
+it's about purpose.
+
+Or, I guess messaging.
+
+Like, you're making progress, you're making more progress if you keep going,
+
+if you don't keep going, you know.
+
+I guess you could put as a bonus here,
+
+be a very consistent person.
+
+Really commits to things, aren't you?
+
+Right? So that's it,
+
+because it's not super hard. I'm going to look at win-back sequences.
+
+So we'll look at blood sugar first, and we'll look at a, uhm, like
+
+a sass one second. So this would be like 45 seconds.
+
+45 days after the last order, so say they got the reorder email,
+
+like, you know, at day 30,
+
+or something like that, day 33, 35,
+
+this is going to come like 10 to 15 days later. You know,
+
+this is for a compliant blood sugar supplement,
+
+so it's come back to balanced blood sugar, the sexiest name.
+
+No, but it's fine for the example.
+
+It's been about six weeks since
+
+your last order. I have a feeling you might be noticing some changes.
+
+Maybe your energy isn't as steady as it was. Perhaps those afternoon crashes are
+
+creeping back in. You might even be seeing your blood sugar readings climb again.
+
+Here's what's happening. Without continued support, those GLUT4 transporters,
+
+the cellular glucose stores we worked so hard to repair, have started to weaken
+
+again. The inflammation that damages your cellular transport system has returned.
+
+Your cells are struggling to absorb glucose sufficiently once again. Here's the good news.
+
+You can restore your cellular glucose transport function faster the second time around.
+
+Because your body remembers what optimal cellular function feels like.
+
+Tell me to get back on track. I'm offering you 20% off when you
+
+restart today. Use this code. Why do you restart now?
+
+Margaret's story is instructive here. She stopped her formula after six weeks.
+
+Life got busy. She was feeling better. Within a month,
+
+her fasting glucose climbed back from 110,
+
+sorry, climbed from 110 back to 160. When she restarted,
+
+she was back to optimal levels in just three weeks. Your cellular transport system
+
+wants to work properly again. Give her the support it needs.
+
+Click here to restart. So I'm going to talk about the messaging on this
+
+one. These are also really effective. I learned this all the way back in
+
+the day with my, uh, first supplement company. It's sort of like,
+
+hey, notice me something. Like essentially,
+
+sometimes with like a product, and especially like a supplement,
+
+it's like somebody might feel like they don't really notice a big difference,
+
+but then they stop and suddenly they have like a shitty day or a
+
+shitty week or they feel more tired,
+
+they're dragging butt a little more, they're less clear,
+
+whatever it is, and they kind of like don't put it together until you're
+
+like, hey, you're noticing,
+
+you're feeling like you're dragging butt, you're a little less clear,
+
+lower energy, like you stopped taking the supplement about two weeks ago.
+
+Like, it seems like maybe the one big change you made, maybe that's why,
+
+so if you want to feel good again, just get back on the supplement.
+
+Hey, it works. It works well.
+
+Uhm,
+
+so it's really like the messaging here, right? And the other cool part of
+
+it is like, you know, by the way,
+
+when you come back on it, you're going to get great results,
+
+right? It's not too late, you didn't screw it all up.
+
+Your body remembers, you'll actually get results potentially even faster,
+
+or even better when you get back on it. And the discount,
+
+I like just leaving a discount for winbacks. Honestly,
+
+frankly, I might even be more aggressive. But
+
+here, right, month two is when most breakthroughs happen.
+
+I mean, I only do this if somebody, You can also make this more
+
+generic, like your next, next, your next month is, you is when most breakthroughs
+
+happen. Or this month. You know,
+
+this is also a, a, a nice piece of messaging,
+
+kind of similar to that. So the first one's like,
+
+hey, you might feel crafty since you stopped taking this,
+
+so why don't you start taking it again. This one's like, hey,
+
+you were about to have that breakthrough, you were just around the corner,
+
+and you stopped. Like,
+
+right? Uhm.
+
+This only really works for people if they only bought one month supply,
+
+but you can also modify it for someone like, oh, in month four,
+
+month three, you know, whatever it is. And this sort of just explains why,
+
+right? Why is the next month magic? You know, you stopped right before month
+
+two. You know,
+
+oh man, I stopped right before I was fully optimized, here's a discount,
+
+you can get more. Then I would frankly,
+
+for a win back, go up to a more aggressive pricing,
+
+like 40% off, 30% off, whatever it is, because otherwise,
+
+I don't want to lose them as a customer, you know?
+
+I want to try and keep them, because the longer you keep them buying,
+
+the more likely they are to stay long-term, especially if the product's good and
+
+you just need them to stay on it a bit longer. You know,
+
+I'm offering 40% off, offering,
+
+authorizing, you know,
+
+kind of same with messaging, you stop before a big breakthrough,
+
+uhm, you're probably feeling like,
+
+on it, don't go through another year of this,
+
+like, why am I doing it, why am I giving it away for you?
+
+You know, I see what happens if you'll miss it,
+
+right? Don't want it to be you, get it.
+
+And the kind of the final thing, hey, like, you're just kind of spires,
+
+okay? So it's pretty simple and easy.
+
+And I did one back for the arbitrage thing for that same,
+
+uh, what are that thing?
+
+It was called, like, the, um, the asset finder
+
+pro that we did, uh, the promotion emails for.
+
+Now I must pretend it's like, um,
+
+it was a good subscription, right? 97 dollars a month.
+
+Okay, 14 days after cancellation. We're offering them to stuff.
+
+Hey, you know, I'm worried you're falling back into all the patterns.
+
+Don't slip back. I'm doing my new research track. Hey,
+
+I'm concerned. It's been two weeks since you cancelled your asset pro finder subscription
+
+and I'm worried you're falling back into old patterns to keep people trapped.
+
+Here's what I mean. Right now you're probably thinking you can just figure out
+
+profitable Airbnb markets on your own. Maybe you're back to spending hours on Zillow
+
+trying to manually calculate cash flow potential. I'm just going through endless Airbnb listings.
+
+You guys see the occupancy rates and I get it. I really do.
+
+When you're feeling the pinch financially, 97 dollars a month feels like a lot.
+
+But here's what I'm worried about. You're slipping back into income gap thinking instead
+
+of asset. I'd probably,
+
+you know, gap building. Again, I just give this the brief.
+
+I might say assets, you know, asset solution building or something like that,
+
+right? Um, you're training your time.
+
+Instead of controlling your time, you're doing exactly what the rig system wants.
+
+Uh, you know, I even gone these past two weeks.
+
+Like, here's Sarah and Marcus, Jennifer, I've had success.
+
+They're building these assets before. Those, while you're back to manual research.
+
+Look, I don't want to see you become another what-if story, so I'm going
+
+to make this as easy as possible for you to get back on track.
+
+Come back today and get 25% off for your next three months.
+
+That's just 72, 75 a month or 77 dollars.
+
+Use this code. Here's a math that should scare you.
+
+Manual market research. 20 hours to make me find one decent market.
+
+Asset finder probe. Complete market analysis. Another two hours to make my profitability.
+
+One good property you find pays for years of the subscription.
+
+One property you missed because you didn't have the data to cost you $50,000
+
+potential cash flow. I'm not trying to pressure you.
+
+I'm trying to protect you from falling back into the time,
+
+train, trap, the key people stuck in the virus forever. Right,
+
+it's a really nice email. Cause it's like,
+
+hey, I'm looking out for you. People,
+
+especially in like, bizarre, there's more of a mindset thing. Like,
+
+you know, or you falling back at your own mind. I said, oh, gosh,
+
+shit, I am. You're right. You know, I should, I need to get back
+
+on this. That's good. So it's strong email. Okay. Don't let this just pull
+
+you back in. It's kind of the same messaging here.
+
+More social proof. You know, assets still here.
+
+The book kind of like, what a story.
+
+How's the manual research going? Accurricular s- success,
+
+right? And the story games,
+
+like, don't become another, what a story. What if I say consistent,
+
+right? It's kind of calling out that lack of confidence and that feeling of
+
+people, like, oh, I give up on everything, like, hey,
+
+don't be that person, right? What if you can, what's that of that?
+
+You can be doing these things, right? Um.
+
+And then same thing there. I probably threw like, uh,
+
+30% off plus bonuses. ounces. 8 8 8 8 9 is I'm really trying
+
+to give you everything I can to bring from between another almost made a
+
+story. It's been three weeks since you cancelled,
+
+through all this stuff. I can't let it,
+
+I can't just sit here and watch it happen. So here's what I'm doing.
+
+50% off your next three months, just 4850, a month instead of $97, plus
+
+I'm throwing in this random bonus.
+
+Why am I probably giving this away? Again,
+
+you know, I've seen people who make this mistake- and
+
+they suffer, you know, you're gonna get it for 40-50 a month,
+
+it's less than all of these things,
+
+right? Like, it's- it's dimensionalizing it, it's less than dinner out,
+
+taking a gas, half a cable bill, a few coffee shop visits.
+
+Uhm,
+
+but it's also the difference between building a cashflow asset portfolio and a state
+
+trapped in the research here is forever. This is my final intervention.
+
+If tomorrow disappears, you know how I've been doing .
+
+So,
+
+not rocket science, but they're cool. They're cool,
+
+they're, they're effective, so definitely saying to add in if you're own your own
+
+business or if you're,
+
+you know, writing for a business or whatever it is.
+
+So now, with this done,
+
+I'm gonna create a cloud project, show you how to use that to just
+
+generate all of these, and then we'll be completely with email.
+
+Alright, thank you.

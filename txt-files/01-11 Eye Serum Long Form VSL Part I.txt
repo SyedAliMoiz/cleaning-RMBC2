@@ -1,0 +1,1439 @@
+Alright, so let's go ahead and get into actually
+
+creating VSLs. We'll be doing,
+
+you know, quad. You already saw some glimpses of how this worked,
+
+but we'll actually just generate a full VSL. Um,
+
+we're gonna do like a long form example or two, medium form,
+
+three to seven minute length, short form,
+
+all that. And you can kind of watch the process
+
+as I go about. So,
+
+this is that Unity ISER and brief we did before.
+
+Now, as you'll recall, there's a couple little things I noticed as I went
+
+through, um, in the previous video,
+
+so I'm gonna go ahead and, like, modify them here.
+
+It was all the stuff around existing solutions,
+
+all that was cool. The mechanism,
+
+as you may recall, the College of Architecture breaks down.
+
+Thing was cool,
+
+and I actually liked it happening at the DEJ. So,
+
+it's important we kind of do revisit this for just a minute,
+
+and so hence that's why we're doing it. Okay,
+
+think of young skin like a high-quality fabric with perfectly tight,
+
+organized weave. Every collagen thread is in its proper place,
+
+working together to create smooth, strong, beautiful skin.
+
+But as we age, something far more devastating occurs than simple thread loss.
+
+Those collagen threads don't just age. They become loose,
+
+tangled, and lose their organized structure. The hooks that connect your skin layers at
+
+the DEJ break down and disappear.
+
+This line to me doesn't really make sense,
+
+right? So I would just delete this line,
+
+because it doesn't really make sense. What are we talking about hooks?
+
+The hook, it made sense for this, or previous mechanism.
+
+But if we're talking about this architecture and a fabric and weaving analogy,
+
+then like it doesn't, there's no reason for that.
+
+So I'm removing it. Removing that line, because I don't want that in my
+
+copy, or to, the LM to talk about it.
+
+Instead of that tight, precise weave, your skin's foundation becomes like fabric that's been
+
+stretched and twisted until the threads are jumbled together.
+
+The separation between skin layers means,
+
+and
+
+then it talks about the separation between scales. Skin layers, right?
+
+So, what I honestly would probably do here,
+
+if I think about it, I'd do something like this.
+
+Looking really nice overall.
+
+Here's one more issue.
+
+I like
+
+saying that the collagen architecture
+
+breakdown is happening at the DEJ level,
+
+but I don't think,
+
+but I think.
+
+the UMP part conflates with what I gave before, and the DEJ stuff from
+
+the website. I'm going to give examples.
+
+Right, so I'm going say, for example,
+
+doesn't
+
+really
+
+make sense. We're using this weave and thread,
+
+this weaving and
+
+threading Analogy,
+
+where do hooks come from?
+
+And we say,
+
+first part
+
+is good,
+
+but why does,
+
+uh,
+
+strategy work? Crutched and twisted fabric with
+
+threads that are jumbled together
+
+mean there's a separation between
+
+skin layers. You can
+
+still say that the, jumbling
+
+and twisting leads to a separation
+
+if we want, but we really need to explain
+
+why, or explain it in the context of
+
+our collagen architecture and
+
+weaving.
+
+metaphor or analogy, right?
+
+Now I'm looking at UMS again.
+
+For
+
+the unique nicknames,
+
+I like, since we're not as focused
+
+on the DEJ, for this new sales letter.
+
+Change
+
+this teaser phrase.
+
+Not make it about the DEJ breakthrough.
+
+So,
+
+hopefully you can understand why I'm doing this feedback,
+
+right? This is actually so cool,
+
+because when I am copy-chiefing or working with in-house copy-chiefs,
+
+copywriters or, you know, whatever the case may be,
+
+uhm,
+
+like, part of what you want to do,
+
+one of the reasons, like, the brief and the mechanism and these things are
+
+important, is to sort of catch weird stuff before you go to write copy.
+
+And it's the same whether you're working with a copywriter who's writing the copy
+
+and giving you ideas, or you're working like a junior copywriter,
+
+or you're looking like me. And even if you're sort of an early-on copywriter
+
+and you're watching this, you know, essentially you graduated to copychief,
+
+this is your junior copywriter, but your junior copywriter can write at the level
+
+of an absolute world-class legendary copywriter,
+
+Uhm,
+
+so, that's why we're making these little modifications,
+
+right? This
+
+is actually fine. Here, it's saying penetrates deep into the D-E-J,
+
+where iaging begins. That's fine, because we're still going to say at the beginning,
+
+uhm, that's cool, right?
+
+Here, the Quest for Solutions armed with
+
+Dr. Schilling's insights about the
+
+D-E-J and the specific ingredients.
+
+So, here, uhm, we're going to go with that.
+
+This will be for the background
+
+story. This part should probably
+
+be changed. Just,
+
+I guess the types of architecture breakdowns, maybe not. Actually,
+
+I was thinking,
+
+because we're talking about college and architecture breakdown at the DEJ,
+
+so maybe that's okay. Testimonials,
+
+things like that are fine. Guarantee
+
+is fine, scarcity is fine,
+
+I think the rest of it's pretty good.
+
+Okay,
+
+I might modify this for the VSL version. So I'm going to give it
+
+feedback on these, on this part first,
+
+okay? I'm going to delete this,
+
+actually this part's okay. Please
+
+update these parts. And
+
+nicknames. On my feedback.
+
+Again,
+
+I don't want to get rid of the DEJ altogether.
+
+I actually, like saying it starts at the DEJ,
+
+just need to make main focus on this collagen
+
+architecture breakdown that happens there.
+
+Let's see
+
+how it does.
+
+I'll give you this feedback, first and foremost.
+
+This
+
+guy did it. Okay, cool. So,
+
+it's happening at the dermal-epidermal junction.
+
+Radiation and devastating occurs. Collagen threads don't just disappear,
+
+they become loose, tangle, and lose their organized structure. This breakdown begins at the
+
+DEJ, where your skin layers meet and spread throughout the collagen matrix.
+
+Instead of the tight, precise weave, your skin's foundation becomes like fabric that's been
+
+stretched and twisted until the threads are jumbled together. When this organized structure collapses,
+
+it creates gaps and weaknesses in the skin's foundation.
+
+These structural failures mean,
+
+it's got this stuff here, UMP, this part's
+
+all the same, and now it's got the structural renewal breakthrough
+
+that reverses collagen architectural breakdown. So now I think it's solid.
+
+So it really addressed the things I had issues with. So,
+
+I'm going to go ahead and take this, and update it,
+
+and I'm going to copy and paste it in. Here's the other thing I'm
+
+going to do. I don't think I need to include the big ideas to
+
+test, to be honest with you. Why am I doing this?
+
+Because I don't want Claude to specifically focus on
+
+those. Thank you I
+
+also don't think these hooks are that good, so I'm actually going to delete
+
+the hooks, too. I'm still going to end up writing,
+
+like, leads separately,
+
+and we'll do that in a separate module, or component of ESLs.
+
+But,
+
+yeah, I don't think I need to have this part, okay?
+
+So, I'm making some little modifications here. I'm going to download this
+
+as a PDF. Bear
+
+with me for a moment. Now, I'm going to have it in my PDF.
+
+I'm going to use that. Actually, I'm going to add it here,
+
+too. I'm going to remove this one. And
+
+add it here, so we can keep track of things.
+
+Now, let's go write a long VSL.
+
+So,
+
+long form VSL generator, okay?
+
+Now, here's where we have a
+
+couple decisions to make. As it stands,
+
+okay? The first decision is
+
+how much do we want to just really directly swipe something that we know
+
+works. So, for example,
+
+Midoline,
+
+super aggressive weight loss thing, pretty long.
+
+Could swipe it. High-Ticket Coaching probably wouldn't make sense.
+
+Sign to Sell, I don't really know that well. Let's look at it again
+
+for a minute. I guess I probably will break it down in the previous
+
+section.
+
+This is very doctor-driven. And it's like,
+
+you know, pretty white hat, but solid.
+
+Okay. Sign to Sell there. Emma's very white hat.
+
+Backyard Liberty wouldn't really make sense. The Agora Financial Trust one wouldn't really make
+
+sense, unless you're trying to do like an interview one, whatever it is.
+
+So we sort of have two options, right? One is you can be like,
+
+hey, do a direct swipe. And by the way, if you want to really
+
+directly swipe something, you have these.
+
+You can also
+
+upload your brief,
+
+right? And you can upload another VSL if you want to swipe.
+
+Even if this project doesn't matter, you can go, hey, here's a VSL,
+
+your one document's a VSL, uhm,
+
+for whatever it is.
+
+Now I have a brief of information for a new or different product and,
+
+like, niche. Like, I want you to closely model the structure,
+
+length, everything else about existing VSL,
+
+but, you know, do it for a new market and for,
+
+uh, this product. I mean,
+
+let me show you what that looks like. This is sort of the lazy
+
+swipe way. So again, and there's two things you can do. You can always
+
+just add that VSL to the project base and go like,
+
+hey, swipe. You saw a few financial. Hey,
+
+swipe. This is for a skincare thing.
+
+I want to do it in the form of my, like, watch.
+
+I'll show you. Okay. Um,
+
+uploaded the brief for a new VSL I want to write.
+
+Um, like,
+
+I'm gonna say that, uh, VSL that we're going to going to
+
+write to start. I want to see what it looks like if
+
+we very closely model
+
+the structure and length of
+
+mydolene, say of mydolene
+
+VSL. That's in your
+
+project knowledge, but doing it for,
+
+you know, this new product and brand.
+
+Can you do the first 1,000
+
+words of the new project?
+
+PSL, uh,
+
+following the Myrlene structure,
+
+so I can see what that looks like.
+
+I'll save this, like, as a,
+
+uh, prompt for you as well,
+
+okay? Uhm, let me go ahead and do that right now.
+
+Okay, so this way you can
+
+kinda see
+
+what's it gonna look like if I swipe something like Myrlene,
+
+okay? The
+
+problem is it's gonna be really close to Myrlene. Hey,
+
+I'm health researcher Laura Cotella here,
+
+writer's night, I'm Laura.
+
+Actually,
+
+it is doing it a little bit original, which is kind of interesting.
+
+Look at this. This is just ordinary eye cream sitting on my vanity. It's
+
+probably just like the expensive eye cream you bought from Sephora last month,
+
+and the second you finished checking out online for that $89 jar,
+
+you gave the beauty industry another $89, while your crow's feet stayed exactly the
+
+same. Because here's what they don't want you to know. Sarah,
+
+a 47-year-old working mom from Phoenix, tried the same eye cream for six months.
+
+She religiously applied it morning and night, just like the instructions said.
+
+She spent over $500 on various ice creams and serums,
+
+or stuff like Or suffered,
+
+that doesn't make sense, through painful Botox injections every four months,
+
+$600 a pop. I don't know if I say and,
+
+right? Shows up in the expensive department store miracle creams.
+
+Wow, this is actually terrible. I don't know what is going on.
+
+This is very bizarre. Okay,
+
+so this is super weird. I don't mind the start.
+
+But I think it's sort of conflating this one with the Amazon one.
+
+If you remember the long-form Amazon one I broke down before.
+
+Because
+
+it's like literally nonsensical.
+
+I'm gonna tell Has
+
+some good parts. Also nonsensical.
+
+Can you please review
+
+it? Let's see
+
+what happens
+
+when I do this,
+
+because this is very weird.
+
+I mean, I actually like parts of it, but it was very weird.
+
+Let's
+
+see. All right.
+
+Still
+
+weird, was about to discover Bizarre Skin Breakthrough Back by Breakthrough Studies from
+
+Harvard. Harvard & Lee Dermatological Research.
+
+So it's trying to do, like, essentially, it might have leaned the structures,
+
+like, hey, I'm a health researcher, and behind me are people who discovered these
+
+things, right? There's still a super nonsensical,
+
+if I was really in a pinch, I could make this work.
+
+Sarah, a 47-year-old working mom from Phoenix,
+
+was about to discover Bizarre Skin Breakthrough.
+
+Backed by Breakthrough Studies.
+
+Like, Breakthrough Studies is super f****** weird. So, I don't know what's going on
+
+with this. Really never had anything like this happen before.
+
+Yeah, I want to mention Opal Beauty in the, Another thing,
+
+so why are we getting that thing where it's always saying that Laura's the
+
+founder of Opal Beauty?
+
+It's because, and I wondered if it was going to do this again,
+
+and it did. I'm going to
+
+delete all this.
+
+Boop.
+
+Keep that there. So,
+
+I'm going to redownload this. I'm going to put it here again.
+
+Here's
+
+the thing, right? For
+
+a short VSL, or medium length VSL,
+
+you might want it, okay? I'm going to delete this brief that we have
+
+here, which is trash, re-upload with the additions I just made.
+
+Now, the prompt should have worked well,
+
+but didn't, right? Super bizarre. So,
+
+let's come back here. What should we do?
+
+Should we try Opus? Should we try Sonnet?
+
+Should we try 3.7?
+
+Let's actually try 3.7 for quad.
+
+Give it the same prompt. Because, by the way,
+
+I was doing greater than 3.7 before.
+
+Let's see if we get a better output with
+
+3.7 that's less confused and messed up.
+
+What's funny is, like, I usually wouldn't want to swipe this directly.
+
+So, again, I told you about the other style. You saw how it worked
+
+with financial yesterday. I thought it would just work for mightily,
+
+and it should've. But it's not.
+
+But, again, I'm not really sure what's going on here. So,
+
+I want to test 3.7, but then I can show you other ways to
+
+do the swiping. But then, it's kind of conflating things,
+
+which is what we want it to do, actually, to make it more original.
+
+But I still want to show you what this looks like, and I'm annoyed,
+
+so I'm troubleshooting on it now. So,
+
+let's See ya. Let's
+
+see if it still screws it up or not. My cause is having a
+
+bad day, and it's a bad day for me to film.
+
+So,
+
+this is gonna be swiping mightily much more directly.
+
+Now, it's got Blaine Schilling, but it kind of makes sense.
+
+If you've You go back to the mightilying swipe,
+
+or the script for it. I'll pull that up while it's doing this.
+
+So,
+
+mightilying script, right? Hey, let's just look at this for a second.
+
+Hey, research scientist Andrew Lambert here,
+
+and these everyday women and men are about to discover a bizarre purple peel
+
+exploit backed by breakthrough studies from Harvard and Yale.
+
+It takes just six seconds to do, turbocharging metabolism,
+
+and easily and rapidly liquefying in just a few inches of deep stubborn fat.
+
+Yet, yes, it may sound impossible,
+
+but keep watching as in the next three minutes, we'll not only check back
+
+in with them after just weeks of putting this natural safe calorie burning hack
+
+to the test, and you'll be amazed when you see their surprising 36 pounds,
+
+24 pounds, and even 57 pounds fat loss results,
+
+but I'll show you step by step how to do it, right, all that.
+
+So, why did I bring that up? Because it's going to be very similar,
+
+right? Hi, research scientist Dr.
+
+Blaine Schilling here, and these everyday women you see are about to discover a
+
+bizarre structural renewal exploit,
+
+because it's really trying to make it close to methylene,
+
+backed by breakthrough studies from Harvard and Yale. It takes just six seconds to
+
+do, rejuvenating your eye area and easily reducing the appearance of stubborn crow's feet,
+
+dark circles, and under-eye bags. Yes,
+
+it may sound impossible, but keep watching as in the next three minutes,
+
+we'll not only check back in with them after just weeks of putting this
+
+natural, safe, collagen-rebuilding hack to the test,
+
+and you'll be amazed when you see their surprising 39% wrinkle reduction,
+
+brighter under-eyes, and even complete transformation of their entire eye area.
+
+But I'll show you step-by-step how to do it for yourself at home right
+
+now. I guarantee you've never seen or tried anything like this strange structural renewal
+
+exploit before in your life. It's got nothing to do with useless injections,
+
+painful procedures, or harmful chemicals. It's so oddly simple,
+
+it takes just six seconds to do, but it's so powerful, it rebuilds the
+
+collagen architecture in your eye area like a master weaver repairing damaged fabric.
+
+And the more you do this exploit, the more your eye area rejuvenates,
+
+supporting youthful skin structure, reducing the appearance of dark circles,
+
+and quickly changing the lives of 5,832 mothers,
+
+grandmothers, and professionals, going against everything you've ever heard about how to treat aging
+
+eyes. There's testimonials that it's adding in,
+
+the exact same amount as myeline, right?
+
+So, as
+
+you can see, in a case like this,
+
+swiping it really directly, now, that's not necessarily a bad thing,
+
+like I said before, if you were trying,
+
+if it was already your VSL, and you're trying to just do your VSL
+
+for, if your structure really worked, and you wanted to do the exact same
+
+thing for a new product category, a new niche,
+
+then that's like, you might want to really swipe yourself heavily.
+
+Of course, it's so heavy that things like,
+
+uh, structural renewal exploit, may not be what we want.
+
+Now, of course, we could do the three-step skin-unifying
+
+system that rebuilds your eye area from the inside out.
+
+There's the College of Architecture Discovery. I might do this.
+
+This one, right? So I say,
+
+okay, great, uhm,
+
+let's go with,
+
+or, you know, three-step skin-unifying therapy. system
+
+instead of structural renewal exploit,
+
+right? And I mean, I don't even really want to waste a problem doing
+
+it. Oh,
+
+what the hell, let's do
+
+system, back by breakthrough, right, does this stuff. Notice anything like this,
+
+you know,
+
+strange three-step
+
+skin-unifying system before real life, okay? So you could make little tweaks to this
+
+pretty easily. Hey, like, I want it to come from Laura instead of Dr.
+
+Schilling, and let's just say that she's showing them a bunch of before and
+
+afters, right? You could do something like this,
+
+and then over time it becomes less of,
+
+like, the exact copy-paste swipe, and it could be pretty good,
+
+right? So,
+
+don't completely knock the swiping of it. And let's note what we did here,
+
+we did at 3.7,
+
+which was not my, I mean,
+
+3.7 is fine, this is how I would do it in the real world
+
+if I was really trying to swipe something.
+
+So I think I'm like, alright, I guess I gotta go switch to 3.7,
+
+so it's kind of good to see it. If
+
+I was gonna do What I want to test is really,
+
+like, a medium-length VSL, but I'll still do a long-form one so we can
+
+see it. But let's do it. Differently now, okay?
+
+This time we're gonna give it the brief again.
+
+Here's the brief for a new product
+
+and brand to write a new long-form
+
+VSL that is about 27
+
+minutes in length.
+
+Please outline,
+
+uh, say, please, uh, an outline for this new VSL that I can look
+
+at, and once approved,
+
+I'll have you write it. Let's try Sonnet
+
+again. Why aren't you using Opus?
+
+I don't know, cause, This is probably going to take longer.
+
+It'd be slower. I don't think I need it. I've,
+
+other people have mentioned liking Sonnet more than Opus. If,
+
+by the way, if this sucks, I can still go back to 3.7. But
+
+let's try Sonnet, and let's see.
+
+And again, I'm curious, we were using Sonnet this whole time with Quad,
+
+and it was fine, so it could be that Sonnet's just a little wonky
+
+today. Let's find out.
+
+So,
+
+I have
+
+a piece of feedback for it, okay? I'll tell you about it in a
+
+minute. Well, I'll tell you right now. I'm gonna make a note, okay? So,
+
+I think this is good, but we also want to promise that
+
+we're not a
+
+solution, something that's going to their
+
+eye area.
+
+equals, find lines, enclose feet,
+
+except it should
+
+of what life is going to look like for them once they've learned about
+
+the solution, once they've discovered this solution
+
+and used it for themselves. Uhm,
+
+let's
+
+look at this here. Okay. You wake up,
+
+look in the mirror, don't recognize the tired aged face on your back. Lines
+
+that weren't there last week. Stories of a woman spending thousands on failed
+
+solutions. You feel 25 inside but look 15 years older.
+
+Photos is good. Try a product after product.
+
+Reduce Laura. See,
+
+well, how's it gonna get us to 28 minutes here? So that's like,
+
+four and a half minutes speaker is fine.
+
+So this is where, going back to the classic VSL structure,
+
+I could put the classic structure, I could,
+
+what could I do? I could share my classic structure with them.
+
+But
+
+I'll give you feedback first, okay? I also don't
+
+think we want to do
+
+too much about Laura's,
+
+okay, I'm gonna talk about Dr.
+
+Schilling in the speaker credibility
+
+section, unless it's teasing that she,
+
+uh, a, you know, an anti-doctor revealed
+
+something shocking,
+
+and we don't want to talk about that.
+
+Hopeful beauty until much later either,
+
+and we get to the end
+
+of the product build up and reveal what
+
+I'm going to do, share my classic DSL
+
+structure with you.
+
+Please check this out for a general idea
+
+of how the DSL will flow,
+
+and then modify your outline accordingly,
+
+and still based off information in the brief.
+
+So now we're going to do that.
+
+Sorry, I got my, classic outline again. Sorry,
+
+I'm pulling it up,
+
+give me a
+
+second here. So,
+
+I wouldn't always do this, but I want to make sure it gets it
+
+right. I might, you know, I would experiment with putting it in the cloud
+
+projects too. Well, let's see what happens when I do this, right?
+
+Period
+
+lead, micro lead. If you're a woman over 35 who's been shocked by the
+
+sudden appearance of crow's feet, under eye wrinkles, or dark circles that make you
+
+look exhausted even when you're well rested, and you've tried expensive eye creams,
+
+department store miracles, even professional treatments but nothing seems to work,
+
+the one I'm about to reveal will be the most important breakthrough you'll ever
+
+discover for transforming your eye area and getting back the youthful,
+
+confident look you deserve. Call it The Problem.
+
+The devastating moment when you look in the mirror and don't recognize yourself. Problem,
+
+solution, transformation. Paint the picture. Imagine waking up with bright,
+
+rested eyes that match how you feel inside, being confident enough to go makeup-free,
+
+receiving compliments about looking refreshed and youthful. Tease the emotional discovery story.
+
+I'm going to share the heartbreaking story of how a busy Florida mom discovered
+
+the real reason why every eye cream had failed her.
+
+I'm going discover the shocking scientific truth about what's really happening at the cellular
+
+level that causes your eyes to age faster than the rest of your face
+
+and why everything you've been told about college and loss is missing the most
+
+critical piece of the puzzle. Why 97% of eye creams fail.
+
+The hidden breakdown happening at a microscopic level that other product addresses while spending
+
+more money often makes the problem worse. Brief credibility.
+
+Backed by breakthrough research endorsed by a leading anti-aging physician.
+
+Works for women over 35 who are tired of wasting money.
+
+Address skepticism. I know this might sound too good to be true.
+
+Quick mentions of women's teen results. That's right.
+
+Laura is a busy mom. Her devastating realization at age 37.
+
+Look in the mirror and see in crow's feet, dark circles,
+
+skin that has lost its snap. I might change the age of this a
+
+little bit. Traditional solutions failed.
+
+Really, she was like losing her confidence. She looked for answers.
+
+There's like your UMP.
+
+So overall,
+
+The one thing I want to ask it about now is
+
+like having her connect with Dr.
+
+Schilling, right? It's
+
+pretty good. The one thing I want to be
+
+explicit about, I'm saying I want to make
+
+sure, incorporate,
+
+I can't spell.
+
+How her search for
+
+truth, uhm,
+
+led her to meet Dr.
+
+Schilling. He is the one who reveals
+
+UMP We can say, it was referred to her by
+
+a friend. Dr. Schilling doesn't need to have a speaking
+
+Bolton's BSL, instead it can be Laura recounting
+
+what he told her about the UMP and UMS. I'm going to share
+
+that so it modifies it.
+
+One
+
+thing I might do while it's modifying it here,
+
+is I might just save the outline
+
+that it gave me, because why not?
+
+And also, when I get this outline,
+
+what I can also do is,
+
+I could generate several outlines,
+
+right, that are different structures and things, and write several different VSLs,
+
+go through them, and decide which one I like most.
+
+VSL training part, right, so,
+
+it's sort of like you're copy-cheaping the ideas in the plan,
+
+and then you'll get a chance to copy-cheap the final copy as well.
+
+And what am I really copy-cheaping here? It's just making sure that it kind
+
+of follows the structure I want. It's kind of thinking holistically,
+
+right? Like, this is, I think. It's important. It's easier for me having more
+
+skill. It might be harder for someone who's early on in their kind of
+
+copywriting and direct response journey.
+
+But it's like, pulling back and just sort of trying to think through the
+
+flow logically. When you have this outline, and you're going through it,
+
+you're like, okay, this all makes a lot of sense. But there's a part
+
+that doesn't make sense, or a part that you're like, oh, well, like,
+
+again, we've got Dr. Schilling here.
+
+I want to make sure that, say, Laura gets connected to Dr.
+
+Schilling. Let's just say that a friend introduced her to him for now,
+
+right? Like, kind of true. I mean,
+
+I introduced her to him, sort of.
+
+And so, you know,
+
+using that's cool. Like, we could, you know, for this example,
+
+we could use that, Um,
+
+the guy's in a ton of VSLs. He's like a kind of like an
+
+endorsement machine.
+
+So I don't, you know, we might not use him long term.
+
+Anyway, but for now, it's fine, right? We have him,
+
+we paid him earlier on to kind of like review our stuff and be
+
+a spokesperson. So it works. Um,
+
+you know, the unique mechanism, again, it was the same thing. Hey, you know,
+
+this is pretty good. But here's like,
+
+you know, an issue with it, right? Things like that.
+
+So it's really just take the exam, take the time to read through it
+
+and make your little tweaks here. And it should be a lot better.
+
+By the time you go to actually write it out.
+
+So I'm going to take the outline. And by the way,
+
+is this the best outline for the VSL?
+
+I don't know. Maybe,
+
+maybe not, but for right now,
+
+let's
+
+go ahead and copy-paste it in.
+
+Okay. iSerum 27-minute
+
+VSL outline number Right?
+
+Okay, cool. We'll save it.
+
+Should be Sorry,
+
+you have to
+
+watch me do
+
+all this, but, Move
+
+that into here, okay? This is also how I'll pull,
+
+because what I could do now, I'll show you,
+
+actually. Let me do two things.
+
+I'll come back to what I want to show you, okay? Say, great,
+
+please go ahead and start writing the DSL now.
+
+While
+
+it's doing that, here's what I'm going to do.
+
+I've got my outline, I'm going to download this as a PDF too,
+
+okay? Bing, bom, boom,
+
+bang.
+
+What I could be doing for funsies,
+
+I can go over to, let's say, Poe. Let's say,
+
+we'll try Gemini 2.5 and see what happens. I'm sick.
+
+Let's say we're going to write a new VSL
+
+for a skincare brand. It's direct response,
+
+going to be 27 minutes long and length,
+
+roughly. I'm attaching the brief and
+
+also the outline of how I want it to go.
+
+Please start writing
+
+VSL right now. Uhm,
+
+if you need to do this over multiple outputs,
+
+that's fine. Whenever you run out of room,
+
+simply let me know and I'll prompt you to continue.
+
+Let me save this prompt. Okay,
+
+why is this good? What if quads being weird? What if quads down?
+
+What if there's, uhm, so what if, you know, what if, like, quads need
+
+outputs for some reason, right? Uhm,
+
+so I'm making a note over this. I know you can't see it when
+
+you have outline and brief.
+
+Okay, uhm,
+
+so let's try, right? Give me a second. Okay,
+
+I could have done this in Gemini proper as well, but let's try in
+
+quad. And by the way, guess what? If,
+
+or in pro, if Gemini 2.5 is weird, I could try in chat GPT.
+
+I could try with quad opus. I could try with quad 3.7,
+
+right? That's what's kind of crazy and why I talked about this before,
+
+you need to be kind of multi-modal. Let's just see what happens.
+
+We'll start this here.
+
+We'll come back to it. It's
+
+kind of exactly what I just said. Okay, quad's being weird.
+
+I'm guessing it wrote it and it's just doing this for some reason.
+
+Let's hit refresh. Nope,
+
+apparently it didn't. Okay, let's try that again.
+
+Alright,
+
+while that's writing, I'll come back over to Poe.
+
+I
+
+mean, this copy is already looking very good, right?
+
+Let's see.
+
+I mean, it's almost like, which one do you look at first, and how
+
+similar are they? So,
+
+let's see. Quad's still going. Let's look through the quad version first,
+
+and look at Gemini. Okay.
+
+If you're a woman over 35, who's been shocked by the sudden appearance of
+
+crow's feet, under-eye wrinkles, or dark circles that make you look exhausted,
+
+even when you're well-rested, and you've tried expensive eye creams,
+
+department store miracles, even professional treatments, but nothing seems to work,
+
+then what I'm about to reveal will be the most important breakthrough you'll ever
+
+discover for transforming your eye area, and getting back the youthful,
+
+confident look you deserve. My name is Laura,
+
+and I'm about to share something with you that's going to change everything you
+
+think you know about why your eye creams have failed you. You know that
+
+devastating moment when you look in the mirror and don't recognize the tired,
+
+aged face staring back at you? When you see crow's feet that weren't there
+
+just moments ago, dark circles that make you look like you haven't slept in
+
+years, and skin around your eyes that's lost that firm,
+
+youthful snap you once took for granted? I know exactly how that feels,
+
+because I lived it. If you're watching this right now, chances are you're living
+
+it too. Like, here's what I want you to imagine for just a moment.
+
+Picture waking up tomorrow morning and looking in the mirror to see bright,
+
+rested eyes that actually match how vibrant you feel inside.
+
+Imagine being confident enough to go completely makeup-free,
+
+or using just a tiny dab of concealer instead of layers and layers trying
+
+to hide the damage. Picture receiving genuine compliments from friends,
+
+saying, you look so refreshed. Did you get a good night's sleep?
+
+Or you're glowing, what's your secret? Imagine feeling like yourself again when you look
+
+in photos. Instead of cringing in front wondering when you started looking so old.
+
+What I'm about to share with you is the heartbreaking story of how a
+
+busy Florida mom, me, discovered the real reason why every single eye cream had
+
+failed her, and how a chance meeting with a leading anti-aging physician revealed the
+
+shocking scientific truth that the cosmetic industry doesn't want you to know.
+
+You'll discover what's really happening at the cellular level that's causing your eyes to
+
+age faster than the rest of your face, and why everything you've been told
+
+about college and loss is missing the most critical piece of the puzzle.
+
+I'm going to reveal why 97% of eye creams fail,
+
+and it's not what you think. You'll learn about the hidden breakdown happening at
+
+a microscopic level that no other product addresses,
+
+and why spending more money on premium eye creams often makes the problem worse,
+
+not better. What I learned from this anti-aging physician,
+
+with over 30 years of experience, changed everything.
+
+His revelation was so profound, so different from anything I'd heard,
+
+that I knew I had to share it with every woman who's been through
+
+the same frustration I experienced. This breakthrough worked specifically for women over 35,
+
+from the we're tired of wasting money on products that promise the road,
+
+but deliver nothing but disappointment. Now, I know this might sound too good to
+
+be true, especially if you've been disappointed before. Trust me,
+
+I was the biggest skeptic of all after spending thousands of dollars and getting
+
+nowhere. But when a woman like Carol, a 51-year-old from Texas,
+
+tells me that, see, you shouldn't name the product here,
+
+right, because it's a VSL, that's okay. That I'm sorry to say that this
+
+is the holy grail of eye care, and she looks 10 years younger,
+
+when Elizabeth 62 says her esthetician was amazed at how useful her eye area
+
+looks after just four months, when Patricia, 54,
+
+tells me her eyes couldn't be happier, and she actually looks forward to applying
+
+this every morning and night. So I wouldn't say this,
+
+I would say she actually looks forward to using this breakthrough every morning and
+
+night. Because, again, I'll tell you why in a minute. I know this wasn't
+
+just know this false hope.
+
+This was a real breakthrough I've been searching for. So if you're ready to
+
+finally understand why nothing has worked for you before,
+
+and discover the one approach that actually targets the root cause of eye aging,
+
+then please watch every step of this presentation.
+
+Because what you're about to learn will change everything. Okay,
+
+so let me share with you, on the copy editing side,
+
+if I was going to use this version. And I'm not sure yet,
+
+because I want to look at the Gemini version. I
+
+would UD eye serum, or applying this every morning and night.
+
+Applying this even, is like, now,
+
+if I'm a woman, watching it, I'm like, oh, it's a skin cream,
+
+right? It's a physical product you're going to sell
+
+me. If I say using this breakthrough, then I'm like,
+
+well, what is it? Is it a skin cream? Is it a this?
+
+Let's go back to that curiosity aspect. Right?
+
+So I'm like, what, what is it?
+
+Like, I'm curious. And that's actually really important for,
+
+especially long form,
+
+because again, with long form, we're really educating.
+
+We're selling them. We're doing curiosity. We're educating them.
+
+And we're not getting to like a product and selling them until much later.
+
+I'm pretty sure I talked about in the VSL trainings that you're watching.
+
+You watch before. Okay. So that's why I wouldn't have these things here.
+
+Another thing I don't like about this copy is
+
+when it says, you know, that devastating moment when you look in the mirror
+
+and don't recognize the tired aged face staring back at you.
+
+When you see this ball, I know how you feel,
+
+how it feels because I lived it. You're probably living it too.
+
+Okay. It's not bad. What I don't like about it.
+
+Or what I'm curious about with it is,
+
+does it assume too much? Does it put a viewer on the defensive?
+
+Meaning, am I the viewer,
+
+if I'm a woman in that, you know, range and part of the demo,
+
+am I thinking, hey b****,
+
+like why are you saying all this about me, right?
+
+So I don't And I did more when I looked at the Gemini version.
+
+Overall, it's good. I can definitely work with this.
+
+And again, if you go back to the lead, this is actually a fine
+
+lead to test. It's pretty good.
+
+But we'll always be testing other leads and little opening hooks,
+
+things like that anyway, okay? So now I'll look at the Gemini one,
+
+give me just a minute. Alright,
+
+I'm a little concerned, my computer is shut off to sleep by the way,
+
+so I think it switched to this other screen. I'm a little concerned about
+
+that, so I'm going to restart this video up again
+
+for part 2 to continue on.
+
+Um, thus far we've looked through,
+
+we went through the lead, uh,
+
+in Claude, and now we're going to look at it in Gemini and continue
+
+on with the next part.

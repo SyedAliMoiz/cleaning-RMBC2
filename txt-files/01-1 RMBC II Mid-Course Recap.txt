@@ -1,0 +1,553 @@
+Hello, hello. Alright, so, real quick in this video,
+
+we're going to just be doing a quick mid-course recap,
+
+you know. I figured this is helpful because we've gone through a
+
+lot of content at this point, and it's hard
+
+to give you the perfect flow in a course that's going to
+
+be this big and this complex. So I wanted to, like, zoom out and
+
+kind of quickly review what we have covered
+
+so far, and then simplify it a little bit for you,
+
+hopefully, as well, okay? And I would call this sort of a mid-course recap.
+
+So what we've covered so far, you know,
+
+we had the overview of COPY and how it's applied in 2025,
+
+kind of the intro, module,
+
+and the journey. Uh, from A to B,
+
+from prospect to customer, platform-specific COPY,
+
+fundamentals of DR COPY. Kind of told you what to expect and how this
+
+was organized, and so some of what I'm saying here might be repeated in
+
+that video, too, but that's fine.
+
+We went through deep research, which really had,
+
+like, three to four steps,
+
+right? Wait, we did, I'm gonna change this actually to say.
+
+Product and market awareness,
+
+right, to think about what stage of awareness our prospect was at,
+
+because that's gonna tailor our messaging, COPY,
+
+things of that nature, and by the way, this will be important not just
+
+for VSLs, which is what we've gone through thus far,
+
+uhm,
+
+right, everything from long, medium, mid,
+
+whatever you wanna call these, short VSLs, uhm,
+
+But also,
+
+all the ads, everything else we're doing, right, it's,
+
+essentially, we, we did the product market awareness stuff,
+
+competitor research, psychographic research, and used it to create a unified research document,
+
+which had a summary of these points, we also went through ingredient research,
+
+we moved on to unique mechanisms,
+
+we had an overview of that, we talked about how to do UM ideations,
+
+with LLMs, it really is a good prompt,
+
+I did it yesterday for something I'm doing as a side project for,
+
+uh, a CA pro member, who hired me to do,
+
+like, a VSL, and, uhm,
+
+I got, like, several really good mechanisms,
+
+including one that just was,
+
+like, instantly my favorite, and then I ran it through the
+
+different LLMs, along with a couple other really good options,
+
+and they all picked the one that I thought was the best,
+
+and, like, perfect, great confirmation, uhm,
+
+let's go with that, expanded it in Quad, using the Quad project setup,
+
+right? This is sort of,
+
+like, almost an intermezzo here, this VSL part one,
+
+understanding structures, elements, and so on. I did this here,
+
+because I thought it was important for you to understand,
+
+okay, what What does VSL copy look like? What are the parts for the
+
+pieces? So this included some older trainings,
+
+and by older, like, you know, whatever, six months ago,
+
+uh, on just,
+
+like, what the VSL structure is, long-form,
+
+medium-form, and I created some new stuff, right, for short-form,
+
+uhm,
+
+talked about, you know, there's specific VSL examples in there,
+
+right, like, where it was, like, uh,
+
+here's a couple breakdowns of medium-form VSLs of,
+
+you know, three-to-seven-minute ones,
+
+or short ones, all that. Uh, we had,
+
+you know, trainings on hooks, the ADHD hook kind of video ads,
+
+which are, like, really that three-to-seven-minute VSL range,
+
+but they're kind of different, uhm,
+
+and I could have put it somewhere else, but I felt like it was
+
+worthwhile to put it here, uh,
+
+and a quick thing on in-feed versus on-page VSLs.
+
+Then we moved on to Briefs 2.0. It's funny,
+
+because this has, like, the fewest bullets,
+
+maybe, or I guess it's, like, one of the shorter things,
+
+the bullets, in addition to Copy Part 2,
+
+but this is essential, essential for RMBC 2.0,
+
+so if you didn't go through this section for some reason, and you're watching
+
+this, you, honestly,
+
+you really need to go through all of these things, at least parts of
+
+them, right? Uhm,
+
+cause this is really, really how we have the document we need to do
+
+everything. Uhm,
+
+and then, we went through actual PSL copy,
+
+right? Part 2, let's call it.
+
+I wanted to say it like this, so it's consistent. So,
+
+basically, this was passive. It was, like,
+
+you know, I guess there's a little bit of, like, quad projects for the
+
+ADHD hook stuff and hooks to whatever. Hook generator thing,
+
+all that. So, it's like, but mostly passive.
+
+Understanding the theory, structure, things like that.
+
+Uhm, and then we got to copy part 2.
+
+That's, like, actually doing it. So, set up the quad projects for different length
+
+VSLs. Uh,
+
+VSL creation, walkthrough and examples.
+
+And, really, it could do it. That's not its own point.
+
+Uh, but, you know, we did it for,
+
+Some of the long form ones. I did,
+
+in the brief part, as you saw, kind of create some VSLs in there
+
+as well, but, like, that financial one, uh,
+
+However, we did, UDI serum,
+
+we did the blood sugar one, we did the Airbnb arbitrage one.
+
+And, same thing for medium. And, for medium,
+
+I did, Blood sugar,
+
+Unity, I think,
+
+also Unity. Also Airbnb arbitrage. Three or so minutes,
+
+I just did two of them, I think it was blood sugar and Unity.
+
+And then, short, there was all four of them.
+
+And then, you also saw, again,
+
+things on how to generate hooks, I can include the conversation links.
+
+So, you should have a pretty good overview, so if we zoom out even
+
+more, like,
+
+the steps were like,
+
+So,
+
+I'm wondering about what I have here, right? Sort of,
+
+I'm gonna do it like this,
+
+I think. You know what,
+
+I want it to be, Bold or something,
+
+let's make it, Trying to figure out how to do some colors
+
+so it doesn't get too, Not that color,
+
+that color's terrible. So
+
+really, it's like, research, You start off with research,
+
+your ultimate output is a unified research document,
+
+right? Mechanism, you do these things,
+
+your ultimate output is,
+
+You've selected a unique mechanism, and you have a document,
+
+uh, within that with it, and it's an expanded copy format.
+
+Is that the same color green?
+
+Nope. Okay,
+
+for the brief, you have the process,
+
+your output is you've got this expanded brief 2.0 with everything
+
+you need and the VSL copy.
+
+No,
+
+of course I don't have that. Let me put that there.
+
+It's like, uh,
+
+finished VSL with multiple leads hooks.
+
+I'm going to
+
+explain a little more context even in a moment for
+
+this. Alright, yeah,
+
+VSL copy, do all this stuff right here.
+
+The one, you know, important thing to note,
+
+and I think one of the most important takeaways so far,
+
+should be to keep in mind and remember how it's
+
+not just a static process.
+
+It's not just a one-way, you put stuff in,
+
+you get outputs, you're good. One of the biggest parts of it is the
+
+feedback. So the VSL examples are really helpful.
+
+I would really watch, like, all of them because each one is different.
+
+I know that's a long time, a lot of copy,
+
+or a lot of watching, but I think it's pretty valuable,
+
+especially starting with the long form because that's usually the foundational ones,
+
+but I would watch all of them because you'll see some cases where it's
+
+like Claude stopped working,
+
+so I switched and used Gemini. You'll see some cases,
+
+like the blood sugar one, really important,
+
+where that long form example, I got to it,
+
+and we had, like,
+
+a doctor-specific VSL version we'd done before,
+
+like, a kind of more hero's journey,
+
+everyday spokesperson one. We decided to do the doctor one,
+
+but then it was like, hey, we don't really have, like, a big idea.
+
+Or a hook. So we ideated with Claude,
+
+in the project, to get the big idea and hook,
+
+brought it to the brief, it did the brief, it was pretty good,
+
+okay, we wrote it, the ingredient section was really weak,
+
+we're like, okay, this isn't strong enough for the ingredients,
+
+we expanded upon it, like,
+
+that's, those are important elements,
+
+there's also things with all these examples where I go,
+
+I basically copy-chief it in the Claude project in real time.
+
+You saw me do that in the thinking and explaining why I'm doing it,
+
+uh, to make everything stronger.
+
+Same thing with, on the short ones especially,
+
+because really they're short, a lot of it can stay the same,
+
+but it's really about the hooks and big ideas. So you saw hook generation,
+
+uh, for Airbnb arbitrage,
+
+and for the financial side, which was interesting because for that one,
+
+the perplexity process didn't work super well,
+
+but then we figured out a different way to do it,
+
+right? So, it's really good to watch all of this,
+
+you should feel pretty confident, and like I've been saying throughout this whole thing,
+
+you know, you should feel like a scientist and an experimenter and somebody who's
+
+going to try their own things.
+
+Now, that doesn't mean you need to mess up all my projects, or processes
+
+necessarily, but it really means communicating
+
+with projects, like, sorry,
+
+with Claude or with the LLMs, giving feedback,
+
+you know, trying different things, hey,
+
+let's see what happens if we do it this way, and then using your
+
+best to use judgment and the compass you have to help yourself
+
+from getting completely overwhelmed is to remember.
+
+Remember that, honestly, if you actually are following these processes closely,
+
+then in general the copy
+
+that you get is going to be better than what 99% of copywriters would
+
+write on the road,
+
+even experienced ones, even people who post
+
+on Twitter and other places.
+
+Facebook and act like they're experts. I've seen their copy often it's
+
+like mid to like really bad.
+
+Sometimes good, too. I'm not trying to talk shit about all copywriters.
+
+It's just like
+
+very inconsistent, basic things get missed. I mean, there's very few. People ask me
+
+to recommend, you
+
+know, really high-end copywriters, and to be honest with you, I, it's like, Mario
+
+Castelli, but he's really hard to hire him. Luke Millis doesn't really write copy
+
+anymore. Dan Ferrari is great,
+
+but hard to get. I don't know if Chris Z'Dodd,
+
+I stopped following him on Facebook because I couldn't handle all the political stuff.
+
+I still like Chris as a person, so if he watches this,
+
+no shade. I mean,
+
+he's a great copywriter, I don't know if he still writes anything. Uhm,
+
+you know, Chris Wright used to be a good copywriter, I haven't seen anything
+
+he writes. I'm sure he's still good, I just don't know if he writes
+
+copy regularly. And I'm not plugged
+
+into that world, I don't work with, like, freelance copywriters really anymore.
+
+Uh, Jason Strachan's pretty good,
+
+uhm.
+
+I don't want somebody to feel left out that I didn't mention them, but
+
+the point is, it's like, Steve Earle's really good,
+
+but he's not available to,
+
+Usually. You know, there's like a handful of people.
+
+Kate Vidalucci's written some really great copy over the years,
+
+I don't know what she's doing today.
+
+The point is, there's like a handful of people,
+
+and then, you know, it's really the people who are consistently gonna write great
+
+copy every single time, is,
+
+You know, maybe the people I just mentioned, but even some of them,
+
+I don't want to say that to them. People fall off,
+
+probably they are, you know. So,
+
+I mean, it's almost impossible for me to recommend copywriters.
+
+But this process, what you write will be better than pretty much anybody.
+
+And as good as, well, some of the people I just mentioned are gonna
+
+write on most of their days. You know, Dan,
+
+Mario, Luke doesn't really write anymore,
+
+but, like, you know, they're,
+
+they're, they're gonna beat you still.
+
+But it's, like, a handful of people, okay?
+
+So, keep that in mind if you start getting overwhelmed.
+
+It's like, don't worry about it, like, accept what you've got.
+
+Obviously, if you're a business owner, you can join CA Pro,
+
+and then I'll look at your copy and help you modify it even more.
+
+But we zoom out even more, and then now you've got RMBC,
+
+right? You've done research, mechanism, brief, copy.
+
+So, where do we go from here? Well, we're gonna move into, like,
+
+advertorials, PDPs. I'm wondering here because I'm gonna do something about, sort of, like,
+
+the, uhm,
+
+I'm gonna put it here for now. I don't know if this is where
+
+I want it, or if I want it in after ads, but basically,
+
+like, funnel structure, which is sort of like, how do you know what length
+
+copy to use, which assets to deploy,
+
+all of that. And the reason I'm,
+
+like, I might put before ads is because you're basically always gonna have an
+
+ad in front of a funnel, the funnel.
+
+So I think I'll probably get away with putting this here,
+
+maybe I'll put it after ads. Ads, which obviously includes different formats,
+
+like native, Google, meta, uhm, and and whatnot.
+
+You know, we'll go through upsells, which frankly isn't gonna be overly complicated for
+
+now. It's really, like, cloud projects and putting some different upsells in.
+
+Uh, you know, we'll talk about emails, like,
+
+retention and, you know, different types,
+
+like, retention, sales, new customers,
+
+campaign sequences, stuff on additional,
+
+copy on additional platforms, and other bonuses,
+
+okay? And, you know, you'll be able to look through the final course to
+
+see all this stuff, but that's where we're going.
+
+Uhm, but this is where we are.
+
+So, again, I wanted to zoom out, because ultimately, like, the process,
+
+there's a lot of stuff depending on how you've gone through it. So,
+
+just sort of zooming back out, it's, like, create a unified research document,
+
+create, you know, Dock with your unique bank account
+
+to submit an expanded copy format.
+
+Create expanded proof 2.0,
+
+and create finished VSL, or VSLs with multiple leads and hooks, right?
+
+And keep in mind, again, when we say VSLs here,
+
+unlike with RMBC1, we're also talking about 2-minute VSLs that are really just,
+
+like, meta ads, it's really hard, the line blurs,
+
+right? Just,
+
+great outputs there, got your RMBC.
+
+So we'll continue on from here, but wanted to just share that and kind
+
+of tie it all together for you, and I'll see you in the,
+
+uh, advertorial section.

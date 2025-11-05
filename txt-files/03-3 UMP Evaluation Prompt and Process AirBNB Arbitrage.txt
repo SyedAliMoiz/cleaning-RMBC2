@@ -1,0 +1,1773 @@
+Okay, so here's where it gets,
+
+I think, actually really cool and really helpful,
+
+which is evaluating which of the unique mechanisms to go with.
+
+So, as a copywriter,
+
+I'm going to not make this too theoretical or philosophical,
+
+but there's a good book I read about it, but I'm going to for
+
+a minute, You know, there's a really good book about, um,
+
+you know, AI wrote early on,
+
+um, but really honestly, I mean, like, 2021,
+
+2022, I think it was called, like,
+
+um, what's it called? Power and Prediction,
+
+I think, something like that. Yeah.
+
+It's by some University of Toronto AI scientists,
+
+um, and there's another one.
+
+When it came out, it says it here, but, um,
+
+essentially one of the things that they talked about is this gap,
+
+you could call it, that exists between,
+
+I'll simplify it like this way. There's one thing to get great outputs,
+
+there's another thing to have judgment, right? And so,
+
+their argument was where AI will take longer to supplant humans
+
+is when it comes to judgment.
+
+By judgment,
+
+I mean, like, okay, hey, here's four colors that I could paint the inside
+
+of a house for a client without,
+
+you know, here's the information of the client, which color should I choose?
+
+Here's the thing, that's not even a great example, because AI is actually getting
+
+pretty good at judgment, but they don't have the total overall
+
+edge here. So,
+
+when you do mechanisms like in the processes I've shared and you're a really
+
+good copywriter, a really seasoned person,
+
+you might, no,
+
+you might, sorry, I'm going to say it differently, you will probably have opinions
+
+on which mechanisms you like the most, right? So, if we kind of come
+
+back to our examples,
+
+like the one from Gemini, uhm,
+
+let's see, the ICM one. So
+
+we had this Gemini thing here, right?
+
+And I really liked the asset gap versus the income gap.
+
+If you watched that video, you saw how excited I got, I'm like,
+
+this is sick, like, it was the one.
+
+I got the most excited about, uhm, up until that point,
+
+right? I really liked it.
+
+Because I really like the
+
+idea of you're trying to
+
+solve an asset gap problem with an income gap solution.
+
+It's like a good big idea. We'll talk about big ideas, but it's like,
+
+it's really intuitively grasped. You can intuitively grasp it.
+
+It sounds like a real thing. Like, it's good,
+
+right? Uhm,
+
+then, if you go back to the
+
+second time we ran it, we're told it to focus on problem-aware.
+
+Digital
+
+serfdom. I liked,
+
+and then the idea of the permission-based income trap,
+
+I really liked, right? And I liked some of the others,
+
+too. We saved those all and took a, a document.
+
+But if you watched, I think you would say that I'm telling the truth.
+
+You could tell that I got excited about those ones,
+
+and some other ones, too. And I'm partly pre-framing this because of the outputs
+
+that I got. But the reason I was excited wasn't
+
+just purely a gut feeling.
+
+It wasn't, it was an intuition, but it was also based on experience and
+
+knowledge and all these things that are generally hard to replace.
+
+And they're generally why I'm going to typically beat you
+
+if we go head-to-head on copywriting or marketing or all that.
+
+And what I'm sharing with you is a blueprint where if you follow it,
+
+that may not be true. And by the way, I mean, it's not just
+
+copy. If we go back to the product market awareness, it's at a really
+
+high level of a lot of stuff, right?
+
+Because now, you know, if you're paying attention,
+
+who to speak to, what language to use,
+
+what not to do, right? How to shoot, not shoot yourself in the foot
+
+by going after a different level of product marketing.
+
+market awareness than you should be, and so on.
+
+Right? So, giving you all that
+
+context. But the question becomes,
+
+what if I,
+
+well, sorry, I feel like I'm doing non-sequitur sentences.
+
+It's kind of late, but I'm excited to do this module, so I wanted
+
+to just do it now so the question becomes okay look what if I
+
+What if I don't have that experience or that judgment? What can I do?
+
+And while it may be uncomfortable, asking AI
+
+to evaluate for you, at this point,
+
+with good models, is not
+
+Not a bad idea, and it's typically going
+
+to actually make pretty good sense. Decisions. So let's look at this,
+
+how we do that, okay? I'm working on some direct response sales copy that
+
+will sell a product to niche. I'm going to share a few documents with
+
+you. The first is a unified research document that has relevant information for a
+
+market that my business will be selling to. It includes information,
+
+The level of product market awareness we'll be speaking to,
+
+competitor analysis, and key psychographic information.
+
+The second document has several unique mechanism ideas that could be used in our
+
+sales copy when selling our products or services to the market.
+
+Here's a reminder of what a unique mechanism is and why it's important.
+
+So same thing we had before, that unique mechanism stuff.
+
+Here's what I want you to do. Evaluate each unique mechanism idea based on
+
+their potential for connecting to our target market and persuading them to buy the
+
+product we are selling and rank them from most likely to succeed to least
+
+likely to succeed. In order to make this evaluation,
+
+consider the unified research brief and the beliefs, attitudes,
+
+awareness levels, and competitive environment within which our target customer finds themselves.
+
+When making your rankings, keep in mind that our core market is people who
+
+are problem aware. This is something you could change out.
+
+Please go ahead and do this now. Okay, that's the whole prompt.
+
+You could substitute in a product to niche,
+
+or you can not. So, let's look at this in action.
+
+First place I did it was Claw. I didn't even change,
+
+uh,
+
+you know, this out. It said product niche. I uploaded the unified research brief
+
+for the Airbnb, uh,
+
+rental arbitrage coaching program and those mechanisms that I had here.
+
+I saved them as a PDF and uploaded them, right? So,
+
+let's see Claw's ranking. Looking at your unique mechanism ideas through the lens
+
+of your problem or target market, I'll evaluate and rank them based on their
+
+potential to connect with prospects who are actively seeking ways to make more money,
+
+but haven't yet identified rental arbitrage as their solution.
+
+Ranking most to least likely to succeed.
+
+Number one, the asset gap Bye. Why? It's number one.
+
+This mechanism perfectly diagnoses the core frustration of your problem or audience.
+
+They're stuck in the end. My cat is coming up here trying to make
+
+a cameo. He's going to get kicked out in a second, but let me
+
+finish this paragraph before I do. They're stuck in the endless cycle of seeking
+
+more income through side hustles when their real problem is lacking wealth building assets.
+
+This directly addresses their experience of trying dropshipping,
+
+freelancing, and gig work only to remain financially stable. The language of being confined
+
+to earning active income versus building wealth through appreciating cash flowing assets will resonate
+
+deeply with prospects who feel that traditional paths aren't working.
+
+All right, the cat was kicked out. Number two,
+
+the permission-based income trap, mechanism 2.2.
+
+Why is number two? This powerfully explains their feelings of powerlessness across
+
+all their income sources from their nine to five to their failed side hustles.
+
+The concept that they're always asking for permission to earn a living will create
+
+immediate recognition. The solution to building a permissionless cash flow system directly delivers on
+
+their core desire to take back control and be your own boss.
+
+So,
+
+I asked Claude, ChatTVT, and Gemini,
+
+by the way, for their rankings on this. Uhm,
+
+but it is kind of crazy when you think about it.
+
+I mean, I wish I had just ranked them personally. Personally, before I did
+
+this exercise, so for some of the other examples I'll do,
+
+like skincare, golf, whatever it is, I probably will,
+
+uhm,
+
+do that to see how they match up or whatever.
+
+But, whatever. Number three. Uh,
+
+digital serfdom. Asset control arbitrage.
+
+Mechanism 2.1. Uh,
+
+why is number three? Digital serfdom concept brilliantly explains why all their online ventures
+
+left them feeling like they were building someone else's dream. The metaphor of being
+
+a tenant farmer on digital platforms will strongly resonate with their past failures.
+
+However, it's slightly less universal than the permission-based income trap since it specifically targets
+
+digital failures rather than all income sources.
+
+That's something I brought up too, remember? Uhm,
+
+and it goes on to, you know, do the rest of these.
+
+The active to passive decay rate.
+
+Uhm, the capital efficiency threshold,
+
+the competitive saturation paradox, the franchise-in-a-box operating system.
+
+Let's see what I said about this one. This mechanism focuses more on how
+
+the solution works rather than why they're stuck. While it addresses their overwhelm with
+
+scattered information, it doesn't create the paradigm shift that the higher rate mechanisms provide.
+
+It's more tactical than transformational. The automated hospitality engine.
+
+I did like this idea, to be fair. And they have it at number
+
+8. Similar to the franchise mechanism,
+
+this is more about the solution delivery than problem diagnosis.
+
+While it addresses the fear of creating another time-consuming job,
+
+it doesn't explain the deeper reasons for their past failures.
+
+And it's probably fair. And then the capital multiplier at number 9.
+
+Okay. So, what we can do is,
+
+you know, we'll just say,
+
+we'll just keep that in mind for now. So we had,
+
+we had the asset gap versus income gap,
+
+permission-based income, digital serfdom,
+
+active or passive. Let's see what chat GPT says.
+
+So I asked it the same prompt, thought for 2 minutes and 49 seconds,
+
+using O3 Pro. So
+
+it had asset gap versus income gap,
+
+asset control method. Um,
+
+which is very interesting.
+
+And guess what number 2 was? Permission-based income trap.
+
+Is that really, to me, that's, it's fascinating.
+
+Cause like those were like my favorite ones. And it gives you sort of
+
+pros and cons, right? So why do,
+
+why does it like the asset gap versus income gap?
+
+Refrains the prospect's core frustrations. I need a higher paycheck.
+
+Has the wrong diagnosis and reveals the missing piece.
+
+They have an asset gap, not an income gap. Turns rental arbitrage into the
+
+first believable bridge from. Labor to asset ownership without banks or big down payments,
+
+mapping perfectly to their desire to build wealth through real estate without mortgages,
+
+immediately differentiates the offer from every side hustle or make money pitch they've already
+
+tried key URB pain point links.
+
+I don't know what those are. Many of us watch out,
+
+so must keep the math simple and concrete, avoid abstract econ jargon.
+
+Number two, permission-based income trap. Permissionless cashflow system speaks straight
+
+to the autonomy control pain. Bosses, algorithms,
+
+client control, main income gives a single memorable villain,
+
+permission-based income, and a clear escape route requiring only one negotiated.
+
+These evokes take back control. Be your own boss language.
+
+The testing shows this market loves,
+
+um,
+
+needs strong proof that landlord agreements truly are a one and done to overcome
+
+fear of eviction, legal issues. Cool.
+
+Then add the Capital Multiplier Framework.
+
+Now for Quad, they put that as number 5.
+
+Chatspeak data is number 3. Uh,
+
+obliterates the capital barrier objection up front and price of real estate,
+
+promises escape velocity, rolling cashflow funds to the next unit,
+
+which taps their hunger for momentum and fire-style compounding,
+
+uses the sticky phrase ownership fallacy to explain why past advice failed.
+
+And then for number 4,
+
+Capital Efficiency Threshold, which Quad had,
+
+wait a second, Capital Multiplier Framework,
+
+you know, sorry, Quad had, the efficiency thing is 5,
+
+and the multiplier is number 9, so that was different.
+
+But if I'm looking at this, and I'd ask it in digital search.
+
+I would them down here, uhm,
+
+and it is worth, like, seeing, right, like, okay,
+
+so like, I like this digital search thing,
+
+what does it not like about it? Medieval metaphor made polarizer feel more dramatic
+
+in shorter ad formats. So that's valid,
+
+right? So that's why I ranked it lower. So I still, like, liked it,
+
+it's just that it feels like in shorter ad formats, uhm,
+
+it might be hard to pull that off. Maybe not, though.
+
+Again, I still like it, but, uhm,
+
+you know, that's a valid criticism. And then I,
+
+like I said, I like the automated hospitality engine, which I had,
+
+quad hat as number 8, this one has it as 6.
+
+Direct handout on the time, burnout pain, I don't want another job,
+
+pacing attractive end state, strong differentiator for skewer courses that leave opposite students,
+
+works best after they believe arbitrage is viable,
+
+at problem aware stage it can sound like a software demo.
+
+And I think that's valid, that's something I mentioned where,
+
+like, it was talking more to problem aware people,
+
+uhm,
+
+or sorry,
+
+more like solution aware people, this is more problem aware, right? Uhm,
+
+but, you know, I kind of like this,
+
+How does saturation paradox ever look? Although it's very much,
+
+I agree that that would be more for a solution aware market.
+
+Least urgent for problem aware prospects,
+
+they haven't seen an arbitrage, so saturation is in front of mind.
+
+Keep for deeper funnel retargeting, right? Okay,
+
+cool. How to use this ranking.
+
+All right,
+
+so, kind of cool. We're already seeing Claude and ChatTVT both agree on the
+
+top two. What about Gemini?
+
+So, same exact prompt,
+
+Gemini. Number
+
+one, the permission-based income trap.
+
+We have permission-based income trap as,
+
+there's number two for Claude and ChatTVT,
+
+number one for Gemini. This mechanism is ranked highest due to its profound emotional
+
+resonance and stability to unify all of the targets in the market's frustrations under
+
+a single powerful concept. Core idea,
+
+the process financial struggle stemmed from the fact that all their income sources from
+
+their nine-to-five jobs to their failed side hustles are permission-based,
+
+meaning they're dependent on the whims of a boss,
+
+a client, or a platform algorithm.
+
+The solution is to build a permissionless cashflow system where they are finally in
+
+control. Connection to the problem where market diagnoses a core emotional
+
+pain. The research brief report repeatedly highlights additional desperation to escape the soul-sucking nine-to-five
+
+grind and a feeling of powerlessness in their current employment situation.
+
+This mechanism gives that feeling a name, validating their experience that they lack control
+
+over the time, schedules, and life decisions. Reframes all the past failures.
+
+It brilliantly explains why their jobs feel like a trap and why their attempts
+
+at gig work, freelancing, and job shipping felt just as precarious.
+
+It shows them that even when working for themselves, they were never truly controlled,
+
+but were instead at the mercy of platforms that could shut them down overnight,
+
+offers the ultimate promise. The deepest desires of this market is complete,
+
+or the deepest desire is complete autonomy and the ability to take back control.
+
+The permissionless cashflow system is a direct and powerful promise that delivers on this
+
+exact dream. Verdict. This mechanism is the most potent because it focuses on the
+
+psychological root of the prospect's pain,
+
+a lack of control, which is even deeper than their financial frustration.
+
+And then number two had the asset gap versus the income gap and digital
+
+serfdom. So kind of curious how they combined it.
+
+This is a very close second trading some of the raw emotional power of
+
+the permission angle for paradigm shifting intellectual insight that is perfectly tailored to this
+
+audience. Core idea. The prospect has been trying to solve an asset gap problem,
+
+not owning cash flowing assets with a net income gap solution,
+
+trying to earn more from labor. Their past failure in online businesses were a
+
+form of digital serfdom, but it took all the risk while platform lords like
+
+Google and Shopify reap the rewards from the true assets,
+
+the platform data. The solution is asset control arbitrage,
+
+which allows them to gain control of a real physical asset without the prohibitive
+
+cost of ownership. So it's kind of interesting. Um,
+
+Gemini liked income gap number two,
+
+but it kind of, uh, worked in the serfdom idea,
+
+which is kind of neat connection to the problem or market.
+
+Obviously we're thinking it respects their intelligence by introducing a sophisticated economic concept that
+
+perfectly explains their feeling of being in a big economic system.
+
+It shows them why trying to make more money through dropshipping or freelancing was
+
+preordained to fail at building wealth. Perfectly reframes online failures.
+
+The digital serfdom concept is a masterful reframe masterful reframe with their past losses
+
+and dropshipping. It gives them an external enemy,
+
+the platform lords, and explains why their lord or why their hard work resulted
+
+in so little equity control. Connection directly to real estate dreams.
+
+The market wants real estate exposure but feels priced out.
+
+This mechanism presents rental arbitrage not as just another side hustle,
+
+but as a legitimate and savvy entry point into real estate investing,
+
+bridging the gap between their desire and the financial reality.
+
+First, this mechanism is incredibly powerful for making the prospect feel enlightened.
+
+It provides the aha moment that explains why their past efforts were flawed at
+
+a structural level, positioning the product as a fundamentally different and superior path forward.
+
+Number three, they had the capital efficiency threshold.
+
+Number four, the competitive saturation paradox.
+
+Uhm,
+
+see, this is good, like, exceptionally well crafted,
+
+but is likely aimed at the wrong awareness level for a primary hook.
+
+Number five, franchise is in the box,
+
+you know, it's good, but doesn't offer new diagnosis of the prospect's core problem.
+
+And it didn't, for whatever reason, it kind of ignored some of the other
+
+ones. Uhm, so it just really didn't like them or something.
+
+But,
+
+given this, you kind of know at the very least what your top two
+
+to go with are. And I would just tell you from my experience,
+
+I agree. And frankly, I don't I'm also pretty torn on
+
+which one I would go with.
+
+Now,
+
+if you really needed help, you could do this.
+
+You could download quad rankings,
+
+Gemini rankings, ChatGPT rankings,
+
+whatever it is, right? And then,
+
+above them each, like, here's the rankings for a unique mechanism,
+
+you know, based on this, which one seems like the most likely,
+
+you know, would you pick, right? Uhm,
+
+that's one thing you can do. Other thing you can do,
+
+,is use the quad project. So let me show you,
+
+...that map. Give me a moment.
+
+...I open a quad project for unique
+
+mechanisms. I taught this, ...it's like a bonus in a bundle I did a
+
+while ago. It's still really helpful.
+
+But what we're gonna be doing right now, the reason it's helpful,
+
+,is because, by the way, if you're seeing this, this was actually,
+
+,where we had, had it come up with mechanisms,
+
+and I tested doing it, and, ...that quad project.
+
+Uhm,
+
+,but again, the mechanisms weren't actually that good. They're okay,
+
+but not great.
+
+,but what we're trying to do here is not necessarily get our final,
+
+...copy format, though we could end up with something pretty close to it.
+
+What we, ...want to really do here is,
+
+,we want to see what our mechanism could look like in real,
+
+...like, in real copy,
+
+right? If it was sort of in the wild, in a video sales letter,
+
+for example, right? Because, by the way, in ads and other things like that,
+
+some ads, video ads, will have a long mechanism anyway.
+
+They're still gonna talk about this, what have you. So,
+
+it's just a way to help, because honestly, as you flesh it out,
+
+and you look at this one, and we'll do the same thing for the
+
+other, ,our other top UMP competitor,
+
+...it might help push you over the edge on which one to choose.
+
+Because it's hard. I mean, it really is hard. Honestly,
+
+the answer would be, ...test both.
+
+Ideally, if you're already in an existing business, you just test both in ads
+
+and stuff, and you see which one is doing better,
+
+right? And then you do the VSL after that.
+
+But, if you're, ,you know,
+
+doing something from scratch, ...and it's like a new product,
+
+of course, ,coaching program, whatever, ,it's kind of tough,
+
+right? ...the prompt here,
+
+,we're going to do an in-depth, ...unique mechanism for a product.
+
+I've attached a unified research document, ...that should give you a strong overview of
+
+the target market. Here's the sum of the UMP and UMS.
+
+This is just going to be, ,right,
+
+whatever the, ...things you generated are that you want to kind of,
+
+,play with. For this exercise,
+
+let's specifically focus on people in the market who are problem aware.
+
+I'm keeping that in there because I really want to speak to them.
+
+Go and write this section in a format that could be used in a
+
+video sales letter. Okay? You're obviously going to get access to this prompt.
+
+So let's go ahead and do that. There we go.
+
+And, ,I'm going to upload the,
+
+uh, unified research document. One minute.
+
+Okay. And let's see how Quad does
+
+with it. And
+
+honestly, once you understand this, you're going to be angry. Angry at yourself for
+
+not seeing it sooner, and angry at everyone who's been selling you the wrong
+
+solution at the wrong time. See, for the past few years,
+
+you've been trying to solve what I call an asset gap problem with an
+
+income gap solution, and that's why nothing has worked. Let me explain what I
+
+mean. Right now, you're feeling the squeeze. Your paycheck stays the same while everything
+
+else gets more expensive. Gas, groceries, rent, it's all going up while your salary
+
+stays flat. You'll look at your bank account and think, I just need to
+
+make more money. That seems logical, right? If money is tight,
+
+make more money. Problem solved. So you start looking for side hustles.
+
+Maybe you tried dropshipping, spent money on ads, and watched your products sit there
+
+while your ad costs ate up any potential profit. Maybe you jumped into freelancing,
+
+trading your nights and weekends for a few extra $100 a month.
+
+Some of you might have even gotten into the gig economy. You're driving for
+
+Uber, delivering food, anything to bring in extra cash.
+
+What happened? You either lost money, barely broke even,
+
+or you made just enough to feel like you were trading wins.
+
+You got frustrated, burned out, and convinced yourself that maybe you're just not cut
+
+out for this entrepreneur thing. But here's what nobody told you.
+
+You were never solving the real problem. Remember when we looked at unique mechanisms
+
+in the very first section? This is what it's doing,
+
+right? The real problem isn't that you don't make enough money.
+
+The real problem is that you're trapped on the wrong side of the economic
+
+equation entirely. You see, there are two types of people in this economy.
+
+There are people who trade their time for money, that's the income gap world,
+
+and there are people who control assets that generate money. While they sleep,
+
+that's the asset gap world. Every side hustle you tried has kept you firmly
+
+planted in the income gap world.
+
+Dropshipping, you're still trading your time,
+
+managing suppliers, customer service, freelancing,
+
+you're literally selling hours of your life. Gig work, same thing,
+
+no work, no pay. The people who are actually building wealth,
+
+the people who have true financial freedom, they've crossed over to the asset gap
+
+world. Like,
+
+one thing I don't know if I like that, sort of, you go from
+
+the income gap to the asset gap. Like, does that make sense?
+
+I don't know. But that could be changed,
+
+right? We're just right now, we're just seeing how this feels as copy.
+
+They control things and make money,
+
+whether they're wickers, real estate businesses that run without them,
+
+income producing assets. And here's the cool part.
+
+The system is designed to keep you in the income gap world.
+
+Banks won't give you a mortgage without perfect credit,
+
+but 20% down. Invested properties will hire even more capital.
+
+Private equity won't even talk to you unless you're already wealthy.
+
+So you stay stuck grinding away at side hustles will never ever get you
+
+where you want to be because you can't hustle your way into the asset
+
+gap world. You need a different vehicle entirely. That's why I was so excited
+
+when I discovered rental arbitrage because for the first time in my life,
+
+I found a way to jump directly from the income gap world into the
+
+asset gap world without needing hundreds of thousands of dollars of perfect credit.
+
+Think about when you're master, when you master rental arbitrage,
+
+you're not sure what you're trading time for money anymore. You're controlling a high
+
+value asset, a residential property that generates cash flow month after month.
+
+You're not the employee, you're the business owner. You're not selling your time.
+
+You're leveraging someone else's asset to build your own wealth.
+
+This is why rental arbitrage feels different from every other opportunity you've seen because
+
+it's not income gap solution. It's not another income gap solution dressed up with
+
+fancy markings. It's actually a bridge to the asset capital,
+
+the world where real wealth gets built. The asset control method,
+
+your bridge to the other side. So now you understand why everything else has
+
+failed. Let me show you how the asset control method actually works.
+
+Traditionally, real estate investing requires you to buy property,
+
+which means massive down payments, perfect credit and making,
+
+taking on enormous debt. But with the asset control method,
+
+you gain operational control of a property without owning it.
+
+Here's how it works. Instead of buying property, you lease it on a long-term
+
+basis from a property owner who wants stable, reliable income without the headaches of
+
+property management. You then operate that property as a short-term rental,
+
+capturing the difference between what you pay in rent and what you earn from
+
+guests. But here's the key insight that most people miss.
+
+You're not just arbitraging rent prices. You're financially changing your position in the accounting.
+
+You go from being someone who trades time for money to someone who controls
+
+the cash flowing asset. When you wake up in the morning,
+
+money has been deposited into your account from guests who stayed in your property
+
+while you were sleeping. When you go on vacation, the property keeps sharing income.
+
+When you want to scale, you need to find more houses in the hour,
+
+you need to find more hours in the day. You just add more properties
+
+to your portfolio. This is what it feels like to operate in the asset
+
+capital. And the beautiful thing about rental arbitrage is that it requires a fraction
+
+of the capital that traditional real estate demands.
+
+We're talking about 5,000 to 15,000 to get started,
+
+not $10,000, $100,000 or more. The property owner loves this range because they get
+
+guaranteed rent, professional management, and none of the hassles of dealing with short term
+
+guests. You love it because you're building a portfolio of cash flowing assets without
+
+the enormous capital requirements of traditional real estate.
+
+This is why rental arbitrage isn't just another side hustle.
+
+It's a completely different category of opportunity. It's your ticket out of the income
+
+gap road. And it's the asset gap road where real wealth gets built.
+
+Once you understand this distinction, you'll never look at making more money the same
+
+way again, because you'll realize that the goal isn't to make more money.
+
+It's to control the asset that makes money for you.
+
+Okay, one thing.
+
+I'm wondering about going back to how it was written.
+
+You're trying to solve an asset gap problem with an income gap solution,
+
+right? Uhm.
+
+I mean, one way I might try and, like, make it really clear is,
+
+like.
+
+I say this, right? This.
+
+And again, we're not trying to get a final mechanism necessarily.
+
+So,
+
+I said,
+
+I think
+
+this
+
+is great, but I wonder if it's really an income gap world versus,
+
+or an asset gap Uh, let me show you how to bridge that gap.
+
+I'm gonna go for the real, what I'm getting at here is I don't
+
+know if moving to an asset gap world
+
+makes sense. It's more like,
+
+moving to, I'll show you what it is, and by the way, this is
+
+where I'm still worthwhile, maybe,
+
+moving, uhm,
+
+asset bridge world. So it's like,
+
+you've got, I
+
+think you've got an income gap,
+
+what you've really got is an asset gap.
+
+This matters because you're trying to
+
+solve to make more income,
+
+but no one is really income rich.
+
+People get rich from assets,
+
+and they are asset rich.
+
+Let's see another
+
+version of the UMP that takes this into consideration.
+
+So while it's doing that,
+
+because without a doubt you're absolutely right. No,
+
+it isn't actually, it's just going to revise it. It should have said you're
+
+absolutely right. Let's test out the exact same prompt.
+
+But with Gemini, without a project,
+
+without permission, any of that stuff, right? And we'll also test it in
+
+chatGBT. So let's go to Gemini.
+
+We're going to upload our unified brief.
+
+does. What's changed a lot with LLMs,
+
+I feel like, is like, you don't really need to explain typically what a
+
+video sales letter is, whatever, right? I mean,
+
+I think there's value, again, I wouldn't, this is not me trying to write
+
+final copy format. Sometimes it just comes out really good and you're like,
+
+oh shit, basically I have it. But, it's more just seeing how it looks
+
+in reality. I'm just curious how Gemini, if Gemini, I kind of feel like
+
+a bad mistake from Quad, and I'm curious if Gemini makes that mistake too
+
+or not. So, let's see. Meanwhile,
+
+while that's writing, let's see what Quad's version here.
+
+Oh,
+
+wait, that's the wrong one. Then truth about why every site has those failed
+
+you.
+
+Okay, so this is kind of the same copy as before,
+
+you're going to be angry. You see, for the past few years,
+
+you've been trying to solve what I call an asset gap problem with an
+
+income gap solution. And that's one of the things that works.
+
+Let me explain. You're feeling squeezed. I think I need to make more money.
+
+So, you're looking for side hustles. What happened?
+
+But here's what nobody ever told you. You think you have an income problem,
+
+but what you really have is an asset problem. Let me show you what
+
+I mean. Think about the wealthiest people you know,
+
+not the ones flashing money on social media, but the people with real,
+
+lasting wealth. How many of them got rich from a paycheck?
+
+Even the highest paid professionals, doctors, lawyers, executives,
+
+most of them actually built a generational wealth. People aren't doing it from their
+
+salaries alone, they're doing it by accumulating assets,
+
+real estate, business, investments that generate money,
+
+whether they're working or not. See, there's no such thing as being income rich
+
+in the long run. Income is just what you trade your time for,
+
+and you only have 24 hours in a But being asset rich, that's where
+
+real wealth comes from. Assets make money while you sleep.
+
+But here's the problem. Every solution you've been offered for your financial struggles has
+
+been focused on the wrong thing. More income.
+
+Start a side hustle, make an extra hundred. Make an extra thousand dollars a
+
+month. Freelance your skills for extra cash. Drive for Uber in your spare time.
+
+All income solutions. All requiring you to trade more of your time for money.
+
+All keeping you trapped in the same cycle that got you here in the
+
+first place. Meanwhile, the people who are actually building wealth are over here accumulating
+
+assets, and the system makes it almost impossible for regular people like us to
+
+get started. Want to buy a rental property? 20-25% down.
+
+Perfect credit. Enough income to qualify for a mortgage that might be $300,000 or
+
+more. Want to invest in commercial real estate? You need to be a credit
+
+investor with serious capital. Want to start a business?
+
+Most require significant upfront investments and years to become profitable.
+
+So you stay stuck, grinding away at income solutions that will never,
+
+ever bridge the gap to becoming asset rich. Because here's the harsh truth.
+
+You can't earn your way to wealth. You have to own,
+
+own your way to wealth. It's a good copy right there.
+
+That's why I'm so excited I discovered rental arbitrage. Because for the first time
+
+in my life, I found a way to earn to start accumulating cash flowing
+
+assets without needing hundreds of thousands of dollars of perfect credit.
+
+Uhm,
+
+now you understand the real problem. You have an asset gap, not an income
+
+gap. Let me show you how the asset control method actually works to resolve
+
+it. Okay, so that's gonna do the rest of this.
+
+So, I actually really like the mechanism now.
+
+With this V2. That is a perfect example,
+
+though, of Kind of judgment based
+
+on experience that is really hard to,
+
+like, teach. I mean,
+
+maybe it was obvious to some of you when you were reading it.
+
+Maybe it wasn't. It's okay either way. But,
+
+that's something that I was able to pick up on based on putting it
+
+in my hundred thousand hours,
+
+right? I don't have to put it in my hundred thousand hours,
+
+but however many it's been. But, let's see what happens.
+
+What Gemini did here. Gemini
+
+tends to do a little bit more direction, so let's see. You
+
+That contact, nagging pressure, the squeeze.
+
+You look at your paycheck, and you look at your bills, at the cost
+
+of just living, and the math just doesn't work. You know you need to
+
+make more money. That part is obvious. So,
+
+you do what any smart, motivated person would do. You start a side hustle.
+
+Maybe Maybe you got a freelancer, and you spend hours driving for a gig
+
+economy app. You worked hard, you poured in time,
+
+you really didn't have, hoping for that breakthrough, only to end up with a
+
+few extra bucks that barely moved the needle. Or worse, you lost money on
+
+courses and ads that promised to deliver nothing. And you're left feeling burned out,
+
+frustrated, maybe even a little foolish. You start thinking, is it me?
+
+Am I just not cut out for this? I'm here to tell you it's
+
+not your fault. You haven't failed. You haven't failed.
+
+Your strategy has. You've been trying to solve the wrong problem.
+
+So, you even focused on what I call the income gap.
+
+You correctly identified the symptom, that your income isn't keeping up with your expenses.
+
+The logical conclusion is, I need more income.
+
+But that's like putting a bandaid on a bullet wound. The extra hundred or
+
+even thousand dollars a month from a side hustle doesn't change the fundamental game.
+
+It doesn't stop the feeling of being trapped, or working harder,
+
+and harder just to have less than your parents did. Why?
+
+Because the real problem isn't the income gap, the real underlying disease is the
+
+asset gap. This is the hidden barrier, the structural divide that keeps 99% of
+
+people stuck. It's the gap between those who get paid for their time,
+
+and those who build wealth from cash flowing assets. Think about it,
+
+every side hustle you've tried, drop shipping, freelancing,
+
+game work, they all required you to sell more of your time and your
+
+labor. You were still just patching a leaking boat instead of building a new
+
+one. You're trying to solve an asset gap problem with an income gap solution.
+
+It was never going to work. It's like trying to win Formula 1 race
+
+on a bicycle. The rigged economic system you feel isn't just about income but
+
+stagnant wages. It's about being locked out of the world of assets.
+
+The world where money starts working for you instead of you always working for
+
+it. This is why traditional real estate feels impossible.
+
+You know that property is the path to wealth, but who has a massive
+
+down payment or a perfect credit score? You've been priced out of the single
+
+most powerful asset class available. So you're stuck,
+
+stuck in the income gap, staring across a chasm at the road of assets
+
+with no bridge to get there until now. What if you could leapfrog the
+
+income gap problem? Entirely. What if you cross that chasm and gain control over
+
+a high value cashflow asset without needing hundreds of thousands of dollars to gain
+
+a mortgage? This is the paradigm shift we've created.
+
+We don't teach you another side hustle. We give you a strategic blueprint to
+
+change your fundamental economic identity. We call it the asset control method.
+
+This is the first system designed specifically for the person who has ambition but
+
+lacks capital. It's a method that allows you to directly address the asset gap
+
+through a unique approach to rental arbitrage. We show you how to control a
+
+residential property, an asset, and operate it as a short-term rental.
+
+You don't buy it. You don't need a bank loan. You don't need a
+
+huge down payment. You fundamentally change your position in the economic food chain.
+
+You stop being a seller of your own time, and you become the operator
+
+of an asset that generates cash flow month after month. This isn't about making
+
+extra money. This is about building a portfolio.
+
+This is about generating passive income that provides real security.
+
+It's about taking back control of your time,
+
+your finances, and your life.
+
+This is how you stop patching leaks and fallibility. Build a new boat, one
+
+that can weather any storm, and carry you to the shore of financial freedom.
+
+Okay, so, what are our thoughts here?
+
+Uhm,
+
+Gemini's was better than the first Quad output in
+
+that it got it well.
+
+What I don't think the copy was as good as Quad,
+
+and this is why I tend to use Quad as copy, for copy.
+
+especially Once we did V2,
+
+Quad was better, uhm,
+
+in my opinion. I think this copy's,
+
+I, judgement, whatever you want to call it, Quad's better.
+
+Uhm, and remember,
+
+this could be close to file copy format,
+
+but a lot of the ways I write VSLs,
+
+which you'll be learning,
+
+Don't have, don't, this will be the file format. Same thing for PDPs,
+
+and then obviously having this to put into, like, ads,
+
+advertorials, everything else. Uhm,
+
+so a lot of what I do is sort of just modeling and structuring
+
+off other swipes, essentially, right? It's always been kind of my thing,
+
+but, uhm.
+
+Yeah, so what am I gonna do?
+
+Let me save these here.
+
+I think you can't see my screen, I'm doing an arbitrage. Income
+
+gap first. Asset gap.
+
+I mean,
+
+I'll do it here so you can see, watch me typing. Okay, right,
+
+just quad version. Let's
+
+do it, just quad combo. Quad v2.
+
+The reason I'm doing v2 is I don't really know what I'm wasting my
+
+time copy pasting v1 in here. You can go look at the quad combo,
+
+I'll put a link in there. And let's do Gemini 2.5
+
+Pro. So what I'm going to do.
+
+There we go. Oops, copy link.
+
+Okay, there we go. Quad combo here.
+
+Quad v2. We're
+
+going to copy and paste. Into
+
+our document. so
+
+we'll dot It'll track it.
+
+We'll go do Gemini. I don't
+
+really need the speaker notes for time, whatever.
+
+I'm probably going to command shift v this one,
+
+so it's not as annoying.
+
+Okay,
+
+so now we have that, right? Super duper.
+
+And,
+
+you know, we'll have a training on how to create these cloud projects. But
+
+as you can see, you don't, I mean, it's still helpful. I actually do
+
+like it for writing, but it's not the most crucial.
+
+You must have this thing. Let's do that
+
+same prompt,
+
+but with the other mechanism. We
+
+had the other one we liked a lot. What's permission-based income
+
+trap? So now.
+
+Okay, same stuff here.
+
+Copy and paste. Re-copy this.
+
+Now we're going to copy in our permission-based
+
+income trap one. But like,
+
+you know. I'll
+
+format this and make it all pretty later. I
+
+said that, but then it's going to bother me if I don't do it
+
+now. Let's
+
+run the same thing. One in quad.
+
+I'm going to upload my unified research document again.
+
+One question. Hey Stefan,
+
+could you just upload it in the same conversation history?
+
+Probably, but I like to keep it clean. So,
+
+I'm doing it here instead, okay? Run this one with quad.
+
+Let's go to Gemini. Same thing. And let's run it in Gemini as well.
+
+I need to search for some current information about rental arbitrage to make sure
+
+the mechanism is grounded in an accurate up-to-date context. Now let's search for information.
+
+Did I tell it to do deep research? No. So,
+
+let's see if Clog got weirdly woke on this one for some reason.
+
+Let's find out. Uh,
+
+rental arbitrage unique mechanism. Permission-based income trap.
+
+Now before I show you exactly how this works, I need to share something
+
+with you that most people are struggling financially and never realize.
+
+There's a hidden reason why you keep feeling trapped no matter how hard you
+
+work or how many different things you try to make extra money.
+
+It's not because you're lazy, it's not because you lack skills or intelligence,
+
+and it's definitely not because you're not trying hard enough. The real problem is
+
+something I call the permission-based income trap. See here's what I discovered after helping
+
+hundreds of people break free from financial stress. Every single income source that's keeping
+
+you stuck has one thing in common. Your ability to earn money is completely
+
+dependent on someone else's permission. Think about it for a second.
+
+Your day job? You need your boss's permission to keep earning that paycheck.
+
+They can fire you tomorrow and your income disappears overnight. That side hustle you
+
+tried with Uber or DoorDash? Your earnings are controlled by an algorithm that can
+
+change without warning, cutting your income potential in half just because some programmer decided
+
+to tweak the code. Maybe you tried freelancing or consulting.
+
+Every dollar you make requires a client's permission to continue the contract.
+
+The moment they decide to go with someone else, that income stream vanishes.
+
+Or perhaps you got into dropshipping or affiliate marketing like so many people do.
+
+Your entire business was built on Facebook. Facebook's or Google's permission to run your
+
+ads. And we all know how that story ends. Accounts get shut down overnight
+
+and entire businesses disappear in an instant. And even if you tried getting a
+
+second job or picking up extra shifts, you're still asking for your manager's permission
+
+to work more hours. You see the pattern here? In every single case,
+
+you're not really in control of your income. You're always asking permission to earn
+
+a living. Here's the brutal truth.
+
+When your income depends on someone else's permission, you face constant income instability.
+
+No job security, and you're always one decision away from financial disaster.
+
+This is why you can work for 60 hours a week and still feel
+
+like you're falling behind. Why you can hustle harder than everyone else around you
+
+and still struggle to get ahead. And why every time you think you've found
+
+a solution, it ends up being just another trap that keeps you dependent on
+
+someone else's permission. The permission-based income trap explains why over a third of Americans
+
+believe they'll always need a side hustle just to make ends meet.
+
+You're stuck in this endless cycle of chasing permission-based income that can take you
+
+away at any moment. But here's what gets me really frustrated.
+
+Most financial advice completely ignores this fundamental problem.
+
+They tell you to diversify your income streams or build multiple revenue sources,
+
+but if all your income streams still require someone else's permission,
+
+you haven't solved anything. You've just created multiple ways to lose your income.
+
+The permissionless cash flow system, right? The good news is there's a unique way
+
+out of this trap, and it's simpler than you might think. Instead of building
+
+more permission-based income streams, what if you could create what I call a permissionless
+
+cash flow system. This is a business model where,
+
+after a one-time setup, your income flows directly from your open market to your
+
+bank accounts, without needing anyone's ongoing permission to keep earning.
+
+No boss can fire you from it, no algorithm can suddenly slash your earnings,
+
+no client can decide to stop paying you, no platform can shut you down,
+
+can shut down your account and destroy your business overnight. The income,
+
+and it's not really true for Airbnb, right? The income is generated by real
+
+people in the free market who want what you're offering in return.
+
+And the money flows directly to Now, you may be thinking,
+
+that sounds impossible. Every business needs customers.
+
+Customers have to choose you, right? You're absolutely right,
+
+but here's the key difference. In a permissionless cashflow system,
+
+you're not dependent on one boss's decision, one algorithm's preference,
+
+one client's mood, or one platform's policy.
+
+Instead, you're tapping into a massive, consistent demand from thousands of potential customers who
+
+are actively searching for exactly what you're offering.
+
+And the beautiful thing about this particular system is that it leverages something most
+
+people don't have. Most people even realize exists. There are over 7 million listings
+
+on Airbnb alone, and hosts collectively earned 180 billion dollars in 2024.
+
+But here's what's fascinating. Most people think you need to own property to tap
+
+into this market. That's not true. What I'm about to show you is completely
+
+legal. Airbnb actually allows it, and it works in cities across the country.
+
+It's called rental arbitrage, and here's how it creates your permissionless cashflow system.
+
+You secure a strategic partnership with a property owner. This is the only point
+
+where you need someone's permission. Thank you. But like a boss or client,
+
+this isn't an ongoing permission. It's a legal agreement that gives you what I
+
+call a master key to an income-producing asset. Once you have this master key,
+
+everything changes. You set up the property as a short-term rental and list it
+
+on platforms where millions of travelers are actively searching for exactly what you're offering.
+
+Now here's where it gets beautiful. Your income isn't dependent on your boss's mood
+
+or company's budget cuts, an algorithm deciding to favor you or oppress you,
+
+a single client's decision to renew your contract, a platform's terms of service changes.
+
+Instead, your income comes from the consistent demand of travelers who need a place
+
+to stay. Business travelers, vacationers,
+
+people relocating for work, they're all actively searching and booking accommodations every single day.
+
+Once someone books your property, the money goes directly into your account.
+
+No middleman deciding whether you deserve to get paid.
+
+No boss determining your hourly rate. No algorithm calculating how much you're worth.
+
+Just direct payments from the free market to your bank account.
+
+Because short-term rentals can generate 15-35% profit margins,
+
+you are not just replacing your permissionless based income,
+
+you're potentially exceeding But here's the part that really excites me about
+
+this system. Unlike
+
+your job, where you trade time for money, or gig work, where you're constantly
+
+hustling for the next order,
+
+once your property is set up and listed, it works for you 24 7.
+
+People can discover it, book it, and pay you while you're sleeping,
+
+spend time with your family, or even stay at your next property.
+
+This is how you break free from the permissionless Uh,
+
+based income trap, and finally take back control of your financial future.
+
+You're not asking anyone for permission to earn a living anymore.
+
+You're providing value in the free market, and the market rewards you directly.
+
+Okay, that's pretty damn good. So,
+
+one of my 5 billion documents I had here,
+
+let's go ahead and do, Oh,
+
+and I'll format this later.
+
+Number 2, uh,
+
+what are we calling this one again? That's the permission or something,
+
+we'll just see. Apparition based income strategy. Apparition.
+
+Cloud Convo. Cloud
+
+V1.
+
+Okay, so Cloud Convo link. I'm gonna copy.
+
+Alright, publish.
+
+Alright, I'm gonna share a link to this one, because it is,
+
+like, an artifact, which is really weird. I don't know.
+
+I still don't know what the hell that does with clouds, so for now
+
+I'm just gonna copy and paste the link. To this one.
+
+Let's look at Gemini real
+
+quick. Okay.
+
+It's funny how it has
+
+a similar, uh, kind of thing there. You feel it, don't you? Uhm. What
+
+if the problem isn't you?
+
+I know I'm skipping down a little
+
+bit, because it's not the you feel it,
+
+don't you thing again. It's kind of interesting. What if the problem isn't you?
+
+What if the problem is that every single way you try to make money
+
+has a fatal flaw, a hidden trap that ensures you never get fully ahead?
+
+That's what permission-based income trap. Think about it.
+
+You need your boss's permission, your permission, uhm,
+
+so this is a lot shorter. It would be fine if I needed it,
+
+but Claude, I think, did a really good job. So,
+
+like, I personally am not even willing to pay much attention to what Gemini
+
+gave me, okay? So,
+
+let's bold this,
+
+at least I have it. Which one do you choose?
+
+Because V2 of what Claude did for the first
+
+one, the income asset gap thing, was really
+
+good. The answer is,
+
+I honestly don't know. Do you want the complete truth?
+
+I don't know. Uhm,
+
+if I were me, if I was really writing a VSL for this,
+
+what would I probably do? I probably would Again,
+
+if you are sophisticated and able to do this,
+
+you can test both hooks, both ideas and ads and advertorials,
+
+whatever it is, if it was for an existing offer, that's what I would
+
+probably do. If I was writing this for scratch,
+
+for something brand new, I would probably sleep on it,
+
+and ask a few people, like my wife, other people,
+
+hey, which one do you like more? Which one resonates with you more?
+
+Explain both to them and get their input or answers.
+
+Uhm,
+
+and then I would just make a decision based on my intuition and gut.
+
+If you don't feel confident doing that, then I'd probably just go with number
+
+one. I'd say what Google, two of the three LMs picked the income asset
+
+gap as number one.
+
+Probably aren't going to go wrong with that, I would pick that one.
+
+The other thing to keep in mind is like,
+
+The permission-based income trap did have
+
+potentially more objections. Because it's sort of like,
+
+oh, it can't change the platform, you know. You're not asking for permission,
+
+but it's like you kind of are. You're still serving at the leisure of
+
+Airbnb. So I have more objections with the income,
+
+the permission-based one. I still really like it. I still might even fire it.
+
+Frankly, we're writing this to try to work some of this into the VSL
+
+as well. But maybe not as in-depth.
+
+So I'd probably, gun to my head,
+
+go with this one, to be honest with you.
+
+But,
+
+it's close.
+
+And that's okay. Maybe, maybe both will work.
+
+So maybe you don't have to agonize over the decision.
+
+Maybe there's not one perfect mechanism. Yes, maybe one is better than the other,
+
+but maybe a bunch of those mechanisms will work.
+
+It can be, yeah, it'll be okay. So,
+
+at this point we basically have copy, ready,
+
+UMP, UMS stuff, right? What I'm going to do
+
+in the rest of the mechanism module, I'm going to end this video in
+
+a moment, is I'm going to do
+
+some more examples, uhm, at least one more,
+
+by skin care. Maybe do another one for golf,
+
+or whatever it is. Uhm,
+
+won't be too as long in those videos, probably. So,
+
+hopefully you've watched this one. And,
+
+uh, then we'll continue on to additional sections,
+
+too. I will have, make sure to have a quick video about how to
+
+set up that cloud project for you,
+
+also. Alright, hopefully this has been mind-blowing.
+
+Thank you.

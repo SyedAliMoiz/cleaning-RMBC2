@@ -1,0 +1,529 @@
+Alright, so let's look at medium-length VSLs now,
+
+uhm,
+
+for Airbnb arbitrage. I mean, honestly, like, you know,
+
+you saw the long-form one, we created the script,
+
+we did some additional leads for it,
+
+which I have here as a PDF in this form.
+
+I don't want to have to copy the document every time, I mean,
+
+you know, the Google Docs are in the long-form.
+
+If you want those versions, these are the PDFs,
+
+uhm,
+
+so what can I do here? Well, hopefully, assuming Clod's working normally now,
+
+because as you may recall, at the end
+
+of that long-form Airbnb one, it wasn't, one of the most obvious things I
+
+could do is I could just,
+
+and I could do this, honestly, in that same Clod project, or I can
+
+do it here on to the medium length one.
+
+Let me go, okay,
+
+like, here's a DSL I wrote for an
+
+Airbnb arbitrage, uh,
+
+coaching program.
+
+Uh,
+
+can you take this and do a version that is 18?
+
+It's long,
+
+uhm,
+
+keep the three options for the openings,
+
+since each video would only have one of those options,
+
+so that wouldn't affect the overall,
+
+uhm. That
+
+should be taken into account.
+
+If you do this medium length
+
+version, thanks. Well,
+
+I think the clock just skews a little bit. I think it's a little
+
+bit longer than it is, so. Okay, this is one obvious way I can
+
+do this. It should be basically the same.
+
+PSL, just more succinct.
+
+I don't know why it's giving me these weird
+
+other hooks. But,
+
+that's actually not a huge deal, because I can just
+
+use the hooks from the long VSL.
+
+If I needed to cut them down a little bit, I would.
+
+So,
+
+again, guys, it feels weird. Cloud makes updates,
+
+sometimes things get a little wonky. But overall,
+
+this shouldn't be, like, you know,
+
+most of the time. Nah,
+
+this is gonna be weird, actually.
+
+So I start with this guy. This guy, Rick. This guy,
+
+Rick, he was brilliant. Restore restrain,
+
+I could. I'm gonna stop it. Okay.
+
+They're, like,
+
+multiple models, and you're screwed if you don't.
+
+Let's just, like, do the same prompt here in Gemini,
+
+and see if Gemini is less screwy right now.
+
+Just
+
+doing a version that strategically cuts
+
+down things to make it fit the 18-minute.
+
+Let me try this one more time. Let me try this prompt here again.
+
+Okay,
+
+so, I'm actually, while it's doing this, I'm going to try this prompt again.
+
+I'm just going to do the same thing I told Gemini. Same,
+
+so let's see if it does it better this time or not.
+
+I mean, I honestly could do it, I could do it in a quad
+
+project, right? I mean, I wonder what happens if I just do it in
+
+a normal quad. Uhm,
+
+it should do the same thing in the medium-length project. But I mean, honestly,
+
+I could just also upload it into quad.
+
+Let's see, now if it gets wonky again, then we know something's up with
+
+quad Sonic 4 right now. And I could honestly go do 3.7 or something
+
+like that, right? I mean, to be honest with you, 3.7 should do fine.
+
+I think 4 just does longer outputs, so that's one of the things I
+
+like about it. Let's see, okay.
+
+So
+
+I kept these as is, as I said.
+
+And so really, I'm honestly not going to spend a ton of time going
+
+through this. I'm just going to,
+
+like, share it with you, because again, it should basically be the same.
+
+PSL,
+
+which is shorter, except for, not really,
+
+because it really shortens.
+
+I'm going to move this down a lot, let's
+
+see, 3-4 minutes, 4-5 minutes,
+
+so say 3, 4, 7,
+
+10, Nah,
+
+I guess not, it just feels shorter. I guess it's the right amount of
+
+time. Alright, never mind.
+
+So I guess it's probably going to be like, it just feels so much
+
+shorter when it's, like, Thank you. So
+
+I'm
+
+sort of keeping the leads as is, which is fine. All
+
+right, cool. So it's doing a good job now. So the cloud project was
+
+just being wonky. But I don't think it'll be wonky for,
+
+if you want a different media length, VSL. So that's where we'll use it
+
+real quick as an example here. Once this is done,
+
+which it should be done in just a moment. All right.
+
+Cool. So I'm going to copy this, can go,
+
+why is everything in wonky
+
+right now? Medium, why is it going in white?
+
+Silver, medium length,
+
+VSL example, pair, be,
+
+be arbitrage. Let's see. Hopefully it's probably,
+
+yeah, there you go,
+
+okay, it's better. The whole internet's being wonky today.
+
+So I'm going do that. This will be plot
+
+inversion. Okay, so,
+
+this is one way to do it.
+
+One, two, cut down
+
+is just the input, too, okay? Cool,
+
+let's save that. Let's quickly look at what we would do Let's
+
+look at the cloud project now, so. So
+
+now, if I wasn't gonna do that, I might just do something like,
+
+the brief.
+
+I think if I'd like the long VSL, this is probably just how I
+
+would do it, to be honest with you. But,
+
+you know, for, like, simplicity's sake, let's just go, Arbitrage
+
+pushing program,
+
+this is for problem-aware people,
+
+so we don't want to lead out
+
+with the arbitrage.
+
+Can you please give me the outline for a medium?
+
+Let's actually make this one shorter.
+
+I honestly, I would do the same thing for, like, even if I wanted
+
+a 7 or 8 minute one. But, like, let's say that's 9
+
+minutes total. Note the call to action will be
+
+to book a call and get a roadmap,
+
+not to, not to sell
+
+the course. Or the program,
+
+so, talk about the price,
+
+Let's see what it does for that I
+
+think this is going to be short because it's going to be 9 minutes
+
+long. It's
+
+honestly just writing it. Because
+
+it's like 9 minutes, it's pretty short, so let's just look through it. What
+
+I'm about to show you explains why every side hustle you've tried has failed,
+
+and it has nothing to do with your work ethic, your intelligence, or even
+
+how much money you started with. In fact, once you understand this hidden truth,
+
+you'll realize you've been trying to solve the completely wrong problem this entire time,
+
+and the solution is actually much simpler than you think,
+
+but almost nobody talks about it. My name is Marcus Hayes,
+
+and over the past 18 months, I've gone from a burnout logistics manager working
+
+60-hour weeks to controlling over $2.3 million in cash flow and real estate assets
+
+without owning a single property or having perfect credit.
+
+Look, if you're watching this, you're probably like I was two years ago.
+
+You're working harder than ever, but somehow getting further behind.
+
+Maybe you've tried affiliate marketing, dropshipping, freelancing,
+
+and they either didn't work or burned you out completely. You know the system
+
+is rigged, your parents could buy a house. House and support a family on
+
+one income. Meanwhile, you're college-educated, working longer hours and still living paycheck to paycheck.
+
+But here's what I discovered that changed everything. You don't have an income problem,
+
+you have an asset gap problem. And you've been trying to solve an asset
+
+gap problem with income solutions. That's why everything you've tried has failed.
+
+See, there's no such thing as being income-rich long-term,
+
+because income requires trading your time, and you only have 24 hours in a
+
+day. But being asset-rich, that's where real wealth comes from,
+
+because assets make money while you sleep. The wealth you don't get rich from
+
+paycheck to paychecks to get rich by accumulating assets.
+
+But here's the problem. The system makes it almost impossible for regular people like
+
+us to access these wealth-building assets. Want to invest in real estate?
+
+You need $80,000 for a down payment, perfect credit,
+
+massive income qualification. Want to start a real business?
+
+You need a huge startup capital and years to build it. So we get
+
+stuck trying income solutions, side hustles that require us to work more hours for
+
+uncertain pay. It's still trading time for money. It's still the hamster wheel.
+
+Stuck trapped in this exact cycle, I tried every side hustle you can imagine
+
+and failed at all of them, lost thousands, feel like an idiot,
+
+then I stumbled across something that changed everything. It's called the asset control method
+
+and lets you regain operational control of cash-flowing real estate assets without the massive
+
+barriers of traditional ownership. Instead of buying properties,
+
+which require those huge down payments and perfect credit, you gain control of cash-flowing
+
+assets through strategic partnerships with property owners.
+
+You find property owners who want a stable, reliable income without management hedging tactics.
+
+You lease their properties on a long-term basis, then operate them as short-term rentals,
+
+capturing the cash flow difference. You get all the benefit of asset ownership,
+
+passive income, scalability, wealth building without the traditional barriers.
+
+This isn't just another way to make extra income. You're controlling assets that generate
+
+cash flow, whether you're actively working or not.
+
+This is your bridge from being income dependent to becoming asset rich.
+
+In 18 months, I built a 15-unit portfolio,
+
+generate over $12,000 in monthly passive income, these properties cash flowed from day one,
+
+the landlord is loving the arrangement, and I'm finally building real wealth.
+
+But here's the best part. I spend about five hours a week managing the
+
+entire portfolio because I've systematized everything. Sarah,
+
+a teacher from Phoenix, secured her first property in six weeks,
+
+starting at $3,200. There's Mike, there's Jessica.
+
+Landlord testimonial. Most time hustles fail because there's still income solutions disguised
+
+as businesses. You stop working and the money stops coming.
+
+But with the asset control method, you're building a portfolio. Portfolio of cashflow assets.
+
+Each property becomes a mini business that operates whether you're working,
+
+sleeping, or on vacation, the key is finding what I call hidden gem markets,
+
+areas where there's strong rental demand,
+
+but limited short-term rental supply, where everyone else fights over saturated markets.
+
+You're building in areas where you have little to no competition.
+
+This isn't about tricking landlords or finding loopholes.
+
+This is about creating genuine win-win partnerships. Property owners get guaranteed rent,
+
+professional management, and higher quality tenants. You get control of a cashflow asset.
+
+without massive capital requirements. I've systematized everything from finding properties to landlord negotiations
+
+to guest management. My students use the exact same templates,
+
+scripts, and processes that took me months to develop and refine.
+
+Look, yes,
+
+more people are worried about this,
+
+but most are doing it wrong. That's kind of weird how it just kind
+
+of goes into the objection handling. That's
+
+all they do.
+
+You go from
+
+systems
+
+and automation
+
+to just
+
+hoarding
+
+hot objections.
+
+You are good to go. But we need a better transition.
+
+Thinking
+
+about it right now, it sounds too good to be true, and honestly, if
+
+someone had told me this three years ago when I was failing at my
+
+first side hustle, I probably would have been skeptical too,
+
+so let Everyone's doing this now. You're probably thinking,
+
+if this works so well, isn't everyone doing it now? Look, yes, more people
+
+are learning about this, but most are doing it wrong. Competing in over-saturated markets
+
+are creating bad partnerships with landlords. The right approach and the right markets with
+
+the right systems, that's what separates success from failure. What about real regulations?
+
+You may be wondering about the legal side of things. This is exactly why
+
+we focus on responsible arbitrage and proper legal structures.
+
+Everything we do is well-bored, benefits all parties,
+
+and actually improves communities by maintaining properties at higher standards.
+
+I don't have time, and I bet you're thinking, Marcus, I'm already overwhelmed.
+
+When am I going to find time for all this? I get it,
+
+you're already stretched thin, but here's the thing. You're going to spend your time
+
+somehow. You can keep spending it making other people rich in your 9-to-5,
+
+or you can invest some time building assets that will pay you for years
+
+to come. What if I fail again?
+
+Maybe you're thinking, what if this is just another thing I fail at? Trust
+
+me, I failed at everything too before I figured this out.
+
+The difference is, uh,
+
+this time you won't be going into the loan, you'll have proven systems I'm
+
+going to support, and a community of people doing exactly what you're trying to
+
+do. That's much better, okay? So let's actually take this,
+
+Put
+
+V1 into here,
+
+And we just need to take, Unique
+
+mechanism, What if I fail again?
+
+Okay.
+
+And we can kind of read from here to continue on.
+
+Look, I only share this with serious people who are ready to stop making
+
+excuses and start building real wealth. You're tired of being stuck in the income
+
+trap, and you're ready to start accumulating assets. I want to help you create
+
+a free training where I break down exactly how the asset control method works,
+
+show you the specific markets I'm targeting right now and walk you through the
+
+exact process I use to secure these partnerships, what you get.
+
+On this training, you'll get the complete hidden gem market analysis I use to
+
+find profitable opportunities, my exact landlord partnership script that has an 85% success rate,
+
+a breakdown of realistic costs and timelines so you know exactly what to expect,
+
+and I'll show you how to identify your first potential property.
+
+I will do these trainings a few times a year, and spots are limited
+
+because I personally review every application to make sure we're working with serious people.
+
+Click the button below to register. You'll answer a few questions about your situation,
+
+and if you look at your fit, you'll get access to schedule your session.
+
+Two years ago, I was exactly where you are, frustrated,
+
+stuck, and tired of trading time for money. Today, I wake up to money
+
+deposited from guests who stayed while I slept. The difference?
+
+I stopped trying to solve an asset gap problem with an income gap solution.
+
+If you're ready to make the same shift, click below and let's talk. All
+
+right,
+
+So that's it. And of course,
+
+we could add in,
+
+right, like, cool, this is great, let's do this hook, let's do that hook,
+
+blah, blah, blah, blah, blah, blah, but hopefully it's pretty self-explanatory.
+
+Pretty solid, right? Thank you,

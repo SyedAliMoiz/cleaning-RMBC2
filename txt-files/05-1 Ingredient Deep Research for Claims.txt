@@ -1,0 +1,301 @@
+Alright, so in this video I want to quickly show you how to
+
+use deep research for coming up with like ingredient studies and claims you
+
+can use, um,
+
+when you're writing sales copy. The reason I say quickly isn't because I'm trying
+
+to skip through this section, it's because it's honestly pretty fast and
+
+easy here. So, I'm going to show you an example just for
+
+our skincare, the UD Eye Serum.
+
+Okay, like, okay, these are the ingredients for an Eye Serum I've been doing
+
+sales copy for. It has the main ingredients.
+
+I'm attaching two documents for reference. One is an overview of the market and
+
+their pain points. The second is a unique mechanism I'll be using.
+
+What I want you to do, what I want is for you to,
+
+Sorry, who is it? What I want
+
+for you to do is come up with a list of claims for each
+
+ingredient that can be tied back to specific studies or research.
+
+This research needs to come from stuff published on NCBI,
+
+that's like, uh, the national, basically like the government's registry of,
+
+uh, studies, or other scientific journals,
+
+and cannot include things from random blogs or websites.
+
+Give preferences to RCTs, that's Random Controlled Trials.
+
+with humans, but if those aren't available,
+
+you can include other studies too. Claims should be focused on the following things.
+
+One, how the ingredient supports the unique mechanism of the solution,
+
+when applicable. We will, uh,
+
+I'll mention, kind of give more context on that in a second.
+
+Two, additional studies of how the ingredient helps alleviate pain points of the market,
+
+regardless of the connection to the mechanism. Please keep the claims digestible with references.
+
+I don't need a big biology lesson, I just need to, uhm,
+
+I just need, should I say, I just need accurate claims showing the best
+
+efficacy and results possible for each ingredient,
+
+so I can take those and use them in various marketing assets.
+
+Alright, so that's it, okay?
+
+Now, the second version of the prompt is,
+
+like, what if you don't,
+
+basically if you don't have a mechanism.
+
+Honestly, it's actually basically the same prompt,
+
+you just wouldn't have a mechanism, that's why I said it wouldn't be applicable,
+
+right? So,
+
+I'll show you another version of it though, or honestly, I'll just call it
+
+an example too. Uhm,
+
+or just an example, like, I have a blood sugar tube,
+
+I'll show you more of them, okay? So,
+
+I have a blood sugar one on stream right now, but let's go back
+
+to our friends at perplexity,
+
+okay? And I ran into a couple of different prompts,
+
+I actually want to show you, this is super vague,
+
+I've been doing too much stuff today, honestly. Uhm, I think this one first.
+
+Okay, so I did this the first
+
+time, right?
+
+Same process.
+
+Same prompt you just saw. I forgot to include the mechanism in the research,
+
+but what I liked about perplexity is it was really fast,
+
+okay? So this is the peptide. Clinical studies demonstrate up to 32%
+
+reduction in wrinkles and 14% increase in skin firmness.
+
+A link, it's coming from the company that makes the peptide,
+
+but I know that's fine. Promotes production of tissue inhibitors of melaprotonases,
+
+reducing collagen to grain enzyme activity by approximately 33% That's all for today.
+
+30% and 22% for elastase. Simulates collagen fiber contraction,
+
+leading to improved skin structure and tightening. A 0.5% concentration shows measurable improvement in
+
+wrinkle depth in clinical trials. Okay.
+
+Hydration and barrier support. Pistachio lenticest
+
+extract. And so basically you can see what it's doing here is it's giving
+
+me like studies and it's giving them to me in really digestible little
+
+chunks. Why does that matter?
+
+You might ask, I will tell you why that matters because a bit later
+
+on when we get to the B
+
+of briefs, which is, I guess, so a brief, it's really creating inputs for
+
+AI, the things we're going to do it.
+
+I'm going to show you this little generator is.
+
+You're going to do the unified research brief, you do the unique mechanism,
+
+which we're going to, uh, you'll see in a,
+
+you know, the next training after R, um,
+
+and then you can give it, I think it's this one here,
+
+sorry, this one, like a list of the studies,
+
+right? So it's like what I did is I combined perplexity and chat
+
+dbt and made it into quads that they're,
+
+um, whatever. but so I gave that,
+
+and basically I gave it studies like the ones you just saw from perplexity,
+
+right? And then you'll see that when I did that,
+
+it generates all this stuff. All I do is give it the website
+
+and it generated all of these things. So it's pretty nifty,
+
+right? Okay. So the answer is definitely right.
+
+So that was perplexity, which was pretty solid.
+
+Um, I also did it with chat GPT,
+
+chat GPT was pretty good too, but did reference personal care magazine.
+
+I don't like that reference as much, but that one was fine.
+
+So Gavin publishers is not the worst coming from a publishing place of studies,
+
+but basically it just did research too. So it was pretty good.
+
+Now I like perplexity. So as a goal, what about,
+
+you know, I'll show you another example. So in this case,
+
+oh, sorry, let me show you one other thing with chat GPT.
+
+With chat GPT, I did include the
+
+unified research output and the ISR.
+
+Why was the unified research output nice? Because
+
+it kind of knows what the pain points are,
+
+right? So if you're doing that, this and, you know,
+
+it kind of knows what we're looking for with the studies.
+
+And then I did the mechanism, right? So it gave me the studies,
+
+like the same thing as with, um,
+
+perplexity, but because I include the mechanism here,
+
+you can see where it talks about by curbing these collagen breakdown enzymes,
+
+um,
+
+DPH preserves the dermal matrix and promotes to tether re-woven college and art.
+
+protection for firmer skin that matters because
+
+that's sort of like a mechanism that we came up with in the examples
+
+when I decided to use in this case. So it's tying this back
+
+to the mechanism here. So that's kind of nice.
+
+There's pros and cons to this though, okay?
+
+What's interesting is like, it still gave me good data.
+
+So, I mean, frankly, I think this is all, Overall, pretty good,
+
+uhm,
+
+perplexities was kind of the best though. It was the most bite-sized,
+
+and, but it wasn't tied to the mechanism,
+
+right? So I did run that
+
+again with the PDFs
+
+uploaded. but here's the thing,
+
+remember how you saw that 32% figure for the peptide?
+
+ChatsCPT had it, Perpuxy had it.
+
+This time it didn't mention the 32% reduction in wrinkles.
+
+That's a big thing, uhm,
+
+to miss, right? And so I don't know if it didn't do it because
+
+it was focusing on the mechanism more,
+
+but honestly, like, you might want to run it once without the context
+
+of the mechanism and once with Be good to it, because you might get
+
+slightly different studies and you can just combine them together into one PDF,
+
+or one document that you turn into a PDF for quad. So hopefully that
+
+makes sense, okay? So we saw some good things here. Anyway,
+
+did the same thing, here's the ingredients for blood sugar,
+
+support, chew. I just copy and pasted one from like a private label cow
+
+that I had. It's actually in prompt. So you use Xylitol,
+
+significantly improves glucose tolerance in humans and animals.
+
+Studies reduce fasting blood glucose by 29.3% in type 2 diabetic
+
+rats, something else here,
+
+associated with a 73% lower risk of pre-diabetes progression to diabetes in humans
+
+with elevated baselines at all levels. Metabolic benefits,
+
+decreased plasma insulin levels, triglycerides,
+
+blah blah. Ceylon, cinnamon,
+
+m************ of 10 random controlled trials showed significant reduction.
+
+in fasting plasma glucose, minus 24.59 in type 2 diabetes patients.
+
+Reduced age. So basically, if you know supplement copy,
+
+you know this is, like, great. You're like, oh, cool,
+
+this is pretty much solved, right? And it did it for each and every
+
+ingredient. So, I actually perplexed most for the ingredient research,
+
+um, and it's really as simple as that.
+
+Now, if
+
+you want anything else, you can ask more questions, you can always go deeper,
+
+but frankly, this is pretty damn good,
+
+right? Um, and that's why this is a short thing,
+
+because really, you just run this prompt, where the ingredients are,
+
+and it'll get your research done for you, courtesy of Perplexity and or ChatGBT.
+
+So, there you go. Thanks.

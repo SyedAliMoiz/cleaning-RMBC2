@@ -1,0 +1,130 @@
+Alright, so this is going to be a pretty fast one.
+
+Like I mentioned in the end of the last video, it's just a cloud
+
+project for, you know,
+
+creating captions for ads. So all I did was take really simple,
+
+I'm going to give you some examples of meta ad captions in your knowledge
+
+base. You'll use these as another knowledge you have about meta ad captions to
+
+try and do ad captions based on instructions on your chat interface.
+
+So I put that on a cloud project, uploaded some caverns.
+
+So, captions, which is, uh,
+
+you'll have, uh, in here as well. It's just some,
+
+it's like, honestly, can you just have Gemini and other places write captions?
+
+They're going to be fine. And,
+
+you know, I don't use this personally, but I'm,
+
+let's test it out, right? Uh,
+
+can you do some ad captions for community iSerum?
+
+It just depends, like, I think, like, the ad captions are important,
+
+but they're not crazy, um, uh, like, what am I going to say, uh,
+
+uhm? benefits
+
+plus a CDA to save,
+
+57% off. And then
+
+I can run my link, save, here we,
+
+Oh my god.
+
+There's that,
+
+here's here. You know,
+
+the big thing here is if you had some hooks, you might,
+
+you would want to add those to the captions, right? But let's just see
+
+what this does here. Okay. Caption 1, 54,
+
+I thought my eye bags were permanent,
+
+tried everything,
+
+and they worked. The real problem wasn't what I thought,
+
+it wasn't dryness or aging, it was having them inside my skull.
+
+Skin layers, DEJ, so I found the Ayurvedic serum,
+
+this would obviously be formatted. Great.
+
+I mean,
+
+I'll share the outputs here, I'm still writing some.
+
+But.
+
+Great, thank you, now can you do some really short
+
+ones that are just a few lines and sell the click people to
+
+go learn more about community.
+
+Come
+
+on,
+
+little cloud, you can do it. I
+
+don't know why Claude's struggling here. I'll pause it for a minute.
+
+Okay, it's working on it. To
+
+do it? Okay, add them to this,
+
+okay. At 54,
+
+people think I had work done, but it's just a skinny, affine serum that
+
+penetrates deeper than any acne I've tried.
+
+Clinical studies show 45% recovery reduction in 60 days.
+
+C, breakthrough science. While your
+
+expensive eye creams aren't working, neutrinos surface while a real agent happens to sleep
+inside your skin layers. This doctor-endorsed serum changes everything.
+
+Discover here. Right? Uhm.
+
+That's really all you need for captions, to be honest with you.
+
+And you'll just test a bunch of stuff. There's like no other way to
+
+do this besides, like, testing.
+
+So You have the caption,
+
+you've got this. Take it over for whatever you want,
+
+like. Look at this guy,
+
+like.
+
+Getting people to this website and sign up
+
+for masterclass.
+
+I think if I give it some hooks, we can probably make them a
+
+little bit more dialed in. But,
+
+easy peasy, lemon squeezy.
+
+All right, thank you. Goodbye.

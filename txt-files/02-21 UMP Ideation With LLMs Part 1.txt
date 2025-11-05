@@ -1,0 +1,1479 @@
+All right, hello again.
+
+So, as promised, in this video I'm going to be sharing a prompt
+
+and process for generating unique mechanism ideas
+
+with large language models. There are
+
+actually a lot of ways you can do this, which is really cool,
+
+and in the past one of the main ways I did this was with
+
+Clod projects Clod projects are still cool
+
+and still a viable way of doing it But there are
+
+some other Options now that I think are also pretty cool and powerful
+
+So let's jump in.
+
+First of all, I'm going to show you the prompt, okay?
+
+Should highlight this or something Okay Today,
+
+I want your help coming up with as many unique mechanism ideas for a
+
+Product in the blank space,
+
+right? I'll show you, you know, like so for a product in the Airbnb
+
+arbitrage space the specific product is Coaching
+
+program a community that shows people how they can Just lease
+
+a property long-term and then manage it as a short-term
+
+rental with the property owner's consent, okay?
+
+I've attached a research brief that will help you understand the market we were
+
+speaking to. Can we guess what that's gonna be?
+
+It's gonna be our unified research document that we created
+
+with clod. So if you have gone,
+
+gone through these in order, and you went through the process of the
+
+product-market awareness research, the competitor research,
+
+the psychographic research, and we created that unified research document,
+
+uhm, that's where this is gonna help shine,
+
+one of the places. Here's a quick overview of how to understand unique mechanisms
+
+in the road of direct response and D2C copy.
+
+This is a copy and paste of the mechanism stuff we looked at in
+
+the last video in the mechanism section. One
+
+ver- one thing to pay very careful attention to is the levels of product-market
+
+awareness we are focusing on. This is important because the UMP and UMS need
+
+to speak to our prospects where they are at.
+
+In other words, if the main market segment we are targeting is problem-aware,
+
+it wouldn't make sense to have the UMP and UMS speak to the people
+
+who are product-aware or most-aware. Please go ahead and get started now.
+
+So, I just showed you this example of Airbnb arbitrage,
+
+right? So, I did this in a bunch of different,
+
+kind of, LLMs so you could see results.
+
+And what we're going to be doing as we
+
+go through these is we're going to take things that we like,
+
+I'm trying to keep the screen,
+
+sorry guys, I'm trying to keep, like, the screen size sort of smaller so
+
+that if people watch on mobile they're not,
+
+like, not able to read anything because they'll consume stuff on mobile,
+
+although I'm, like, a boomer, I'm like, I don't know why,
+
+uhm, so let's try and Have
+
+these things sort of side by side But let's start With
+
+Gemini So I'm actually gonna do it,
+
+show you an output in Poe The reason why I'm gonna show you in
+
+Poe is because I started running it Deep Research,
+
+so
+
+I basically uploaded, like, a Claude Unified Research Output for AirBnB Arbitrage
+
+And I ran the prompt, right? AirBnB Arbitrage,
+
+do this And I had to do it in Deep Research, okay?
+
+As you can imagine, Deep Research was Pretty
+
+deep It was cool,
+
+actually But,
+
+pretty, uh, you know, in-depth, okay?
+
+And then what I'm gonna do, in order to not make it It's annoying,
+
+I'll just put stuff in this document So while I was doing that,
+
+I was like, well, let me just try a regular Gemini 2.5 Pro Uhm,
+
+and so I did that in Pro Simultaneously, or sorry,
+
+in Po Simultaneously Same prompt,
+
+same Claude Unified Research Output Okay,
+
+so let's see what it came up with here This is just,
+
+uh, the part where it's, like, thinking Okay I'm gonna
+
+read all of them, and reserve your judgment until we get through more of
+
+the stuff here, okay? Idea 1,
+
+the Partnership Pitch Protocol This mechanism focuses on overcoming the single biggest
+
+perceived barrier, getting the landlord to say yes Unique mechanism of the problem,
+
+the real reason you're stuck. You've been thinking about this all wrong You see
+
+the landlord as an obstacle, a gatekeeper you have to somehow trigger-convince.
+
+This mechanism This adversarial approach puts you on the defensive from the start,
+
+and is why you either get rejected or are too scared to even try.
+
+You're pitching a liability, not an asset.
+
+Now, I just said to reserve judgment,
+
+but I'm gonna judge.
+
+I already don't like this unique mechanism.
+
+Can you think of why I don't like this unique mechanism of the problem?
+
+know that this isn't live, so,
+
+but I'm giving you a minute to shout it out to your computer.
+
+I don't like the unique mechanism of the problem, because despite what I said,
+
+it's really talking to people who are highly
+
+product aware, right? I want
+
+to show you, what I'm talking about.
+
+I'll remind you of this in a moment.
+
+I had to open it up. Right,
+
+if you remember this training, we had our different stages.
+
+You know, unaware,
+
+problem aware, solution aware, product aware,
+
+most aware. Right? And actually,
+
+I mean, I can look at the output we did. Thank And
+
+by ChatGPT's own sort of admission,
+
+the amount of people, Gemini's own admission,
+
+the amount of people who were product aware was like 10-15%.
+
+They know rental arbitrage is a strategy, coaching programs for it exists,
+
+right? Uhm,
+
+so really, maybe like 15-25% of people total know about this.
+
+So if this, if that was your market,
+
+then fine. But like we talked about,
+
+we're probably really more up here in this sort of problem aware space
+
+for BizOp, especially if we're trying to go broad.
+
+And so, in this example, at the very least,
+
+I'm trying to go broad. So,
+
+this is talking about, hey, you've been thinking about all wrong that's too far
+
+along in the journey,
+
+the mental journey of where your prospect is at,
+
+if we're going for a broader market,
+
+okay? So, I'm actually just going to go ahead and skip this.
+
+Like, it does tell you what I like, here's how it's connected to the
+
+brief, that's cool. but it's just not meeting
+
+us where we need to be, okay? Idea number two,
+
+the cash flow oasis method. Unique mechanism of the problem,
+
+the real reason you're stuck. You're looking for opportunities in the wrong place. Every
+
+other course in Guru points you to the red oceans,
+
+the obvious oversaturated downtown cores,
+
+and prime vacation spots. This is where competition is fierce,
+
+landlords are skeptical, and profits are shrinking.
+
+You're fighting for scraps with hundreds of other people who heard the same bad
+
+advice. Unique mechanism of the solution.
+
+We've developed the cash flow oasis method, a proprietary data-driven process for identifying
+
+untapped markets. These are overlooked neighborhoods and property types with high short-term rental demand
+
+but virtually zero competition. We teach you how to analyze specific zoning laws,
+
+local event schedules, and corporate housing needs to find these hidden gems.
+
+Instead of fighting for a condo downtown, you'll be placing a property next to
+
+a regional hospital that needs housing for traveling nurses,
+
+Creating a non-stop stream of revenue. You don't need to be the best,
+
+you just need to be the only one in the right place.
+
+So, why is it connected to the brief? The research brief.
+
+It directly addresses the objection that everyone is doing this now and it won't
+
+work anymore, counters past failures of other business models like dropshipping due to oversaturated
+
+markets, appeals to the desire for smart money moves and a system that eliminates
+
+guesswork, Go to Beadaholique all of beading supply Speaks to the burnout professional and
+
+FIRE adherent who appreciate a systematic, data-driven approach.
+
+So if I evaluate this mechanism, it still
+
+has the same problem,
+
+ultimately, as what we just said with mechanism number one,
+
+which was that the Proud of Market awareness
+
+level is pretty high. Where my mind goes,
+
+and this is where things get nuanced, is could you still make this work?
+
+Yeah. You theoretically,
+
+I mean, you can make anything work, kind of, right?
+
+Not anything, but a lot of things. Because it's like,
+
+the rest of my copy, and if you're more advanced, you might be thinking
+
+this too, and if you're not, that's not a knock on you,
+
+it's just like an experience in itself. Right? Uhm,
+
+like, you could speak to, like, someone who is problem aware,
+
+and doesn't know what to do with Airbnbs, but not,
+
+like, just buying short-term rentals, you know,
+
+some people call it Airbnb arbitrage, whatever,
+
+blah, blah, blah, okay, so here's the thing,
+
+like, right? Like, you've probably heard of Airbnb hosting,
+
+like, because there are a lot of people who are solution aware,
+
+maybe even thought about getting it, but, like, there's a couple problems,
+
+right? One of the problems is the saturation,
+
+and this is how you address that. So, like, this could be part of
+
+it, but it still wouldn't necessarily get into,
+
+like, the, me in the market,
+
+where they're at if we're trying to do people who are sort of problem
+
+aware, right? Idea
+
+number three, the automated hospitality engine.
+
+This mechanism tackles the fear of creating another time-consuming job,
+
+a major pain point for the target audience. Unique mechanism of the problem,
+
+the reason you're stuck. Every side hustle you tried has failed for one reason,
+
+it wasn't a business, it was just another job. You traded your nine-to-five for
+
+a 24-7 hustle that demanded all your time and energy,
+
+leading to burnout. You're stuck in the active hustler trap,
+
+believing that more income will must equal more work.
+
+Unique mechanism of the solution, how do we solve it? We don't teach you
+
+how to run a rental, we teach you how to build an automated hospitality
+
+engine. I really like this name, by the way,
+
+it's actually quite good. This is a complete system of software processes and virtual
+
+team members that handles 95% of operations for you.
+
+From guest communication and cleaning schedules to pricing optimization and maintenance calls,
+
+the engine runs on autopilot. Your job isn't to answer late-night calls,
+
+but your job is to be the architect of a business that runs itself.
+
+This is the only way to achieve true time and location freedom,
+
+creating passive income and not just another paycheck.
+
+Connection to the brief.
+
+Directly addresses the objection, this will be another overwhelming side hustle that takes over
+
+my life. Fulfills the primary promise of work from anywhere with just a laptop
+
+and build a business that doesn't require 80-hour work weeks.
+
+Appeals directly to the burnout professional and stay-at-home parent seeking flexibility.
+
+Contrasts with the gig economy work they've tried,
+
+which is the definition of training time for money.
+
+Okay, so.
+
+This might seem simple, but if you actually look at a lot of the
+
+BizOp stuff that does well,
+
+you'll, especially with the curse of knowledge almost, you'll be like, wow, that just
+
+seems like that mechanism isn't really that complex,
+
+right? But there's a reason why there's not usually complex
+
+mechanisms in BizOp, and that is actually not because of the market.
+
+Like, it's not about the intelligence level of the market.
+
+It's because of where the market's at on that product awareness
+
+scale we keep talking about, right?
+
+And so this mechanism speaks to them there,
+
+so I like it. So I'm going
+
+to take this one, because I like it, and I'm going to copy and
+
+paste it into that doc, okay? So now we have one of these ideas
+
+that's being copied and pasted in. My daughter came in for a minute,
+
+so I paused it. My oldest daughter.
+
+And by the way, we are going to do,
+
+you know, health-related ones as well, with, like, ingredients and supplements and blah blah
+
+blah. But I want to start with this example first,
+
+okay? So I like that one, I put it into this doc.
+
+So you're basically creating a doc, potential mechanism is dropping it in here,
+
+okay? Let's see, idea number four,
+
+the capital multiplier framework. This mechanism is designed
+
+to shatter the belief that you need a lot of money to get into
+
+real estate. Unique mechanism of the problem,
+
+the real reason you're stuck. You've been priced out of real estate because you're
+
+stuck on the idea of ownership. You believe the ownership only path is through
+
+massive down payments, perfect credit and bank loans,
+
+a game rigged against the average person. This ownership fallacy keeps you on the
+
+sidelines, believing you don't have the capital to even start.
+
+We teach the capital multiplier framework, which focuses on control,
+
+not ownership. This method shows you how to secure your first cashflow and property
+
+with minimal upfront capital under $15,000 by leveraging our negotiation scripts and
+
+creative funding strategies. Then the magic happens.
+
+We show you how to systematically multiply that initial capital by rolling the cashflow
+
+from your first property into acquiring your second,
+
+the cashflow from your first to your third,
+
+and so on. You're not just building one income stream,
+
+you're building a self-funding portfolio that grows exponentially without requiring another dollar from your
+
+own pocket. Okay,
+
+this is what happens when I try to record a video in the evening.
+
+It's like, kids running in, my dog's pawing at me.
+
+So, I don't really know where the f*** I was,
+
+that's great, uhm, but,
+
+So, basically, with a mechanism like this,
+
+My objective,
+
+My projection to it would be,
+
+Okay, show you how to get your first cash flow property with zero minimal
+
+upfront cost. Then I'll show you how to roll that cash flow
+
+into acquiring properties. Uhm,
+
+and so on, right? The
+
+trade-off there, Would
+
+be, you're not really teaching a pure Airbnb arbitrage strategy.
+
+How to start with that, and then actually build up a portfolio of properties
+
+to acquire wealth, right? So,
+
+there's that, right? So, I have that objection,
+
+but it's interesting enough, I'm gonna add it to this document as well.
+
+Okay,
+
+number five. Community due diligence system.
+
+Unique mechanism of the problem. For whatever reason, you're stuck.
+
+You've been burned before. You brought courses from gurus,
+
+sold your dream, and then disappeared. This has created an information-action gap.
+
+You consume information, but you paralyze by fear of making another costumary mistake.
+
+Because you're forced to do it alone. The lone wolf approach is the fastest
+
+path to failure. How do we solve it?
+
+Build on the principle of community due diligence. This isn't just a course,
+
+it's a living, breathing support system. Before you sign a lease or furnish a
+
+property, you submit your plan to the community. A group of experienced operators and
+
+coaches who vet your numbers, your location,
+
+your strategy. This collective intelligence acts as your personal manager.
+
+A brand of advisors protecting you from bad deals and rookie mistakes.
+
+You're not just buying information, you're gaining access to a hive mind that provides
+
+real-time support, accountability, and confidence to finally take action.
+
+We succeed only when you succeed.
+
+This one's not, like, terrible. Like,
+
+it does speak to this idea around people wanting a supportive community.
+
+but it's like very much product
+
+It's also,
+
+like, if you don't have this, like, you'd have to change your entire,
+
+This is all for a hypothetical course, but, like, probably if I don't have
+
+this built out, now I have to build all of this out.
+
+So it's not, like, a bad idea, but I'm not really gonna count it
+
+as, like, a great mechanism. Uhm,
+
+you know, one thing I could do, by the way, is,
+
+You know, say, Great.
+
+I like number three the most.
+
+The reason why is because this one speaks the most
+
+to problem-aware people versus
+
+most of the other Thank you.
+
+Ideas you shared would speak more to product-aware,
+
+right? Uhm, folks is a smaller market segment,
+
+so I'd rather focus more
+
+on problem-aware folks or people than
+
+anyone else. Uh,
+
+with that being said, can you please provide
+
+some more unique mechanism ideas
+
+along the lines of number three?
+
+Okay? So,
+
+let's go ahead and do that. Meanwhile,
+
+I will save this. What
+
+do you know. Put,
+
+uhm, okay.
+
+So I'm going to save that in this document as you're going to see.
+
+I'm just going to do, like, optional follow-on.
+
+I'll do
+
+it
+
+Yeah, I'll put it here. I'll make this bigger for my better view,
+
+right? Thank you. So,
+
+the most. Now,
+
+you could also just do a variant of this that
+
+just
+
+says, I like number three the most, give me more like number three,
+
+right? Alright,
+
+so there's your sort of optional thing. While it's doing
+
+that, thinking about reflecting on it,
+
+let's see if any of these are good.
+
+Alright,
+
+the Cash
+
+Not building permanent assets. This is the fundamental trap that keeps 99% of people
+
+from ever receiving true financial freedom. We don't teach you how to earn more
+
+income, we give you a blueprint to build your first Cash Flow Asset.
+
+An asset is something that puts money in your pocket whether you show up
+
+to work or not. Our blueprint shows you how to create a small,
+
+manageable business that generates predictable monthly cash flow from day one.
+
+This is okay, but it's sort of not really that unique.
+
+I'm
+
+skimming through these mechanisms because I think they're trying to,
+
+it's trying too hard to make them too much like number three.
+
+So, I was curious what would happen with that follow-on prompt,
+
+but I don't really like it that much to be honest with you.
+
+So, let's go over to our friends, Mr.
+
+Deep Research, or Mrs. Deep Research,
+
+or Mrs. Miss, or whatever,
+
+okay? So,
+
+doing this for, it's
+
+the same prompt, right,
+
+the same Airbnb arbitrage prompt, uhm,
+
+but we had Deep Research enabled in
+
+this case, right? So,
+
+it's gonna give you a lot more like. Background,
+
+yadda, yadda, yadda. What you'll find is just like before,
+
+we can come down here and get a summary of the mechanisms,
+
+right? Uhm, but let's kinda just read through these ones a little bit so
+
+we can see, okay? Section 1,
+
+the foundational premise, escaping the side hustle sandbox.
+
+The modern aspiring entrepreneur is caught in a debilitating cycle,
+
+driven by a potent combination of financial frustration and a deep desire for autonomy,
+
+they seek an escape from what they perceive as a rigged economic system.
+
+Their journey, however, almost invariably leads them into a strategically compromised environment,
+
+the side hustle sandbox. This report posits that the consistent failure of the target
+
+prospect is not a reflection of their effort, intelligence,
+
+or ambition, but a direct consequence of operating within this flawed ecosystem.
+
+Understanding and articulating the nature of the sandbox is the foundational step in reframing
+
+their problem and presenting rental arbitrage as a genuine vehicle for wealth creation,
+
+rather than just another fleeting opportunity. The problem with hustles and the nature of
+
+the sandbox. An analysis of the prospect's past attempts reveals a clear pattern.
+
+They've experimented with a portfolio of common side hustles,
+
+drop shipping, affiliate marketing, multi-level marketing,
+
+freelancing, and various forms of gig economy work.
+
+While marketed as accessible paths to entrepreneurship,
+
+these ventures share a fatal structural flaw.
+
+They are not true businesses, but rather low-value leveraged activities.
+
+In each case, the individual acts as a disposable,
+
+replaceable cog within a much larger platform or system they do not control.
+
+The drop shipper is beholden to Amazon. Amazon's or Shopify's algorithm and
+
+policies, the affiliate marketer is dependent on the commission structure of other companies.
+
+The gig worker for Uber or DoorDash has no ownership of the platform,
+
+the customer relationship, or the economic terms of their labor.
+
+This environment is a sandbox. The side hustle sandbox is characterized by its alluringly
+
+low barrier to entry, often requiring a little capital,
+
+and promising a quick start. This accessibility is precisely what makes it a trap.
+
+The sandbox is an arena of hyper-saturation,
+
+unstable income, and intense competition, where the individual possesses no defensible competitive advantage
+
+or moat. The result is a predictable cycle of initial excitement,
+
+followed by diminishing returns, financial loss, and disillusionment.
+
+This directly accounts for the prospect's history of having wasted money.
+
+They've been diligently playing a game that is, by its very design,
+
+unwinnable for the vast majority of participants.
+
+Entrepreneurial Trauma and the Allure of the Family Failure Trap The
+
+repeated failures within the sandbox environment inflict more than just financial damage,
+
+they create a distinct form of entrepreneurial trauma.
+
+This trauma manifests as the deep skepticism of gurus and get-rich-schemes that defines
+
+the prospect's worldview. Having been burned before,
+
+they are now hyper-vigilant and cynical, however, a paradoxical and counter-intuitive psychological dynamic emerges
+
+from this trauma. While they are skeptical, their fear of further financial loss makes
+
+them subconsciously risk-averse in a way that perpetrates their failure.
+
+The chain of events is as follows. This prospect,
+
+feeling trapped by stagnant wages and rising costs,
+
+seeks an escape route. They are drawn to the most visible and seemingly accessible
+
+options, the side hustles promoted across social media.
+
+These ventures inevitably fail,
+
+reinforcing their belief that building a business is fraught with
+
+peril and leading to significant financial and emotional costs.
+
+This experience creates a deep-seated fear of risk,
+
+encapsulated by the objection, the real cost will be way higher than advertised and
+
+I'll lose money like I had before. When they summon the courage to look
+
+for their next opportunity, this profound fear of loss subconsciously guides their decision-making.
+
+They shy away from anything that appears too complex, requires significant capital,
+
+or seems too real, as these factors are perceived as indicators of higher risk.
+
+Consequently, they retreat to the perceived safety of another low-cost,
+
+simple-to-start venture. In other words, they re-enter the very sandbox that guarantees their failure.
+
+The core marketing challenge, therefore, is not merely to present a new opportunity,
+
+but to break this psychological feedback loop. The messaging must demonstrate that the real
+
+risk-alertness of buys and remaining a player in the sandbox and that true financial
+
+safety is only found by graduating to a real asset-backed business model.
+
+The core dichotomy, activity vs. assets.
+
+To break this cycle, a new fundamental distinction must be introduced.
+
+I know this is very formal, but I think it's amazing.
+
+Side note, I actually think it's incredible, but I know it's very formal-seeming,
+
+so we'll, you know, don't stress that too much.
+
+Fundamental distinction must be introduced
+
+in the prospect's thinking, the difference between activity and assets.
+
+All of their past failures, driven from, driving for a ride share company,
+
+posting affiliate links, running ads for dropshipping products were based on activity.
+
+They were paid only for the actions they performed,
+
+and the moment the activity stopped, the income ceased.
+
+This is the hamster wheel of the sandbox. Rental Arbitrage,
+
+if framed correctly, represents the first accessible pathway to controlling a cash flowing asset.
+
+Without the traditionally prohibited barriers to entry,
+
+such as massive down payment or a perfect credit score.
+
+This reframes the entire endeavor. It is not another hustle,
+
+it is a strategic move to transition from a hustler,
+
+who perpetually trades time for money, into an investor or operator,
+
+who generates revenue from a single, from a system built around a tangible asset.
+
+This is the exit ramp from the sandbox. The coaching program,
+
+therefore, is not selling information about a better side hustle,
+
+it is providing the keys to a new vehicle designed for an entirely different
+
+designation, destination, systemic wealth creation through asset control.
+
+Okay, section two, economic and systemic mechanisms,
+
+reframing the rigged game. The target market is acutely aware of their precarious financial
+
+position, they feel trapped in a rigged economic system,
+
+where traditional paths to prosperity, such as loyal employment and diligent saving,
+
+no longer seem to deliver on their promises. To resonate with this deeply felt
+
+frustration, the unique mechanisms must diagnose their problem at a macroeconomic
+
+level. This approach validates their feelings about the system being broken while presenting rental
+
+arbitrage not as a simple trick, but as a sophisticated and logical strategic response.
+
+By reframing the struggle in systemic terms,
+
+the program can position itself as an essential tool for navigating the realities of
+
+the new economy. Mechanism 2.1,
+
+the asset gap and privacy in Concordia. The unique mechanism of the problem.
+
+You've been trying to solve an asset gap problem with an income gap solution.
+
+This is f****** great. This is so good. Side note, um,
+
+pardon my language, I just hit my headset and it started playing music,
+
+so that's super duper. Um,
+
+this is so good, because it's like meeting them,
+
+where they're at,
+
+right? People who are problem aware and slightly product aware
+
+and that they've tried side hustles, like a really high percentage of people are
+
+now doing that. In fact, I just saw, and I'll share this with you
+
+today, this goes back to the importance,
+
+of staying curious Americans are silent hustling
+
+like we're in a recession. The two job trend these days is about assessing
+
+that, uh, pursuing a passion. There's a whole article just about how many Americans
+
+have a side hustle, right? So even if they're not aware of like Airbnb
+
+arbitrage, coaching, whatever, they're aware of side hustles.
+
+And most, many of them are participating in those.
+
+So this is a pretty easy,
+
+like reframe, right? It's like, Hey, you've been thinking about the problem the wrong
+
+way. It's like a paradigm shift. It's really good.
+
+Um,
+
+the prospect correctly identifies the symptom, the squeeze of stagnant wages against the rising
+
+cost of living. Their logical yet flawed conclusion is that they simply need to
+
+make more money. This leads them down the path of side hustles,
+
+which are fundamentally income gap solutions.
+
+These hustles may provide a temporary marginal increase in monthly earnings,
+
+but they do nothing to address the core underlying disease.
+
+The rigged game is not merely about the size of one's paycheck,
+
+it's about the structural divide between those who build wealth through appreciating cash-flowing assets
+
+and those who are confined to earning active income.
+
+Their past failures in dropshipping, freelance, and gig work were preordained because these activities
+
+never allowed them to cross the chasm from the world of labor to the
+
+world of assets. They are merely patching a leaking boat instead of building a
+
+new one. The unique mechanism of the solution.
+
+The program teaches the asset control method,
+
+the first system that allows you to leapfrog the income gap and directly address
+
+the asset gap. Rental arbitrage, through this lens,
+
+is presented as a paradigm shift. It's what I said earlier.
+
+It's the first viable strategy for the capital-constrained individual to gain control over
+
+a highly-valued cash-flowing asset, a residential property,
+
+without needing hundreds or thousands of dollars in capital or the pristine credit required
+
+for traditional ownership. By leasing a property long-term and operating it as a short-term
+
+rental, the prospect fundamentally alters their position in the economic hierarchy,
+
+which speaks to their status and dreams and all this stuff.
+
+They stop being a seller on their own time and become an operator of
+
+an asset. This mechanism transforms the program from a how-to guide into a strategic
+
+blueprint for changing one's fundamental economic identity.
+
+It directly delimits the livers on the promise of building wealth through real estate
+
+without the need for mortgages or large payments.
+
+So as you may have guessed from me talking through this,
+
+I love this one. So guess what?
+
+It goes in my document. I'm going to do little dividers here for this
+
+one. Do it here and Okay,
+
+well wait, there's more, as you can imagine.
+
+Alright, the Capital Efficiency Threshold,
+
+UMP. Every business model has a capital efficiency threshold,
+
+a point where the capital and effort invested generate a meaningful level of life-altering
+
+return. Your past attempts failed because they operated below this threshold.
+
+The prospect's history is a story of capital inefficiency.
+
+Low-cost DIY courses, while cheap,
+
+provide information without leverage, yielding near-zero ROI.
+
+Side hustles demand countless hours for profits that are too small to meaningfully change
+
+their financial situation. At the other end of the spectrum,
+
+traditional real estate investment has a capital efficiency threshold that is prohibitively high,
+
+requiring a down-payment and closing costs that are simply out of reach.
+
+The prospect has been trapped in a no-man's-land of capital inefficiency,
+
+a frustrating zone where their time, energy, and limited funds are consumed by ventures
+
+that are structurally incapable of reaching critical mass or generating escape velocity.
+
+Unique mechanism of solution.
+
+Rental arbitrage, executed through the program's profit multiplier system,
+
+is engineered to be the most capital-efficient model for the modern entrepreneur operating in
+
+the sweet spot of the investment spectrum. This mechanism,
+
+positions the program's methodology as a feat of strategic engineering.
+
+It is designed to occupy a unique and powerful niche.
+
+It sits far above the noise and low returns of the side hustle sandbox
+
+but remains comfortably below the impossible capital barrier of traditional property ownership.
+
+The system specifically teaches you how to deploy a relatively modest amount of capital,
+
+under $15,000 for example, to gain control of an asset worth hundreds of thousands
+
+of dollars. This active leverage allows the prospect to immediately I'll see you next
+
+Cross the capital efficiency threshold and begin generating significant monthly cash flow
+
+from day one, a feat that no other model they have tried can realistically
+
+offer. Okay, so I like that
+
+mechanism too.
+
+Let's go ahead and save it.
+
+So now
+
+Alright. So now it talks about FIRE.
+
+fire but as an accelerant for it. This program becomes the turbocharger for their
+
+fire journey. This messaging co-ops the immense credibility and desirability of the FIRE movement
+
+while simultaneously solving a single greatest perceived flaw at its agonizingly slow pace.
+
+UMP becomes your desire for financial independence is correct,
+
+but the traditional FIRE path is a 30-year marathon you don't have the patience
+
+for. DMS becomes our system allows you to generate significant cash flow now,
+
+which you can then use to supercharge your long-term investments.
+
+Instead of saving a few hundred dollars from your paycheck, imagine filling thousands.
+
+Funneling thousands of monthly profit into your index funds.
+
+This for me allows the prospect to achieve FIRE on your terms,
+
+on your timeline, resolving the internal conflict and positioning the program as a pragmatic
+
+bridge between their urgent desires and their long-term goals.
+
+So even though this didn't have a sexy subheader, this was another unique mechanism,
+
+right? This one is cool. I actually do like the idea.
+
+The problem here would be that it's too niche.
+
+So go back to the levels of awareness.
+
+I don't know where I had it last, but basically, if we go back
+
+to the levels of awareness, that's like a hyper-aware,
+
+like very solution-aware kind of segment of the market,
+
+right? So while it's good,
+
+it is unfortunately going to just be too niche for us,
+
+so I'm not going to put that on my document because of the levels
+
+of awareness, right? Because anyone who doesn't want to know what FIRE is,
+
+which some of you watching don't, are not,
+
+doesn't appeal to you. It's too far down in the awareness scale,
+
+right? Okay,
+
+Section 3, Psychological and Behavioral Mechanisms,
+
+Deconstructing the Guru-Induced Decision Deficit.
+
+Uhm.
+
+This
+
+one I'm going to skim through, because the Guru-Induced Decision Deficit,
+
+right, uhm,
+
+is also going to be speaking to someone who's too highly aware of,
+
+like, gurus and the guru model. So it might be good,
+
+if you are speaking to that segment, which people do speak to,
+
+especially early on, like we talked about this,
+
+uhm. A lot of people get to,
+
+like, 1 million, 2 million, 3 million, you know,
+
+a year, by speaking to people way further than that.
+
+Like, by speaking to people in here,
+
+right? The problem is, to get to 10 million,
+
+20 million, 30 million, 50 million, you're going to speak to people up here.
+
+And I know,
+
+by the way, I guess it's like, lots of people watching this are copywriters,
+
+so it's like, keep in mind, when you get hired to write stuff,
+
+and if you want to be consultative,
+
+and help a business to expand and grow,
+
+this is, like, an incredible way you can help to do that,
+
+by doing initiatives that change who you're speaking to and where you're
+
+at on this, right?
+
+Uhm, Or, if you're going to write something new,
+
+keeping this in mind is really important, right?
+
+So, hopefully you can see that. For a business owner,
+
+I would hope that this is pretty obvious,
+
+okay? So, I'm just going to go through that one. Okay,
+
+Mechanism 3.2. The Implementation Chasm of DIY Learning.
+
+The unique mechanism of the problem, you have consistently failed because you keep trying
+
+to cross the implementation chasm alone. The prospect consumes vast quantities of free or
+
+low-cost information. From YouTube, blogs, and cheap DIY courses,
+
+they accumulate fragments of knowledge, how to listen on Airbnb,
+
+what to say to a landlord, etc. However, there exists a vast and treacherous
+
+chasm between knowing what to do in theory and doing it in practice when
+
+real money, legal agreements, and unforeseen problems are on the line.
+
+This chasm is where fear, uncertainty, and complexity reside.
+
+It is the moment a landlord asks a question not covered in the script
+
+or when a guest has an emergency at 3 a.m. Without a support structure
+
+to bridge the gap, the prospect consumes and stands on the edge, overwhelmed and
+
+isolated, and eventually their motivation erodes and they retreat.
+
+Information alone is tragically insufficient.
+
+Uhm.
+
+So this is sort of like guided implementation. This is good.
+
+I'm not going to read all of it because, again,
+
+I think we're too far along in awareness. And by the way, I probably
+
+could have modified this prompt. Like,
+
+another thing I would actually experiment with is doing the same prompt.
+
+The unified thing and also including the public market awareness breakdown saying,
+
+focus on this segment, right?
+
+Utilizing landlord objections, kind of the same issue there,
+
+right? Uhm.
+
+Another liability, like a landlord thing,
+
+so probably too advanced for what we're looking for.
+
+There's even more, okay? This one's gonna be about
+
+franchising a box.
+
+This is where some knowledge on the market can be helpful.
+
+Teaching a franchise management strategy.
+
+Franchise model is not a bad thing. I do wonder if,
+
+Basically what this is saying is, hey,
+
+trying to do it on your own with YouTube, whatever it is,
+
+is not like, uhm, like, uh, you know, doesn't make sense.
+
+You know, you should follow a franchise model. People do this in real estate
+
+a lot. It does work. It could work in Airbnb too,
+
+right? Uhm, you know, with we
+
+basically are like a franchisable system, right? We're efficient,
+
+all that. I'm gonna copy and paste it into my doc,
+
+even though I wouldn't personally select this one, uhm,
+
+because it doesn't really speak to, uh,
+
+it could be used for a broad,
+
+you know, segment of the market, right? Uhm,
+
+basically people who are like problem aware.
+
+Could be used.
+
+The automation stack that buys you time.
+
+Okay, your ultimate vision is passive income,
+
+but your past experiences with side hustles have only created more active burdens.
+
+Your right to fear that rental arbitrage could become a high maintenance 24-7 job
+
+because without the proper infrastructure. Here it is. The core fear is a bait
+
+and switch. The promise of freedom leading to the reality of endless work.
+
+A short-term rental business managed manually is incredibly demanding.
+
+It involves constant guest inquiries, booking management,
+
+price adjustments, cleaning coordination, and handling of unexpected issues at all hours.
+
+The prospect's fear is not irrational. It is a logical conclusion based on an
+
+incomplete understanding of how a modern house value business can be run.
+
+UMS, we do not teach you the arbitrage model. We teach you how to
+
+build it. It truly hands off business using a proprietary automation stack.
+
+Essentially, we're going to automate all this stuff for you,
+
+so it's going to be easy, okay? They have a summary,
+
+talking about implementation stuff. I do appreciate that
+
+it says, you know, for problem-aware prospects, for solution-aware prospects,
+
+which ones it likes. Uhm,
+
+I just recommend this as one of the ones which I
+
+agree with. It does put this all into a little,
+
+uhm, a summary,
+
+and I guess it does have, you know, your little side hustle sandbox here,
+
+uhm,
+
+which I did like, and it didn't frame that in,
+
+like, a mechanism term exactly, but,
+
+probably,
+
+it has,
+
+like, the sandbox, I don't know if we need to give it that context.
+
+I like the concept. I'm not sure what to do with it.
+
+Like, it doesn't, the unique mechanism solution is a little weak,
+
+right? Because you're like, yeah, this is true.
+
+This is like a good hook or like a big idea potentially,
+
+which we'll talk about another module, but it's not really like,
+
+it's like, it's not really as,
+
+uh, tangible of like, this is why,
+
+like, it makes sense. This is why you failed, you know,
+
+like that part made sense. So this is why it'll be different.
+
+This is sort of just like, oh, we're gonna help you through it, right?
+
+So you can combine in theory, this with the stuff around the income asset
+
+gap or whatever it is right now,
+
+fairly quickly. I would do two things.
+
+I'm going to run this prompt again.
+
+And have it tell it to focus specifically on people who are problem aware.
+
+So I'll do that. So I'll do that now, basically.
+
+Let's
+
+do a new chat, okay? Blah,
+
+blah, blah. Okay, I finished it. I
+
+don't think I'll go over all the outputs in this video,
+
+because I think you get the idea. But,
+
+where would I change it? I'm
+
+gonna say, for this exercise,
+
+let's specifically focus on people in the
+
+market who are problem aware.
+
+Let's go ahead and get started. Deep research.
+
+One moment. Okay, upload that.
+
+We'll let it go. I do want to show you real quickly,
+
+I did a chat GPT, deep research,
+
+asked me some questions, like it always does,
+
+but, Basically,
+
+all the chat GPT ones were sort of too basic.
+
+There's sort of, Just cute nicknames for really basic stuff,
+
+like, The Asset Ownership Trap,
+
+you know, you've been told you don't own properties, but you can arbitrage it.
+
+It's like, okay, you know what I mean? Like, uhm, The
+
+Landlord Permission Thingy-propaganda, right? The Guru Trap.
+
+Uhm, you know, you chase easy money,
+
+but gurus suck, like, it just was not,
+
+Nothing here.
+
+There's cool names, like it's, you know, you can always go through it.
+
+But, it wasn't strong enough. And I tried Claude's Deep Research,
+
+which I had never used before to be honest with you, I was just
+
+curious. Uhm,
+
+It was sort of the same idea of, like, Like,
+
+this idea right here about controlling versus owning is kind of interesting.
+
+Uhm...
+
+But most of what it had was sort of like the Anti-Guru Arbitrage Authority,
+
+it's like, okay, it's just a bunch of cute nicknames that aren't actually that
+
+substantial, right? And so that's why,
+
+uh, I'm not going to spend a ton of time on them.
+
+I think Gemini is going to be the best outputs for this section as
+
+well, okay? So,
+
+I do, you know, want to see what I get from Gemini.
+
+Oh my gosh, what do I need to do? Do I need to, like,
+
+say, start research? That's what I'm most into.
+
+But in the meantime, I mean,
+
+I hate, This is part of me that I hate to,
+
+This might take a few more minutes and I don't know that I want
+
+to wait for it to come out. Eh, I won't.
+
+Give me a minute. You know,
+
+actually, I think, like, again, as much as I would be cool to see
+
+more mechanisms, I'll share these with you and maybe we can go over them
+
+in a subsequent video. But I want to show you another
+
+prompt we can do, okay? So now we've got these ideas.
+
+I'm going to show you prompt number four.
+
+You know what I'm doing? I'll do some new video and that way I'll
+
+have the additional mechanisms for Airbnb. And then we'll also have a video for
+
+skincare. We'll do one for maybe another supplement.
+
+We'll do some stuff for golf, whatever it is. But let me show you
+
+the general idea for this one, right? After we have our mechanism ideas,
+
+we're going to be like, hey, I'm working on some direct response sales copy
+
+that will sell a product to niche. I'm going to share a few documents
+
+with you. The first is a really unified research document.
+
+The second has a bunch of unique mechanisms. Reminder of what a unique mechanism
+
+is. Here's what I want you to do,
+
+evaluate each mechanism based on their potential for connecting to our target market and
+
+persuade them to buy the product we are selling,
+
+rank the most likely to succeed, the least likely to succeed.
+
+Um, you know, utilize these things.
+
+So let me actually, instead of trying to kind of rush through this one,
+
+I'm feeling a little fatigued. Let's pause here and then I'll start up in
+
+the next video with this prompt.
+
+Um, continuing on with Airbnb arbitrage.
+
+And I'll explain the value of this as well.
+
+Uh, I mean,
+
+yeah, I'll just save what I'm going to save for the next video I
+
+do on this. Um, I'm trying to think here
+
+if I want to add anything to it. No, I think that's good.
+
+And then, yeah, I can still do other examples and there's a lot We'll
+
+see you next time. Um,
+
+hopefully you see like, you know, how cool this kind of is though.
+
+Um, how you can get a lot of mechanism ideas and most importantly,
+
+how they're, you know, matched like to that
+
+product market awareness level and keeping that in mind.
+
+I think I might even revise this prompt a little bit to further.
+
+Hone in on the specific market
+
+segment I want to do. I might even mess with the process a bit
+
+more in the meantime and I'll update for another video if I do that
+
+too. Alright, we'll stop here for this one. Thank you.

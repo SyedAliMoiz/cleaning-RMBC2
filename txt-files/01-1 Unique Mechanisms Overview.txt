@@ -1,0 +1,849 @@
+All right, hello.
+
+So in this video we're going to be going over unique mechanisms.
+
+I'm going to say right from the start that if you've
+
+seen a lot of trainings from me, content from me on unique mechanisms before,
+
+you can probably skip this specific video.
+
+It never hurts to have a refresher reminder.
+
+Uh, but this specific video will really be pretty broad level
+
+reminders, not broad level, but, um,
+
+just basically reminders of what UMPs are,
+
+UMSs are, and some examples.
+
+I would not skip the subsequent videos where I will be sharing some really
+
+specific processes that we can leverage and utilize,
+
+um, with AI to come up with a lot of different unique mechanism ideas
+
+and different niches, um, in this video,
+
+I'll be doing mostly health and one golf thing,
+
+but I'll do, you know,
+
+BizOp, like we've been doing other, uh,
+
+niches as well and examples, um,
+
+and you'll see how that unified research brief and the product market awareness,
+
+all those things fit into your mechanism selection,
+
+uh, in these additional videos,
+
+or it might be one video. But it'll probably be more than one that
+
+I do. So that's sort of the preface,
+
+uh, for you. With that being said,
+
+welcome here. Um,
+
+I hope a lot of you are familiar with unique mechanisms,
+
+but again, you might be watching this and you're not, maybe you're brand new,
+
+who knows how many, you know, the universe of people who watch RnBC2.
+
+And so I'm excited to share it with you.
+
+Unique mechanisms are something that I really, I'm the world's one who kind of
+
+popularized, uh, back in 2018,
+
+19, uh,
+
+and again, they're, they're pretty well known now, but I'm going to do this
+
+video presuming you don't really know what they are.
+
+Okay. Whoever's watching this. So what are they in a nutshell? And this really
+
+hasn't changed since RnBC1. Um,
+
+the unique mechanism explains why our prospect is struggling or suffering too.
+
+To achieve a goal, how they can over and end,
+
+how they can overcome that problem. At its core,
+
+the unique mechanism is a two-part logical connection.
+
+So when I say it's a two-part logical connection, I'll actually kind of come
+
+down here and explain that right now. There's a unique mechanism behind the problem
+
+that our prospect faces. You can think of this as your UMP and
+
+there's a unique mechanism behind the solution to that problem,
+
+the UMS, okay? So why is that important?
+
+Because by the time our prospect comes to us,
+
+they've usually tried numerous solutions for their problem already.
+
+In the past, these other solutions may have not worked at all,
+
+maybe they worked partially, maybe they worked fully for a period of time before
+
+they stopped working. And our job as a copywriter.
+
+Is to educate our prospect about the real reason why past solutions didn't bring
+
+them permanent results. And we do this by explaining that their knowledge about the
+
+problem is incomplete. They've been missing one crucial piece of information,
+
+there's this knowledge gap that's been holding them back.
+
+So, as I put down here, and I'm jumping a little bit on this
+
+document. By showing them the unique mechanism behind the problem,
+
+you get the prospect to understand why they failed in the past.
+
+And by showing them the unique mechanism behind the solution,
+
+you get the prospect to believe that our product will bring them success,
+
+where other alternatives have failed. This already does
+
+tie into the product market awareness stuff we talked about,
+
+right? Solution aware, problem aware, and so on.
+
+Uhm, and you might be wondering about that, because you're like,
+
+okay, well we're saying other things they've tried in the past that have failed.
+
+So, even if,
+
+Even as we do unique mechanisms, we're going to be keeping in mind where
+
+our prospect is on their journey,
+
+right? What level of awareness? And
+
+this is very important, and we'll really go into this in detail in the
+
+next prompt, uh, the next video. Uhm,
+
+but it's really important because if somebody,
+
+if you really are speaking to a highly sort of
+
+product-aware market
+
+segment that knows about a bunch of peptide eye serums and has used a
+
+bunch of them, right, or say it was NAD+,
+
+you might remember that example, and say you're speaking to that small segment of
+
+people who really are familiar with NAD+,
+
+specifically, and they've tried it and haven't gotten results,
+
+the unique mechanism is going to be really different from somebody who is.
+
+Feeling tired a lot,
+
+has low energy, feels like they look old and tired,
+
+and they want to just sort of have more energy and
+
+support longevity, right, they don't want to feel like they're getting old.
+
+And so, when I talk about this product-market awareness stuff
+
+flavoring really everything we're doing,
+
+you can see why, as I give you that example, right? So,
+
+we'll go, like I said, into those levels more in the
+
+future, but let me just show you some real quick in-the-wild examples.
+
+The first one's going to come from MiamiMD.
+
+They do skincare. They've been around for a long time.
+
+They were originally started, Peter Kell was one of the founders.
+
+They were in CA Pro when they were getting off the ground, so I
+
+worked with them, really, from the get-go.
+
+Then they went through some various changes,
+
+but they've still continued to do well. Peter's actually still in CA Pro,
+
+which is awesome, but that's sort of me just,
+
+kind of, not that sneakily plugging CA Pro,
+
+because it's a great place. So this is like an advertorial,
+
+okay, while I was obviously have whole trainings and advertorials,
+
+it's pretty short, but I want you to see how even in this advertorial,
+
+you're going to have a UMP, okay.
+
+So the headline, or idea, for this advertorial,
+
+Harvard Dermatologist reveals the hidden cause of crepey skin is not collagen
+
+loss, okay. Crepey skin is often considered just an inevitable part
+
+of aging, difficult to disguise and impossible to get rid of.
+
+But now, world-renowned dermatologist,
+
+Dr. J, says that's simply not true.
+
+She explains, crepey skin is one of the most common signs of aging,
+
+but it's not something women have to put up with. According to top experts,
+
+the reason why crepey skin won't go away is not because it's an impossible
+
+feat. It's because most methods and skin care products don't treat the real root
+
+cause. Everyone likes to tell us the loss of collagen is causing thin,
+
+crepey skin, says Dr. J,
+
+but it's actually your failing fibroblasts that cause the skin structure to collapse and
+
+become crepey. In simple terms,
+
+fibroblasts are like your skin's interior designers.
+
+They live in the hidden second layer of your skin,
+
+the dermis, and their main job is to design and construct your skin to
+
+look at its best. But as we age,
+
+they start to get lazy. Now, the once tight,
+
+firm complexion they held together begins to fall apart.
+
+The result? Thin, loose,
+
+crepey skin that we attempt to reverse, but with all the wrong methods.
+
+But there's good news. Once you recharge your fibroblasts,
+
+they can work their very best again, allowing your skin to become smoother,
+
+tighter, and firmer. When it's better, it's easier than you thought.
+
+I want to help women who can't afford the fancy, expensive procedures feel just
+
+as beautiful after those who can, she says. Beautiful skin shouldn't have a price
+
+tag. That's why she's released a free online tutorial on how to smooth crepey,
+
+fragile, tissue paper skin at home with ease.
+
+And her tutorial is already blown up. Click here, and that's going to take
+
+you to a video sales letter. Okay?
+
+So, do I know if this is an incredible mechanism
+
+that is crushing? No.
+
+Do I actually like this mechanism? A lot. Not really,
+
+but it doesn't matter. I know. Why don't you like it?
+
+We can talk about that later. Okay. Right now,
+
+but I primarily want to focus on is just showing and identifying the unique
+
+mechanism. Right? So if we go back to what we said here,
+
+you know, it's a real reason they're struggling or suffering to achieve a goal
+
+and how they can overcome that problem. Right? Um,
+
+so why, you know, we mentioned past solutions.
+
+But it's really just like their knowledge about the problem isn't complete.
+
+They're missing this one crucial piece of information and the knowledge gap is what's
+
+has been holding them back. So we come back to this video example.
+
+It's like, what's the one little missing thing that,
+
+you know, the piece of information they've been missing? Um,
+
+well it's that they thought collagen was,
+
+lost is what causes thin crepey skin,
+
+right? So simple as that,
+
+you thought it was collagen, but it's actually your failing fibroblasts
+
+that cause your skin's, uh, structure to collapse and become crepey.
+
+Okay. And then we explain what fibroblasts are.
+
+Their job is to design and construct your skin to look its best.
+
+But as we age to get lazy, um,
+
+and, the complexion, the complexion they held together begins to fall apart.
+
+This results in loose crepey skin. Okay.
+
+So it's very simple,
+
+which makes sense for an advertorial as well, by the way,
+
+because the job as we'll talk about in the advertorial training in much more
+
+detail, but the job of an advertorial is typically,
+
+well, it depends, but most of the time, if it's going to a VSL,
+
+it's really to just sort of sell the click,
+
+to get somebody to click through to the VSL and to sell the qualified
+
+click, I could, I should say, right?
+
+So we don't want a dude not interested in crepey skin to really go
+
+here and click through. I mean, he can, but that's not the point.
+
+The point is somebody who would be qualified, um,
+
+be a prospective buyer, right, within our kind of target market,
+
+right? Who would click through, um,
+
+and so they don't need to kind of give
+
+you every single detail about the unique mechanism and sabbatorial
+
+because you're going to go see a lot more detail in the VSL.
+
+Um, right now they want to just sort of talk to you about the
+
+part that you've been missing, this missing 1%,
+
+right? All right, the missing 1% is zero. Because again,
+
+you thought it was collagen, it's actually fibroblasts,
+
+fibroblasts, uh, get lazy and that's why you get crepes,
+
+or crepey skin, crepes, or crepey skin, right?
+
+And then what about the solution? Well, we've said like,
+
+you know, again,
+
+how can they overcome that problem? There's a logical connection,
+
+right? Well,
+
+our product brings them success when other alternatives have failed,
+
+right? But there's good news. Right,
+
+once you recharge your fibroblasts, they can work their very best again,
+
+allowing skin to become smoother, tighter, and firmer.
+
+So, that is the logical connection,
+
+right? The problem is your fibroblasts are lazy and not charged
+
+up and that's making your skin structure loosen
+
+and become saggy, leading to crepes.
+
+The solution is, recharge,
+
+re-energize those fibroblasts, let them work well again so that your skin becomes smoother,
+
+tighter, and firmer. Okay? So,
+
+it's not rocket science and it doesn't have to be,
+
+um, especially depending on the context,
+
+it's really just problem,
+
+solution, right?
+
+I'll show you our eye serum and the current,
+
+um,
+
+mechanism we have here. I'm gonna make this bigger.
+
+Okay, and I'm gonna tell you the same thing. This is, it is actually
+
+working pretty well. But I do want to test other mechanisms
+
+for this. So this is like a product page, right?
+
+We'll do trainings on product pages as well. but This is not
+
+a advertorial. It's not a VSL.
+
+An advertorial, like,
+
+it's one like this, might lead, instead of a, to a video sales letter,
+
+to a product page like this, right? This is if you go to Shopify,
+
+you click on our product page, you come here.
+
+Okay, so skin unifying serum fades the appearance of crow's
+
+feet, dark circles, and eye bags all at once.
+
+This breakthrough formula is designed to penetrate the deep into the dermal-epidermal junction where
+
+eye aging begins. The special blend of six powerful ingredients supports this crucial connection
+
+between skin layers, giving you an all-in-one eye serum that transforms your eye area.
+
+So you can see, if you're astute,
+
+you might see how this right here is like a really like a micro
+
+summary of what the UMP and UMS is gonna be,
+
+right? There's this. It's a thing called the dermal-epidermal junction,
+
+the DEJ. That's where eye aging begins.
+
+If you can support those crucial connections between the skin layers,
+
+you'll have better skin, right? So logical connection,
+
+problem-solution. We do have more copy for it down here,
+
+right? The hidden reason why your eyes may be aging faster than you want
+
+and why most eye serums fail. If you're frustrated by,
+
+Like stubborn iron cools, persistent dark circles, and sagging that makes you look tired
+
+all the time, it's not your fault. Now,
+
+if this looks like weird formatting, keep in mind that pretty much all of
+
+our traffic is mobile. So on mobile,
+
+it doesn't-like on mobile. It looks like
+
+this, and it's all unison, right? Umm.
+
+Okay.
+
+All of these issues begin when the layers of your skin begin to separate.
+
+The separation forms in the dermal-epidermal junction,
+
+the area where your layers of skin meet, and most eye-storms and creams do
+
+not address this issue at all. So you can catch here.
+
+In healthy skin, the top and bottom layers are deeply interconnected and unified together,
+
+like two pieces of fabric joined by microscopic hooks,
+
+okay? When your skin is young and wrinkle-free,
+
+S These hooks form a wavy-like interconnection between the two layers.
+
+These crucial connections help maintain youthful skin in several ways.
+
+They allow nutrients to flow freely to your skin surface.
+
+They help remove toxins and waste. They keep skin-firm,
+
+supple, and evenly toned. They maintain skin's youthful balance and elasticity.
+
+Okay? But as we age, something devastating happens.
+
+These v- Adult connections begin to break down, and those,
+
+hooks disappear. Eventually, your skin layers become completely separated,
+
+especially around your delicate eye area. The result?
+
+Nutrients can't reach your skin's surface. Dark circles appear as blood vessels become more
+
+visible. Skin begins to collapse inward,
+
+forming wrinkles and crow's feet. Fluid accumulates,
+
+creating puffy under eye bags. Skin loses its firm,
+
+youthful appearance. So, young skin,
+
+you see how- others is, like, sort of, wavy,
+
+vulgar thing. Old skin,
+
+sort of compresses and collapsed. Uhm,
+
+introducing ude-iser. Instead of just moisturizing the surface,
+
+our breakthrough formula penetrates deep into the dermal epidermal junction,
+
+spoiling the crucial connection between your skin layers. And we have ingredients in how
+
+it does that. Right? So,
+
+again, not rocket science. Frankly,
+
+as I read it a lot, I have ideas or things we could do
+
+differently. But really, it's like,
+
+you've got this, layer within your skin called the dermal
+
+epidermal junction, the DEJ. It's sort of like this wavy,
+
+it's like, it's like, it's hooked or intertwined.
+
+It keeps it connected. As you get older,
+
+it unhooks essentially. There's a separate, operation that occurs.
+
+Skin collapses in on itself. You see eye bags,
+
+wrinkles, all that kind of stuff. That's really what we're trying to say with
+
+this, right? But it's the solution.
+
+Well, if you can sort of re,
+
+you know, redo the hooks, reconnect it,
+
+reconnect your skin layers, then there's not this,
+
+chasm that creates wrinkles, fine lines,
+
+dark circles, and so on. And again, actually, we could say it more clearly
+
+on this page. So it might be a test I do in the near
+
+future. Okay. Let's do one
+
+to two more. I have this one from Emma up.
+
+This page is a really nice page. You can e-com page.
+
+Umm,
+
+from Emma relief. What happens to look kind of mobile?
+
+Does the video first? Yeah. Cool. So
+
+they're, they're not like crazy hard on the umm,
+
+they have a mechanism. It's just sort of shared through a few different places.
+
+Right here's where you're going P right.
+
+The surprising root cause of blowing constipation.
+
+Bad bacteria, bacteria takes hold. For example,
+
+stress. Let me make this page bigger too. And,
+
+uh, anti-acid, antibiotics and artificial sweeteners weaken defenses align pathogenic- I'll check back.
+
+Bacteria parasites are archaea, single cell organisms to take hold.
+
+Two. Bacteria produces methane. Gas,
+
+okay, and other bacteria begin to release methane gas, which causes bloating constipation.
+
+Three, eight digestion to slope. Methane gas damages the sensitive nerves of the gut,
+
+slowing the movement of food through the intestines.
+
+The slows are even halts you're pooping and elimination.
+
+Umm,
+
+and really the solution here, how am I- am I am I- am I
+
+Help me. Oxy production of methane gas at the source. It works in three
+
+different ways to normalize bathroom habits, usually within a few weeks,
+
+or taking it to eliminate constipation and bring back those perfect poop staly.
+
+Increases motility, aka pooping speed,
+
+clears up the bacteria that causes methane gas and calms the nerves,
+
+uh, and calms the nerves and relax tight muscles,
+
+that allows this easy passage,
+
+right? Umm,
+
+but can I go on to- I'm sorry, a- that the methane stuff,
+
+like, you know, causes even more issues,
+
+right? They have a little more science here,
+
+but really, like, their core mechanism is,
+
+like, bad bacteria is in your gut,
+
+which people know, right? The sort of surprise you're missing 1% that
+
+part that is- not as well
+
+known. Is that it creates methane gas.
+
+Methane gas, in turn, causes bloating constipation,
+
+and it slows your digestion, right?
+
+And leaves poop stuck in your gut, and you've constipated and feeling gross,
+
+right? So what's the solution?
+
+We stop the production of methane gas at the source,
+
+okay? There's some more stuff to it, but really, if we just at
+
+the page, it's like, that's what we're doing, right?
+
+So it's actually- it's pretty simple. Let's look at one more.
+
+This ones be from Performance Golf, okay? This is from one of their caveman
+
+pages, as they call it. So if I could glorify an FAQ page.
+
+It's for a driver, right? We've done examples of like a driver.
+
+Okay? Umm,
+
+do your slice- slice fixing driver technology,
+
+okay? So they have like, what is it?
+
+It fixes your slice. Okay,
+
+great. What does it do?
+
+It fixes your slice at impact.
+
+Why is that important? Okay?
+
+An open face relative to the path is a- one and only reason you
+
+hear this slice. The real root cause,
+
+you notice how this is so often the same language you used to get
+
+again? I'm gonna tell you honestly, in health and wellness,
+
+and, like, considering whole stuff,
+
+you're really not compliant to why it's supposed to cause something in the root
+
+cause. For a goth, it doesn't matter as much. Uh,
+
+the reason why is because, I mean, frankly, there could be multiple root causes,
+
+right? Saying one thing is the root cause is like a diagnostic thing.
+
+Um. Approach everyone does it in health to be honest with you,
+
+but you're not supposed to. But with goth, it doesn't really matter at all.
+
+The real root cause of your slice is an open club face.
+
+Relative to the path of your swing and impact. Most players know that.
+
+The bottom line is all slice fix training,
+
+draw bias clubs, and virtually every train ate all attempt to do the same
+
+thing. Square root club face relative to the path and impact.
+
+Umm, this new driver squares the face for you without needing any training.
+
+Alright, so you don't do this. You don't leave the face wide open,
+
+have uhh, to aim way left,
+
+have to play an offset driver, anything else. Umm,
+
+when you set up to the ball with an offset driver and it's closed
+
+faces aiming left, you naturally tend to see it's to readjust the face and
+
+align with the target. The problem is, that means you're actually opening the face.
+
+When you open the face. The face, even before you start your swing,
+
+your chances of getting it back to square an impact are damn near zero.
+
+Right, here's this club. That, so essentially,
+
+I mean, if people aren't golfers, maybe like, what? What did you just say?
+
+Really, all we just said is essentially,
+
+okay, hey. And this goes back to market awareness again.
+
+The most golfers in the market know some stuff,
+
+right? They kind of know that an open club face
+
+relative to the path of your swing impact is what causes your slice,
+
+okay? Umm,
+
+so it's like, this is like, what's causing your slice?
+
+In their case, like, it's not new.
+
+Like, most players know that. The difference is,
+
+like, the- What's implied here is that other solutions,
+
+because they're talking to a more solution to where audience,
+
+I should say, right? Is,
+
+they attempt to square your club face relative to the path of impact.
+
+So, but this driver does it for you without needing any training.
+
+So, essentially, this is actually kind of interesting because they're not saying that
+
+other things are wrong, but they're saying that there's a training and that if
+
+you do training, you're, essentially, you're thinking about too much stuff.
+
+Um,
+
+you're trying to, you know, normally you're trying to do all these other things
+
+and it ends up, you know, meaning you still slice.
+
+But this does it for you.
+
+So, your problem is
+
+that trainees, you know what to do. The problem is that most trainees,
+
+When you, the problem is you. Basically, the problem is when you try to
+
+do what you know how to do, you end up doing mistakes. There's physiological
+
+things that you're doing. Um,
+
+you know, the other tricks and things people teach you don't work.
+
+So, the problem is the kind of, like, you try to do some stuff.
+
+The solution is don't try to do anything. The club just does it automatically.
+
+So, it's pretty simple. Right?
+
+But, um,
+
+that's kind of, like, the summary here. Okay? Doing
+
+the product features. Right,
+
+then there's more features and benefits of it,
+
+you should say. But how it does it?
+
+It gives you more, umm.
+
+Yeah,
+
+kind of answering FAQs and, like, more answers about,
+
+like, how it, like, is gonna do these things.
+
+Like, the technical components enable it to fill on its promise of,
+
+like, doing it for you, right? That's, like, there's more on this page.
+
+But it's pretty straightforward. So, I hope this makes sense.
+
+Again, I actually, even the original RBC,
+
+this, this section wasn't very- wrong.
+
+Um, obviously, I'm using new examples and things for the most part.
+
+But, um,
+
+it's really just, like, what's the- what's, like, the real reason they haven't found
+
+a solution yet? Like, what's the real cause of their problem,
+
+I should say? What's really causing the problem?
+
+That's different. Um,
+
+if that's the real cause, what's the solution? Well, the solution is to address
+
+the real cause, right? It's really as simple as that. So,
+
+that's it for this video. you But in the next one, I'm gonna go
+
+through some really cool prompts and LLM processes that make a huge difference.
+
+Uh, and enable you to get a ton of UMP ideas and we'll go
+
+through those, join the ideas, evaluating them,
+
+all kinds of other stuff. And this is really valuable because,
+
+you know, any VSL, TSL, text shows that are PDP,
+
+um, you know, it's just like a product page that you're doing.
+
+It's gonna have unique mechanisms. Advertorials,
+
+you know, often will. Ads often will.
+
+Um, you know, they're pretty universally applicable to anything you're doing
+
+for getting someone from point A to point B,
+
+from a prospect to a buyer. And so,
+
+uh, you know, we'll spend some more time in here, but should be great
+
+stuff. Alright, thanks. See you in the next video.

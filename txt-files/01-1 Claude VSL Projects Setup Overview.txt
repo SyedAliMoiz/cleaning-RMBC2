@@ -1,0 +1,449 @@
+Alright, so in this module,
+
+we're going to be talking about setting up clod projects for different VSLs.
+
+And, well, in this module, this video.
+
+Um, this actually will be a very fast video,
+
+because it is pretty simple.
+
+Um, if you're at this point here,
+
+hopefully you watched the brief section. It's really important that you did,
+
+if you're doing VSLs especially. So,
+
+let's really all we're doing in here is we're
+
+setting up projects for long form,
+
+medium form, 3-7 minute length ones,
+
+and then short ones. Now, for 3-7 minute and
+
+short, like, those are almost always going to be,
+
+honestly, the same thing as, like, video ads. The
+
+difference between short and 3-7 minutes is really,
+
+like, short are almost all,
+
+like, 1-2 minutes long, and by almost all,
+
+what do I mean? I mean, basically put in a bunch of short ad
+
+transcripts that we're going to give to cloud projects,
+
+you could always add more if you wanted to, whatever,
+
+right? Uhm,
+
+whereas, The
+
+three to seven minute ones are, I have 8 of them in here,
+
+sorry, that's the teaser, uhm,
+
+and they actually range in time from,
+
+you know, a little over 3 minutes up to about 7 minutes,
+
+hence 3-7 minutes, the newer one,
+
+newer one in here is 7 minutes long. Uhm,
+
+one interesting thing I did, and I only did it on this one,
+
+is I put the length of each ad,
+
+here, I know this is small, but it's like 3 to 30,
+
+3 minutes and 30 seconds, uh,
+
+like where I say like the newer one is 6 minutes and 54
+
+seconds, the reason I did that is because I'm wondering,
+
+you know, if Claude,
+
+telling it how long these transcripts are gives it frame of reference when I
+
+tell Claude to write new VSL.
+
+And when I talk about it, like I wonder,
+
+it's because I, to be honest with you,
+
+I had, I used Claude projects,
+
+I used all these processes I'm teaching, but as I made RBC2, I've also
+
+been improving my processes a lot,
+
+and frankly, making them way better, which is super cool.
+
+So like even the brief thing, to be honest with you, I did it
+
+differently up until RBC2, and then I'm like,
+
+oh shit, like this is the way to do it. Like I've been doing
+
+it all the way,
+
+but it's not as good as this brief, and it's super cool.
+
+So I'm like, I'm grateful that I've made this course because it's like,
+
+help me make my processes even better.
+
+And then you're getting them cutting edge, hot off the press,
+
+all of that. Uh,
+
+same thing with like this. I had projects for some different length VSLs and,
+
+you know, ads and things, but this is,
+
+uh, I didn't have one specifically.
+
+Specifically for three to seven minutes. Now I do, and I gave it the
+
+time. So really it's like the same setup for all of these things,
+
+um, in each of the folders,
+
+sorry, just to make one more important point. I could have actually stuck with
+
+that one. You'll get the instructions for the cloud project,
+
+like this much bigger.
+
+So this one's actually a little bit longer. Yeah,
+
+but your job is to generate many video sales letters that are typically three
+
+to seven minutes long. This document, or the documents in your knowledge base includes
+
+transcripts from several of these VSLs, which we can model off of while writing
+
+new VSLs. What you'll want to do is analyze the structure of the various
+
+VSL examples and then synthesize that knowledge and use that same knowledge along with
+
+your judgment to produce the new VSLs. Please note that most of the time
+
+VSLs of this length are run as in-feed,
+
+out ads, a meta. Also,
+
+they often do not reveal the product they're selling and instead tease a new
+
+solution or breakthrough, with the call to action being to go watch a video
+
+or read a report to get information. That being said,
+
+at other times they may mention the product and mention how people can get
+
+a discount. I'll typically specify the goal when asking you to write VSL scripts.
+
+In general, when you go to write, I'll give you various inputs or even
+
+an outline and a game plan, and you'll be able to model off of
+
+the examples based on the information about whatever the current short VSL project is.
+
+One important note, please don't try to rush or condense anything.
+
+Instead, whenever you run out of space, just prompt me and I'll tell you
+
+to continue. This one is not that relevant for anything below,
+
+like, a 20-minute long script because Claw just has really long outputs now in
+
+general, but I still like having it in here. It's no big deal.
+
+Okay, so that's an example. And you've got your next transcripts,
+
+in this case, of, like, eight ads. You can always experiment.
+
+I always know when I do this, there's going to be people who go,
+
+well, what if I put 20 in there? What if I put 15?
+
+What if I put 30? What if I, it's like, yeah, like,
+
+I think I've said this a bunch of times at this point in RBC2.
+
+Feel free to experiment. You're an experimenter and a scientist,
+
+and you should have that mentality. Uh,
+
+also, though, most of the experiments you want to do are probably going to
+
+give you incremental gains.
+
+There probably aren't going to be really big gains, if any,
+
+or it's going to just be different, but not better.
+
+So, that doesn't mean you can't find one that is,
+
+like, totally better than what I'm sharing. Uh,
+
+but, keep that in mind. There's some,
+
+there's certain people who, I know you're going to try to get,
+
+like, hyper-focused and fixated
+
+on, know, tweaking these processes,
+
+as a distraction from actually doing the work that's going to actually move the
+
+needle for you. So, I'm not calling out everybody,
+
+I'm sure plenty of you aren't that way, but there are people that way,
+
+I mean, just know from experience, and what I would say is,
+
+I would urge you to, you know,
+
+if there's not a really good reason to do it, use the processes,
+
+rather than try to, like, tweak them, you know,
+
+because,
+
+you know, just to tweak them. Uh, you know, unless you're just bored and
+
+have time and then go nuts. So,
+
+the same thing I just put here, it's literally,
+
+like, what the project's about when you create a project,
+
+and then it's again here, in the,
+
+like, description, and then it's again here.
+
+And I've shown it a bunch of times, but one more time in case
+
+somebody skips this module, you would just go create new project.
+
+You'd name it, right, so,
+
+name it, like, Quad 3, the 7-minute VSL generator,
+
+boop. What are you trying to achieve? Copy this,
+
+paste it in, boop. Now you have this.
+
+Here's the knowledge base. You would,
+
+you could hit plus to add content, or you can just drag and drop
+
+PDFs into here. And that's it,
+
+right? And what I have in here is,
+
+Like I said, quad projects for different lengths.
+
+So, long form,
+
+got an Agora financial one, if you watched that brief,
+
+uh, example for the financial one,
+
+like, you saw how crazy that got. It was pretty,
+
+pretty amazing. Um,
+
+a Beverly Hills MD pinch test, one that I taught during the VSL training
+
+that you should've, should've, should've, already watched, like, the VSL trainings on,
+
+sort of, theory, structure, going through them.
+
+Uh, Backyard Liberty, this is,
+
+I was like, yeah, what the hell, you know, this is, like, a classic,
+
+uh, survival letter from way back in the day,
+
+I thought, yeah, it'd be fun to put that one in. Uh,
+
+this one from Emma Relief is really good and, and pretty,
+
+like, white hat. Uh, Genius Wave is,
+
+like, you know, a manifestation offer that was really successful on QuickBank,
+
+I figured, hey, it'd be cool to put a manifestation offer in the mix.
+
+Mydalene's a really aggressive weight loss offer on
+
+QuickBank, I thought that'd be cool. So,
+
+I honestly didn't know a ton about these guys, but their copy's pretty good,
+
+and it was a swipe builder, and I said, hey, what the hell, let's
+
+put this one in. It's pretty, it seemed pretty white hat when I read
+
+through it, to be honest with you. Um, and then, like,
+
+a BizOp one, right? And,
+
+what's cool with the way this process goes,
+
+a couple things. I mean first of all Oh my gosh, like,
+
+you know, back in the day I would, I would teach a lot about
+
+stuff on ClickBank, and I wrote stuff for ClickBank a lot,
+
+and then I sort of got called out for that, like,
+
+kind of rightfully, there's, I'm not, I still don't pass judgment,
+
+um, it's not my place, but,
+
+you know, there's really aggressive stuff on ClickBank,
+
+and people make claims, and, you know, you can get a lot of ethical
+
+quandaries there, and I totally get it, but that doesn't mean the copy is
+
+not good. of it. Right? It might just mean that some of it's inaccurate,
+
+or whatever it is, or, or, you know, there's some questionable things with ClickBank
+
+copy, um, but,
+
+copy can still be good, and what you'll find is, like,
+
+you already saw this, I shared sort of examples with the,
+
+you know, the iSerum, and the financial other, I mean, the financial model off
+
+this, but the point is, even if you had this as really aggressive,
+
+if you had something, you could give it to an LLM, and it would
+
+just make less aggressive claims, um,
+
+especially if you told it to, and then,
+
+you know, the structure might still be really good. But also,
+
+what's really important is, if you look at these prompts,
+
+like, one of
+
+the really key phrases, you know, analyze the various structures, synthesize that knowledge,
+
+and use that same knowledge along with your judgment to produce a new long-form
+
+VSLs. This is what's cool.
+
+So, my original CLAWD, or, yeah,
+
+CLAWD and just LLM, like, copywriting process,
+
+was much more so swipe-specific
+
+sales letters. And there's still value to doing that.
+
+Like, again, kind of like what you saw financial,
+
+it's like, hey, here's, like, a winning sales letter,
+
+here's all the inputs, right, aka the brief,
+
+right? That you need to write a new one. So, basically,
+
+just rewrite this winning sales letter with these briefs,
+
+but basically model and swipe the structure really closely.
+
+And then in editing, I would go through and change it enough to make
+
+it different. That still works.
+
+I'll still show, I'll do a module, kind of showing some examples of that.
+
+But it also becomes problematic. I mean, your swipes are really close to other
+
+people's. There's times where you might want that,
+
+right? Like, I really want to, you know, it's my VSL,
+
+and I want to swipe my VSL for another category,
+
+and I want it to be exactly the same. But if you're like a
+
+copywriter, and you're sort of told to swipe a winning thing,
+
+like, it becomes, you know, it can be maybe too close for comfort.
+
+And whether that's how you feel about it, or a business owner feels that
+
+way when they get the copy, or they don't feel that way,
+
+but then they get sort of into a big dispute.
+
+Somebody else, right, like, it's sort of, there's, there's,
+
+there's landmines that you need to dodge, uhm,
+
+but when we do it this way, and we're like, you know, basically synthesize
+
+the information, and essentially create a composite,
+
+we avoid a lot of those problems, because it's going to take the best,
+
+well, or at least good elements from all of these sales letters,
+
+whatever length they are, and then create new stuff.
+
+So, that's the kind of simple way to set up,
+
+and then you can go through and make a project for each one of
+
+these in Claude, number five will not be, you probably won't see this,
+
+this has got some old stuff that I originally put into this drive folder
+
+while making, you know, organizing content, uhm,
+
+but, ignore that one, because again,
+
+most of that probably will not make it into the final RMBC2,
+
+which is why I'm not going through it, but you can set up these
+
+different projects, and then,
+
+we can use them to generate different things to copy,
+
+now you already saw that, with, like, the Unity Iceram,
+
+for example, uhm, you saw it with Financial,
+
+uh, the Blood Sugar example I did,
+
+too, uhm, lots of examples, so,
+
+that's it, short-ish section here,
+
+uh, but then the next section, we'll start actually writing
+
+copy using those Claude projects,
+
+right, or, or producing, creating, whatever you want to call it,
+
+copy using Claude projects, so that'll be the next section.
+
+Next step. Alright, thank you.

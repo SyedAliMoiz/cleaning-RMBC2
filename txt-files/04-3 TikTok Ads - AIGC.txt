@@ -1,0 +1,677 @@
+All right, let's get into the, uh, the fun stuff here,
+
+which is actually producing the ads.
+
+Now, uh, what we're gonna do in the kind of the, the rest
+
+of this module is one, we're gonna talk about some,
+
+some cool tools and how
+
+that really accelerates the, the pace of testing.
+
+We'll talk about some, uh,
+
+some general kind of creative testing framework.
+
+And then we'll also break down just some really,
+
+really great TikTok kind of short form video ads
+
+and talk about what's, uh,
+
+what's going really well with them.
+
+So, first thing in this video, let's talk about A IGC.
+
+Now, this is really exciting to me
+
+because we just spent the first part
+
+of the module talking about the research,
+
+understanding the customer,
+
+understanding the competitive landscape,
+
+understanding the avatar, understanding what's
+
+working already on the platform.
+
+One of the biggest challenges that people have when it comes
+
+to just running ads in general,
+
+but specifically running ads on platforms like TikTok,
+
+is the creative, how do I make enough creative,
+
+good enough creative to,
+
+to feed the beast, to feed the machine?
+
+'cause that is the, the trend, right?
+
+The where everything is going right now
+
+in the paid media landscape is you need to be able
+
+to fuel the machine.
+
+A lot of the, the kind of the day-to-day media buying tasks,
+
+running ads are being more and more and more automated.
+
+There were largest on high quality, high volume data
+
+and feeding lots of creatives.
+
+So you need to get good at those things.
+
+Now, on the creative side, I'll show a few cool tools here
+
+that, that I really like.
+
+And, uh, and I think, you know, they're, they're not perfect
+
+yet, but they're moving so fast in that direction
+
+that getting good at them today is gonna put you in a really
+
+good spot for tomorrow.
+
+So the first is Google's VO three model.
+
+So, uh, Google's their, uh, AI product
+
+has a new video model that came out recently.
+
+And this video model, by the time you even watch a video,
+
+it could be even better, right?
+
+It's, it's evolving so fast,
+
+but it allows you to create eight second clips
+
+that are hyperrealistic that look
+
+and feel just like a real person.
+
+So here's, here's an example of just really quick kind
+
+of vlog style creator video.
+
+So what you can do now, which is really cool, is
+
+with a basic text prompt,
+
+I can create a totally fictitious influencer
+
+that's doing a vlog style video, selfie style video,
+
+talking about a product, right?
+
+This is for a, a client, a lead that we basically,
+
+we do this every one of our leads now
+
+'cause we can create these so fast just
+
+to show them potential of this technology
+
+and what our, what our team can do.
+
+And so, uh, this is a, a gummy company that helps us sleep.
+
+So cool. Here's an influencer getting outta bed.
+
+She steals eye shades on her head, walking to the kitchen,
+
+talking about this amazing night's sleep she had, right?
+
+You can do interview kind of side
+
+by side interview style videos.
+
+You can do podcast style videos.
+
+The, the kind of potential here is,
+
+is limitless breaking new style videos.
+
+Um, you know, in the car style videos I wanna show you,
+
+this is a, a clip we made from one of our,
+
+our companies in the political space
+
+for kind of going to 4th of July.
+
+And so I can make individual scenes in here
+
+and connect those scenes to make a finished video.
+
+'cause one of the limitations with VO three is
+
+that they're eight second videos.
+
+Um, but again, I can come in here, put in the chat,
+
+make sure I'm using the, the VO three model.
+
+And there's two places by the way that you can do this.
+
+One is within the kind of just
+
+standard Google Gemini chat interface,
+
+which is just like chat GT, but Google's version.
+
+The other is this more advanced, uh, labs.google, uh, setup
+
+where they have a flow, which is this kind of visual editor
+
+where you can do just more advanced stuff.
+
+This is running off your actual API credits.
+
+Um, or actually your credits that you have within this,
+
+this isn't through the API, this is through the platform,
+
+but it's the same number of credits you would use for API.
+
+So I basically said, Hey,
+
+I wanna create a really scroll stopping video
+
+for multi-channel for one of our businesses on short form.
+
+And so I had this idea of this, you know,
+
+let's do this vlog style following this influencer
+
+through the Revolutionary War, right?
+
+And so I'll just show you these clips really quick.
+
+So that's the, the intro there.
+
+Then we have him going to, um,
+
+and again, some of these things are not perfect.
+
+So they take multiple attempts, him crossing the Delaware,
+
+you see the got water on the lens.
+
+Then we have him, they cross the Delaware now they won the,
+
+the war
+
+them celebrating.
+
+And then we have the, uh, the soldier at the end
+
+of the war buying from our website to celebrate
+
+For Pete.
+
+So what I really like about VO specifically is two things.
+
+One, it is a great tool for, uh, you can create really,
+
+really unlimited imagination.
+
+Scroll stopping creative, right?
+
+So whereas if I wanted to shoot a video
+
+with some really scroll stopping idea,
+
+scroll stopping meaning getting somebody to stop swiping,
+
+watch my video, which is so critical,
+
+that first three seconds, I had
+
+limitations prior to this, right?
+
+If I wanna do something crazy, I need to go, you know,
+
+find a creator willing to do something crazy.
+
+I need to, you know, shoot it a lot of, a lot of challenges,
+
+or I need some type of, you know,
+
+Hollywood CGI guy with this.
+
+Now I can say, Hey, I wanna have a, uh,
+
+a kid fighting the Revolutionary War with frostbite,
+
+you know, frostbitten feet opening the video
+
+with his musket inside.
+
+I can just type that and make it if I want to do a, um,
+
+you know, a Sasquatch out there.
+
+I'm sure you guys have seen videos of Sasquatch and aliens
+
+and all these viral videos or the, you know,
+
+a hundred men versus gorilla.
+
+It's a of, of gorilla vlogging his
+
+battles over the period of a week.
+
+I can just type that. So what's crazy
+
+and cool about this now is the only limit to
+
+what I can produce is really my imagination.
+
+The technology's gotten so good, it's just gonna get better
+
+and better and better, that I can output the most scroll,
+
+stopping, hyper engaging, entertaining stuff
+
+because I had no limitations when it comes to this stuff.
+
+So we really, really like VO three for that purpose.
+
+Also, it's a great way to quickly test concepts
+
+and test angles.
+
+'cause again, it's not gonna be perfect, but
+
+what I can do is I can quickly test, uh, test a, an angle.
+
+I can test a, a scroll stopping hook.
+
+I can test these different things
+
+and then I can have an actual crater make it.
+
+Then I can actually like, go out there
+
+and say, Hey, this worked pretty well.
+
+It's gonna work a lot better if I have, you know, a creator.
+
+And it just looks even more real
+
+and I can have to do certain things.
+
+So it also allows me to rapidly
+
+and cost-effectively test concepts and ideas.
+
+Now, one of the things we like to do,
+
+and I'll also share this in the the module,
+
+but we also have just some quick prompt
+
+generators that we use.
+
+So for different things. So if we wanna do a, uh, you know,
+
+a vlog style, uh, video, we have this prompt right here
+
+where I can actually just put in a URL website.
+
+It'll analyze that website, understand the business,
+
+the product, the service, all this stuff.
+
+And it'll go ahead and actually create the, um, the persona.
+
+It'll create all this stuff and give me the output,
+
+and it'll put the output in a format
+
+that we've seen consistently produce
+
+really high quality stuff.
+
+So it'll actually produce this essential output.
+
+And again, you could take this
+
+and you could put into any AI tool.
+
+You could put it into Claude Chat, a BT Gemini,
+
+just put the whole thing in there
+
+and it'll give you this
+
+final piece, the, the output.
+
+And then I'm gonna take this final
+
+piece, starting with the scene.
+
+I'm gonna copy it and I'm gonna go over
+
+and put it into flow.
+
+We're putting the Gemini into the chat interface.
+
+And it's gonna actually, again, this is just the prompt.
+
+It's not the finished thing.
+
+The finish thing would actually have all the stuff in here.
+
+As you can see, if I'm just clicking reuse from this prompt,
+
+you'll see that it actually created the scene.
+
+It created the who. So here's the woman in it.
+
+It created the dialogue
+
+and then also included these specific technical
+
+instructions in here.
+
+Don't include captions. Make sure the pacing stays this way.
+
+Don't include products, don't include all the things
+
+that we know it's gonna have issues with.
+
+So it follows these rules,
+
+usually pretty well, not all the time.
+
+And then from here, I can change.
+
+If I wanna do a different, you know,
+
+different dialogue, I can do that.
+
+And so we have some prompts in here that we can share.
+
+One creates a, a multi scene, one's kind of interview,
+
+podcast style one's a vlog.
+
+So a few different prompts in here.
+
+And the cool thing too is if you want to create a, um,
+
+a prompt, because we actually don't have all of 'em in here.
+
+This is a secondary document we spun up.
+
+Um, if I wanted to make a prompt generator
+
+for a specific type of video that I see in my research,
+
+maybe it's a, uh, uh, day in the lifestyle video,
+
+for example, that I saw go viral on call data.
+
+I can feed it this, go to go Claude,
+
+give it this whole thing and say, Hey,
+
+study this prompt generator
+
+and make me a version of this for
+
+creating this type of video.
+
+And it'll actually create a new
+
+version of the prompt generator.
+
+But for that type of video,
+
+so now I have a day in the lifestyle prompt generator
+
+for VO three that I can use.
+
+So really, really versatile.
+
+You can do a lot of stuff and kind of templatize this
+
+and use it, but again, really loving
+
+VO three and the potential there.
+
+So that's tool number one on the A IGC
+
+generative creative side.
+
+The second one is called reify.
+
+And reify is, is really, really great
+
+for, uh, for everything.
+
+But, but really e-comm, um, is,
+
+is kind of the, it's bread and butter.
+
+So physical product, e-comm, direct response, e-comm.
+
+What I like about reify is,
+
+and there's a lot of stuff in here.
+
+I'm not gonna spend, you know, I could spend
+
+multiple hours doing a deep dive on this platform
+
+'cause they, they've rolled out so much stuff,
+
+but I can actually create videos of avatars interacting
+
+and holding real products.
+
+So here's a, a business that we did an audit for called, um,
+
+dad Mode that does kind of, uh, cleaning products,
+
+laundry products for, for dads.
+
+And I was actually able to create a avatar.
+
+This is not a real person. This is an avatar holding the
+
+actual deep stain remover product in a laundry room.
+
+And everything in here is digitally created.
+
+Nothing in here is real. The product was recreated.
+
+And so now I can create multiple scenes of a person
+
+that's my exact target avatar, holding, interacting
+
+with the exact product and give it a script
+
+and have it do the entire script.
+
+So again, if I wanna create a 32nd,
+
+six second video based off of a,
+
+a video I saw at mega viral TikTok, cool.
+
+I can just recreate it entirely and reify.
+
+But without, again, any of those limitations
+
+that I might have with a creator.
+
+Going back to the point I made with the VO three as well,
+
+you know, is this going to be as good
+
+as a really talented creator?
+
+Not yet. It's going to be this within the year,
+
+but this is also just a great tool for me
+
+to test things really rapidly, really cost effectively.
+
+That's the theme of this video I want you guys
+
+to take away from this is, yes, there are going
+
+to be instances where A IGC actually does
+
+better than the regular creative.
+
+We've had plenty that won that won video, for example,
+
+of the Revolutionary War soldier was getting a two
+
+to three X ROAS on multiple channels,
+
+so actually profitable and doing well.
+
+The more important thing with these videos though,
+
+is be great if they're all profitable,
+
+but they're not all gonna be profitable
+
+or beat the, the control.
+
+It's that I can test way more cost effectively,
+
+way more efficiently and have much higher volumes than if
+
+you're only trying to make creative yourself
+
+because you're just not gonna able to do it.
+
+So you need to rely on these tools to rapidly test hooks,
+
+concepts, angles, craters, looks, vibes, all that stuff.
+
+And then use that to pinpoint your next creator you work
+
+with your next internal shoot that you do.
+
+So the cool thing again with this, um, with Reify
+
+is I can come in here and I can actually
+
+create these product videos.
+
+And with these product videos, I can drag.
+
+So whatever your product is,
+
+you can drag a high res photo of it into here.
+
+And then from this you can do a, a product shot video.
+
+So if you wanna do just, you know,
+
+the product on a pedestal, doing a, a spinning shot
+
+with a voiceover, cool.
+
+If you wanna do an interactive demo,
+
+a creator holding a product, pointing to it,
+
+talking about it, maybe spreading out her hand,
+
+those things, I can do that.
+
+Or I wanna do a talking video where it's actually like this.
+
+For example, a blonde American woman holding the product
+
+that I can now put a script into her mouth
+
+and have her say those words.
+
+I can do that too. So when I generate anything here,
+
+it takes, you know, a few minutes.
+
+It's then going to first create an image,
+
+and then from that image I can actually kick click,
+
+you know, generate video
+
+and it'll actually turn this into a video.
+
+So I can say, spin the product slowly to show all sides.
+
+It'll do that. And I can use this in an ad.
+
+If I have an unboxing video, here's like a bobblehead
+
+that we, we made for in our products, right?
+
+Cool. It's taking it out there.
+
+I can do a voiceover there or this spinny shot.
+
+I can do a voiceover there. This is a, a guy, a doctor.
+
+We put in a, a lab coat with an actual dermatol.
+
+Uh, you know, uh, um, he's a dermatologist
+
+and he is holding a skincare product.
+
+Cool. So now I have a video of him.
+
+Same thing with this, this, you know,
+
+dad in the laundry room holding the product.
+
+So again, now I have these kind of unlimited,
+
+I have no limitations on creating these
+
+videos for, for testing.
+
+So again, we have reify, we have VO three,
+
+our really, really great models.
+
+And within Reify, I can even actually launch full creative
+
+testing campaigns directly in here.
+
+There's some really crazy cool stuff that they're building.
+
+But for this, for this module, I really want
+
+to focus specifically on these product videos
+
+because again, I think this is one
+
+of the coolest things you can do here,
+
+where you can now take an image of a product, digitally,
+
+create any avatar you want,
+
+and then from there you can create these scenes
+
+that you can clip together
+
+and replicate what's working on the platform.

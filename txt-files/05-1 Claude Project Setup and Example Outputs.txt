@@ -1,0 +1,581 @@
+Alright, let's get our quad project 4.
+
+Doing, I should make this bigger, uh,
+
+emo sequences, okay? Should be pretty helpful. And do it here.
+
+This is why I waste my time. Look,
+
+basic instructions, okay? Your job is to create various emo sequences for different products
+
+and services that will range from econ products to coaching or information products.
+
+I mean, do this, like, it doesn't matter. This, I have it,
+
+it's fine. You have several documents in your knowledge base that should provide all
+
+the examples you need to write great sequences. You'll see that there are several
+
+examples for abandoned car emails, welcome emo series for new customers,
+
+special sales and promotion series, flash sales, reorder series, for getting a customer to
+
+order more of a product prior to running out,
+
+win back series, uhm, so basically everything we went through
+
+in the previous part of this, you know,
+
+in the email series section you looked at.
+
+You'll also notice that some of the sequences focus more heavily on discounting,
+
+while some focus more on emotion. What will happen is that I will give
+
+you instructions about the kind of email sequence I'm looking to have written,
+
+as well as the product or service or brand we are running the sequence
+
+for. You'll then select from relevant examples,
+
+synthesizing across several of them when necessary to create a new sequence.
+
+Okay? Cool.
+
+Looks like I did it here. All right, so.
+
+Let's kind of go back into the wild, right? UDI Serum.
+
+What should we do? Let's do a,
+
+Uh,
+
+to start,
+
+let's do a 7-day abandoned cart
+
+sequence for UDI.
+
+UDI Serum. Uh,
+
+let's focus on,
+
+I ain't gonna do much today. Let's, uhm,
+
+introduce a 20%
+
+off discount on
+
+day. Day 3.
+
+Increase it to a 40% off discount
+
+on day 5. Uh,
+
+so days 5 through 7.
+
+Can you please outline this sequence for
+
+me. Uh,
+
+then after I approve, I'll have you write it.
+
+So I'll save this prompt,
+
+that's what this prompt is like.
+
+Sorry, didn't include the link.
+
+So I'm gonna just do this, I'm gonna start over again.
+
+So, like, you're knowledge base. Looks
+
+pretty good.
+
+And write it, I'm just gonna write one note for the tone.
+
+Female, one, and then general.
+
+Make sure it is empathetic,
+
+supportive. Be still.
+
+Painful. We want to do it more like,
+
+you've experienced this,
+
+or some of our customers share
+
+that. To
+
+do is sound like we're assuming
+
+things about the prospect.
+
+Some of our customers who share that they feel hesita- uhm,
+
+or maybe like some of our customers who feel- share that they feel hesitant
+
+to invest in themselves because they've been disappointed before.
+
+I completely understand these feelings. What I can tell you is that UDI certainly
+
+works differently than anything you've likely tried before.
+
+Uhm, kind of explains the science of it,
+
+testimonials, you deserve to feel confident,
+
+you deserve the rightness, it's waiting to complete your order,
+
+here's the guarantee, or you're protected. Okay,
+
+why your eyes- might age faster. There's no reason other items don't work.
+
+So we're gonna educate them a bit, here's why ours works better,
+
+cool. 20% off.
+
+20%
+
+off, here's a, you know, terms of our stock.
+
+Objection handling.
+
+Increases kind of urgency. So I mean, you can play with the results,
+
+but like, it's still right, it's pretty cool, right? Alright.
+
+Nice,
+
+right? I'm
+
+gonna copy it. And I'm gonna save this one,
+
+let's see. Alright,
+
+so I saved the emails, you can look through them. They seem pretty solid.
+
+Which is pretty cool. As well they should.
+
+Cool,
+
+right? So. What
+
+else can we do? Give me a second to prepare this and I'll show
+
+you. Alright, so let me show you what I'm doing here, okay? I'm gonna
+
+say, now let's do a new customer welcome sequence for UDI Serum.
+
+Let's have it be 10 emails. In email number 3,
+
+let's introduce our opaline rich cream as a great compliment to UDI Serum.
+
+Give the customer a 20% off coupon code,
+
+they can use it while ordering it. In email number 7, let's introduce our
+
+citric whipped aloe and also offer a 20% off.
+
+In email number 10, let's give them a 20% off store wide coupon.
+
+Provide an outline, once I approve it,
+
+you'll do it, right? So, in this case,
+
+because it's a quad project,
+
+I don't need to, uhm,
+
+I don't need to share the UDI link again.
+
+So,
+
+that's the link for opaline. Here's
+
+the link for sacred. Oh my god,
+
+I keep getting the wrong thing, sorry about that.
+
+Finally,
+
+let's do store wide.
+
+So, again, So let's run this prompt and
+
+see what we get. Alright,
+
+welcome, celebration,
+
+what to expect, good positioning,
+
+expectations, join community saving before tracking.
+
+We don't have a community, but I'll just keep it for now. You know,
+
+your ice cream has shipped.
+
+I think, what are we checking,
+
+I think these are timelines that are a little too fast. I'm going to
+
+have to give feedback here, it's just fine, okay? Uhm,
+
+let's move email to,
+
+to, what's this,
+
+for email to,
+
+for, let's say,
+
+you know, should you can assume,
+
+okay, for email three,
+
+make the code. Pitch
+
+20,
+
+just because, this is not confusing, probably.
+
+For email four, it seems like going
+
+day five, a one-week check-in.
+
+Doesn't make sense, it's too early.
+
+Let's
+
+move that to email five,
+
+day ten, and move emails back
+
+correspondingly. Let's also
+
+do a new email four.
+
+That comes out
+
+on day five. Please provide suggestions.
+
+I think I like D. I
+
+like this for a shot. I think we should do an email one. I
+
+think I like option. D the most for email
+
+four. Let's go ahead and write this sequence,
+
+please. So what I want you to be seeing here is like,
+
+Some of everything else, like, you kind of are the commander,
+
+but you're more like a strategist than actually writing the copy,
+
+right? Like,
+
+And so you might look at this and say, well, I want them to
+
+be like every single day. You just tell Claude, hey,
+
+I want this to be every single day, Uhm.
+
+So it's really like as simple as that.
+
+I'll say, I'll share this conversation history. So you can see that the revisions,
+
+you know, day one, welcome instant gratification,
+
+a gratitude. My family,
+
+I want to personally welcome you to what I believe will be one of
+
+the most transformative skin care journeys you've ever experienced.
+
+You just made a beautiful choice, not just for yourself,
+
+but your skin, but for yourself. And this is by
+
+the way, this is not weird. Like Opal's thing Skin care.
+
+We're sort of very subtle with it. Uhm,
+
+but this is actually all good. I mean, the heart emoji thing is weird
+
+why it's gray. We'll want to do different emojis probably.
+
+So this is you made, so it's like really reaffirming their thing,
+
+right? Cleanse
+
+their face gently, right, tell them what to do, even the application,
+
+pro tips. I mean,
+
+I don't know if you should say less is more. It's fine,
+
+but I don't know if you really need it. Perfect
+
+partner. How to amplify your results.
+
+I guess this is going on day 3, I don't know if they would
+
+have it yet, so I would
+
+modify this copy. But again,
+
+it's not that the copy's bad, it's literally just being consistent and logical.
+
+I'm not sure why, it's being worth these hearts right now, right? Uhm,
+
+okay,
+
+go forward
+
+to day 5, I'm going to give you the spotlight.
+
+Right, Good to think of it,
+
+it's kind of reminding them how great the formula is that they bought.
+
+Get your one week check in,
+
+here's what people notice, you're not seeing dramatic changes,
+
+don't worry, it's normal, it has a good sign,
+
+you know, it is great. What happened,
+
+what's happening to your skin right now, you're way too focused,
+
+right? to these things. So
+
+it's kind of good consumption, right? Talking
+
+about this 20 day cycle, here's these great things that are happening.
+
+You know, it's giving homework, we don't have to do that, but I don't
+
+hate it honestly. Customer success spotlight,
+
+so anyway, it's pretty good overall, right? It's pretty cool. So,
+
+let me save that as well. I'll do, like,
+
+uh,
+
+new document, uh, Unity welcome series.
+
+It's cool,
+
+right? So now it's
+
+saying,
+
+okay, awesome job.
+
+Um, now I want to do a
+
+three-day sale for 4th of July for
+
+Opal Beauty.
+
+Let's make it,
+
+uh, let's,
+
+sorry, why? If they can save 30%,
+
+please provide an outline.
+
+Depends on your skin concern, it's just sort of mediocre.
+
+Okay,
+
+great,
+
+uhm, let's Thanks,
+
+but let's do three emails on day
+
+three. I know this is already the 4th of July,
+
+but like, Day three.
+
+I don't know how else to tell it.
+
+Uhm.
+
+So, what I'm
+
+gonna say is,
+
+like,
+
+uhm,
+
+get about
+
+our other two SKUs as well.
+
+And
+
+if I had taught it,
+
+I could have just told that in advance, right? Okay,
+
+great.
+
+Go ahead. Write it,
+
+please. You
+
+have to format it. I don't know why Claude is really being so bizarre
+
+with the, uh, The, uhm, I mean the formatting
+
+and also the emojis.
+
+You need to update pricing. Pricing is off on this.
+
+That's good,
+
+right? Like why, you know,
+
+true freedom comes from these things, right? So
+
+there might be little things you want to, like, modify, but overall,
+
+it should give you a pretty good place. And you saw,
+
+like, these samples, you should be thinking like a copywriter, marker,
+
+and thinking back to, like, what you're accomplishing. Yeah,
+
+should be pretty solid overall. And it's cool,
+
+like I said, you can do this with, uh,
+
+you know, I used Opal, but I'm trying to think of,
+
+like, I mean,
+
+I don't know, I don't feel like I need to beat you over the
+
+head with examples, but, like, you know,
+
+you saw the other examples for, like, coaching,
+
+info products, whatever it is, I mean, yeah,
+
+you can do it for, like, really whatever. So,
+
+uh,
+
+yeah, there you go. So this project should be, should have fun,
+
+should really help you a lot. Make life a lot easier,
+
+uhm,
+
+you just gotta, you know, just tell it what you want and give it
+
+feedback. Like, that's really the secret, you know?
+
+Oh, and by the way, what if I don't have a website,
+
+you know, like, I mean, fine, one more thing I want to show you
+
+real quick, uhm,
+
+I'm doing a new call, I think, right? like I'm trying
+
+to think of one of our examples, oh my gosh, that seduction thing,
+
+when I tried to show this person to one time Like,
+
+it literally was not, like, this is some old-ass thing from forever ago.
+
+I swear to God I don't, I'm not doing anything in the seduction space,
+
+it's so annoying What
+
+I'm thinking about is, like, what's a brief that we didn't use
+
+yet, like, financial? Financial is tricky,
+
+but we can test it We
+
+did, you know, Unity I don't think we have,
+
+we have the one blood sugar thing in there. I'm trying to think of
+
+a thing I could do where it's, like, not I
+
+don't want to basically skew the data because it's already got a blood sugar
+
+thing in. Oh, what the hell, let's go with,
+
+uh If
+
+I have a sales letter, That's what I should have done Well,
+
+that's fine, you can do a brief R sales letter, uh, for a financial,
+
+uh, newsletter product Please review,
+
+and then come up with a 7 email abandoned cart sequence
+
+Outline once approved,
+
+I'll have you write the sequence Try
+
+to bury this, be far more supportive of this nightmare Cure evolution,
+
+know where you'll profit from Restate the core hook,
+
+create urgency While you hesitate,
+
+billionaires double down Your
+
+$49 charter membership expires tomorrow
+
+That's good, yo, one thing I might do is be like, you know,
+
+offer them an extra 25% off
+
+starting on day 5
+
+Yes, this looks good. Go ahead and write it,
+
+Okay, just to see. And again, I could upload a sales letter.
+
+I could do whatever. You know, I could link it to any website.
+
+I could, like, you know,
+
+like hotdogs.com or whatever.
+
+Uhm, so,
+
+it's pretty powerful and pretty versatile. But,
+
+you know.
+
+This is going to be kind of, you know, this is going to be
+
+kind of conspiratorial and whatever. This is going to match the style of the
+
+brief, right? So,
+
+anyway, this is pretty dope. And it already looks really good. I'll save this
+
+so you have access to that as well. And you have the cloud project,
+
+so you can create plenty yourself.
+
+And then you'll have the PDFs of all the sequences. This is in here
+
+too. Not received. Alright, thanks.

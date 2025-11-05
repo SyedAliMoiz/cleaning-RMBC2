@@ -1,0 +1,661 @@
+Hey, what is up everybody?
+
+All right, so today we're going to be talking about briefs.
+
+If you think of RMBC,
+
+Research Mechanism Brief Copy,
+
+we've gone through research and we've gone through the mechanism,
+
+or hopefully you have, now we're moving on to the brief.
+
+This is imperative for writing really good copy,
+
+especially any kind of
+
+like VSL, and not just the long form,
+
+it's especially, especially imperative for long form,
+
+but also imperative for medium form and very useful for short form as well.
+
+And frankly, can also be used for PDPs,
+
+advertorials, and other things,
+
+in addition to that. So,
+
+when I say all that, I'm actually not talking about this stuff.
+
+I am talking about this document and I'm talking about our
+
+good old friend at Quad here,
+
+and what it can do.
+
+So. I'ma show you a bunch of cool stuff here.
+
+This will set up everything. It'll tie together what we did so far.
+
+It will also give you a whiz. What you need to just print all
+
+kinds of copy. So this is extremely important.
+
+Do not skip it. I feel like an RMBC one.
+
+The brief was also very important. The people who didn't do long form copy
+
+kind of skipped over it. Uh, I feel like sometimes I would underappreciate it.
+
+It's really helpful. So the original brief from the original RMBC was
+
+really about getting the information onto a piece of paper.
+
+That you, a human, would need to write the copy
+
+that you're going to write. Especially long form,
+
+but could also be, you know, medium form,
+
+whatever. Okay? And so it asks you questions that you would need to answer
+
+in order to write that copy. The new brief,
+
+which we're going to go over shortly, does the same thing.
+
+As you can see, it's more in depth, but the huge difference.
+
+The difference is you won't be filling out a lot of it,
+
+first of all. Um,
+
+and you're doing it to give to an LLM to write copy.
+
+Now, you could still use this to write copy yourself.
+
+If you're watching this and you're feeling resistant,
+
+you go through the whole thing, you say it's great, but I don't like
+
+AI copy fine with you.
+
+I, uh, personally cannot understand,
+
+but, more power to you, okay? This is more questions,
+
+but we'll quickly review the classic brief.
+
+Most of these questions are still on this one,
+
+so I'm gonna be very, be very quick here. It was just stuff like,
+
+you know, who's the audience? Who's the target market you're speaking to?
+
+What are their big pain points, but they're, you know, or fears,
+
+but really like, you know, being broke,
+
+not having enough money, like, being overweight,
+
+having blood sugar, having low energy,
+
+not feeling confident, not getting women,
+
+not getting men, like whatever it was, right? And you can't,
+
+with your short term and long term, we're sort of the more dimensionalized version
+
+of this. So I mean, by dimensionalized would be,
+
+you know, ending
+
+up alone for the rest of your life and your mother was right that
+
+you're really a disappointment. And this is another Saturday night,
+
+you're staring at the, at your phone,
+
+on the couch by yourself, and that foot's on, I guess it's gonna,
+
+you know, I'm gonna be all alone again,
+
+right? Um,
+
+you know, that's, cause if I don't get a girlfriend now, right?
+
+Like, alright, I'll start making money,
+
+or whatever it is, right? And so that was more long term.
+
+And then we got to like the big promise. So by reversing the pain
+
+points. Biggest fears. What's the big promise that they're gonna get from interacting
+
+with the copy? So this was different than a promise
+
+around, um.
+
+Like, the product itself was more like why,
+
+you know, you're gonna discover a breakthrough solution that can help lower blood sugar,
+
+help you burn fat, that can, uh, an easy point.
+
+I'll see you in place system that can help you to bring in more
+
+income, all those sorts of things,
+
+right? Umm,
+
+keep reading. Alright,
+
+what solutions for the readers' problem or problems exist already?
+
+Why aren't they working? We talked about this in the research section as well.
+
+And then this part is really just what's the unique mechanism?
+
+Mechanism of solution, mechanism of the problem, things like that.
+
+Um, and we would write it out in kind of copy format so that
+
+when we went to do a sales letter or do any kind of sales
+
+copy we were explaining the mechanism, we already kind of had it.
+
+We didn't have to try to think of how to present it. When we
+
+were in copy, we already thought of how to present it. A practical question
+
+I'm going to kind of skip really is just about curiosity but it's not
+
+like a crucial thing.
+
+It can be valuable,
+
+but, yeah. Metaphors,
+
+you know, I'm also going to kind of skip over.
+
+I mean, you know, hopefully you know what a metaphor is. You can look
+
+it up not. The thing is AI is quite good at metaphors these days
+
+so we don't really need, uh,
+
+to come up with metaphors as much. If you have a great one, you
+
+know, cool. But we're not going to use this preform, just sort of giving
+
+you the overview because again, these will be on this one too.
+
+And this is about what they're going to get from using the product.
+
+Hey, when you use the product, you're going to have, you know, start,
+
+you know, during $500 to $800 a month of extra income.
+
+You're going to start burning fat, you know, around the clock,
+
+feel sexier and cough, more confident, yada,
+
+yada. You know, whatever it is, like, this is what's going to happen with
+
+the product, right? What is the product,
+
+right? Well, here is where you're writing out specifically,
+
+like, the product. If it, like, the features and benefits of it,
+
+or, like, the physical attributes of it, if it's an informational product,
+
+sometimes you do fascinations, which I'll include a module on,
+
+but basically, they're curiosity bullets,
+
+like, so, you know, inside the book,
+
+you'll discover why the one thing you should never say to a police officer
+
+if you want to get out of a ticket, like, five words to never
+
+say to, uh,
+
+beautiful woman at, the bar,
+
+if you want to get her number, or the handsome guy at the bar,
+
+whatever, right? Try not. Keep it for everyone.
+
+But, umm, you know,
+
+but you'll be doing those fascinations, right,
+
+to sell the product.
+
+In this case, it's like, oh, these are, you're almost after they're part of
+
+the book, right? Because they're answering these questions inside the book,
+
+or the package, whatever. If it's a coaching program,
+
+you would, Each of those is a coaching program, all of that,
+
+okay? Background story,
+
+story of discovery, it's like that classic hero's journey.
+
+I know you're, why are you going through this if this isn't a brief
+
+reason? It's because they're all on this brief anyway.
+
+And, I don't know, I just feel like doing it. So,
+
+I won't repeat myself when I go through here. But like,
+
+you know, somebody, uh,
+
+like, we talked about the sales letter,
+
+or I guess actually the next section. Bye. You'll see it in the sales
+
+letter outline. But hey, somebody like me,
+
+umm, somebody like me or somebody like close to me or somebody I know
+
+was like in pain starting with this pain point, they,
+
+you know, went on a journey and found the solution. Um,
+
+so it could be like, just like, you know, a person,
+
+like a exhausted mom finds like a energy solution,
+
+or a doctor sees patients and realizes they're all starting with this pain point
+
+and tries to figure out. What the real cause of the pain point is,
+
+or, uh, guys working in nine to five and,
+
+you know, feeling the stress from the bills and decides to quit and start
+
+like a dropshipping thing, whatever it is, right? That's sort of like the story.
+
+And then they discover the solution. Like, it's like, what is it?
+
+Um,
+
+and we have headline ideas, potential upsells.
+
+You don't need to stress too much on that. Um,
+
+because, We'll worry about that later. Alright,
+
+so that is the classic brief.
+
+Now look at the new brief. I already can't have you explain it.
+
+You're a little crying, sorry. I've got a newborn and she's a little fussy
+
+and, uh, you know, what are you gonna do? That's why I just pause
+
+to go look at her. I pause a lot for quite some reason why
+
+there's my seven-year-old coming. It's funny. The original RPC,
+
+I guess I had my, uh, my seven-year-old,
+
+but she was pretty young at the time. I'm, Like,
+
+a year, year and a half old. Something like that.
+
+And, um, I think I had this dog that I have now. Loves to
+
+sit on my lap. Oh, constantly. We sinned the dog.
+
+Uh, but, you know, that's cool.
+
+Life changes. And some of you who had one now, you're here continuing on
+
+the journey with me. Alright, so I think the, the new brief, like, who's
+
+the audience? Like, we're still, uh, looking at the
+
+pain points. Reversing the pain points. So, same thing I just mentioned. Um,
+
+these things here, there's a couple in the other brief,
+
+but they're really instructions for the LLM as much as for you,
+
+right? These are promises what they'll get from interacts with the sales copy or
+
+for teasing solution you'll be showing them in the sales copy.
+
+Okay, what does it look like when a process pain points have been solved?
+
+So, we include physical. Emotional and social and psychological benefit.
+
+So, this is sort of our future pacing.
+
+I actually have the question twice. I don't know if I need it twice,
+
+but I have it in here twice, sort of. But really,
+
+this is like, once your blood sugar levels are lower,
+
+once you're making more income, once you're feeling more competent,
+
+once you have a girlfriend or boyfriend,
+
+like, what does it look like? Once you start,
+
+you know, burn fat and get- I'm. But muscle,
+
+like, what's the physical transformation?
+
+It's like emotional, right? You feel more confident, you feel more proud.
+
+Socially, friends notice and ask you questions,
+
+um, psychological.
+
+It's sort of the same as emotional, like, you feel empowered,
+
+you feel bold, you feel sharper,
+
+uh, you know, the little nagging voice in the back of your head dies.
+
+Right, this is cool. These are things that are- really powerful on copy,
+
+and especially more direct response oriented copy,
+
+is to, like, paint that picture, okay?
+
+Solutions really talked about. And by the way,
+
+I do want to pause here and tell you, as we think about this,
+
+similarly to RMBC-1.
+
+If you think about answering these questions, it's like, well, think about the research
+
+we did. It's like, who's the audience?
+
+Well, we- we did that. We talked about some of their pain points.
+
+We talked about what their hopes and dreams are, so we kind of got
+
+big promises, right? Umm,
+
+this we didn't do too much, but that's okay. But we kind of know
+
+this approach. You'll see how this builds with it. And you don't need to
+
+fill any of this out. This is why I'm going through the questions.
+
+You're not going to really need to fill anything out before you go. In
+
+fact, you shouldn't. This is a- this is not a document that you felt
+
+for scratch unless you really want to, okay? Here's the method.
+
+It doesn't please include enough detail so that when given to an LLM,
+
+you could write this whole section about struggling. Is there anything for the unique
+
+mechanism? This is also for the LLM, right?
+
+This is something that'd be teased early on in the lead of the VSL.
+
+For example, if the seven second bowel releasing ritual,
+
+or the thirty second breakfast hack, or paper flipping,
+
+to tease a real estate arbitrage method, things like that.
+
+For
+
+supplements, what are the main ingredients in the formulation?
+
+Well, let me go back to this, sorry. I've got to remember to kind
+
+of go really slow, for people who aren't referring to her,
+
+right? This is just pretty common.
+
+Inside this video, you're gonna see the seven second bowel releasing ritual that does
+
+XYZ. I honestly might do something where I'm wondering,
+
+you know, I guess I don't need to tell you this because I'm, I
+
+have a bunch of like, uhh, You know, I go through copy structures,
+
+and then I show you examples of it,
+
+and I'm always wondering if I put that before I get to the brief,
+
+so it's like understanding copy, and then it's like writing copy,
+
+doing the brief for copy, so you can't write, preparing to write copy,
+
+writing copy. I might do it that way,
+
+because I feel like I don't, you'll understand more things that I'm talking about
+
+in this video if you did the modules before.
+
+Or I think. I might do it
+
+that way. Okay. For supplements for the main ingredients,
+
+or two to three studies showing efficacy, if you watch the bonus sort of
+
+deep research supplement thing,
+
+you'll know what that's about. Bold product claims.
+
+Okay, what's the huge promise or promises about the results you're going to get
+
+using the product or solution? Note this is different.
+
+From number three, like I said, these are specific- through processes and claims about
+
+how their life will change for the better once they buy the product.
+
+What is the prop? So same thing here. I did change it a little
+
+bit, um,
+
+from the classic brief. Back on the story.
+
+I kind of just give more context for LLM. Classic here was Journey.
+
+Who's the main speaker in the VSL? Includes a quick snapshot of who they
+
+are and their credibility. So,
+
+you know, the main speaker might be, like I said, the tired mom.
+
+It might be a doctor. It might be, uh,
+
+a customer of, like, uh, the brand, right?
+
+Like, uh, who has had success?
+
+Is there a secondary speaker or an expert who has a large role?
+
+A lot of times, you might have a VSL where there's
+
+a main speaker, but then there's an actual, so in a financial offer example,
+
+it might be that there's a narrator, like, is it the interviewer,
+
+and then there's the expert being interviewed.
+
+Um, in some VSLs, you might see where it's an everyday person,
+
+and then they find, like, a doctor, and the doctor has them speaking lines
+
+throughout, right? Um,
+
+so it's good to notate that. Uh,
+
+does the spokesperson partner with a brand or company once they've discovered the prop?
+
+So, a lot of time, in a VSL especially,
+
+um,
+
+the spokesperson, you know,
+
+finds a solution? I appreciate it. The person, or the doctor finds a solution
+
+however it is, and they're like, you know,
+
+then they partner with brand, because brand already had the solution in place,
+
+right? With all the testimonials or social proof,
+
+a testimonials or social proof, if available, so,
+
+testimonials or what it sounds like, include any credibility builders that can be used
+
+in the opening of the sales copy. Um,
+
+so this is this could be references to, say,
+
+about the ingredients, about the UMP, perhaps, however scientists uncover the real cause of
+
+your problem, maybe Tony Robbins endorsed the solution,
+
+maybe the program has been featured in Forbes or Good Morning America,
+
+right? Like, what are credibility builders you can mention?
+
+So, like, the seven second bowel releasing ritual based on breakthrough research from Harvard,
+
+right? Like, a proven mindset, uhh,
+
+proven mental strength technique that, Whoops,
+
+your mindset, and it's so powerful even Tony Robbins shared it with his millions
+
+of followers, right? I mean, you know, hopefully it's true,
+
+but if you have stuff like that, it's good to get this here.
+
+Alright, what is the normal retail price for the product being sold?
+
+So obviously, or maybe not, obviously, but hopefully a lot of VSLs and copy,
+
+it's like, hey, the normal price is $200,
+
+but today only you can get it for, you know,
+
+$49. So what's the actual price?
+
+Okay. It's, well, $49. If the VSL sells a product with multiple options,
+
+what are those options? And what is the pricing for each option? So here,
+
+it's like, um. Kind of exactly what I said, I guess. It's like,
+
+if there's a bundle, right? Like,
+
+hey,
+
+when you get one bottle, it's $49 per bottle.
+
+When you get three bottles, it's $30.
+
+It's $29 per bottle. And when you get six bottles,
+
+it's $29 per bottle, right? When you get the gold package,
+
+it's, you know, uh,
+
+$9.97. But you can get everything in the gold package,
+
+plus all this other stuff in the platinum package for just $12.99 or whatever,
+
+right? Like, you want to know that information.
+
+You want to know what the guarantee is, because there's usually a money-back guarantee.
+
+Hey, if you're not happy, I don't know.
+
+Or any days, simply,
+
+uh, message us,
+
+and let us know, and we'll give you your money-back. Okay,
+
+are there any bonuses, or still list them out? So,
+
+that's when it was going to be important, like,
+
+Any other scarcity elements? So basically,
+
+like, hey, is there an urgency? Is it a limited time deal?
+
+Does the discount expire? At midnight, is it for the first hundred people?
+
+Things of that type?
+
+I've been saying things of that nature a lot later,
+
+trying to not say this often. Okay.
+
+Um, please write specific future pace results and benefits people could expect.
+
+So this is what I've talked about before, kind of like, from that question
+
+back above, where it's sort of like, hey, you're gonna be more confident. You're
+
+gonna be more like, I kinda don't need it twice, but I have it
+
+twice. It's already my little brief project, so I'm keeping it.
+
+What are common objections process might have in watching the VSL,
+
+and how can we answer them? So, we talked about objections a bit through
+
+the research. It's good to bring those up.
+
+Like, oh, well, I've tried supplements before they haven't worked.
+
+Or I've done coaching programs. Well, I'm a backer,
+
+so I won't do a workout program. Okay.
+
+Are there any specific hooks or big ideas that you think should be tested
+
+in the lead of the VSL? Umm.
+
+So, if you have ideas for hooks, we want to record them,
+
+right? Okay. So,
+
+the next thing we're going to do, once you have to play this out,
+
+is really create a brief generator and quad,
+
+where it's going to have, I'm going to make this, uh, the window bigger
+
+anyway.
+
+But basically, it's going to have this brief and outline,
+
+some instructions, and we're going to give it a basic information,
+
+and it's going to pump out the brief. For you.
+
+So, I'm going to do this in a new video, because I need to
+
+stop and help with my newborn. Um,
+
+so, do that video in just a minute. But this is the new brief,
+
+even now gone over it. We'll continue shortly.

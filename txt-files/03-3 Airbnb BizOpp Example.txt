@@ -1,0 +1,763 @@
+Alright, so, we're gonna go through two more examples here.
+
+One with Bizzah, one with Goff.
+
+What do the Airbnb arbitrage Bizzah on first?
+
+And you know, I was thinking about this, because even as I go through
+
+it, I'm like, do I really want to read through everything again?
+
+I mean, you already sort of had, um, Yeah,
+
+you saw all the stuff here, right? You saw the example by storm,
+
+we wouldn't, So honestly, what I would be doing here,
+
+if it was my first time going through it, so I would read every
+
+single word, but I don't think you need to read along with me.
+
+You're gonna get access to these prompts.
+
+I think we should use that quad one I mentioned previously.
+
+The quad prompt. That is gonna basically,
+
+Sorry guys, there's so much stuff up.
+
+Um, let me open some of this stuff. I gotta close some of the
+
+skincare things. That.
+
+That. That. That.
+
+There's my quad one. There's quad. Okay, cool.
+
+So, we did biz op.
+
+I got the Gemini output, which of course would be included in the chassis
+
+bt one. So what I'm gonna do, Is
+
+I'm gonna download the Gemini one. There's a PDF.
+
+And I'm gonna charge the bt output. Umm.
+
+I'm gonna download this one. Or copy paste it into a dock and then
+
+download it.
+
+Cuz it's like, you know, amazing.
+
+We'll copy that. Create a new document.
+
+To be like, uh, chat,
+
+gpt, bizop, psycho,
+
+graphic. Deep research output.
+
+Copy and paste into here. Wow,
+
+wow, wow, wow, right? Umm,
+
+and download that. Back to the cloud prompt.
+
+So, let's
+
+go back to our good friend, Claude. Do something here.
+
+Umm. What's actually cool is,
+
+I mean, I highlighted it yellow, but you can actually just keep this generic.
+
+I actually purposely designed this one to be generic,
+
+so you don't need to necessarily, um.
+
+Right, biz-op, Airbnb, arbitrage, whatever, right?
+
+This is here, because it'll figure it out by looking at the PDFs.
+
+So, I'm gonna upload the two PDFs. Okay,
+
+the PDFs are uploading.
+
+They're big files, so it might take a minute.
+
+Or, really long time, kind of surprisingly,
+
+long time. Should be already shortly, there we go.
+
+And let's go ahead and run this prompt here. And,
+
+Then as we go through the output, we'll get a good summary of what
+
+we found, right? Umm,
+
+and I think again, this is cool. And
+
+to me, it's just easier than trying to,
+
+read everything free. You'll have the in-depth examples,
+
+you can look at them. But this is gonna give a pretty good summary.
+
+Umm, free to review,
+
+right? So while it's typing it, we can start reading,
+
+okay? Anyway, well,
+
+actually I'm gonna copy and paste it to a new Google Doc so that
+
+I can make it big enough that you read everything here.
+
+So, give me a minute, once this is complete, I will,
+
+uh, I'll go over it with you.
+
+Okay, so we got everything here. So I'm gonna copy it.
+
+I created this one here,
+
+and paste it in. Now,
+
+I'm gonna zoom to 200. Okay.
+
+Unified psychographic research,
+
+the American Business Opportunity Seeker. The American Business Opportunity Seeker,
+
+or Seeker, represents a complex demographic united by a shared desperation to
+
+escape with. They perceive as a fundamentally broken economic system.
+
+They are characterized by four core psychological drivers,
+
+occurring for autonomy, fear of a wasted life,
+
+skepticism of authority, and hope for a secret key to success.
+
+The demographic operates within a powerful corruption narrative,
+
+believing that external forces have deliberately rigged the system against them,
+
+making traditional paths to prosperity really impossible. And so,
+
+since they're the demographic, who is your customer, tribe profile.
+
+The customers are everyday Americans aged 1845 who feel financially constrained
+
+and seek additional income or financial freedom. Nearly 44% of Americans now have some
+
+sort of side hustle, with younger generations lean the way,
+
+60% of Gen Z and 55% of millennials, they come from diverse backgrounds which
+
+are common dissatisfaction with their current financial situation.
+
+Key archetypes. The burnout professional, trapped in soul-sucking day jobs,
+
+seeking to . They escape the corporate cage. Their plan is,
+
+their pain is quite desperation from building someone else's dream.
+
+The under-resourced millennial Gen Z, grappling with stagnant wages,
+
+persistent inflation, significant debt, inflation.
+
+For them, a side hustle is a financial life line rather than a passion
+
+project. The ambitious student youth,
+
+high ambition, but low resources, often college students or teenagers are eager to start
+
+their entrepreneurial journey of facing obstacles. Have a good day.
+
+People close, like, lack of capital or parental disapproval.
+
+Stay home parent, seeking flexibility to balance work with family responsibilities,
+
+community, to combat isolation and personal identity outside their domestic role.
+
+In the fire, financial independence retired early adherent,
+
+the most disciplined archetype focused on systemic long-term financial planning to eliminate the need
+
+for active work altogether. What attitudes they have,
+
+economic attitudes, profound- about. On cynicism and disillusionment of the traditional economic system,
+
+belief that the American dream is a lie for their generation,
+
+feels like I have to make more money just to have less than what
+
+my parents did. Systemic issues of corporate tax cuts in wealth concentration have wiped
+
+out the American Canadian dream for most. I don't know why it has,
+
+I guess it's a quote.
+
+It's difficult to start a new business. 47% feel the federal government does more
+
+to get in the way than help. Dominant political act is personal succession from
+
+the system by building economic sovereignty. Social attitudes can find themselves as
+
+an in-group of enlightened individuals who have seen the truth about the Greek system.
+
+Create dichotomy between themselves in shape or losers can tell about nine to five
+
+jobs. Create a community but are highly selective seeking like minded people who validate
+
+the worldview. I love you. There's a subset of faith driven entrepreneurs.
+
+Entrepreneurs pay more frequently. Faith provides resilience.
+
+Or the hopes and dreams. The core, the core dream,
+
+autonomy and control. Ultimate goal is financial freedom,
+
+not just money but what it buys. Control for time, decisions,
+
+location and destiny. Uhm, I dreamt of owning my own business.
+
+I could feel it in my soul. Specific aspirations,
+
+a great escape, bullied to ditch your job forever. everyone. An escape pushing the
+
+clock for 30 years, building a legacy, ensuring children's essentials covered for the rest
+
+of their lives, the pursuit of purpose, finding meaning and fulfillment,
+
+lacking in current work, the dream of stability. For the financially oppressed,
+
+the simple desire for peace of mind, the dream for me is to put
+
+everything on auto pay and not have to move money around and decide if
+
+I can pay a bill or eat today. Where are the victories and failures?
+
+Well, you know, off to smaller emotions.
+
+The opponent, the first sale, the monumental event,
+
+made the first sale of $39 after a must of struggle, but went up
+
+from small wins, operating by momentum is greater than master plans,
+
+I like that. I hate a target,
+
+achieving specific income goals, no matter how small, achieving organic growth.
+
+A handyman who found word of mouth keeps me completely,
+
+umm, word of mouth keeps me completely booked at least some of the advanced
+
+failures, right? All right. Wasted at spend. Universal pain point with brutal math.
+
+This gets a little bit more technical for the market, so it's interesting.
+
+Information overload. I wasted six months chasing passive income YouTube grinds.
+
+I had 30 notion pages of ideas. Well,
+
+I could clear a strategy. I look at every morning not really knowing what
+
+I should work on. It's a productivity and time management nightmare.
+
+Burnout, hustle and grind left my 24-year-old ass to really burned out.
+
+out. Relationship. My startup moment.
+
+Lifestyle is affecting my marriage. What else do I have forces that I believe
+
+would prevent their best life? The rate economic system,
+
+stagnant wages, relentlessly rising cost of living,
+
+crushing inflation, and escapable student loan debt. Traditional path is no longer a liar
+
+to climb, but a treadmill to run on. It's a great quote.
+
+Gatekeeping gurus. Believe that online business is controlled by a cabal selling overpriced ineffective
+
+courses. The real money is increasing. Convince the people who are young and not
+
+very business savvy that it's a simple, easy thing.
+
+Big tech and algorithms feel powerless against social media algorithms and prohibitively add high
+
+ad platform costs. The government. Also,
+
+culture and machine. Prejudices against nine to five.
+
+They've disdain for traditional employment against normal people.
+
+Settle prejudice against those content of traditional life.
+
+Seen as an, I don't know. Really can sheep. I may be careful with
+
+some of this language. Again, take this off a grain of salt. Um,
+
+against formal education, growing skepticism towards college degrees.
+
+Seen as an expensive path to death. No guarantee of ROI.
+
+Confirmation bias actively seek information. Confirming existing worldview about systems and guru scams.
+
+Some of their core beliefs about life loving family.
+
+Life is a high sex game to be won through acquisition of secret knowledge
+
+over less effort, which we success. We'll soon. Success is defined by escaping the
+
+system to achieve personal and financial sovereignty.
+
+Loving family are the state motivation for this all-consuming struggle that the hustle acquired
+
+often strains these foundational relationships to the breaking point.
+
+Create a tragic paradox. They justify the sacrifice of present connection for the promise
+
+of a secure future. Living that good life is one where they have freedom
+
+to spend time with family and pursue passions. Determined to be the autism or
+
+what off-school society has put their way. All right. Other existing solutions,
+
+okay. Drop shifting till they're marketing, multi-level marketing,
+
+fire, coaching, course creation, freelance service-based businesses,
+
+boring businesses. They have a supporting ecosystem,
+
+right? One second here.
+
+here.
+
+Okay, so, supporting ecosystem, traditional side jobs,
+
+personal finance tools, and debt strategies, courses, coaching,
+
+guru programs, auto-unique hustles.
+
+What has your experience been like? The typical journey arc.
+
+Initial phase, hope and obsession. I dreamed of owning my own business.
+
+I became obsessed with the idea of success and money-making.
+
+Execution phase, overall, my failure. I've been in the drop-screen game for about a
+
+year and a half now. I've never been pro… I'll come burn out
+
+our breakthrough. Fast majority experience, burn out,
+
+small minority achieved breakthrough after mindset shift.
+
+Common experiences, kind of the same idea here.
+
+We decided small wins but don't change,
+
+provide life-changing results. Encounters with scams and disappointments.
+
+I think that's actually interesting interesting thing you can speak to,
+
+and bizah. What do they like about existing?
+
+18 solutions, umm.
+
+Dream of possibility, hoping vision that solutions sell rags to riches stories.
+
+First of all, flexibility and control, autonomous schedules, beer and boss elements,
+
+community support, built-in communities for rank and borrowing motivation,
+
+quick tangible results, immediate feedback, and small wins that show cause and effect,
+
+learning new skills, personal development. A lot of financial goals.
+
+Where they dislike scams, hype, dishonesty, fed up with false promises and misleading income
+
+claims, high costs and losing money,
+
+pay for courses and inventory advertising with little ROI,
+
+complexity and lack of clear results, solutions are more complicated than advertised,
+
+having to bug friends' family, uncomfortable social pressures,
+
+especially at MLMs, instability and hustle grind,
+
+realization that solutions are just another ground without true leverage.
+
+, Are there horror stories about existing solutions?
+
+I'm all in horror stories. I'm all in the story mix and a family,
+
+these women have been completely isolated from all relatives kicked out of PTA meetings
+
+fired from jobs to ask the leave churches. Stories of losing 15,000 plus and
+
+psychological manipulation compared to call tactics. Drop shipping neighbors.
+
+Losing thousands on ineffective ad campaigns, defective products link to angry customers and suspend
+
+the payment accounts, the defective proc nightmare,
+
+viral- product turns out to be junk, affiliate marketing nightmares,
+
+the unpaid commission, companies changing terms,
+
+or deactivated accounts after significant sales generated. Does the market believe existing solutions work?
+
+If not, why? Common faith and target skepticism.
+
+Leave underlying business models or sound, but don't trust most teachers,
+
+gurus. If it works, everyone will be doing it in mentality. Awareness of survivor
+
+bias, flashy success stories are rare exceptions.
+
+The guru, of course, saw a pipeline. available. My suspicion that real money comes
+
+from selling courses, not practicing methods. Payful personal experiences create heavy skepticism.
+
+Core on met need, not seeking another business opportunity,
+
+but a trusted filler. Fill a church to navigate confusing road of options.
+
+One protection from scams more than new opportunities. Curiosity,
+
+unique novel, angels stories. Has someone tried to sell this market's pain points.
+
+The anti-view of your influencers to build brands by exposing.
+
+Let's go. You can buy some other gurus. Promised hard truth.
+
+The other side often become new authority figures.
+
+So in their own honest courses, creates simple cycle or anti-guru becomes next target.
+
+I'm definitely seeing that and it's super annoying. Uh,
+
+the deputy system fully automated systems to solve technological overwhelm creates dependency
+
+and black box is difficult to control, solves immediate challenges,
+
+but prevents learning underlying skill. Historical- So,
+
+okay. Recyndances. Ten sources for our work week sparked digital no bad movement,
+
+some success, but difficult to replicate, communal living,
+
+cooperative economics. Mixed results.
+
+That's kind of what I know that they mean by the experience of you.
+
+Bar networks and alternative currencies. So I might go back to Gemini and kind
+
+of dive into this more like what are they referring to that became interesting.
+
+Is there a conspiratorial story behind why old solutions and-
+
+I think there's
+
+a lot of validity to this, to be honest with you. I mean, it's
+
+interesting for people watching this because a lot of people watch this.
+
+Probably have- Some of you guys probably saw this.
+
+But a lot of you probably have bought this off things. I mean,
+
+you bought my course, right, when you're watching this.
+
+But I'm also pretty careful to not
+
+try to make, like, income claims. Like, I'm not selling copyright as a biz-op,
+
+right? Like, we kind of started doing that with Copic Started Light,
+
+which was, like, you know, a lower cost version of my Copic Started Mastermind
+
+for freelancers. We did in, like, 20,
+
+I guess 2020, 2020-2021 is just 2022.
+
+But I really didn't like it. As soon as I bought out my former
+
+business partner, because I just didn't want to keep doing it. And,
+
+um, we're back to, like, CD Pro, which is just for business owners and
+
+high leverage for people who already,
+
+you know, having results, right? Um,
+
+But, I do feel this way.
+
+Most people who are selling courses kind of,
+
+even ca- honestly, most copyright and gurus. This is a total aside,
+
+but I'll just say it. Like, I think the vast majority,
+
+I mean, I've reviewed most of their copy, you know what I mean?
+
+And, like, most of the time, like, they weren't very good copywriters.
+
+They struggle to get clients. And then, instead of getting better at copy,
+
+they started at a position themselves as, like, a copy-thought leader,
+
+and they put content on X or Facebook or whatever it is.
+
+And, like, It's pretty annoying because,
+
+like, dude, you shouldn't be teaching other people copyrighting.
+
+Like, you don't know how to copyright yourself.
+
+Umm, but, you know,
+
+this is true for all this stuff. And it makes, and by the way,
+
+I mean, it makes sense. Like, even- sorry, I'm tangenting,
+
+but it's fine. Even, like, an e-comm agency, like,
+
+people do, like, e-comm, like, sell, like, e-comm, masterminds and stuff,
+
+or, like, you know, dropshipping stuff. It's a like, yeah, you barely make any
+
+profit. Most e-comm companies might get,
+
+like, a five or ten percent margin, or they lose money, so they might
+
+do, like, a million dollars, or ten million dollars,
+
+or whatever it is, but they make a couple hundred thousand dollars,
+
+if at all. So they take the revenue number, and they go teach other
+
+people how to do it, because it is easier, and you can make more
+
+money, and the margins are, like, ninety percent, depending on how you're doing it.
+
+So I get it. Umm, but I think that is a real belief,
+
+right? Logic, literally nobody was so coarse revealing how they earned money,
+
+that was just create competition. That's such a bullshit scarcity belief,
+
+but I get it. True success is a zero,
+
+zero, some game, and one of some of my secrets,
+
+most definitely not sure you're a motive. Umm,
+
+yeah, and these are worthwhile and interesting, right? Older attempts to solve the problem,
+
+door to door sales, back cleaners,
+
+forward Russians to go- PDS, original MLM model,
+
+which same core challenges us today. Umm,
+
+no-order catalogs, the original drop shipping e-commerce model.
+
+But it's probably interesting stuff you could dive into here, right?
+
+Umm, the hustle on African-American vernacular.
+
+Corruption, powerful nostalgia for more equitable past,
+
+belief in golden age when rules are those are, different in game was fairer.
+
+Single-income could support family in the 1950s and 60s.
+
+Feels like I have to make money just to have less than what my
+
+parents did. College education was affordable.
+
+Past sport of better life. My parents had six kids plus countless family pets,
+
+all on a similar income. I can't even fathom my husband and I having
+
+that amount of wealth. Previous generations were isolated group protective forces that plagued current
+
+generation. Has been recently- Thank you.
+
+Aspirated, permit corporates, corporate and government collusion,
+
+government captured by corporate interests, slashing of taxes,
+
+payable-wide corporations, ongoing series, moved to wealth concentration,
+
+2018 financial crisis, student loan crisis,
+
+inflation, rising household culture. Um,
+
+and I'm skipping a little bit because again, I'm- you can read this stuff
+
+here. What are the forces and what's the reason behind the presence?
+
+Politician is the money, greedy CEOs,
+
+profit-driven education system, greedy financial sector.
+
+Dimensions like European countries have, like,
+
+vacation, don't live to work. And the Amish kind of interesting.
+
+Strategic synthesis. And I'll give some examples and recommendations that the Amish is interesting.
+
+Before I started- That's it guys. Optical drivers, creator autonomy, fear of voice of
+
+life, skepticism of authority, hope for a secret key,
+
+actionable, copyright angles, us for some narrative,
+
+the honest mentor, the smarter-not-harder solution,
+
+the community, voice of customer lexicon.
+
+This is great that did this. It's kind of cool from quad, right?
+
+Um, pain and frustration word is rat race, soul-sucking and paycheck to- paycheck.
+
+Burnout, overwhelmed, stuck, wasted my- Thank so much. When you scam, fake or over
+
+your system, broken and exhausting, hopeful. Financial freedom,
+
+be your emboss, quit my job, side hustle, passive income,
+
+take back control, job free income, time freedom, legacy,
+
+solution and trust words. Step-by-step, blueprint system, no BS,
+
+hard truth, real, authentic community, support, mentor,
+
+game changer. Because you're the conclusion. So,
+
+again, I might go through this for example. I'm curious about the whole,
+
+uh, co-ops and things like that.
+
+Like, the communist socialist thing, whatever that was. So,
+
+I might go look at that real quick and just see. Cause I'm,
+
+uh, I'm curious. I wonder if it came from,
+
+Gemini or what? And again,
+
+there may be interesting,
+
+additional, uh,
+
+things here. So, if I were really doing a biz-op offer right now,
+
+I would, definitely read everything here,
+
+right?
+
+I just wanna get to that thing about,
+
+I wonder if I- if one of those attached to PTA had it, let's
+
+see.
+
+Like, globalization, which doesn't get mentioned,
+
+as much in, uh, that cloud thing.
+
+See, this is kinda interesting here, so I know the- the- the- the text
+
+is smart, hopefully you can read it. We're from China GBT,
+
+there's mail order millions, there's Ponzi,
+
+Tupperware, things like that. There's the franchising boom of the 40s and 50s,
+
+then it talks about Amwayin. Pyramid called Crazes.
+
+Times about co-ops and credit unions, right? In the 1800s and the 1900s,
+
+there's a rise of cooperatives, people pulling resources to achieve financial goals.
+
+Umm, this was about getting rich, but about ordinary folks and proving they're a
+
+lot by question of means. By 1960s, credit unions and co-op instances were fairly
+
+common. It shows this. They were successful in providing cheaper services.
+
+In a sense, the east financial strain. It's a quieter story,
+
+but one could- Thank you. I would an older solution to financial hardship was
+
+community cooperation. Umm,
+
+I saw some older self-help literature. So again, there's some interesting stuff that was
+
+alluded to in the quad summary, but they didn't go as deep.
+
+So this is where I wouldn't be lazy. I would still be intellectually curious,
+
+consistently throughout all of the things we're doing. And go look through here to
+
+see if there's interesting stuff that you could write about,
+
+share about, speak about. . . .
+
+and so on, okay? Umm.
+
+So I'll share that quad summary,
+
+of course.
+
+Yeah, but we had. Umm,
+
+and the last one is golf, and I think honestly, rather than go through
+
+golf, I'm going to just share,
+
+you know, the . . prompts.
+
+I'm also going to share a quad summary of it as well,
+
+and you can go through that in the examples that you'll have. So you'll
+
+have the iSIRM1, the Airbnb arbitrage one,
+
+and you'll have the golf one. You'll have to look through the deep research
+
+from Gemini, from ChagityBT, and then you'll be able to look at the quad
+
+summary that synthesizes,
+
+combines the two. Okay, so hopefully this is helpful.
+
+Hopefully you understand the value of . . doing a psychographic research.
+
+This will kind of take us through the main three segments of our core
+
+research component of R&B-C 2.
+
+Uhm, I'll do the next section.
+
+We'll be on . . . quieting all of it together to create sort
+
+of like a master research brief. Uhm,
+
+and then from there we'll put a new envelope. We'll look at .
+
+. .
+
+adds and copy . . in all these other good things too.
+
+Alright, thank you.

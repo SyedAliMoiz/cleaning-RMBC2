@@ -1,0 +1,81 @@
+Hey, it's Stefan. Real quick here,
+
+I just want to show you what you're looking at with,
+
+um,
+
+this part of what Din so kindly included for us in addition
+
+to, uh,
+
+you know, his training. So these landing page layouts are kind of designed for
+
+zip files. Download them.
+
+If you're technically inclined or savvy, uh,
+
+you know, you would can open up whichever one, like I, I picked,
+
+I guess the sock one, right? Um,
+
+and you can just double click on it. Basically you download the zip file,
+
+double click on it. Look at this. It's basically got all the files where
+
+you could rip it, all the images,
+
+all that stuff, um,
+
+for the landing pages, right?
+
+Then, you know, just to see it, if you just want to look at
+
+the swipe, you've got this index.html,
+
+if you double click on it, it'll just open up,
+
+right? So basically this is just a saved version for all the code.
+
+So for people who know how to swipe,
+
+how to do things like that, who want to feed it to a no-code
+
+thing, you'll be able to do it. So that's what this is.
+
+It's pretty cool. Um,
+
+it's pretty awesome that it did include this. You've got these,
+
+like, fine-tuning diabetes VSL.
+
+You know what, let me, uh, let me do it here instead.
+
+Sorry, you can't see all of it, but, um, I'm not sure what the
+
+diabetes VSLs are, of course, might be some aggressive stuff,
+
+but whatever, right? Yeah, reverse diabetes,
+
+pretty aggressive. Uh, but, you know,
+
+now you've got the, uh, little file, right?
+
+And now, second, the links aren't going to work because maybe that thing's not
+
+even active anymore, but, basically, you've just got these things for swiping,
+
+taking the structure, all of that. So,
+
+that's what you're looking at here. Again,
+
+you just sort of go down to the zip file.
+
+Once you have the zip file, you can unzip any of them.
+
+You have the actual files from the landing page if you or somebody who's
+
+going to design or do dev for them, and you can go look at
+
+them by just double-clicking on the .html and it will open in a browser
+
+for you. So, there you go. Thanks.

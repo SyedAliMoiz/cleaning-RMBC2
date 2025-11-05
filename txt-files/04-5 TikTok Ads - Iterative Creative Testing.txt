@@ -1,0 +1,413 @@
+So in the last video, we just talked about kind
+
+of the creative testing framework and systems, right?
+
+We wanna be testing new creative, ideally every single week,
+
+four new creatives, every single week.
+
+We wanna be looking for a, you know, 25% plus
+
+or minus success rate, where we can take
+
+that winning creative, we can scale it vertically,
+
+meaning increase the budget within the ad group,
+
+but also take that creative
+
+and move it to the scaling campaign.
+
+Now, a really important step that most people make, uh,
+
+mistake that people make in the steps here
+
+is they're constantly trying to reinvent the wheel.
+
+And what do I mean by that? I mean, every single creative
+
+that they test, every batch they test is a,
+
+a new swing, right?
+
+So it's a totally new idea, totally new concept.
+
+And that is an important part
+
+of the creative testing process, right?
+
+Is to be testing new angles.
+
+That's how we find things like this video right here, which,
+
+you know, is one of our best performers.
+
+Now it's getting, you know, $8 leads.
+
+It's, it's really, really doing exceptionally well, right?
+
+And it's maintaining that.
+
+But the problem is, what most people do is they test,
+
+they find this winner, they run it
+
+until they can't run it anymore,
+
+and they move on to the next thing.
+
+What we do is we look at this video
+
+and we treat it as modular, not monolithic.
+
+What does that mean? What is modular versus monolithic?
+
+Okay? Let's go over here real quick.
+
+So let's, monolithic is I have an ad,
+
+and the, the whole 60 seconds of
+
+that ad is kind of one self-contained thing, right?
+
+It just, it's one thing. So if I wanna make more of 'em,
+
+I just need to create something totally new, right?
+
+It needs to be new, new, new.
+
+What we like to do is we like to make creative
+
+that's modular, okay?
+
+So that means that, hey, every creative has a
+
+intro, right?
+
+It's gonna have a, a, a scroll stopping hook, okay?
+
+And that hook is going to have, you know, it's gonna have
+
+text overlays,
+
+it's gonna have a, a visual.
+
+So it's gonna be something I'm visually doing.
+
+It's gonna have a, um, sound.
+
+So it's gonna have something I'm, I'm saying,
+
+and each one of these pieces can be swapped out
+
+and changed, right?
+
+This, but this is just intro.
+
+Then there's gonna be the, the next scene in it, right?
+
+Where it's gonna be, you know, this, this is scene one,
+
+and then this is gonna go to another part of the video.
+
+And this is scene two. And this might be a problem.
+
+So we're gonna illustrate a problem,
+
+and then it's gonna go to scene three, right?
+
+And scene three is gonna be the, you know,
+
+alternative solution or popular solution.
+
+So what are people trying that they're failing?
+
+And then scene four is going to go to the current solution.
+
+So our solution, right? When and then why it's so great.
+
+And then we're gonna have scene five, okay?
+
+And scene five is gonna have, you know, social proof.
+
+It's gonna have some, you know,
+
+authoritative figure talking about the product,
+
+it's gonna have customers talking about the product.
+
+And then we're gonna have scene six.
+
+And again, this is just one type of framework.
+
+This is not the, the, we use this
+
+for every single ad just to get the point across.
+
+And then scene six is gonna have some type of really,
+
+really, um, you know, unique special offer, right?
+
+For TikTok for that channel.
+
+It's gonna be a really special, crazy deal.
+
+And then we might have another, you know, um, you know,
+
+another scene where we stack, you know, some final,
+
+you know, authority based proof, right?
+
+So this might be more like customers,
+
+and this might be a, a doctor figure, some type
+
+of authority, right?
+
+So each one of these is a piece,
+
+and each one of these could be swapped out
+
+for a, a different video, a different clip
+
+that can go in there and replace that one.
+
+And all of a sudden, now this video is a different video
+
+because it has, you know, scene two
+
+is now a different problem,
+
+or the problem's presented in a different way,
+
+or maybe a version has a different alternative solution,
+
+or a version has, uh, you know,
+
+different social proof in it,
+
+or you test a, a different unique offer.
+
+Maybe it's in this one was free shipping,
+
+another one's a discount,
+
+another one's a bonus stack, right?
+
+That's three different ads. So
+
+by treating the creative again as modular, meaning pieces
+
+of a whole, not just this self-contained whole
+
+where all these things are in one video
+
+and you're redoing it from scratch every time,
+
+this now allows me to take one ad
+
+and turn that into a a hundred ads
+
+or a thousand ads, all from a winning concept.
+
+Now, each one
+
+of these thousands is not gonna beat the control,
+
+but even if, again, I'm batting at 25%, let's go back to,
+
+we'll go back to a hundred here,
+
+and I'm batting, you know, 25%.
+
+Again, that means, hey, you know, 25
+
+of these ads are winners.
+
+Even when I'm doing a crappy job
+
+and only doing 10%, that means from one winning ad,
+
+I've been able to create 10 now winning ads.
+
+So I've 10 x the number of winners that I found,
+
+which 10 x the amount of scale I can do 10 x
+
+and longevity, my created a 10 x is everything.
+
+All right? And so that's exactly what we do.
+
+When you look at this video, for example,
+
+so this is a minute video, and this video,
+
+I'm not gonna make you watch this whole thing,
+
+but it's, it's really emotional
+
+just for a dental I implant business.
+
+It, it changed her life.
+
+At the end of the video, she starts crying, right?
+
+And so I told the guys, I was like, Hey, you know, let's
+
+take this scene
+
+where she starts crying, the emotional part part.
+
+Let's clip that part. Let's put it as a,
+
+a scroll stopping intro hook,
+
+and then have it start the video.
+
+So create this kinda loop where the end
+
+of the video becomes the beginning of the video.
+
+Now you have the end,
+
+then it starts the video, and then it ends.
+
+So you create this really cool loop
+
+that's a really popular format on the platform.
+
+And so we found this winner, and that's exactly what we did.
+
+We then took the winner, the next week's creative testing
+
+batch that we launched, we created a bunch of versions
+
+of this video, and from there we found, hey, this one's,
+
+you know, not doing, you know, $8,
+
+but it's still doing $11, still beating a lot
+
+of our, our controls there.
+
+And so what we did is what I just said, we opened it
+
+with the crying scene.
+
+We took the, uh, the, the face of the business,
+
+who's the dentist who does the, a lot of the implants.
+
+And we put her as a green screen video
+
+talking about a pointing to her.
+
+So we combined format three, no work green screen format,
+
+the authoritative face of the business people recognize,
+
+and then also the more scroll stopping visual
+
+of the woman crying.
+
+The tears. 'cause people, if people are swiping
+
+and they see a woman crying, people pay attention, right?
+
+So why is she crying? What's going on, right?
+
+The emotional side of it.
+
+And, um, and yeah, so again, just to reiterate here,
+
+every week when you're doing your creative testing batch,
+
+you want to iterate on winners and test new winners.
+
+So I'm not saying do either
+
+or it's due, you know, or one or the other.
+
+It's not binary, it's both.
+
+So every week you should be taking big swings, right?
+
+You should be looking for this next
+
+winner that you can iterate on.
+
+But when you do find winners, you should also be iterating
+
+and creating different versions of it.
+
+So, you know, it depends on kinda where you're at.
+
+As a, as a business earlier on,
+
+you're gonna be more heavily weighted.
+
+You're gonna be, you know, 75, you know, 80%
+
+is gonna be on looking for winners, like new winners.
+
+'cause you don't have any winners yet. So you're gonna be
+
+taking big swing, big swing, big swing.
+
+But as you progress, this could look more like, you know,
+
+50 50 where every week, you know, 50% of your test
+
+and budget is going to, you know, new,
+
+you know, net new angles.
+
+And 50% is going towards, you know, iterating.
+
+So meaning creating new versions of those winners.
+
+And then from these iterations, you're finding more,
+
+more winners that make you money.
+
+My drawings really bad here,
+
+and then 50% is going to finding, you know, net new angles
+
+that can then move over here
+
+and be iterate on for more winning angles.
+
+Now one final part of this,
+
+and then we'll move on to the next, next part of the module
+
+is this should be creating kind of a flywheel where the,
+
+the data you're getting from the iterations is feeding back
+
+to your net new testing
+
+because you're, you're, these aren't self-contained.
+
+So it's, hey, if I find
+
+That green screen or duets or reactions
+
+or this, this type of person in a video is doing really,
+
+really well, consistently, I wanna start my net new angles
+
+in the best possible place.
+
+And so I'm gonna take this data,
+
+feed it back into the net new testing,
+
+and that just increases the odds that I find more winners,
+
+increases the efficiency and profitability,
+
+and it brings me more stuff
+
+that I can move into this iterative testing environment.

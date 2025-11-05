@@ -1,0 +1,419 @@
+All right, so you've made some videos.
+
+Let's actually dive into an ad account.
+
+Let's talk about the creative testing process
+
+because this is something that, one of the,
+
+the single biggest factors
+
+that dictates whether you're gonna be
+
+successful or not successful.
+
+I audit so many ad accounts every single month,
+
+and the one common thing I see in successful advertisers
+
+versus not successful ones,
+
+and unfortunately there's a lot more not successful than
+
+successful, is creative testing.
+
+It's one, just having some
+
+of infrastructure in place to test creative.
+
+And the other is really, uh, being methodical about it,
+
+having a system for testing.
+
+Then what do you do once you've tested that creative?
+
+What's the next step from an iteration perspective,
+
+from an ascension perspective?
+
+So, we're gonna look in this ad account
+
+and, uh, this is actually a relatively simple structured ad
+
+account 'cause it just gets results.
+
+It's a very simple business.
+
+Higher ticket business does incredibly well.
+
+We spent over $3 million with them, um, since we,
+
+we've been running on TikTok.
+
+And, uh, and the machine they've built is just very simple,
+
+but very effective.
+
+It's creative testing every single week
+
+from those creatives.
+
+Winners get moved into a smart performance campaign and, uh,
+
+and also vertically scaled in the creative testing campaign.
+
+Now, there's a lot of other campaigns
+
+that we've actually launched
+
+for 'em that are paused right now.
+
+They're going through some, um,
+
+they're opening three new locations,
+
+so we're reworking the budgets a little bit.
+
+So when you look at this account, there's actually, um,
+
+quite a few things that are just on pause here.
+
+So we typically would also have a, uh,
+
+a smart performance campaign that's using, uh, cost caps,
+
+so using manual bidding, and this one's the lowest cost.
+
+We would typically have some other other stuff going on,
+
+some other other scaling campaigns,
+
+some other testing campaigns.
+
+But for right now, we've just focused on keeping the budget
+
+around 150,000 a month.
+
+And, um, and that's really just using the bread
+
+and butter of this creative testing,
+
+creative testing campaign, and this
+
+smart performance campaign.
+
+So these are really the, the two, um,
+
+the two campaigns that are running.
+
+And again, we're gonna dive into
+
+the creative testing campaign.
+
+But yeah, this is a, a smart plus, uh, lead gen campaign
+
+and all the winning creative gets put into,
+
+into this campaign.
+
+And it just because we're fueling it every week
+
+with new winners, the performance stays the same.
+
+And that's the big thing, whether you're looking at TikTok,
+
+whether you're looking at meta, whatever the channel is,
+
+as they move more and more towards Advantage Shopping p max,
+
+smart performance, right?
+
+These campaigns are gonna do a lot of stuff that we used
+
+to have to do as advertisers.
+
+Now I also wanted to clarify that of course,
+
+there's gonna be accounts where, you know,
+
+you wanna run other things, you wanna have more control
+
+your, your structure, whether you're using a CBO
+
+or a BO, whether you're doing your own audiences,
+
+your own bidding.
+
+Cool, that, that's fine.
+
+There's, there's lots of places for that,
+
+and that's still, you can beat the,
+
+you can beat the platform in a lot
+
+of instances if you're really good.
+
+But for a lot of accounts,
+
+I'm seeing this more and more
+
+and more if you can just give it the platforms enough high
+
+quality data for your exact customer,
+
+and you can create enough creative on a weekly basis
+
+to fuel the machine running those kind
+
+of high budget advantage.
+
+Shopping smart plus campaigns, uh,
+
+produces really, really great results.
+
+So for a lot of you,
+
+that's gonna be like one of the best paths forward.
+
+So right here we have a creative testing campaign.
+
+And within this, again, this client, every single week,
+
+our goal is to launch new creative.
+
+Now, uh, there's been periods where they kind of, not slack,
+
+but they fall off a little bit.
+
+Periods where they're testing more
+
+creative on a weekly basis.
+
+What's really important is
+
+that you're consistently doing it.
+
+Uh, ideally you do have a cadence,
+
+whether it's every Monday, every other Monday
+
+that you're sticking to and you're trying to test, you know,
+
+I would say at least four new
+
+creatives in those time windows.
+
+The more you test, the more
+
+likely you're gonna find winners.
+
+Ideally, you're batting between like two 50
+
+and three 30, meaning for every, you know,
+
+four creatives you test, you're gonna find one winner.
+
+That that's kind of the, the,
+
+the pace we like to shoot for at a minimum.
+
+Again, if you're just getting started this,
+
+you'll probably be more like, you know, one in 10,
+
+maybe one in eight, uh,
+
+but ideally when it gets to the kind of one in four,
+
+one in three where you're finding something
+
+that can be put into that, that scaling campaign.
+
+Now within here, what you're gonna see is these are all
+
+individual ad groups, meaning they're their own audiences.
+
+Every batch of creative gets tested under its own ad set,
+
+and this ad set is our winning audience.
+
+So once you've identified the top performing audience,
+
+that then becomes your control
+
+that you're gonna use when you're
+
+launching a new creative test.
+
+So you're gonna come in, you're gonna create a new,
+
+uh, new ad group.
+
+That ad group is gonna use your winning
+
+targeting and winning audience.
+
+And then under that ad group, you're going
+
+to put the creative that you want to test in there.
+
+I want to clarify here, when you're testing new creative,
+
+uh, there, there's kind of two schools of thought here,
+
+and we've gone back
+
+and forth with this over the years too,
+
+is whether you do one-to-one,
+
+meaning every single ad group has one creative,
+
+so you're totally controlling the budget,
+
+ensuring a hundred percent of the budget
+
+goes to that creative.
+
+The other way to do it is to batch.
+
+And we actually do both of these in this account.
+
+Uh, so if we, for example, had multiple versions of this ad,
+
+like different hooks, we'd put all of 'em into one ad group
+
+because the, the creative is similar enough
+
+that we're not worried about, uh, too much budget going
+
+to one and a concept not being tested enough.
+
+What some people do is they'll
+
+throw all their creative under one eye group for a test,
+
+but it, they're so different.
+
+The angles are different, everything's different,
+
+that you're not gonna get a true apples, apples test
+
+and you're probably not getting enough,
+
+enough spend in every concept.
+
+So ideally you either do one-to-one like this,
+
+or if you're gonna put multiple creative under an ad group
+
+like this one
+
+That I'm gonna show you, then they're all gonna
+
+be really, really similar.
+
+So, for example, these are all the exact same video.
+
+They just have different hooks,
+
+different setups, different frameworks.
+
+So we've already kind of tested this core video,
+
+and now we know what we're testing is kind
+
+of slightly variations of that.
+
+And, and we're fine putting multiple under one ad group.
+
+So that's really, really important.
+
+Now, what happens is when you test lots of creative,
+
+this is what you're gonna find, right?
+
+It's like, hey, you're gonna find winners.
+
+And this is so important. If you're not testing enough,
+
+you're gonna just hope that, hey,
+
+like let's say if you just launched with this creative,
+
+you're hoping that oh, 45, 40 is my my norm, that sucks.
+
+But because we test consistently, we know, okay, we're kind
+
+of averaging in the teens, teens, teens, we have a baseline,
+
+and then we find these outliers
+
+and we find these outliers like this one
+
+that actually the first week or so is getting two, $3 leads.
+
+We can do a few things.
+
+One is we can scale it vertically,
+
+meaning we're gonna increase the budget directly in here.
+
+Really, really important. A lot
+
+of people when they do creative testing, they're like, okay,
+
+I'm gonna move this creative to the scaling campaign
+
+and not touch it here, or they turn it off.
+
+It's like, no, if it's making you money, keep spending
+
+and push it, push it, push it, okay?
+
+You also want to ascend it,
+
+meaning you're gonna take this ad
+
+and you're gonna move that ad to your scaling campaign,
+
+which for us is this campaign right here,
+
+which is a smart plus campaign.
+
+Uh, which if you're meta advertisers
+
+like Advantage Shopping, right?
+
+TikTok does all the stuff for you.
+
+The targeting, the the, they,
+
+they put together the creative, all that good stuff.
+
+But within here, I would then move the winner into this.
+
+So I would just, you know, I have all these videos in here
+
+and I would just add this one.
+
+So now I have 18 videos running, and
+
+because that's a winner, it's gonna continue
+
+to fuel the performance of this campaign.
+
+So those are the the two things
+
+that I'm doing from a scaling perspective
+
+within the creative testing.
+
+The final thing here is we are going
+
+to treat creative as modular, not monolithic.
+
+And the next video we're gonna dive into what
+
+that actually means and how that's actually executed.

@@ -1,0 +1,335 @@
+Alright, let's get to, uh,
+
+the next example. Just real quick, I do want to show you,
+
+you know, for the end of that last one. This was the,
+
+uh, Opal Beauty VSL for whatever
+
+it was, uh, 30 minutes, I think I said,
+
+28 minutes. I put into this document as well.
+
+I'm actually right through it. I won't, I promise I won't in this video,
+
+uh, but I did a word count.
+
+It's 5,000 267 words. Pretty crazy,
+
+okay. Let's go back to projects in
+
+the brief generator. Okay,
+
+so let's look at another example. Let's look at Airbnb Arbitrage.
+
+Let's say, I'll close this stuff for now.
+
+We already got this stuff here.
+
+Thank for being I
+
+kind of want to not lose whatever's in cloud, it's fine. Uhm,
+
+you know, we've been doing that Airbnb Arbitrage example.
+
+I want your help generating a new brief for our Airbnb Arbitrage coaching program.
+
+I've attached a UMP and also some market research that you can pull from.
+
+I've also included a document with some additional relevant information.
+
+Please go ahead and get started now. So I did for this one.
+
+We've got the unique mechanism, you may recall from this video as well.
+
+I went with the,
+
+uhm, the income to asset gap,
+
+I'm pretty sure, yeah. Income to solution,
+
+asset gap, you're trying to,
+
+you're trying to solve an asset gap problem with an income gap solution,
+
+okay? So in this case, what I'm trying to do,
+
+one of the things I'm trying to show you is like, well, what if
+
+I don't have, uhm, Like a website already,
+
+right? To go after. Okay, we've got the UMP, you've got the Unified
+
+Research Document, which you will recall us doing,
+
+right? Uhm,
+
+and then, I did create this, because you usually would have at least some
+
+information. So basically I used Gemini to create a little,
+
+like, I'm gonna call it something different than a brief,
+
+I'm gonna say Overview, I don't like the Asset Control
+
+System Coaching Program, but it's fine. Oh,
+
+okay, I see. Actually, I can still read this,
+
+frankly. The Asset Accelerator, okay?
+
+I had it basically called, like, a case study.
+
+Spokesperson, Guru, Marcus McHays,
+
+Reluctant Mentor, 34 year old guy is burned out,
+
+it's not a flash of guru.
+
+Core Promise, and it basically created, like, the core curriculum in a week program
+
+designed to be added to the vague low support course,
+
+and I had to create modules. Dietetic Coaching Components,
+
+you offer $8,000 for three payments.
+
+Guarantee,
+
+you'll secure your first property within four months if you don't work with
+
+you one-on-one, so dearest investment.
+
+Okay, so that's, like, it's in there. It's kind of cool. It's basically gave
+
+Gemini, let me see, like, I'll show you what I did in case you're
+
+curious, right? In case you ever want to do this as a fun little,
+
+uh,
+
+case study here. Why
+
+should I do this? That's weird. Uhm, so I did one for, like, financial,
+
+which
+
+you'll see in a minute.
+
+I'm like, hey, cool, let's do something for an Airbnb arbitrage program.
+
+Uh, sending sales. Had to do coaching,
+
+sketch the program details here, I can use it as an example.
+
+Also create a fictional spokesperson and relevant data.
+
+I gave it the, uhm, unified research thing in the UMP, and this is
+
+what created copy and pasted it.
+
+So that's how I did it, in case you were curious.
+
+Thanks, Gemini. Alright,
+
+so, what prompt did we do here?
+
+I want your help generating a new brief for our Airbnb arbitrage coaching program,
+
+UMP, market research, and document for additional relevant information.
+
+So,
+
+let's go ahead and upload that stuff to cloud.
+
+We can just sort of copy and paste it over to our RMBC2 brief
+
+generator, and we'll upload those documents.
+
+Give me one moment. Alright, they are uploading.
+
+Right away, dear cloud.
+
+So now you can just see it do it.
+
+Core
+
+archetypes, stack of graphics, pain
+
+points, trying to solve an asset gap problem from income gap solutions,
+
+getting trapped, patience of paycheck living,
+
+inability to handle emergencies, never escape the night shift,
+
+9 to 5 grind, can't build generational wealth,
+
+working till death. If you promise this,
+
+we'll show you the hidden truth about why every side hustle you've tried has
+
+failed, and reveal the asset control method that lets you start accumulating cash flow
+
+in real estate assets without needing hundreds of thousands of dollars or perfect credit.
+
+You'll discover why you've been solving the wrong problem this entire time,
+
+the specific method that bridges the gap from income dependent to asset rich,
+
+how to control cash flow and properties without owning them,
+
+I'll show you proof why this works for regular people starting with limited capital,
+
+what does it look like, okay, waking up to money deposited from guests who've
+
+stayed while you slept, multiple income streams, providing 5,000 to 15,000 a month passes
+
+of income, complete financial peace of mind,
+
+building a portfolio of cash flowing assets worth hundreds of thousands,
+
+lifestyle transformation, complete autonomy over time and schedule,
+
+never asking permission for time off, They'll either quit their corporate job forever,
+
+or they'll work from anywhere with just a laptop and internet connection,
+
+time, freedom to travel, respect and recognition,
+
+being part of an exclusive community,
+
+legacy creation, ensuring their children's financial security,
+
+confidence from mastering a skill that creates lasting wealth,
+
+existing things that exist, high-ticket stuff,
+
+DIY, traditional real estate, other side hustles,
+
+etc. You need mechanism of the problem,
+
+this is sort of our UMP UMS from the document,
+
+the asset control method, unique nickname,
+
+that's why we have this one here, the rental arbitrage loophole,
+
+the asset gap bridge, control for ownership system,
+
+main ingredients, MA, bold claims,
+
+acquire and automate your first cashflow and rental asset in 90 days,
+
+replace your 9 to 5 income within 18 months using the asset control method,
+
+properties with $5,000 to $15,000 per unit instead of $100,000,
+
+generate passive income that works while you sleep, travel or spend time with family,
+
+supporting claims, start building real wealth with minimal upfront capital,
+
+create win-win partnerships with landlords who actually want this arrangement,
+
+automate 90% of operations so this doesn't consume your life,
+
+build a defensible business and markets others overlook,
+
+program what What it is, is this, module breakdown.
+
+High-value support components. Now,
+
+frankly, honestly, if I want to write the VSL, I probably would upload because
+
+it was sort of brief, right? It's fine,
+
+but I might, if I had a good thing that really sketches out what
+
+the product includes, I might actually do,
+
+uh,
+
+include that as well. I'll be honest with you, so keep that in mind
+
+when we get to the VSLs. Background story.
+
+It's got Marcus's journey, Marcus Mac,
+
+right? Um,
+
+main speaker is Marcus, second speaker,
+
+NA, brand company,
+
+testimonials,
+
+proof elements, before, after screenshots,
+
+credibility builders, 90% millionaires,
+
+but wealth reveals. Real estate, Federal Reserve data confirms the asset gap is widening,
+
+housing shortage creates unprecedented opportunity for rental arbitrage operators,
+
+it's credibility, I think these are really sort of things from the brief as
+
+well, results, credibility,
+
+normal price, $8,000. Now again,
+
+I might also, I would do this probably as a book a call VSL,
+
+not a, uhm,
+
+book a Now as a VSL to sell a product for this much,
+
+for that much money, doing bonuses which are cool,
+
+scarcity, future pacing,
+
+here's what's going to happen for 30 days, 60 days, 90 days,
+
+6 months, 12 months, 18 months,
+
+objections. This is another
+
+guru trying to get rich selling courses, the real cost would be way higher.
+
+Landlords will agree to this,
+
+everyone is doing this, won't work anymore, becoming their overwhelming side hustle.
+
+I tried other business opportunities and failed, got a lot of objections,
+
+right, I don't have money to start, what if the market crashes,
+
+and then there's hoax, right. The hidden truth about why every side hustle you've
+
+tried has failed, rental arbitrage loophole that landlords actually want,
+
+high control 2.3 million real estate assets without owning a single property,
+
+the asset control method that's creating millionaires without traditional loans.
+
+Investors wait for down payments, but the housing crisis is actually creating the biggest
+
+opportunity of our lifetime. So I went kind of fast,
+
+but the reason why is I just want you to see how,
+
+it's really about journey of the brief, you can read through these examples,
+
+and you should. Uhm,
+
+but really all we did, research, mechanism,
+
+and the other part of it too, the, uhm,
+
+little starting thing. Okay,
+
+so, same thing as with the UDI storm example,
+
+we can now take this and write all kinds of columns. I'll be short
+
+as, long as, all that, and I'll do that in another module, I'll keep
+
+these shorter. I'm going to do two more videos with two more examples.

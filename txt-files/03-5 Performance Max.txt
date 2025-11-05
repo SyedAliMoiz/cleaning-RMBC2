@@ -1,0 +1,235 @@
+Hey everybody,
+
+David O'Connell here, and today we're going to be talking about performance max ad
+
+campaigns for direct response advertisers.
+
+So, the first thing to be aware of when talking about performance
+
+max ad campaigns is the volume that is available
+
+from them. So, this is a slide from the overview,
+
+uh, module, where we talked about the district distribution of ad spend,
+
+uh, across high spending ad accounts,
+
+well optimized ad accounts.
+
+And we're typically seeing on average about 27% of spend
+
+go to performance max ads. So,
+
+you know, I think that alone tells you it's,
+
+it's a meaningful campaign type to pay attention to.
+
+And it's the second largest campaign type behind demand generation.
+
+Uh, it can drive purchases that are top of funnel and bottom
+
+of funnel. Um,
+
+and, and, uh, really just can be a great boost to performance in your
+
+ad account. So I'm going to talk about how to set these ads up,
+
+how they're served, et cetera. Uh,
+
+so as always, let's start with the context of where will the ads be
+
+shown, who will see the ads, and what is the ad?
+
+So performance max ads are a combination
+
+of everything Google offers in one campaign.
+
+They take all the ad types and all the ad placements,
+
+and then Google uses its own AI-driven targeting to put those ads in front
+
+of the right people. And also to select which of your ads to
+
+put in front of which people. Uh,
+
+Google has a lot of data, which makes it possible for them to do
+
+this effectively. Uh,
+
+so where do the ads show? Uh, it's everywhere,
+
+right? It can show up on Google Search, the Google Display Network,
+
+YouTube, Gmail, uh, Google Maps, Google Discover,
+
+and also Google Shopping,
+
+if you have a product feed.
+
+Uh, I highly recommend, if you sell a physical product, to include your product
+
+feed in your performance maximum. ads.
+
+Uh, you will always see a big boost in performance from your performance max
+
+ads, if you include your shopping feed.
+
+And I would also say, going back to this slide,
+
+within performance max, you can see here,
+
+you know, standard shopping campaigns are about 4% of spend.
+
+But performance max is about 27% of spend.
+
+And of that 27%,
+
+usually we see on physical product accounts,
+
+about half of that performance max spend going specifically to shopping
+
+placements that have been served. So it's a really big
+
+chunk of these campaigns can be driven by the shopping fee.
+
+Again, that's only if you have a physical product. If you don't have a
+
+physical product, you can still run performance max ads.
+
+You'll just be limited to these other placements.
+
+You'll be limited these other placements.
+
+Again, that's you have a physical product. Again,
+
+that's Again, that's only if you
+
+a physical product.
+
+A video watch history. Uh,
+
+so, you know, Google knows if somebody searches for sunglasses today,
+
+then they want to get sunglasses in front of them,
+
+uh, through a lot of the ad impressions today,
+
+and performance maps can,
+
+can do that in a dynamic basis. Uh,
+
+most performance max traffic is for mobile devices,
+
+over 70% of your traffic, uh,
+
+will be mobile. And, uh, and then here is the ad format.
+
+So, like I said, this is everything. So, you,
+
+you can feed your performance max campaigns,
+
+up to 15 image assets, up to 5 videos.
+
+Up to 5 headlines, which are 30 characters.
+
+Also up to 5 long headlines,
+
+which can be 90 characters. Up to 5 descriptions.
+
+Uhh, your business name logo.
+
+It's called action text. Umm.
+
+And then your product feed, as I said,
+
+highly recommend that you include the product feed, uhh,
+
+your product, your shopping feed. Umm,
+
+and then it can automatically include site links and other extensions.
+
+So like I said, you're, it's literally every asset that,
+
+every asset type that Google offers.
+
+Can be loaded into these campaigns.
+
+And usually the more proven assets you upload,
+
+the better performance you're going to see from your performance max campaigns.
+
+And, uh, I say that with a caveat because you don't want to just
+
+go for quantity here. If you have a lot of ads but they're not
+
+very strong ads, that will, of course,
+
+dilute your results. Um,
+
+so you want to bring together as many winning ads as you have and
+
+really feed them into here. And then the other caveat is,
+
+you know, you don't have to use every single.
+
+And format type. Umm, but as many ad format types as you have
+
+strong performing ads for the better results you can get.
+
+Alright, so these are some of the placements for performance max,
+
+right? Like I said, it's YouTube display, search, discover, Gmail, and maps. Uhh, um,
+
+so you upload your ads to Google,
+
+it can show up in any of these formats. And finally,
+
+now that we have this background, how do we create effective performance max ads?
+
+And, uh, you know, this part of the module,
+
+I think is, is very, it's much shorter. More than a lot of the
+
+other modules, because if you've already done what I've outlined in the prior
+
+modules for each campaign type, then you're already in a great place,
+
+you're already prepared to create great performance max ads.
+
+And the reason for that is you basically want to look at,
+
+all your existing campaigns where you've already had success and take the winning ad
+
+assets and upload as many of those winners as possible into a performance max
+
+campaign, set up your targeting signals,
+
+uh, add your shopping feed,
+
+and then let this run. Umm,
+
+so, you know, really highly recommend that you don't start a performance max ads
+
+as your first ad type, uh,
+
+in Google, you want to run the other ad types,
+
+figure out, uh, which your best performing ads are within those campaigns,
+
+and then take the winners, port them over here. Put them together and put
+
+the performance max campaign, and then let it run.
+
+Umm,
+
+and then when you do that, you can get a big boost,
+
+uh, you can grow your campaign pretty substantially.
+
+Uh, you know, as I showed at the start here, you know,
+
+on average, uh, advertisers are seeing.
+
+27% more volume by taking this strategy and pushing all their winners
+
+into performance max. That's it.

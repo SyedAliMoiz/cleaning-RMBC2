@@ -1,0 +1,3233 @@
+Watch time, like how long people go through a video, like
+
+how the lengths of videos, all these sorts
+
+of things, I think are really valuable.
+
+So always appreciate Patrick.
+
+I've known him now for a long time,
+
+almost like a decade now.
+
+Yeah, honestly, which is pretty wild.
+
+Like pre lytics. Yeah,
+
+Pre lytics. Yeah. Yeah. And
+
+then as always say, you ask me like I want
+
+to invest in it, and then I said, you know,
+
+I don't have the bandwidth right now.
+
+Yeah. And then, uh, kind of regretted that, but it's okay.
+
+Um, but it's been awesome to see what you've,
+
+what you've done with it, you know?
+
+Um, good to see. And so, uh, yeah,
+
+but further ado, please welcome Patrick Styles.
+
+Thanks, Stephan. Um, so yeah, like he was saying, uh,
+
+I spoke, uh, about six months ago at the first, or,
+
+or last mastermind.
+
+And, um, you know, Stephan was like,
+
+Hey, does anybody want to talk?
+
+And I was like, I always want to talk
+
+because I can't shut the f**k up.
+
+Uh, and he was like, well, do you have anything new?
+
+And I was like, yeah, we definitely have some things new.
+
+Uh, and he was like, and I showed it
+
+and he was like, cool, let's do it.
+
+But then since then I was like, no,
+
+I really gotta, like, bring the heat.
+
+And, uh, we have basically kind of revamped this report.
+
+So if you heard me talk
+
+before, hopefully this is still gonna be, you know,
+
+enlightening and some new stuff that's interesting.
+
+And I've also kind of re-packaged this data instead
+
+of just being like, here's a bunch of numbers of, uh,
+
+really kind of turning it into more of a playbook
+
+where it's like, we have benchmark data, you know,
+
+across all these different VSLs.
+
+And the idea is like, where are you?
+
+And then like, what are your numbers
+
+and then what to do next sequentially, you know, basically,
+
+you know, going from the easy wins, like the stuff
+
+that's just like clicking a button
+
+or like exporting a video in a different format to, uh,
+
+the stuff that's gonna be a heavier lift.
+
+So, and basically, uh, I would bet anybody
+
+that the stuff I'm about
+
+to show you would increase your conversion rates,
+
+I'd bet you a thousand bucks easy.
+
+Uh, so I'll talk more about that later.
+
+And why am I so confident? Been making VSL since 2010?
+
+I didn't even know what a VSL was.
+
+I just wanted a, a video on my landing page.
+
+I didn't realize it, but, uh, that was probably one
+
+of the first VSLs in the world.
+
+Uh, it's funny, a lot of people in the game today,
+
+they've been in this, you know, like 2, 3, 5
+
+years, and that's fantastic.
+
+I mean, it's really cool to see, uh, people crushing it.
+
+Um, but, you know, it's, it's been a while for me.
+
+So founded a bit of lytics, uh, with my ex-wife.
+
+Um, obviously she's this one, uh,
+
+this is in Austin last year.
+
+This is us, uh, in Poland last year. She lives in Poland.
+
+Um, god knows why, but, uh, that's her decision.
+
+So she just got engaged.
+
+Um, I don't know if, uh, even Emily
+
+or Jackson know that, uh, some of my teammates here,
+
+but, um, yeah, she's like, what?
+
+Yeah, she just got engaged to a Polish guy
+
+who is also crazy.
+
+And, uh, and he's named, uh, Piort like Peter.
+
+And, uh, so we call him P two.
+
+So anyways, these are some of the people that we work with.
+
+Uh, primal Health is in the room.
+
+Uh, I know, uh, several other people in the room,
+
+uh, use Lytics.
+
+Uh, but the data that we're sharing with you is, you know,
+
+it's based on our entire platform as much as we're able
+
+to clean it and like kind
+
+of extract like the signal from the noise.
+
+Uh, but you know, it's based
+
+on, you know, these people's data.
+
+Uh, and as you've seen, you know, basically this is, uh, we,
+
+we estimate that the videos on Lytics have driven about
+
+$3 billion in sales.
+
+All right, cool. Uh, something else, uh, this,
+
+this is a little bit of an aside,
+
+but normally when people come over
+
+to Lytics, they split test us.
+
+And we've learned
+
+that like we wanna like insert ourselves in that process
+
+because when we're involved, uh,
+
+like when it's a fair fight, we win.
+
+So we bring in our engineers
+
+and we do a bunch of like, kind of audit just
+
+to make sure the data's gonna be clean.
+
+Uh, but I personally audited over a hundred split tests,
+
+and every single time we've found a problem.
+
+So if you want to talk about split testing
+
+or anything like that, I don't have split testing software
+
+or anything to sell in that space.
+
+Uh, that's just like a free thing that we do
+
+to just like win win, uh, you know, um, users.
+
+But that's something that we can talk about.
+
+So anyways, let's dive into some data.
+
+Uh, so first names are your conversion rates
+
+below average, or where are they at?
+
+So on all videos across Lytics where we're able
+
+to detect the, uh, conversion tracking, uh,
+
+or they have lytics conversion tracking set up, uh,
+
+the average conversion rate is 1.78.
+
+Uh, this is actually a little bit higher.
+
+Uh, we have some more data on this book.
+
+A call has stayed kind of flat around 8%.
+
+And this, these are the trends.
+
+So in 2023, it was 1.2, all time is 1.56.
+
+The last six months is 1.78.
+
+So the number we're just sharing,
+
+and this is kind of a more robust sample size
+
+because basically 2025 is basically,
+
+we're two months into the year for, for all intents
+
+and purposes, but 2025 so far is 1.5.
+
+So this is kind of bouncing, bouncing around a little bit.
+
+It does seem like the trend is going up.
+
+Something that I was thinking about with this is
+
+that it's the first quarter, right?
+
+And the majority of our users are health advertisers.
+
+They have some sort of health product, uh,
+
+and we see it on December 26th.
+
+Every single year, the the volume just starts ramping up.
+
+And of course, during the holiday season,
+
+people are getting fat and they're not buying, you know,
+
+health products, whether it's weight loss or not.
+
+Uh, so that might be kind of the reason why this is lower.
+
+But you know, overall I do kind
+
+of see like conversion rates going higher,
+
+which I found to be interesting.
+
+Uh, and some of this stuff, like even things
+
+that I was sharing like six months ago, like,
+
+we actually were like, oh yeah,
+
+we think VSLs are getting shorter.
+
+And we like went and looked at the
+
+data and we're like, oh, no.
+
+So like that's actually not the case.
+
+So that's kind of some of
+
+the stuff that I'm gonna be sharing.
+
+So engagement rates by by niche.
+
+I'm not gonna read all these. Um,
+
+but I am curious, like here, who here is running a VSL?
+
+Okay, so maybe like two thirds or so of the room. Gotcha.
+
+And I don't know why, but golf is really low.
+
+Um, we like went back and verified this number.
+
+It went up by like two, one hundredths
+
+of a percent, uh, biz op.
+
+These are probably a lot of, uh, book of call people
+
+who here is running a book of call funnel.
+
+Okay. So like maybe six people. Um, gotcha.
+
+That's pretty good. I was at the financial marketing summit
+
+and I asked that question, it was like one person,
+
+and I was like, all right, we're gonna skip over that stuff.
+
+Highest converting traffic sources.
+
+This is the data that we have.
+
+So META'S 1.87 YouTube's
+
+below a percent Google paid is, you know, whatever.
+
+Uh, the interesting thing here is Google Organic is 8%.
+
+What I think is really interesting is
+
+how is Google organic click, even making it to A VSL.
+
+So, you know, but that's, that's something, yeah, go ahead.
+
+Uh, do you think some of that's just like
+
+a lack of attribution?
+
+Because I know we see that a lot of times
+
+with our businesses where
+
+with get them, we're really doubted now.
+
+But even with Opal, where our, our guy gives us a daily CPA,
+
+like we track a bunch of stuff
+
+and he's always like Google Organic,
+
+and we're like, none of that's actually organic.
+
+It's, people saw a video, they, you know, whatever it is.
+
+Like they come back. Yeah. So I'm, I'm curious, do you think
+
+that's sort of skewed by, uh, you know,
+
+people just searching for brands
+
+that already saw a VSL or ad Yeah.
+
+Or another funnel, things like that?
+
+A hundred percent. So like how our conversion tracking
+
+works, and pretty much probably any conversion tracking
+
+works is that somebody watches the video
+
+and then they convert after it,
+
+and then you have a conversion window.
+
+So it could absolutely be coming through that,
+
+like branded search traffic.
+
+Uh, so yeah, so in fact, that actually makes a lot of sense
+
+where maybe they're not actually searching whatever,
+
+winding up on A BSL and then converting.
+
+So yeah, that, that could be kind
+
+of a, a little bit of noise in there.
+
+Uh, TikTok super low, which is surprising.
+
+Um, and then conversion rates by medium, uh, basically,
+
+you know, affiliates convert, uh, the, you know, one
+
+of the best here we have organic,
+
+which Stephan was just talking about, you know,
+
+might be kind of like thrown off organic here,
+
+is gonna include, uh, search, social and something else.
+
+But just being a, a bunch of, uh, like the random stuff
+
+and, uh, and then email and paid.
+
+Uh, and I would say the vast majority
+
+of traffic on lytics is paid traffic.
+
+Um, I, yeah, I don't have that pulled up,
+
+but that's where that would land.
+
+Um, I might have shared this last time, so, you know,
+
+out outta geographies, it's really interesting
+
+because Africa
+
+and the US have almost the same engagement rates
+
+and we found a, uh, you know, a correlation
+
+between engagements and, and conversions.
+
+But Africa converts at one fourth, that
+
+of the US or North America.
+
+And you know, the, the lesson there I think is
+
+that if you have any traffic, you know,
+
+coming from the African continent, you know, geo detect it
+
+and drive it to some offer that's gonna convert better,
+
+like, you know, if you can just find like an affiliate offer
+
+or something like that, that's kind
+
+of like primed for that space.
+
+I don't know why people on
+
+that continent are necessarily watching VSLs.
+
+I find it very interesting that they're engaging with them
+
+and they actually want to consume that content,
+
+but then they're actually, you know, probably not even able
+
+to get the product in a lot of cases, uh, you know, or,
+
+or process a credit card or anything like that.
+
+Uh, Europe is converting about 30% higher than North
+
+America, and we're seeing this a lot
+
+with companies like ship offers
+
+that are open up facilities in, in Europe,
+
+and that like, that's kind
+
+of like lagging behind North America.
+
+Of course, the capitalistic, you know, mecca of the world,
+
+uh, where, you know, this is the most ferocious, aggressive,
+
+uh, you know, basically market.
+
+Uh, you know, and it's, you know, there's pros
+
+and cons to that, but a lot of people are basically,
+
+you know, taking tactics that work here
+
+and then like duplicating it over into the European market.
+
+So that's like an arbitrage kind of thing that, you know,
+
+is, is an interesting play.
+
+Uh, you know, for conversion rates,
+
+the best converting countries, Spain, France, Italy, uh, so,
+
+you know, part of, you know, obviously the eu
+
+and then the worst converting countries, Nigeria, India,
+
+and South South Africa.
+
+I don't know if anybody is trying to target those countries,
+
+but, you know, fun fact, um, what is interesting here,
+
+the difference between these, right?
+
+Is that basically, um, you know, there's a little bit
+
+of like movement on the top, you know, uh, countries
+
+for engagement, and again, we, we found
+
+around a 28% is the current correlation
+
+between engagement and conversions.
+
+Before it was like 33%.
+
+So it is kind of dropping,
+
+and we see that kind of dropping over time.
+
+So I'll, I'll talk more about that.
+
+But something that's interesting here is
+
+that the engagement in Brazil
+
+and Singapore is, uh, is quite bad.
+
+Uh, while, you know,
+
+they're not necessarily the worst converting countries.
+
+So if you're targeting those places,
+
+which is actually probably more likely than you know,
+
+Nigeria, uh, for this room, is that, you know,
+
+these people are watching videos less, but they're still,
+
+but it's not necessarily
+
+impacting the conversion rate as much.
+
+So there's a weaker correlation
+
+between those two different metrics.
+
+So if you're targeting those places
+
+and you're trying to optimize your VSLs, then you would want
+
+to like, you know, kind of pay a little bit less attention
+
+to engagement and especially engagement benchmarks
+
+that I'm gonna talk about where, kind
+
+of take it with a grain of salt.
+
+So if you're below those benchmarks,
+
+these are some easy things to do.
+
+So slapping controls onto the video, this is something
+
+that surprised me because, you know,
+
+nor normally it's like strip, strip away all distractions,
+
+don't let anybody have anything.
+
+But we found that when videos have the rewind, the volume,
+
+the quality controls, this B controls,
+
+they have higher conversion rates.
+
+Now, I wanna be clear here, these aren't split test.
+
+So this isn't like we went out
+
+and like we tested turning on this feature
+
+and turning off this feature.
+
+This is just, we looked at videos with this turned on,
+
+and with it out turned on when we were able
+
+to tell like, their conversion rate.
+
+And then, you know, you know, was there kind of basically a,
+
+a signal there that we thought, you know,
+
+would translate to a best practice?
+
+Because there's pretty much always gonna be a higher impact
+
+split test that you can do than, uh,
+
+testing like the volume control on your player.
+
+You know, uh, there's pretty much always gonna be that.
+
+So nobody's really gonna get around
+
+to ti like split testing this level of detail.
+
+Uh, so basically when in doubt, go with the best practices.
+
+So this is what we tell people to do.
+
+We would say that it's like, you know,
+
+kinda like a nice to have sort of thing.
+
+So if somebody feels strongly,
+
+we're not gonna argue with them about it.
+
+But, you know, left to our own devices,
+
+if we're setting up a, a video for somebody, uh, you know,
+
+this is what we would turn on. So this is,
+
+We didn't wanna split test that we just duplicate.
+
+Yeah, yeah, yeah, yeah, yeah, exactly.
+
+Um, so this is a lot of data about video resolution,
+
+and there's, I, I almost didn't share this today,
+
+but I was like, ah, f**k it.
+
+I'll show 'em all the data that I got.
+
+And the reason why I didn't wanna share it is
+
+because there's not like a clear trend here where like,
+
+because like seven 20, so this is startup resolution, right?
+
+So the first resolution chunk
+
+that the person sees when the video starts playing,
+
+and then this is the max resolution.
+
+So basically the highest resolution
+
+that the video can go up to.
+
+And basically what we had seen in the past is
+
+that lower startup resolutions converted really
+
+well, that's still true.
+
+Uh, or over here it would be the startup resolution.
+
+And we're still seeing like a really low, uh,
+
+startup resolution, converting well,
+
+although this one's also still low and it's quite,
+
+but the conversion rate is low.
+
+So there's not, so,
+
+so there's not like a super strong kind of signal here.
+
+But what I would absolutely recommend is, you know,
+
+without kind of going brain dead on the data here,
+
+is basically have a video that can run at 10 80 p,
+
+so like a high resolution,
+
+but then set the startup resolution to, you know,
+
+either medium, which is gonna be an automatic setting,
+
+at least in lytics or something lower.
+
+I don't know if oth other video players actually have this
+
+setting in their platform.
+
+We've geeked out like just a stupid amount on video over the
+
+last eight, nine years at Lytics
+
+where we just think about like really
+
+granular b******t about video.
+
+It's super tedious.
+
+Um, I kind of wish I started a business that like, you know,
+
+or, or that I knew less about video.
+
+Um, but this is stuff that we think about.
+
+So, you know, basically the thing here though is
+
+that when you have a lower resolution on the startup
+
+quality, then that's gonna be the first chunks
+
+that they're sending over to, uh, to basically the viewer.
+
+And that means that it's gonna start up faster.
+
+So that's basically what I'm saying here, is
+
+that you want the video player to start up faster.
+
+So you want the first resolution to be lower,
+
+it's gonna be a little kind of blurrier on the first few,
+
+like first few seconds,
+
+and then it's gonna upscale to whatever their
+
+bandwidth can, connection can handle.
+
+Alright? After you're looking at those, those kind
+
+of easy things there, then you would
+
+wanna look at an engagement.
+
+And I, uh, just, uh, just talked about this,
+
+but we found a correlation between, uh, engagement
+
+and conversions of 28%.
+
+Now I have a PhD on my team
+
+that actually has helped like us, like, you know,
+
+build this report and, you know, the first rendition
+
+of it took over a year to basically put it together.
+
+Uh, this guy's a brainiac
+
+and you know, he's like, so this is a, you know, weak
+
+or very weak correlation kind
+
+of depending on where it lands.
+
+And it's like, but it's statistically significant.
+
+And basically what that means is that, you know,
+
+engagement is definitely gonna be
+
+tied to higher conversions.
+
+So you have higher, higher engagement,
+
+you're gonna have higher conversions,
+
+but it's not gonna be this sort of thing
+
+that it's like a one-to-one thing
+
+where if I like double my engagement rate,
+
+then I'm gonna double my conversion rate.
+
+So basically, you know, it means that people need
+
+to watch your video before they buy,
+
+but you know, it's not the end all be all.
+
+And we're gonna talk about some other stuff
+
+where we just see some really kind of wild,
+
+wild discrepancies here.
+
+So engagement by niche, um, I'm not gonna read all these,
+
+but you know, if you want these slides, you can get 'em
+
+or do you want some, don't worry about, okay.
+
+Okay. What is the number?
+
+So this would be on average how much
+
+of the video a person watch.
+
+Yeah, yeah, yeah. So, you know,
+
+and you can see what these VSLs people are making it
+
+basically between like, you know, 15 and 20 ish percent
+
+or 25% in the case of finance, which is really interesting,
+
+of course, like the fin pubs are doing like these really
+
+juicy stories of like, you know, the boogeyman that's gonna,
+
+you know, rob your, you know, life savings and stuff.
+
+Uh, and it's more of a boomer
+
+market, probably more than a lot of others.
+
+So I do think that's kind of interesting.
+
+And then golf, which also has one
+
+of the lowest conversion rates out of the niches
+
+that we track, you know,
+
+is also a really low engagement rate.
+
+So, uh, so engagement is dropping across videos on lytics,
+
+uh, over, you know, basically the last three years.
+
+So that is something that's interesting.
+
+And before I'm saying that conversion
+
+rates are basically going higher.
+
+So that even kind of shows that that correlation
+
+between the two things is actually weakening, uh,
+
+where basically, you know, people are watching less video,
+
+but they're buying more.
+
+So, you know, that basically kind of means
+
+that people coming through these, you know, basically,
+
+you know, they're less engaged.
+
+Maybe they're more in info overload,
+
+but they have a higher propensity to buy.
+
+And then engagement rates by, you know, traffic source
+
+eng engage, uh, organic's really high, you know,
+
+emails the highest O right,
+
+or actually, sorry, so affiliates are basically the highest
+
+than email than paid in organic.
+
+So pretty tight kind of correlation between all those, or,
+
+or like tight, kind of like windows.
+
+There's no kind of major outliers there.
+
+Um, so some things that we recommend.
+
+So here, here's the thing, right?
+
+So engagement and conversions, are they correlated? Yes.
+
+Are they super strongly correlated? No.
+
+You know, like I was just saying.
+
+But basically when in doubt, you know,
+
+without getting into the copying the other metrics and,
+
+and some things like that, you definitely want
+
+to increase, increase engagement, right?
+
+That is gonna be the leading indicator
+
+that you can really kind of focus on if at least if you're
+
+trying to move the needle and you don't have like any other
+
+kind of clear hypothesis
+
+as far as how you want to go about that.
+
+So some things that we recommend for doing that, you know,
+
+would be our smart autoplay, which, you know,
+
+pretty much every video player on earth has
+
+a autoplay feature.
+
+A few of them have also called their smart smart Autoplay.
+
+Uh, the reason why we call our smart though is
+
+because it's gonna detect it.
+
+The browser can play with sound,
+
+and if not, uh, it's gonna play it on mute.
+
+But if so, it's gonna play it with, uh, with audio.
+
+So we'll still push that through in an aggressive fashion.
+
+On, on videos recently, Instagram came out
+
+with a new version of their, uh, browser
+
+where they were not even letting, uh,
+
+muted autoplay come through.
+
+So they were just completely shutting it down.
+
+We saw it in our data, we responded
+
+to it within about a day.
+
+Uh, but now we're joking
+
+that we should call it Smarter Autoplay,
+
+because basically what, what that happens, like a lot
+
+of Instagram traffic is, you know, out there, is
+
+that it's gonna not even let the video play on mute
+
+and it's basically gonna mangle it.
+
+And it's like, not like a bug of lytics.
+
+This is something that affects every single video player.
+
+Uh, and it was just basically a decision by Meta
+
+or the Instagram team over there to, you know,
+
+shut down autoplay videos.
+
+Uh, some other things here, smart Pause.
+
+This is something where if somebody's on the tab,
+
+like your video's on a tab playing
+
+and they go to another tab, it's gonna pause the video.
+
+So it's not gonna let that play in the background.
+
+It's not gonna let them get distracted
+
+and go check their Facebook or their email
+
+or anything like that and wait for your CTH to drop
+
+so they can make an up or down decision on your price.
+
+It's basically gonna force them back into that VSL,
+
+much like removing the seeking Bar
+
+and then focus full screen.
+
+This is something where if a video goes full screen on a
+
+mobile device, uh, it's gonna add in the controls
+
+because just the phone's operating system takes over.
+
+This is how every video player works.
+
+So what we came up
+
+with is basically it can take up the entire screen, not,
+
+or sorry, the entire browser, not the screen.
+
+And it sounds like a small distinction on a,
+
+on a desktop you'll still see the tabs at the top,
+
+but on mobile it's gonna look identical
+
+to the video going full screen.
+
+So then what that means is
+
+that if you've removed Seeking Bar
+
+or you have other kind of things that you've like, kind of,
+
+you know, modified in the player settings,
+
+that's gonna stay consistent when
+
+the video goes full screen.
+
+So, um, you know, these are basically the benchmarks.
+
+At two minutes in, we find that, uh,
+
+the average video on Lytics has 33% engagement.
+
+So this is probably one
+
+of the most important metrics in here.
+
+Uh, that's just like a really good benchmark to see.
+
+Uh, I was looking at, uh, uh, Jake
+
+and Dave's, uh, BSL yesterday,
+
+they were at like 45% engagement, you know,
+
+so those guys are crushing it.
+
+I was like, I wouldn't necessarily focus on your lead.
+
+What's interesting here is that
+
+before this was, there was a bigger drop off
+
+between the first two minutes and the CTA drop,
+
+and we've seen that tightening.
+
+So a little bit lower people,
+
+a little bit fewer people making it first
+
+through the first two minutes,
+
+but then more of them are sticking to the CTA drop.
+
+That's like the recent data that we're seeing right now.
+
+Um, so, you know,
+
+basically everybody should be split testing leads.
+
+You know, we're talking about high impact split tests like a
+
+moment ago as far as like controls
+
+and stuff like that, uh,
+
+that's not the split test you should be doing necessarily.
+
+Uh, I would say that one of the, you know,
+
+the highest impact split test is always gonna be split
+
+testing the lead of the video.
+
+Uh, it's gonna vary in length,
+
+so I just randomly pick two minutes.
+
+Uh, I will set up tracking to actually fire right then
+
+so I can kind of know how much I'm paying to get somebody
+
+to two minutes into the video.
+
+Uh, but basically, you know,
+
+constantly split testing leads I think is a great idea
+
+among other things like price and offer
+
+and, you know, headlines or whatever.
+
+Um, and then unmuting, uh, your videos.
+
+So basically I was talking about like all the granular
+
+conversations that we get into at Lytics
+
+where it's like we're just like, kind of like thinking
+
+a whole lot about video players
+
+and VSLs saying conversions and stuff like that.
+
+And one of the things that we're wondering is,
+
+are people watching VSLs on mute?
+
+Because I think we probably all do this
+
+where we're like scrolling social media
+
+and like a video pops up and we don't unmute it
+
+and we just read the captions.
+
+So we're like, Hey, is that happening with the VSL?
+
+And the answer is basically no.
+
+So, uh, people are not doing that from like,
+
+basically the data that we have.
+
+The one guy I sent you away where he was like,
+
+I don't remember this, the VSLs not converting, and Nick
+
+and I had written it for this guy for the agency side,
+
+and he's like, you, I've got,
+
+and first of all, it was like f*****g
+
+400 clicks or something like that.
+
+Okay. But then he is like, show me his data.
+
+And it was like, um, the unmute rate was like, I forget,
+
+it was like, like, like 18%
+
+of people were unmuting the video or something.
+
+Okay. So I'm like, out of this 400 people only like,
+
+you know, 18% of 'em or even unmuting it to watch the bsl.
+
+So then trying to take that data
+
+and be like, this isn't working is like, clearly not,
+
+but it's a good thing to, it is a good thing
+
+to look at if you do use lytics
+
+or whatever is like, if people, 'cause your headline sucks
+
+or people aren't pre-sold correctly or whatever it is,
+
+and they're not even like unmuting it,
+
+then like, you have a problem, right?
+
+Absolutely. So I thought that was actually interesting data
+
+point there, um, that I, it didn't cross their mind.
+
+I sort of just assumed people come,
+
+then they click the button, right?
+
+Which is how it should be.
+
+But obviously you have data where some people are, I mean,
+
+I assume if it's 63 seconds,
+
+like you're, that VSL is f****d.
+
+Like that's not, that thing's not
+
+converting at all, I would imagine.
+
+Yeah. In fact, actually it'd be interesting for us
+
+to look at unmute, unmute rates, uh, correlated
+
+with, uh, conversion rates.
+
+Yeah, super interesting.
+
+That might actually be even more
+
+correlated than engagements.
+
+Yeah. What's up? I
+
+Was wondering about the unmute rate.
+
+Yeah. Uh, if you've seen the difference
+
+between having the play button in the middle
+
+of the screen versus in the top left.
+
+Yeah. Like have you split tested that or see if it makes
+
+A difference? We haven't
+
+looked at it, but we could and we will.
+
+So, um, if you get in touch with us,
+
+we can have that within a week. Dylan
+
+And I are going back and forth.
+
+I think the middle button's gonna convert better Yeah.
+
+To the top Left.
+
+So, um, yeah.
+
+So the, so the square in the middle is something
+
+that we built for Steve Weatherford's team.
+
+Uh, they built it custom on another video player
+
+and they were coming over and they were like, Hey,
+
+we tested this, we'd like it better.
+
+Would you build him? We're like, yes.
+
+'cause that's, we, we always wanna like,
+
+you know, make decisions that way.
+
+Um, so that's kind of considered our best practice.
+
+Um, the, the one in the corner is,
+
+which like we call it classy in the corner.
+
+Um, I might even have like a
+
+picture of what we're talking about here.
+
+Yeah. So these things, these are what we're talking about.
+
+So this is the classy in the corner.
+
+This is the box in the middle. This was our first one.
+
+And I don't think many people use it,
+
+but I was just in Dubai and somebody came up to me
+
+and they're like, Hey, I thought this was gonna work best,
+
+and it didn't, and I think they did a test with this.
+
+So, um, we can, we can look that data up
+
+that that'd be pretty easy for us to do compared to some
+
+of the other questions that we get.
+
+Yeah, so basically, like right here
+
+before I move on, the average unmute on
+
+the video is seven seconds.
+
+So they watch seven seconds, they click unmute a lease on
+
+with lytics, they will restart the video so it goes back
+
+so they don't miss anything.
+
+So Elise, with us,
+
+we would not recommend having like a countdown timer if
+
+like, turn on your sound in 5, 4, 3, 2, 1.
+
+But basically just having like
+
+that first at least seven seconds of the video
+
+to be super juicy,
+
+because assuming that people are gonna be watching
+
+that on mute, so the audio is not gonna be playing a
+
+factor of hooking that traffic.
+
+Um, you know, like we're talking about 33%
+
+of people are only making it two minutes into the video.
+
+So almost everybody's dropping off during that period.
+
+So they're kind of coming over, they're seeing the video,
+
+they've maybe seen a VSL before, uh,
+
+and they're saying like, oh s**t, I don't have time
+
+for this, you know, but then trying
+
+to hook 'em is like really important there.
+
+So yeah, we, we have some recommendations for that.
+
+But basically before I get into that,
+
+the average on unmute rate is 40%.
+
+The top 10% not of mutes,
+
+but of conversions is 75%.
+
+Or, sorry, I'm not sure if this is a conversion number I'd
+
+have to check, but, uh, basically the top is 75.
+
+So you know, if you wanna be averaging
+
+you're 40%, then you're happy.
+
+But basically, if not, you have room to, to, to,
+
+to move the needle there.
+
+So this is some of the stuff that we recommend to,
+
+to move the needle on unmutes.
+
+So like using captions
+
+and lytics, it's an AI thing
+
+where you can just click it if you don't have them built.
+
+So it can just like generate there.
+
+Somebody asked me if they're accurate,
+
+and I'm gonna say probably, uh, you know, it's like a GPT,
+
+so it's gonna be, you know, fairly accurate.
+
+I'm sure it's gonna have a few mistakes.
+
+Uh, something that we're working on next is,
+
+is different languages of that and then auto detecting that,
+
+and then playing like this, the, uh,
+
+or displaying the language that is, uh, the browser set to,
+
+uh, customizing the smart autoplay message.
+
+So just like what that says, but really the needle mover
+
+here is gonna be these, these last two, which is obviously
+
+focusing on the first six seconds of the video.
+
+More VSLs that I just personally see anecdotally are having
+
+more like a roll at the beginning of their VVSL as far
+
+as like, you know, live footage
+
+that they actually shot themselves, not b roll,
+
+not text on screen, that type of stuff.
+
+But then this last one is a video thumbnail.
+
+This is something that we just re just released.
+
+And what it is, is basically you can upload
+
+or pick from your VSL, uh, a little segment of the video
+
+that you wanna play at the beginning,
+
+that it's gonna be like a
+
+thumbnail, it's gonna play on a loop.
+
+Uh, so it's gonna look like smart autoplay,
+
+so it's gonna look like the video's just automatically
+
+playing and they're gonna be like, oh s**t, what's this?
+
+I wanna unmute it. But then it's gonna play whatever
+
+the actual video is there.
+
+And I mean, like, this maybe kind of goes without saying,
+
+but like what you wanna do do in
+
+that video thumbnail is have it be like a movie trail,
+
+just like bam, bam, bam.
+
+Like some really kind of juicy stuff to like hook 'em as far
+
+as something super exciting. Is that
+
+Recent? Yeah.
+
+How so?
+
+Um, last, like I think like Mother, you talked Jackson
+
+About that. We talked about that
+
+in Vegas. Yeah. So
+
+What's the difference between the video thumbnail,
+
+objective, smart autoplay, what that
+
+Shows Smart autoplay is just gonna play the video.
+
+Um, unmute at the browser won't allow sound.
+
+So it's just playing from the beginning.
+
+Yeah. And but then you
+
+Click play and starts.
+
+Yeah, I, you don't have to have that.
+
+You can change it if you want.
+
+Um, but, uh,
+
+and then the video thumbnail is gonna be like either a
+
+segment of your video that you choose where you're like,
+
+Hey, I want from this time to this time to play,
+
+or you can, uh, upload your own.
+
+So like, you could get something like edited
+
+that's just like super exciting, like, you know, you know,
+
+babes and bikinis and explosions and fast cars. Okay.
+
+Can you do multiple, Like how would you actually test?
+
+Uh, you would probably set up another video. Okay.
+
+Just do video. Yeah.
+
+That, that would probably be, what's the
+
+Max length?
+
+Uh, I don't know. So that's probably gonna be, yeah,
+
+Okay. Yeah, no,
+
+I'm just like, I think that's
+
+Our idea for you.
+
+Okay. I don't remember going to your room in Vegas.
+
+Yeah, so anyways, on me rates,
+
+these are the different styles.
+
+We talked about those. Here's something really important
+
+that people don't realize about six
+
+and a half percent of the time, uh, autoplay is gonna fail.
+
+And that's just like our stat
+
+that we see across our platform with the quality
+
+of experience analytics that we track on the backend.
+
+These aren't exposed to users,
+
+but this is just something that like we, you know,
+
+we're doing a lot of scale, so we have to have a lot
+
+of metrics to, you know, keep the health of the platform,
+
+uh, up, up and running.
+
+But six point half percent
+
+of the times autoplay is not gonna work.
+
+And I noticed this once on somebody's video
+
+and it was like text on screen,
+
+but the first slide was actually just white.
+
+So they had a, so, and it was on a white webpage,
+
+so the autoplay didn't play and the first frame was white.
+
+So basically there was a video there that needed
+
+to be clicked, but there was no other controls put on it,
+
+and there was no way of knowing that
+
+unless you just started randomly clicking around.
+
+So this is something
+
+that's just gonna happen on every single video player.
+
+And the reason why it's happening is
+
+what I got listed right here.
+
+Low power mode, data saving mode
+
+or obscure browsers, uh, like, like really obscure, uh,
+
+besides the Instagram one.
+
+But that's actually a case
+
+where actually we're probably gonna be seeing this climbing,
+
+uh, you know, where we're falling back to a click to play,
+
+uh, on the Instagram browser, uh,
+
+because that's basically what you have to do there.
+
+But, um, you know, basically, you know, and,
+
+and maybe this is a trend,
+
+maybe Instagram is gonna be the first domino where there's,
+
+you know, like, like years ago it was like, Hey,
+
+we're not gonna allow autoplay.
+
+And now maybe they're gonna say, we're not gonna
+
+allow muted autoplay.
+
+I, I don't know if that's actually gonna be super prevalent,
+
+but either way, aside from all that, the thing is, is
+
+that like some people will upload a video to Lytics,
+
+turn on smart autoplay and call today
+
+and not set a thumbnail.
+
+And that's just like a bad move because six
+
+and a half percent on time, six
+
+and a half percent of the time on average,
+
+that autoplay is not gonna work.
+
+So you want to have a thumbnail there that's gonna,
+
+you know, grab their attention and, and be juicy
+
+and get them to engage with the video.
+
+So that's like a super easy win.
+
+Um, and that's, you know, over one 20th of your traffic.
+
+So, uh, alright,
+
+when do most conversions happen?
+
+This is something, so this is
+
+what like our conversion tracking looks like,
+
+where basically you set it up on your first upsell
+
+or whatever, and then it's gonna attribute back to the video
+
+how far people watch into it before the,
+
+before they purchase.
+
+So you can kind of see the needle movers here as far as like
+
+what part of the video is really kind of driving things,
+
+like if it flattens out or it increases,
+
+but I had no idea this data existed
+
+until we built this feature.
+
+Uh, and we, and we slapped it on,
+
+and I saw it in my own VSLs, um, where, you know, it used
+
+to be 35% of conversions were happening at
+
+the very end of the video.
+
+And the most recent data that we have is that it's 47%,
+
+which seems astronomical.
+
+But basically what that means is that people are watching
+
+until the very end of your video before they purchase.
+
+So kind of wild, the thing that really blows my mind,
+
+and I saw this on, uh, David
+
+and Jake's, uh, VSL yesterday, they have very similar data
+
+to this, where three, the average engagement at the end
+
+of the video is 3%.
+
+So 3% of people make it to the end of the video,
+
+but then they represent nearly half of all conversions.
+
+So some things to do. So like, that's, that's interesting.
+
+What should you do with it? Well,
+
+you should think about it from a copy perspective,
+
+which I'll talk about, but from like a technical setup,
+
+what we would recommend is having the video basically
+
+countdown to, uh, you know,
+
+basically it's like, Hey, the thing has ended.
+
+You know, it's time to, uh, you know, basically you, you,
+
+you know, you don't have to go
+
+home, but you can't stay here.
+
+Uh, I I I, I used
+
+to sell newspaper subscriptions in like grocery stores
+
+and I would have this little pitch
+
+and at the end of it I would just be like, debitor credit.
+
+And people were like, oh,
+
+and they'd like get their
+
+wallet out and hand me their money.
+
+And it was funny because like the form didn't have like even
+
+a check box for debitor credit.
+
+It made zero difference,
+
+but it was just this prompt, you know,
+
+it's just like a typical call to action, click the button,
+
+buy now, do this or that.
+
+And, you know, basically, you know, at the end
+
+of the video when it, when we have this countdown thing,
+
+it's basically like, you know, what is the psychology
+
+that is watching an entire VSL to the very end
+
+before they purchase?
+
+And then, you know, basically I think they're in fomo,
+
+you know, they're in anxiety, we're presenting a problem
+
+with them, like they have a problem to solve,
+
+but now they have a new problem
+
+of deciding whether or not to buy your product.
+
+What are they gonna say to their wife?
+
+You know, is it gonna, you know, is it gonna work?
+
+Are they gonna feel stupid? You know,
+
+what is the return policy?
+
+All these things, even things
+
+that they've already been told.
+
+So it's something to think about as far as
+
+what you're doing post call to action in your VSL as far
+
+as what's that clincher copy
+
+that's getting them over the fence.
+
+Another thing though, and this, this, I actually thought
+
+of when I saw the engagement rate being so low
+
+and the conversion rate being so high,
+
+but some other things that you can be doing is
+
+tagging the videos and, uh, microversion.
+
+So a tag is something that you push over
+
+to A CRM if you have their identity, just so you know, like,
+
+hey, if somebody watched most of your VSL
+
+that is a hot buyer, that's a hot lead as far
+
+as like lead scoring, that would be like
+
+basically as high as it can get.
+
+So any kind of thing that you can do to kind of identify
+
+that person and hound them until they die
+
+to buy your s**t is a good idea.
+
+Uh, and then a micro conversion.
+
+This is something where, you know, a lot
+
+of the time if you have cold traffic,
+
+you're driving into a video,
+
+you don't know who that person is.
+
+So tagging is gonna push over to like a CRM, uh,
+
+where a microversion is gonna be, uh, pushing over
+
+to like an ad accounts
+
+or you know, any other kind of marketing tool.
+
+Uh, but basically setting up like a retargeting audience,
+
+audience there and like, just basically like, you know,
+
+maxing out the, the CPC, uh,
+
+or, you know, whatever the bidding kind of, uh,
+
+threshold is, there is a really good idea
+
+because you know, people that are making it to the end
+
+of the video, they are, they're really engaged.
+
+They're, you know, that that is somebody
+
+that is very interested in what you have
+
+to, you know, offer.
+
+Cool. This is kind of what I was talking about,
+
+clincher copy, you know, uh, if you're ready
+
+to buy then do this now.
+
+You're not gonna see anything new.
+
+I've covered absolutely everything, you know,
+
+basically take action now.
+
+Cool. Uh, this is something,
+
+six months ago we were talking about this as far
+
+as the average length
+
+of videos on lytics and stuff like that.
+
+So right now we're actually seeing the average VSL
+
+at 36 minutes.
+
+What is interesting is
+
+that I was operating under the assumption
+
+that VSLs were getting shorter
+
+because that just kind of seems
+
+to be the trend of where the world is going.
+
+It's actually getting longer, not by a lot.
+
+I think this represents about 15%, uh,
+
+these extra five minutes since 2001,
+
+but they are getting longer.
+
+Uh, so by niche these are the average links.
+
+And it's interesting that once again, we see finance,
+
+you know, earlier we saw
+
+that their engagement rate is actually one of the highest,
+
+it was 24%, but they actually have the longest videos.
+
+So there you go.
+
+Uh, biz op is gonna be a lot of book a call funnels,
+
+which actually is what we're gonna talk about next is that
+
+for book a call funnels,
+
+the best converting links is about 25 minutes.
+
+The worst is 60 minutes. And it makes sense, right?
+
+It's a, it's a lot lower, lower barrier to entry
+
+as far as what they're buying.
+
+You know, they're filling out their information
+
+to basically, you know, book a call, you know,
+
+with your team that they're not gonna show up to.
+
+Yeah. And uh, so, you know, how much do you really need
+
+to convince them to blow off your sales team?
+
+You know, maybe more, I don't know.
+
+But actually, but these are, these are conversion rates.
+
+So this is actually the people that are booking the call,
+
+we wouldn't track through to, to shows.
+
+We could do that. It would be a little bit of a setup,
+
+but we don't have that data
+
+and that's not not included here
+
+on just straight up VSLs though.
+
+Uh, as best as we're able to tell,
+
+the best converting ones are 20 minutes long,
+
+and the worst converting ones are 45 minutes.
+
+So what I had seen in the data is basically
+
+whenever like a video hit hits like an hour, the engagements
+
+and the conversions just drop off a cliff.
+
+They just drop off a cliff.
+
+And what's interesting about that is
+
+that the engagement you, you know, is that people aren't,
+
+well, alright, nevermind.
+
+So yeah, uh, upsells,
+
+we see the best converting ones at 20 minutes,
+
+the worst converting ones at 40 minutes.
+
+And I'll talk about this in a moment as far as, uh,
+
+the links of upsells or, um,
+
+or sorry, the engagements of them.
+
+So, all right, when you drop a CTA,
+
+the worst converting VSLs are dropping them at 79%.
+
+The best converting VSLs are dropping them at 30%. What's up
+
+Question? Sorry.
+
+Sure. We do a Call that on the thank you page,
+
+like Sure. You watch
+
+This? Yeah. Pre-call,
+
+Like, do you guys ever correlate kind of,
+
+Uh, so what exactly is the question?
+
+Do we ever correlate the two? Yeah, like,
+
+Uh, because we focus a lot on the
+
+Yeah.
+
+Per se, like watching that video.
+
+Oh, you know what I mean? Yeah.
+
+I don't have that in this report.
+
+That would be kind of hard for us to tease out.
+
+Like at scale across like all the videos we have, uh,
+
+like we to figure out like which video is which
+
+for this data we use ai, uh, to like transcribe the video
+
+and then like, what is this video about?
+
+What is it call to action? Is it
+
+for a phone call and stuff show?
+
+Mm-hmm. Oh yeah.
+
+So what I was gonna say though is like, for this type
+
+of thing, like kinda like doing these like averages
+
+and best practices and benchmarks, that'd be difficult,
+
+but setting it up for you, especially like a sales team
+
+or something like that, it could be a good idea.
+
+So like one idea is that if they've just booked the call,
+
+then you have their ID
+
+or you have their identity,
+
+so then they wind up on your thank you page
+
+and then they're watching the, the pre-call video.
+
+And so what you can do is actually tag them in your CRM
+
+based on how much of that video they've watched.
+
+And what you could also do is just be like, Hey, you know,
+
+you know, you got a call with me tomorrow
+
+and I saw that you, uh, haven't watched the pre-call video,
+
+I'm gonna cancel it if you don't watch it.
+
+You know, so you can kind of have that scarcity and stuff
+
+and just be like, Hey, you must watch this
+
+before, uh, before the call.
+
+And then you could also be following up with them, Hey,
+
+you haven't watched it, you know,
+
+or you did watch it, watch this other
+
+thing, you know, or do whatever.
+
+Uh, so that is like a really good use of, of tagging
+
+and also lead scoring in your CRM.
+
+And then also if your sales team is gonna be like hounding
+
+any leads, it's gonna be the ones that, you know, watch
+
+that video, you know,
+
+Best way to pass that tag.
+
+Um, so the easiest way is
+
+that if they opt in on the first page, you just pass it
+
+through on the URL of the next one and then like,
+
+and then we just beam it over.
+
+But if they opt in to like,
+
+so we have a feature called Play Gates,
+
+which is like an opt-in, they opt into that,
+
+then it'll just happen automatically.
+
+But yeah, and then there's also like through an API.
+
+Okay. Even,
+
+Um, if what
+
+That they launched
+
+75, I can't send
+
+That. If you have their
+
+identity, you can absolutely send the tag.
+
+Yeah, so there's a few different ways.
+
+So you can do it through either the lytics Play
+
+Gate or opt-in.
+
+You can do it through the URL, like if like their identity,
+
+some kind of unique identifier is in the URL, uh,
+
+then Lytics will pick that up
+
+and then beam it over to the CRM
+
+and just be like, this person did hit this tag or whatever.
+
+And you could set a tag at 0%
+
+or, you know, anywhere in between.
+
+Um, you can also have a tag where if they've hit
+
+to a certain point in your video
+
+and then they return to it,
+
+then you play a different video for them.
+
+Okay. Yeah. So there's, there's lots of things like that.
+
+Um, is that, is
+
+That device based?
+
+Uh, so we call it a vid condition
+
+and we have a couple different settings.
+
+So it can be based off their, their device based off of,
+
+they've just watched the video, uh, at all
+
+before it can be based off
+
+of if they have a certain tag applied to them.
+
+So, and the tag you would set up,
+
+say it's like you have the price or the product reveal
+
+or some kind of key thing in the video,
+
+then you would set up a tag there, right?
+
+And it's like, okay, if they see my price
+
+or if they've seen most of the VSL, then I want them
+
+to see something else when they come back to the video,
+
+like more clinch or copy.
+
+So that would be kind of what the tag would function off of.
+
+And I think there might be some other ones
+
+that are escaping me right now
+
+as far as how that would work.
+
+Did all those questions get answered or what's up? Um,
+
+I would say like
+
+cookies or whatever I, whatever and exactly.
+
+Example,
+
+IP, whatever
+
+conversion or we come back to the
+
+page amount
+
+of people, the end, whatever.
+
+So,
+
+so you,
+
+Uh, maybe, Yeah.
+
+All right, cool. So yeah. All right.
+
+So yeah, uh, this is a, a split test, um,
+
+that I wasn't a part of,
+
+but I was working with a nine figure brand
+
+that's, that's on Lytics.
+
+I was looking at their funnel and they were dropping the CTA
+
+30 seconds into the video
+
+and I was like, Hey, is this a mistake?
+
+Is this broken? What's going on? Is this just for qa?
+
+And they were like, oh no, we tested
+
+that and it worked better.
+
+And I was like, really? So I wasn't involved in that,
+
+but that just kind of goes to show with this like kind
+
+of CTA data, um, where basically the sooner in the video,
+
+like that's correlated with higher conversions.
+
+Uh, the question that I would ask with this is,
+
+what is their A OV and their, their lifetime customer value
+
+of somebody that's maybe like not watching their entire
+
+video getting fully indoctrinated?
+
+Alright, talk about some upsell. So upsell engagements.
+
+Uh, so again,
+
+a front end VSL engagement is gonna be about 21%.
+
+Um, but an upsell is gonna be 15%.
+
+Of course these are converting at a much higher clip
+
+than a typical VSL, right?
+
+You know, like a good take rate can be like 20%.
+
+But what's interesting there is
+
+that they're watching less of the video.
+
+So buying more, watching less as far as the,
+
+you know, people coming through.
+
+And what's interesting is while we're seeing like front end
+
+VSLs get longer, we're seeing vs uh, upsells get shorter.
+
+So this isn't necessarily to say
+
+that this is like the best practice, uh,
+
+but that is something that,
+
+that we're seeing across the platform.
+
+What was really interesting is
+
+that we saw a 60% higher engagement on upsells when the
+
+seeking bar was present.
+
+So I would basically just kind of run with that
+
+and put seeking bars on all of your upsells.
+
+Uh, and then what devices convert best
+
+for a straight sale desktop for book a call mobile,
+
+probably not a huge surprise there.
+
+'cause again, people, you know, just being on their phone,
+
+filling out an opt-in to, you know,
+
+book a call is gonna be a lot easier on their phone.
+
+And then it's like, I I, I saw this meme recently
+
+that was like, it's the millennial trait
+
+that like making a big purchase must be done on the desktop
+
+computer where it's like, you know,
+
+we don't wanna like buy things,
+
+especially expensive things from our phones,
+
+but it is just kind of easier to do that, you know,
+
+especially, at least for me,
+
+I have all my credit cards in my desktop browser, so,
+
+you know, it's basically like a
+
+few clicks to get through that.
+
+Tablets are f*****g weird.
+
+Um, they have slightly higher engagements,
+
+but 27% lower conversion rates.
+
+And you know, this does make up a very small fraction
+
+of the traffic on lytics, uh, compared to these other ones.
+
+But, you know, in my mind that's just
+
+that people are scrolling through
+
+and they're just kind of like in browse mode as opposed
+
+to like buying mode and maybe they don't have their credit
+
+card set up on their tablet to purchase things, uh, easily.
+
+Uh, what's interesting is
+
+that mobile devices are taking up a bigger share
+
+of traffic than ever before.
+
+Maybe not a huge surprise,
+
+but you know, basically on lytics in 2025, it's 72%
+
+of the traffic is mobile.
+
+Uh, Brazil, uh, is the only country in the top 23
+
+that we analyze that has more desktop traffic than mobile.
+
+And something that basically Eddie, uh,
+
+and I were just talking about here is something
+
+that we recommend as a best practice is
+
+to show a different video based on their device type.
+
+So basically a vertical on mobile and a horizontal, uh,
+
+or a landscape on desktop.
+
+So that's something that can be very easy.
+
+And then returning visitors are actually dropping, not
+
+by a ton, but uh, you know, it is down, you know,
+
+to 12% basically in 2025.
+
+Where in, uh, 20, I don't know when this metric was,
+
+but it was 17%.
+
+And actually the last time I did this report,
+
+it was like 13.3%.
+
+So returning traffic is kind of going down.
+
+And when you can think about engagement rates being down
+
+and then returning traffic being down, uh, you know,
+
+and people wanting to kind of have like shorter videos,
+
+whether or not they're getting shorter
+
+or not, that does kind of be like a trend
+
+that people are like, oh,
+
+I've already seen this ad or whatever.
+
+So they're not necessarily, uh, clicking on that.
+
+Uh, another Brazilian fact is that, uh,
+
+Brazil has the highest amounts
+
+of returning visitors out of the countries that we looked at.
+
+So a best practice that we typically recommend is
+
+to put on resume play.
+
+This is when somebody returns to the video,
+
+they have basically a message
+
+that's like, Hey, you already watched this.
+
+Do you wanna continue where you were
+
+or start over the video from the very beginning?
+
+What's interesting is that we actually looked at the data,
+
+and I haven't seen the split test,
+
+and this is one that actually would be kinda like
+
+medium impact and worth testing.
+
+I'm looking at Mark and Jeff.
+
+Uh, but basically we saw
+
+that when revisit seeking Bar is turned on,
+
+it actually had a higher correlation with, uh, conversions.
+
+Is that, is that like a vid set up?
+
+This, this isn't a vid condition necessarily.
+
+Vid conditions would be to play different videos based off
+
+of different parameters and stuff.
+
+Uh, but this is actually just,
+
+if they've already watched the video
+
+and they've returned to it, then the seeking Bar is present.
+
+Is that, is that a Setting?
+
+Yeah, yeah, it's just like, yeah, it's just a click on, uh,
+
+right around the, uh, seeking bar thing.
+
+And basically what's interesting is that like this,
+
+this seems to work better than the resume play.
+
+At least that would be the test that, that I would set up,
+
+uh, just based off of the, the data that we saw.
+
+But it had a higher correlation with conversions
+
+to just add the seeking bar back in
+
+when they returned to the video.
+
+Uh, another thing
+
+that we already talked about is these bid conditions
+
+where if they've already seen the video, uh,
+
+another parameter that I didn't take of earlier is
+
+that if they have a certain uur rail parameter,
+
+you can play a specific video, stuff like that.
+
+But basically, you know, as we enter, you know, more
+
+and more of the world of like ai, you know,
+
+and you know, the future
+
+of marketing is gonna be personalization.
+
+So this is the type of stuff that we can do now that,
+
+you know, has these kind of like settings
+
+where it's just like, hey, if they've watched this play a
+
+different video, if they've done this, do that.
+
+And you know, in the future I think AI is gonna be handling
+
+a lot of this for us, where it's gonna be basically like
+
+the, you know, media, you know, the ad platforms, algorithms
+
+where, you know, they're kind of taking over
+
+and doing a lot of the driving.
+
+So this is a strategy that I would have
+
+for returning traffic.
+
+So again, I think it was a 12%,
+
+it's still a significant portion of traffic,
+
+and I believe that it converts at 65% higher
+
+rate than normal traffic.
+
+So it's just like the people that are watching all the way
+
+through your video, uh, you know, basically, you know,
+
+they're hot leads and you want to kind
+
+of do everything you can to, to move the needle on them.
+
+But something that would be very kind
+
+of interesting is showing them a shorter video,
+
+especially depending on how much of the video
+
+that they originally watched.
+
+So more clincher copy, more kind of like getting, getting
+
+to the point, adding in the seeking bar for people
+
+that return to it, getting into the close as soon
+
+as possible and dropping the call to action right away.
+
+So that's basically what I would recommend for doing, uh,
+
+you know, for, for returning traffic.
+
+And then, you know, I shared this last time,
+
+I'm still bullish on these things,
+
+although they are a pain in the ass to set up
+
+because they, they have a slow adoption,
+
+although Nick said that, you know, him
+
+and I are gonna work on one of these, uh,
+
+but interactive videos
+
+where basically it's like a choose your own adventure,
+
+somebody's watching, and then basically they make a choice
+
+and a different video plays based off of that.
+
+So the way that I like to think about these is that,
+
+you know, asking questions that are based off
+
+of the psychographics of people.
+
+So it's just like, you know, something that allows you
+
+to speak to that person differently.
+
+You know, whether it's about their goals, their motivations,
+
+their fears, but then kind
+
+of busting out those avatars from there
+
+to have a unique mechanism of the product, uh,
+
+or sorry, a unique mechanism of the problem that ties to
+
+that avatar where it's like, are you a man
+
+or a woman where if you're a woman losing weight, you know,
+
+comes down to this, you know, like toxic estrogen syndrome
+
+or something, and it's completely different
+
+for you than it is for a man
+
+that also justifies asking that question.
+
+And then being able to kind of talk
+
+to them in a more personalized fashion.
+
+So this is kind of what it like, looks like,
+
+at least in tics.
+
+A our quiz,
+
+the answers pre rendered 35 variations based on,
+
+Wow, I'm sorry, we, we pre-rendered it based on
+
+how they answered the, uh, the quiz question.
+
+So it was like a truly personalized experience
+
+and not just like marketing mumbo jumbo,
+
+but actually like the value that was delivered in there.
+
+Um, is there a mechanism that you have inside
+
+that would save it from all the pre rendering
+
+and allow us to sort of like stitch together, um,
+
+videos automatically?
+
+Yeah. Um, so like this thing,
+
+it would be like they watch the lead,
+
+they have a question that looks like this.
+
+They choose one of the options by the way,
+
+Hawaiian shirt one, it was like two to one.
+
+Um, and then, uh, they come through
+
+and then it would play the next segment of the video.
+
+It would seem like one seamless experience for them,
+
+but it's like getting more personalized on the back end.
+
+You're just setting up the different videos
+
+like this and stitching it together.
+
+So if, if the quiz was on the front end though,
+
+so you're just capturing like, you know, you have, you know,
+
+a questionnaire for yours, so there's like,
+
+yeah, 10 data points.
+
+Like, okay, we want to give them video, you know, a, a video
+
+that is customized to those 10 data points.
+
+So it's not, they're not actually
+
+taking the quiz in the video.
+
+They've already taken it. Got it.
+
+So they are given a video that is sort
+
+of like automatically produced.
+
+Unfortunately, I think you would just need
+
+to make the different videos based off of
+
+The answers. Yeah. It's not that big
+
+of a pain in the ass
+
+anymore, but, okay, cool. Thank you.
+
+What, what I see people doing have felt like a quiz funnel
+
+is that like, there might be like one
+
+or two questions like say like gender and age
+
+or something that determines a different
+
+V-V-V-S-L that they land on.
+
+They might be asking other stuff in there
+
+that they're capturing and passing to the CRM.
+
+Mm-hmm. Uh, you know,
+
+or just, you know, capturing for like other purposes,
+
+but they're not necessarily, uh, like having like
+
+all these permutations.
+
+Yeah. We simplified it down to seven in the end.
+
+Okay. Yeah, yeah, yeah.
+
+That could be a lot. But like, when you think about this,
+
+this would be like, right, so like right here there's two
+
+versions, then there's four.
+
+So it's like, I don't know, I think that's maybe six.
+
+I forgot how this math works,
+
+but like this right here,
+
+the permutations on this, uh, what do you do?
+
+Like multiply 'em or something like that.
+
+So two times 4, 8 16 if I, if
+
+that's how, is that how it works?
+
+Yeah. So there's 16 permutations right here. Yeah.
+
+Cool. If you want these slides
+
+or you want to talk about any of this stuff, like that's
+
+what this QR code's for.
+
+Sweet. Thank you, Patrick. Does anyone have
+
+any questions for Patrick?
+
+Nick, I'm gonna, I'm coming to you first.
+
+I got, uh, two questions for you
+
+My Man. So
+
+when you said dropping the CTA 30% into the
+
+video earlier Yeah.
+
+Is that dropping the CTA in the copy script
+
+or just revealing the offer below the video?
+
+It would be revealing the CTA.
+
+So I think most people, except for this nine figure brand
+
+that had the split test that I talked about, uh,
+
+I think almost everybody is gonna be
+
+doing like a product reveal both in
+
+copy and like in the video.
+
+So those are gonna be one and the same.
+
+Wow. Okay. Is that, is that what you're asking?
+
+Yeah. 'cause I'm just, I'm, I'm thinking like
+
+what I'm asking is in the script, 30% into the video
+
+you're saying, Hey, we have a product, you should go buy it.
+
+It's below this video, go click.
+
+So it's in the script itself. It's like within the video
+
+That's, that's, I mean, that's pretty much
+
+how I always see it done.
+
+Yeah. So that's like,
+
+but the data that we have, like, we're not going
+
+and watching everybody's video
+
+and like kind of looking at the copy and this and that.
+
+We're like, we're doing this at like a massive scale. Yeah.
+
+So yeah. So we're trying to just, yeah, kind
+
+of do it from a more quantitative
+
+standpoint as much as possible.
+
+But I would think like 95, 90 9% of the time, uh,
+
+it's gonna be revealed in the copy as well.
+
+Gotcha. Alright. Yeah.
+
+Uh, my other question is the returning traffic, uh,
+
+when you said there's a, you said the seeking bar, right?
+
+Including, uh,
+
+appears is the seeking bar function actually enabled
+
+where they can fast forward or is it just appear
+
+Yeah, in that one that I'm talking about, we have one
+
+that like is a fake seeking bar.
+
+Yeah. Uh, we call it like a rapid engage bar.
+
+So it like moves fast in the beginning,
+
+but it's like you can't actually,
+
+it doesn't do anything if you click on it.
+
+Yeah. Uh, that's not what I'm talking about.
+
+I'm talking about like, if they return to the video,
+
+just put the seeking bar on. Gotcha.
+
+So, yeah. Okay, cool. Thank you.
+
+Yeah, I wanna have you guys for skincare, like, uh,
+
+for our, our skin thing, like,
+
+because I'm like, we're not like f*****g
+
+leveraging ly at all.
+
+Like, we're not like leveraging
+
+any of your guys' functionality.
+
+Okay. So I'm gonna have you guys like do, I'll dig a variant
+
+of our landing page, but
+
+where you guys just do all of your best practices.
+
+Yeah. And then like I'll do a case study when
+
+that one just like s***s on our current one,
+
+which would be great for us also. Yeah. So,
+
+Uh, Actually about that, but
+
+Yeah. Yeah, I mean, we
+
+can absolutely do that.
+
+Jump on a call and like we have some, like an internal tool
+
+that, that we use for these things
+
+and we call it a video conversion audit
+
+and it's just like our checklist and stuff.
+
+Yeah. And we just like run through it. Um, so yeah, we can,
+
+You can also just, you can give us that,
+
+but yeah, I just wanna do a split test where it's like,
+
+and not like as granular,
+
+I'd rather just like do a second version
+
+where it's like just, just do everything,
+
+basically do everything
+
+and then just see what the difference is.
+
+I bet, I bet it would be like a significant
+
+boost, honestly. Yeah,
+
+Yeah. Yeah.
+
+Have you seen anybody who's doing book call
+
+with a nominal fee, a dollar, $5, anything like that?
+
+No. Yeah. Easy answer is, is that the idea?
+
+Just to get like a micro
+
+commitment so they show up or something.
+
+Yeah, it's a good idea. But yeah,
+
+I'm sure it exists, you know.
+
+Um, But yeah, I mean the, the people that I've talked
+
+to about book of calls are trying to like optimize kind
+
+of front end, you know, opt-ins
+
+and then just juice the show rate in, in a different way.
+
+Uh, an interesting tactic on that would be to like, Hey,
+
+you just need to reserve your spot just to know
+
+that you're serious when you show up
+
+to the call, you're gonna get it back.
+
+So yeah, I don't know if
+
+that's what you're thinking, but Yeah.
+
+So, but yeah, I, I don't have much else to say on that. So
+
+It's like, I like that it's gotta test it,
+
+but I mean, I like that idea though.
+
+Yeah.
+
+If I upload a video, you said, uh,
+
+there's a caption generator on it that works through ai.
+
+Can I edit those captions to proofread it
+
+to make sure that it comes out all right?
+
+Um, I don't think so. Okay.
+
+But you might be able to download it and then do it
+
+and re-upload it and, uh,
+
+but I can also ask about making that possible.
+
+What about It's a good idea Actually. Really good idea.
+
+Yeah. I, I got a story
+
+or two about, uh, funky captions with Okay.
+
+AI generations. Uh, what about,
+
+would there be an issue uploading hardcoded captions? Oh
+
+No. Yeah, you can
+
+absolutely do that. Okay. Yeah. Yeah.
+
+Um, something in like, you,
+
+like if you have captions you can have them automatically
+
+appear like right away
+
+or you can have it just be an option
+
+that they go and find themselves.
+
+Uh, I'm not sure like what would work better
+
+of hard coding into the video,
+
+which is what a lot of people do.
+
+Especially 'cause like some
+
+of this frames are like text on screen
+
+or it's like, you know, like, but like animated and stuff.
+
+So it's like, do you need captions there?
+
+'cause this is gonna be kind of like redundant.
+
+So that's kind of something else to think about as far
+
+as like how to kind of navigate those two things,
+
+which is probably very unique to, to direct response.
+
+Yeah.
+
+Do you happen to have data on the CDA drop?
+
+Uh, specifically for abs?
+
+Uh, no, not right now, but
+
+I could. Okay. Because
+
+on our side we're seeing, we have them,
+
+we have the CDA drop at the end
+
+and we're seeing good conversion rates.
+
+Yeah. So I think it would be good to know, like, do
+
+You mind sharing your conversion rate?
+
+Uh, 65%. That's
+
+Fantastic. Yeah. Wow.
+
+Yeah,
+
+I think you might actually be onto something
+
+just with that CTA drop.
+
+Um, what's really interesting too is about the CTA drops is
+
+that we're seeing most, like, you know,
+
+or a huge portion of conversions happening at the end
+
+of videos, but then we're seeing CTA drops happen sooner.
+
+So that is kind of something to balance between the twos
+
+because obviously the more of like a video
+
+that somebody watches the higher
+
+propensity that they have to buy.
+
+Uh, so I don't know kind of how to, how
+
+to balance those necessarily,
+
+but it's just kind of something I'm pointing out, so.
+
+Okay. We can, we can follow up on
+
+that if you'd like, get in touch.
+
+Um, we, you know, can like try to answer that question
+
+and have it for you in short
+
+Order. Yeah. Yeah. Great. Thank
+
+you. Cool.
+
+Did you say earlier that, um,
+
+for the CTA drop on average retention is about, um,
+
+28%
+
+29 29?
+
+Yeah. So that means For the best converting,
+
+So Oh, for the best converting. Okay.
+
+Yeah. Yeah,
+
+because that seems like if you are two minutes,
+
+you're at like 33 say here it's,
+
+and then you only go down if
+
+for like two minutes. You're say like 33.
+
+Sorry, sorry. This is an engagement. Oh wait, sorry.
+
+No, I, I'm, I'm the one that's confused. Excuse me.
+
+I know what you're saying. Um, you're talking about
+
+like two minutes into the video, when to drop it,
+
+Uh, This thing. Yeah.
+
+Yeah. So are you saying that there's 33% of two minutes
+
+and then Yeah, there's only a 5% drop
+
+In this in the recent data?
+
+Yes. Uh, the last time we ran these numbers it was 35 on the
+
+first one and I think it was like 12
+
+or 13 points lower on the next, um, so like 22% or so.
+
+So we've seen that gap narrow
+
+between the B basically less drop off
+
+between the two minute mark and the CTA.
+
+But yeah, like most engagement graphs look like a plane
+
+landing, like, well first doing like a nose dive.
+
+Yeah. Not a plane I would want to be on, but Yeah.
+
+But, but, but then it, but then it like smooths out right.
+
+Is my point. So it like smooths out
+
+and then it like just cruises.
+
+So it's like people are like, you're losing a shitload
+
+of people in the first like few minutes
+
+and then the people that kind of stick around from there,
+
+like most of them stick around
+
+and then like their completion bias
+
+kicks in and that kind of stuff.
+
+Yeah. 'cause I think our like two minute is something like
+
+40%, but then at our CTA drop it's like,
+
+uh, 16%.
+
+Wow. So there's a massive drop between those two things.
+
+How long, uh, at what timestamp
+
+are you dropping these CTA? Probably
+
+Like 16 minutes or something like that. Wow.
+
+That's, That's pro that's when
+
+we present the pro though,
+
+Because if people are dropping the
+
+CTA earlier and earlier,
+
+Yeah, it kind of makes Sense why that
+
+Drop size. It
+
+it does actually. Yeah.
+
+Um, that might be something that we could look at as far
+
+as like time and video or percent
+
+to video before they're dropping it.
+
+So we have looked at this stuff though, not just in terms
+
+of percentages 'cause we're like, well are these upsells
+
+that we're like, they just kinda have their tracking
+
+like set up in a goofy way.
+
+But when we looked at it in terms of like minutes,
+
+not just percentage, in other words, like,
+
+are we accidentally looking at videos that are just short,
+
+you know, and then thinking and then like skewing our data.
+
+Uh, that's what we saw.
+
+But for you, I, if you have 45% at two minutes
+
+and then 16 A CTA,
+
+I'd really focus on like the message between those two.
+
+That actually might be the biggest leverage point
+
+for you if you're gonna go and like, make copy changes
+
+and like, new versions of the BSL to test.
+
+Yeah. 'cause ours, we, we get that decline,
+
+but that decline like kind of continues not,
+
+not the same rate, but continues after
+
+after the leaders just keeps declining. Yeah.
+
+Yeah. Uh, I didn't notice
+
+that when I looked at your stuff yesterday,
+
+but I'd be happy to look at it again.
+
+Yeah, thanks. Yeah, yeah.
+
+When we're talking about the CTA drop here,
+
+what's the average time period
+
+through the video for this example?
+
+I do not have that data, but I can pull it.
+
+But please, so thank you.
+
+Like I was just saying, we looked at this from like a
+
+percentage of the video
+
+and then also like in terms of like minutes, um, just
+
+to kind of, yeah, make sure that we didn't f**k up the
+
+data, which is easy to do.
+
+All right, sweet. Uh, if you guys have more questions
+
+for Patrick, you can ask him at lunch, which is
+
+what we're about to do.
+
+Sweet. So you go to lunch, it's 1250,
+
+let's come back from lunch at 1 45
+
+and then we'll continue on, uh,
+
+with Max Bernstein who'll be doing stuff on AI processes,
+
+automations, things like that, workflows for our businesses.
+
+But, uh, yeah, so lunches are outside.
+
+Same thing as yesterday. You know, you can eat tables.
+
+Feel free to move around, talk, get some sunshine
+
+and then we'll be back at 1 45.
+
+Thank you again, Patrick.
